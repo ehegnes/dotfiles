@@ -1,0 +1,12 @@
+view_max_width = 81
+view_max_height = 71
+
+runrest_stop_message += Your battlesphere wavers and loses cohesion.
+runrest_stop_message += You feel your bond with your battlesphere wane.
+runrest_stop_message += .*Xom.*
+
+explore_wall_bias = 4
+
+autofight_stop = 40
+
+autopickup_exceptions = <*ambrosia
