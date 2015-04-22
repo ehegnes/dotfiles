@@ -128,3 +128,6 @@ fi
 
 # hehehe
 #/usr/bin/fortune
+
+# Use `The Fuck` from https://github.com/nvbn/thefuck
+alias fuck='$(thefuck $(fc -ln -1))'
