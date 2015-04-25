@@ -22,6 +22,7 @@ Plugin 'airblade/vim-gitgutter'
 Plugin 'Shougo/neocomplcache.vim'
 Plugin 'godlygeek/tabular'
 Plugin 'rust-lang/rust.vim'
+Plugin 'FredKSchott/CoVim'
 
 " End Vundle shenanigans
 call vundle#end()
@@ -33,7 +34,7 @@ cnoreabbrev <expr> W ((getcmdtype() is# ':' && getcmdline() is# 'W')?('w'):('W')
 " Theme settings
 let g:solarized_termtrans = 1
 let g:solarized_termcolors = 256
-colorscheme sol
+colorscheme hegnes
 set bg=dark
 set t_Co=256
 
@@ -80,6 +81,8 @@ noremap   <Up>     <NOP>
 noremap   <Down>   <NOP>
 noremap   <Left>   <NOP>
 noremap   <Right>  <NOP>
+
+inoremap {} {<CR>}<Esc>O
 
 " Neocomplcache
 let g:neocomplcache_enable_at_startup = 1
