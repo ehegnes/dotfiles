@@ -1,0 +1,10 @@
+#!/bin/bash
+# Elevate privileges
+[ "$UID" -eq 0 ] || exec sudo $SHELL "$0" "$@"
+# Check for stopped bluetooth service
+if ! rc-service bluetooth status; then
+    rc-service bluetooth start;
+fi
+# Finalize setup
+hciconfig hci0 up
+bluetoothctl

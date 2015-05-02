@@ -1,0 +1,4 @@
+#!/bin/bash
+export LOCK_EXEC='USER=eric /usr/local/bin/slock'
+slock &
+sudo pm-suspend

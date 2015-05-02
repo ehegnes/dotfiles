@@ -115,6 +115,12 @@ alias espk="espeak -v mb-us2 -p 50 -s 100"
 alias cr="cargo run"
 alias cb="cargo build"
 
+# cabal aliases
+alias cbr="cabal run"
+alias cbi="cabal install"
+alias cbc="cabal configure"
+alias cbs="cabal sandbox --init"
+
 mkcd()
 {
     mkdir -p -- "$1" && cd -P -- "$1"

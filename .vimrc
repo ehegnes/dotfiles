@@ -19,7 +19,7 @@ Plugin 'flazz/vim-colorschemes'
 Plugin 'octol/vim-cpp-enhanced-highlight'
 Plugin 'airblade/vim-gitgutter'
 "Plugin 'spf13/vim-autoclose'
-Plugin 'Shougo/neocomplcache.vim'
+Plugin 'Shougo/neocomplete.vim'
 Plugin 'godlygeek/tabular'
 Plugin 'rust-lang/rust.vim'
 Plugin 'FredKSchott/CoVim'
@@ -52,6 +52,7 @@ set autoindent
 set expandtab
 set list
 set listchars=tab:›\ ,trail:•,extends:#,nbsp:. " Highlight problematic whitespace
+set showbreak=⟫⟫
 set laststatus=2
 set backspace=indent,eol,start
 set hlsearch
@@ -84,8 +85,9 @@ noremap   <Right>  <NOP>
 
 inoremap {} {<CR>}<Esc>O
 
-" Neocomplcache
-let g:neocomplcache_enable_at_startup = 1
+" Neocomplete
+let g:acp_enableAtStartup = 0
+"let g:neocomplete#enable_at_startup = 1
 
 " Airline
 let g:airline_theme = 'murmur'

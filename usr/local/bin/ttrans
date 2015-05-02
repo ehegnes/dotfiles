@@ -1,0 +1,24 @@
+#!/bin/bash
+# Author: Eric Hegnes <eric.hegnes@gmail.com>
+# Copyright: Fuck copyrights. Licensed under WTFPL.
+
+# This script is intended for use with urxvt (and probably xterm family terms?)
+# while running a compositor (such as compton) in X11.
+
+# This script sets the terminal's text background color on the fly!
+# Parameters:
+#   $1 is the alpha value as a percentage.
+#   $2 is the hexadecimal RGB value.
+
+
+COLOR="#000000"
+TRANS=70
+
+case $# in
+    0)
+        printf '\33]11;%s\007' "[$TRANS]$COLOR";;
+    1)
+        printf '\33]11;%s\007' "[$1]$COLOR";;
+    *)
+        printf '\33]11;%s\007' "[$1]$2";;
+esac
