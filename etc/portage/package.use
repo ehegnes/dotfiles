@@ -1,0 +1,776 @@
+games-roguelike/stone-soup -tiles
+x11-terms/rxvt-unicode 256-color alt-font-width perl -vanilla xft pixbuf
+# required by www-client/chromium-35.0.1916.153
+# required by chromium (argument)
+>=sys-libs/zlib-1.2.8-r1 minizip
+# required by www-client/chromium-35.0.1916.153
+# required by chromium (argument)
+=media-libs/harfbuzz-0.9.23 icu
+# required by www-client/chromium-35.0.1916.153
+# required by chromium (argument)
+>=dev-libs/libxml2-2.9.1-r4 icu
+# required by sys-devel/prelink-20110511
+# required by app-emulation/wine-1.6.2[prelink]
+# required by wine (argument)
+>=dev-libs/elfutils-0.158 static-libs
+app-accessibility/julius -alsa pulseaudio -oss -portaudio
+# required by net-libs/webkit-gtk-2.4.4
+# required by gnome-extra/zenity-3.12.1[webkit]
+# required by app-emulation/winetricks-20140302[gtk]
+# required by @selected
+# required by @world (argument)
+=media-libs/harfbuzz-0.9.28 icu
+games-util/steam-client-meta flash trayicon
+# required by games-util/steam-client-meta-0-r20140616::steam-overlay[flash]
+# required by games-util/steam-meta-0-r20131107::steam-overlay
+# required by steam-meta (argument)
+>=www-plugins/adobe-flash-11.2.202.394 abi_x86_32
+games-util/steam-games-meta s3tc
+# required by games-util/steam-games-meta-0-r20140325::steam-overlay[s3tc]
+# required by games-util/steam-meta-0-r20131107::steam-overlay
+# required by steam-meta (argument)
+>=media-libs/libtxc_dxtn-1.0.1-r1 abi_x86_32
+x11-themes/gtk-engines-murrine -themes
+media-fonts/* nls
+# required by app-emulation/virt-manager-0.10.0-r2[gtk]
+# required by virt-manager (argument)
+=net-misc/spice-gtk-0.21 python gtk3
+# required by app-emulation/virt-manager-0.10.0-r2
+# required by virt-manager (argument)
+>=app-emulation/libvirt-glib-0.1.8 python
+# required by app-emulation/virt-manager-0.10.0-r2[gtk]
+# required by virt-manager (argument)
+>=net-libs/gtk-vnc-0.5.3 python
+=media-gfx/gthumb-3.2.8 -raw
+# required by www-plugins/pipelight-0.2.7.3
+# required by pipelight (argument)
+=app-emulation/wine-1.7.21 pipelight
+x11-misc/compton dbus xinerama opengl
+# required by net-analyzer/nmap-6.25[gtk,-ndiff]
+# required by net-analyzer/metasploit-4.9.3
+# required by metasploit (argument)
+=dev-lang/python-2.7.7 sqlite
+# required by dev-ruby/metasploit_data_models-0.17.0[ruby_targets_ruby19]
+# required by net-analyzer/metasploit-4.9.3[ruby_targets_ruby19]
+# required by metasploit (argument)
+>=dev-ruby/activerecord-3.2.19:3.2 postgres
+x11-wm/xmonad -default-term doc hscolour
+app-admin/conky lua lua-cairo lua-imlib curl
+www-client/dwb gtk3
+sys-devel/gcc objc
+app-text/texlive -cjk -doc dvi2tty dvipdfm graphics png pstricks science truetype
+dev-vcs/git -gtk
+# required by dev-vcs/git-2.0.4[perl,subversion]
+# required by app-portage/layman-2.0.0-r3[git]
+# required by @selected
+# required by @world (argument)
+=dev-vcs/subversion-1.8.10 perl -dso
+# xml target description support
+sys-devel/gdb expat
+# required by dev-lang/rust-9999-r3[system-llvm]
+# required by rust (argument)
+=sys-devel/llvm-3.5.0 multitarget
+dev-lang/ghc binary
+# required by dev-vcs/git-2.0.5[subversion,perl]
+# required by app-portage/layman-2.0.0-r3[git]
+# required by @selected
+# required by @world (argument)
+>=dev-vcs/subversion-1.8.11 -dso perl
+app-editors/vim python lua
+dev-libs/boost python
+# required by sys-devel/clang-3.5.0-r100
+# required by clang (argument)
+=sys-devel/llvm-3.5.0 clang
+mail-client/mutt imap sidebar smtp gnutls sasl debug
+# required by net-libs/webkit-gtk-2.4.8
+# required by @selected
+# required by @world (argument)
+=media-libs/harfbuzz-0.9.35 icu
+# required by dev-qt/qtcore-5.4.0
+# required by dev-qt/qtgui-5.4.0
+# required by dev-qt/qtquickcontrols-5.4.0
+# required by x11-terms/cool-retro-term-9999::gerczei
+# required by x11-terms/cool-retro-term::gerczei (argument)
+=dev-libs/libpcre-8.35 pcre16
+# required by x11-terms/cool-retro-term-9999::gerczei
+# required by x11-terms/cool-retro-term::gerczei (argument)
+=dev-qt/qtdeclarative-5.4.0 localstorage
+# required by x11-terms/cool-retro-term-9999::gerczei
+# required by x11-terms/cool-retro-term::gerczei (argument)
+=dev-qt/qtquickcontrols-5.4.0 widgets
+dev-python/pygame examples
+sci-mathematics/octave -opengl -qhull -qrupdate -sparse -imagemagick gnuplot fftw curl postscript
+# required by dev-libs/nss-3.17.4
+# required by app-office/libreoffice-bin-4.3.5.2-r1
+# required by @selected
+# required by @world (argument)
+>=dev-libs/nspr-4.10.8 abi_x86_32
+# required by x11-libs/pango-1.36.8[X]
+# required by media-gfx/inkscape-0.48.5
+# required by @selected
+# required by @world (argument)
+>=x11-libs/libXft-2.3.2 abi_x86_32
+# required by x11-libs/gtk+-2.24.27[xinerama]
+# required by media-gfx/inkscape-0.48.5
+# required by @selected
+# required by @world (argument)
+>=x11-proto/xineramaproto-1.2.1-r1 abi_x86_32
+# required by virtual/pkgconfig-0-r1
+# required by x11-proto/fixesproto-5.0-r1
+# required by x11-libs/libXfixes-5.0.1
+# required by x11-libs/libXdamage-1.1.4-r1
+# required by x11-libs/gtk+-2.24.27
+# required by media-gfx/inkscape-0.48.5
+# required by @selected
+# required by @world (argument)
+=dev-util/pkgconfig-0.28-r1 abi_x86_32
+# required by x11-libs/libxcb-1.11-r1
+# required by media-video/libav-9999[X]
+# required by media-video/mpv-9999[libav]
+# required by @selected
+# required by @world (argument)
+>=x11-proto/xcb-proto-1.11 abi_x86_32 python_targets_python3_4
+# required by x11-libs/pango-1.36.8
+# required by media-gfx/inkscape-0.48.5
+# required by @selected
+# required by @world (argument)
+>=media-libs/fontconfig-2.11.1-r2 abi_x86_32
+# required by x11-libs/libXxf86vm-1.1.4
+# required by media-libs/mesa-10.3.7-r1
+# required by x11-libs/cairo-1.12.18-r1[opengl]
+# required by x11-libs/pango-1.36.8
+# required by media-gfx/inkscape-0.48.5
+# required by @selected
+# required by @world (argument)
+>=x11-proto/xf86vidmodeproto-2.3.1-r1 abi_x86_32
+# required by x11-libs/gdk-pixbuf-2.30.8
+# required by app-text/evince-3.14.2
+# required by @selected
+# required by @world (argument)
+>=media-libs/libpng-1.6.16 abi_x86_32
+# required by x11-libs/libX11-1.6.2
+# required by x11-libs/cairo-1.12.18-r1[X]
+# required by x11-libs/pango-1.36.8
+# required by media-gfx/inkscape-0.48.5
+# required by @selected
+# required by @world (argument)
+>=x11-proto/xf86bigfontproto-1.2.0-r1 abi_x86_32
+# required by media-libs/mesa-10.3.7-r1
+# required by x11-libs/cairo-1.12.18-r1[opengl]
+# required by x11-libs/pango-1.36.8
+# required by media-gfx/inkscape-0.48.5
+# required by @selected
+# required by @world (argument)
+>=x11-libs/libxshmfence-1.2 abi_x86_32
+# required by x11-libs/cairo-1.12.18-r1
+# required by x11-libs/pango-1.36.8
+# required by media-gfx/inkscape-0.48.5
+# required by @selected
+# required by @world (argument)
+>=media-libs/freetype-2.5.5 abi_x86_32
+# required by net-libs/gnutls-3.3.10-r2
+# required by media-video/libav-9999[ssl,-openssl]
+# required by media-video/mpv-9999[libav]
+# required by @selected
+# required by @world (argument)
+=dev-libs/gmp-5.1.3-r1 abi_x86_32
+# required by x11-libs/cairo-1.12.18-r1[opengl]
+# required by x11-libs/pango-1.36.8
+# required by media-gfx/inkscape-0.48.5
+# required by @selected
+# required by @world (argument)
+=media-libs/mesa-10.3.7-r1 abi_x86_32
+# required by virtual/jpeg-0-r2
+# required by media-libs/netpbm-10.66.00
+# required by x11-misc/xscreensaver-5.32
+# required by @selected
+# required by @world (argument)
+=media-libs/libjpeg-turbo-1.3.1 abi_x86_32
+# required by media-libs/freetype-2.5.5[bzip2]
+# required by x11-libs/cairo-1.12.18-r1
+# required by x11-libs/pango-1.36.8
+# required by media-gfx/inkscape-0.48.5
+# required by @selected
+# required by @world (argument)
+=app-arch/bzip2-1.0.6-r6 abi_x86_32
+# required by media-libs/mesa-10.3.7-r1
+# required by x11-libs/cairo-1.12.18-r1[opengl]
+# required by x11-libs/pango-1.36.8
+# required by media-gfx/inkscape-0.48.5
+# required by @selected
+# required by @world (argument)
+>=x11-libs/libXxf86vm-1.1.4 abi_x86_32
+# required by x11-libs/libXt-1.1.4
+# required by sys-apps/dbus-1.8.16[X]
+# required by net-print/cups-2.0.1-r1[dbus]
+# required by net-print/cups-filters-1.0.66
+# required by @__auto_slot_operator_replace_installed__ (argument)
+>=x11-libs/libICE-1.0.9 abi_x86_32
+# required by net-libs/gnutls-3.3.10-r2
+# required by media-video/libav-9999[ssl,-openssl]
+# required by media-video/mpv-9999[libav]
+# required by @selected
+# required by @world (argument)
+>=dev-libs/libtasn1-4.4 abi_x86_32
+# required by www-plugins/adobe-flash-11.2.202.451[abi_x86_32]
+# required by @selected
+# required by @world (argument)
+>=x11-libs/pango-1.36.8 abi_x86_32
+# required by x11-libs/libdrm-2.4.59[video_cards_intel]
+# required by media-libs/mesa-10.3.7-r1[video_cards_i965,-video_cards_i915,video_cards_intel,-video_cards_ilo]
+# required by x11-libs/cairo-1.12.18-r1[opengl]
+# required by x11-libs/pango-1.36.8
+# required by media-gfx/inkscape-0.48.5
+# required by @selected
+# required by @world (argument)
+>=x11-libs/libpciaccess-0.13.3 abi_x86_32
+# required by x11-libs/libXcomposite-0.4.4-r1
+# required by x11-libs/gtk+-2.24.27
+# required by media-gfx/inkscape-0.48.5
+# required by @selected
+# required by @world (argument)
+>=x11-proto/compositeproto-0.4.2-r1 abi_x86_32
+# required by www-plugins/adobe-flash-11.2.202.451[abi_x86_32]
+# required by @selected
+# required by @world (argument)
+>=dev-libs/atk-2.14.0 abi_x86_32
+# required by dev-libs/libgpg-error-1.13[nls]
+# required by dev-libs/libgcrypt-1.5.4-r1
+# required by net-print/cups-2.0.1-r1[ssl]
+# required by net-print/cups-filters-1.0.66
+# required by @__auto_slot_operator_replace_installed__ (argument)
+>=virtual/libintl-0-r1 abi_x86_32
+# required by x11-libs/gtk+-2.24.27
+# required by media-gfx/inkscape-0.48.5
+# required by @selected
+# required by @world (argument)
+>=x11-libs/libXcomposite-0.4.4-r1 abi_x86_32
+# required by x11-libs/gtk+-2.24.27
+# required by media-gfx/inkscape-0.48.5
+# required by @selected
+# required by @world (argument)
+>=x11-libs/libXrandr-1.4.2 abi_x86_32
+# required by x11-libs/gtk+-2.24.27
+# required by media-gfx/inkscape-0.48.5
+# required by @selected
+# required by @world (argument)
+>=x11-libs/libXrender-0.9.8 abi_x86_32
+# required by dev-libs/nss-3.17.4
+# required by app-office/libreoffice-bin-4.3.5.2-r1
+# required by @selected
+# required by @world (argument)
+=dev-db/sqlite-3.8.7.4 abi_x86_32
+# required by x11-libs/gtk+-2.24.27
+# required by media-gfx/inkscape-0.48.5
+# required by @selected
+# required by @world (argument)
+>=x11-libs/gdk-pixbuf-2.30.8 abi_x86_32
+# required by www-plugins/adobe-flash-11.2.202.451[abi_x86_32]
+# required by @selected
+# required by @world (argument)
+>=x11-libs/libXcursor-1.1.14 abi_x86_32
+# required by x11-libs/libXtst-1.2.2
+# required by media-sound/pulseaudio-5.0-r7[X]
+# required by media-sound/pavucontrol-2.0-r1
+# required by @selected
+# required by @world (argument)
+>=x11-proto/inputproto-2.3.1 abi_x86_32
+# required by x11-libs/libXrandr-1.4.2
+# required by media-video/mpv-9999[X]
+# required by @selected
+# required by @world (argument)
+=x11-proto/randrproto-1.4.0-r1 abi_x86_32
+# required by x11-libs/gtk+-2.24.27
+# required by media-gfx/inkscape-0.48.5
+# required by @selected
+# required by @world (argument)
+>=x11-libs/libXext-1.3.3 abi_x86_32
+# required by media-libs/harfbuzz-0.9.35[graphite]
+# required by app-office/libreoffice-bin-4.3.5.2-r1
+# required by @selected
+# required by @world (argument)
+>=media-gfx/graphite2-1.2.4-r1 abi_x86_32
+# required by virtual/libffi-3.0.13-r1
+# required by dev-libs/glib-2.42.2
+# required by x11-libs/cairo-1.12.18-r1[glib]
+# required by x11-libs/pango-1.36.8
+# required by media-gfx/inkscape-0.48.5
+# required by @selected
+# required by @world (argument)
+=dev-libs/libffi-3.0.13-r1 abi_x86_32
+# required by dev-libs/atk-2.14.0
+# required by app-text/evince-3.14.2
+# required by @selected
+# required by @world (argument)
+>=virtual/pkgconfig-0-r1 abi_x86_32
+# required by x11-libs/cairo-1.12.18-r1
+# required by x11-libs/pango-1.36.8
+# required by media-gfx/inkscape-0.48.5
+# required by @selected
+# required by @world (argument)
+=dev-libs/lzo-2.08 abi_x86_32
+# required by media-libs/mesa-10.3.7-r1
+# required by x11-libs/cairo-1.12.18-r1[opengl]
+# required by x11-libs/pango-1.36.8
+# required by media-gfx/inkscape-0.48.5
+# required by @selected
+# required by @world (argument)
+=x11-proto/glproto-1.4.17 abi_x86_32
+# required by x11-libs/libXcursor-1.1.14
+# required by x11-libs/gtk+-2.24.27
+# required by media-gfx/inkscape-0.48.5
+# required by @selected
+# required by @world (argument)
+>=x11-libs/libXfixes-5.0.1 abi_x86_32
+# required by sys-devel/llvm-3.5.0[libffi]
+# required by media-libs/mesa-10.3.7-r1[llvm]
+# required by x11-libs/cairo-1.12.18-r1[opengl]
+# required by x11-libs/pango-1.36.8
+# required by media-gfx/inkscape-0.48.5
+# required by @selected
+# required by @world (argument)
+>=virtual/libffi-3.0.13-r1 abi_x86_32
+# required by x11-libs/libxcb-1.11-r1
+# required by media-video/libav-9999[X]
+# required by media-video/mpv-9999[libav]
+# required by @selected
+# required by @world (argument)
+>=x11-libs/libXau-1.0.8 abi_x86_32
+# required by x11-libs/libXi-1.7.4
+# required by x11-libs/libXtst-1.2.2
+# required by media-sound/pulseaudio-5.0-r7[X]
+# required by media-sound/pavucontrol-2.0-r1
+# required by @selected
+# required by @world (argument)
+>=x11-proto/xproto-7.0.27 abi_x86_32
+# required by x11-libs/gtk+-2.24.27
+# required by media-gfx/inkscape-0.48.5
+# required by @selected
+# required by @world (argument)
+>=x11-proto/damageproto-1.2.1-r1 abi_x86_32
+# required by x11-libs/libXt-1.1.4
+# required by sys-apps/dbus-1.8.16[X]
+# required by net-print/cups-2.0.1-r1[dbus]
+# required by net-print/cups-filters-1.0.66
+# required by @__auto_slot_operator_replace_installed__ (argument)
+>=x11-proto/kbproto-1.0.6-r1 abi_x86_32
+# required by sys-devel/llvm-3.5.0[ncurses]
+# required by media-libs/mesa-10.3.7-r1[llvm]
+# required by x11-libs/cairo-1.12.18-r1[opengl]
+# required by x11-libs/pango-1.36.8
+# required by media-gfx/inkscape-0.48.5
+# required by @selected
+# required by @world (argument)
+=sys-libs/ncurses-5.9-r3 abi_x86_32
+# required by x11-libs/libxcb-1.11-r1
+# required by media-video/libav-9999[X]
+# required by media-video/mpv-9999[libav]
+# required by @selected
+# required by @world (argument)
+=x11-libs/libXdmcp-1.1.1-r1 abi_x86_32
+# required by x11-libs/gtk+-2.24.27[xinerama]
+# required by media-gfx/inkscape-0.48.5
+# required by @selected
+# required by @world (argument)
+>=x11-libs/libXinerama-1.1.3 abi_x86_32
+# required by x11-libs/gtk+-2.24.27
+# required by media-gfx/inkscape-0.48.5
+# required by @selected
+# required by @world (argument)
+>=x11-libs/libXdamage-1.1.4-r1 abi_x86_32
+# required by media-libs/mesa-10.3.7-r1
+# required by x11-libs/cairo-1.12.18-r1[opengl]
+# required by x11-libs/pango-1.36.8
+# required by media-gfx/inkscape-0.48.5
+# required by @selected
+# required by @world (argument)
+>=x11-proto/dri2proto-2.8-r1 abi_x86_32
+# required by net-print/cups-2.0.1-r1[ssl]
+# required by net-print/cups-filters-1.0.66
+# required by @__auto_slot_operator_replace_installed__ (argument)
+=dev-libs/libgcrypt-1.5.4-r1 abi_x86_32
+# required by media-libs/mesa-10.3.7-r1[vdpau]
+# required by x11-libs/cairo-1.12.18-r1[opengl]
+# required by x11-libs/pango-1.36.8
+# required by media-gfx/inkscape-0.48.5
+# required by @selected
+# required by @world (argument)
+>=x11-libs/libvdpau-0.9 abi_x86_32
+# required by dev-db/sqlite-3.8.7.4[readline]
+# required by dev-libs/nss-3.17.4
+# required by app-office/libreoffice-bin-4.3.5.2-r1
+# required by @selected
+# required by @world (argument)
+=sys-libs/readline-6.2_p5-r1 abi_x86_32
+# required by media-libs/mesa-10.3.7-r1[llvm]
+# required by x11-libs/cairo-1.12.18-r1[opengl]
+# required by x11-libs/pango-1.36.8
+# required by media-gfx/inkscape-0.48.5
+# required by @selected
+# required by @world (argument)
+=sys-devel/llvm-3.5.0 abi_x86_32
+# required by media-libs/harfbuzz-0.9.35[icu]
+# required by app-office/libreoffice-bin-4.3.5.2-r1
+# required by @selected
+# required by @world (argument)
+>=dev-libs/icu-54.1-r1 abi_x86_32
+# required by dev-libs/glib-2.42.2
+# required by x11-libs/cairo-1.12.18-r1[glib]
+# required by x11-libs/pango-1.36.8
+# required by media-gfx/inkscape-0.48.5
+# required by @selected
+# required by @world (argument)
+>=virtual/libiconv-0-r2 abi_x86_32
+# required by virtual/libudev-215-r1[-systemd]
+# required by sys-apps/util-linux-2.25.2-r2
+# required by x11-libs/libSM-1.2.2-r1[uuid]
+# required by app-text/texlive-core-2012-r1[X]
+# required by @__auto_slot_operator_replace_installed__ (argument)
+=sys-fs/eudev-3.0 abi_x86_32
+# required by x11-libs/pango-1.36.8
+# required by media-gfx/inkscape-0.48.5
+# required by @selected
+# required by @world (argument)
+=media-libs/harfbuzz-0.9.35 abi_x86_32
+# required by media-libs/libpng-1.6.16
+# required by x11-libs/cairo-1.12.18-r1
+# required by x11-libs/pango-1.36.8
+# required by media-gfx/inkscape-0.48.5
+# required by @selected
+# required by @world (argument)
+>=sys-libs/zlib-1.2.8-r1 abi_x86_32
+# required by x11-libs/libXext-1.3.3
+# required by x11-libs/libXinerama-1.1.3
+# required by media-video/mpv-9999[X,xinerama]
+# required by @selected
+# required by @world (argument)
+>=x11-proto/xextproto-7.3.0 abi_x86_32
+# required by x11-libs/cairo-1.12.18-r1[X]
+# required by x11-libs/pango-1.36.8
+# required by media-gfx/inkscape-0.48.5
+# required by @selected
+# required by @world (argument)
+>=x11-proto/renderproto-0.11.1-r1 abi_x86_32
+# required by x11-libs/gdk-pixbuf-2.30.8[jpeg]
+# required by app-text/evince-3.14.2
+# required by @selected
+# required by @world (argument)
+>=virtual/jpeg-0-r2:0 abi_x86_32
+# required by x11-libs/libXt-1.1.4
+# required by sys-apps/dbus-1.8.16[X]
+# required by net-print/cups-2.0.1-r1[dbus]
+# required by net-print/cups-filters-1.0.66
+# required by @__auto_slot_operator_replace_installed__ (argument)
+>=x11-libs/libSM-1.2.2-r1 abi_x86_32
+# required by x11-libs/libXtst-1.2.2
+# required by media-sound/pulseaudio-5.0-r7[X]
+# required by media-sound/pavucontrol-2.0-r1
+# required by @selected
+# required by @world (argument)
+>=x11-proto/recordproto-1.14.2-r1 abi_x86_32
+# required by net-print/cups-2.0.1-r1[ssl]
+# required by net-print/cups-filters-1.0.66
+# required by @__auto_slot_operator_replace_installed__ (argument)
+=net-libs/gnutls-3.3.10-r2 abi_x86_32
+# required by media-libs/mesa-10.3.7-r1[dri3]
+# required by x11-libs/cairo-1.12.18-r1[opengl]
+# required by x11-libs/pango-1.36.8
+# required by media-gfx/inkscape-0.48.5
+# required by @selected
+# required by @world (argument)
+>=x11-proto/presentproto-1.0 abi_x86_32
+# required by x11-libs/libSM-1.2.2-r1[uuid]
+# required by app-text/texlive-core-2012-r1[X]
+# required by @__auto_slot_operator_replace_installed__ (argument)
+=sys-apps/util-linux-2.25.2-r2 abi_x86_32
+# required by media-libs/mesa-10.3.7-r1[dri3]
+# required by x11-libs/cairo-1.12.18-r1[opengl]
+# required by x11-libs/pango-1.36.8
+# required by media-gfx/inkscape-0.48.5
+# required by @selected
+# required by @world (argument)
+>=x11-proto/dri3proto-1.0 abi_x86_32
+# required by www-plugins/nspluginwrapper-1.4.4-r3
+# required by @selected
+# required by @world (argument)
+>=x11-libs/libXt-1.1.4 abi_x86_32
+# required by www-plugins/adobe-flash-11.2.202.451[abi_x86_32]
+# required by @selected
+# required by @world (argument)
+=x11-libs/gtk+-2.24.27 abi_x86_32
+# required by www-plugins/nspluginwrapper-1.4.4-r3
+# required by @selected
+# required by @world (argument)
+=x11-libs/libX11-1.6.2 abi_x86_32
+# required by x11-libs/libXtst-1.2.2
+# required by media-sound/pulseaudio-5.0-r7[X]
+# required by media-sound/pavucontrol-2.0-r1
+# required by @selected
+# required by @world (argument)
+>=x11-libs/libXi-1.7.4 abi_x86_32
+# required by x11-libs/gtk+-2.24.27[cups]
+# required by media-gfx/inkscape-0.48.5
+# required by @selected
+# required by @world (argument)
+=net-print/cups-2.0.1-r1 abi_x86_32
+# required by sys-libs/ncurses-5.9-r3[gpm]
+# required by sys-kernel/gentoo-sources-3.19.3[-build]
+# required by @selected
+# required by @world (argument)
+>=sys-libs/gpm-1.20.7-r2 abi_x86_32
+# required by dev-libs/libgcrypt-1.5.4-r1
+# required by net-print/cups-2.0.1-r1[ssl]
+# required by net-print/cups-filters-1.0.66
+# required by @__auto_slot_operator_replace_installed__ (argument)
+=dev-libs/libgpg-error-1.13 abi_x86_32
+# required by media-libs/mesa-10.3.7-r1
+# required by x11-libs/cairo-1.12.18-r1[opengl]
+# required by x11-libs/pango-1.36.8
+# required by media-gfx/inkscape-0.48.5
+# required by @selected
+# required by @world (argument)
+>=x11-proto/xf86driproto-2.1.1-r1 abi_x86_32
+# required by net-print/cups-2.0.1-r1[dbus]
+# required by net-print/cups-filters-1.0.66
+# required by @__auto_slot_operator_replace_installed__ (argument)
+>=sys-apps/dbus-1.8.16 abi_x86_32
+# required by media-libs/mesa-10.3.7-r1
+# required by x11-libs/cairo-1.12.18-r1[opengl]
+# required by x11-libs/pango-1.36.8
+# required by media-gfx/inkscape-0.48.5
+# required by @selected
+# required by @world (argument)
+=dev-libs/expat-2.1.0-r3 abi_x86_32
+# required by net-libs/gnutls-3.3.10-r2
+# required by media-video/libav-9999[ssl,-openssl]
+# required by media-video/mpv-9999[libav]
+# required by @selected
+# required by @world (argument)
+=dev-libs/nettle-2.7.1-r1 abi_x86_32
+# required by x11-libs/gdk-pixbuf-2.30.8[tiff]
+# required by app-text/evince-3.14.2
+# required by @selected
+# required by @world (argument)
+>=media-libs/tiff-4.0.3-r6 abi_x86_32
+# required by www-plugins/adobe-flash-11.2.202.451[abi_x86_32]
+# required by @selected
+# required by @world (argument)
+=dev-libs/nss-3.17.4 abi_x86_32
+# required by net-misc/teamviewer-9.0.32150
+# required by @selected
+# required by @world (argument)
+>=x11-libs/libXtst-1.2.2 abi_x86_32
+# required by net-misc/teamviewer-9.0.32150
+# required by @selected
+# required by @world (argument)
+=media-libs/alsa-lib-1.0.28 abi_x86_32
+# required by x11-libs/cairo-1.12.18-r1
+# required by x11-libs/pango-1.36.8
+# required by media-gfx/inkscape-0.48.5
+# required by @selected
+# required by @world (argument)
+>=x11-libs/pixman-0.32.6 abi_x86_32
+# required by x11-libs/libdrm-2.4.59
+# required by media-libs/mesa-10.3.7-r1[video_cards_i965,-video_cards_i915,video_cards_intel,-video_cards_ilo]
+# required by x11-libs/cairo-1.12.18-r1[opengl]
+# required by x11-libs/pango-1.36.8
+# required by media-gfx/inkscape-0.48.5
+# required by @selected
+# required by @world (argument)
+>=dev-libs/libpthread-stubs-0.3-r1 abi_x86_32
+# required by www-plugins/adobe-flash-11.2.202.451[abi_x86_32]
+# required by @selected
+# required by @world (argument)
+>=dev-libs/glib-2.42.2 abi_x86_32
+# required by media-libs/mesa-10.3.7-r1
+# required by x11-libs/cairo-1.12.18-r1[opengl]
+# required by x11-libs/pango-1.36.8
+# required by media-gfx/inkscape-0.48.5
+# required by @selected
+# required by @world (argument)
+>=x11-libs/libxcb-1.11-r1 abi_x86_32
+# required by media-libs/mesa-10.3.7-r1[udev]
+# required by x11-libs/cairo-1.12.18-r1[opengl]
+# required by x11-libs/pango-1.36.8
+# required by media-gfx/inkscape-0.48.5
+# required by @selected
+# required by @world (argument)
+>=virtual/libudev-215-r1 abi_x86_32
+# required by x11-libs/pango-1.36.8
+# required by media-gfx/inkscape-0.48.5
+# required by @selected
+# required by @world (argument)
+=x11-libs/cairo-1.12.18-r1 abi_x86_32
+# required by media-libs/mesa-10.3.7-r1
+# required by x11-libs/cairo-1.12.18-r1[opengl]
+# required by x11-libs/pango-1.36.8
+# required by media-gfx/inkscape-0.48.5
+# required by @selected
+# required by @world (argument)
+=x11-libs/libdrm-2.4.59 abi_x86_32
+# required by x11-libs/libXfixes-5.0.1
+# required by x11-libs/libXdamage-1.1.4-r1
+# required by x11-libs/gtk+-2.24.27
+# required by media-gfx/inkscape-0.48.5
+# required by @selected
+# required by @world (argument)
+>=x11-proto/fixesproto-5.0-r1 abi_x86_32
+# required by media-libs/mesa-10.3.7-r1
+# required by net-libs/webkit-gtk-2.6.5[egl]
+# required by @selected
+# required by @world (argument)
+>=dev-libs/expat-2.1.0-r4 abi_x86_32
+# required by net-libs/webkit-gtk-2.4.8
+# required by @selected
+# required by @world (argument)
+=media-libs/harfbuzz-0.9.38 abi_x86_32 icu
+# required by virtual/pkgconfig-0-r1
+# required by x11-misc/shared-mime-info-1.4
+# required by dev-perl/File-MimeInfo-0.210.0
+# required by x11-misc/xdg-utils-1.1.0_rc2[perl]
+# required by net-print/cups-2.0.1-r1[X]
+# required by app-office/libreoffice-bin-4.4.1.2
+# required by @selected
+# required by @world (argument)
+=dev-util/pkgconfig-0.28-r2 abi_x86_32
+# required by x11-libs/gtk+-2.24.27::gentoo[cups]
+# required by www-plugins/adobe-flash-11.2.202.457::gentoo[abi_x86_32,abi_x86_64]
+# required by @selected
+# required by @world (argument)
+>=net-print/cups-2.0.2-r1 abi_x86_32
+# required by dev-libs/nss-3.17.4::gentoo
+# required by www-plugins/adobe-flash-11.2.202.457::gentoo[abi_x86_32]
+# required by @selected
+# required by @world (argument)
+>=dev-db/sqlite-3.8.9 abi_x86_32
+# required by media-sound/pulseaudio-5.0-r7::gentoo
+# required by media-sound/mpg123-1.18.1::gentoo[pulseaudio]
+# required by app-emulation/wine-1.7.21::gentoo[abi_x86_64,mp3,abi_x86_32]
+# required by www-plugins/pipelight-0.2.7.3::gentoo
+# required by pipelight (argument)
+>=dev-libs/json-c-0.11-r1 abi_x86_32
+# required by app-emulation/wine-1.7.21::gentoo[abi_x86_32,pulseaudio]
+# required by www-plugins/pipelight-0.2.7.3::gentoo
+# required by pipelight (argument)
+>=media-sound/pulseaudio-5.0-r7 abi_x86_32
+# required by sys-auth/polkit-0.112-r2::gentoo[-systemd]
+# required by sys-auth/rtkit-0.11-r1::gentoo
+# required by app-emulation/wine-1.7.21::gentoo[pulseaudio,realtime]
+# required by www-plugins/pipelight-0.2.7.3::gentoo
+# required by pipelight (argument)
+>=sys-auth/consolekit-0.4.6 policykit
+# required by app-emulation/wine-1.7.21::gentoo[abi_x86_32,pipelight]
+# required by www-plugins/pipelight-0.2.7.3::gentoo
+# required by pipelight (argument)
+>=sys-apps/attr-2.4.47-r1 abi_x86_32
+# required by media-sound/pulseaudio-5.0-r7::gentoo[asyncns]
+# required by media-sound/mpg123-1.18.1::gentoo[pulseaudio]
+# required by app-emulation/wine-1.7.21::gentoo[abi_x86_64,mp3,abi_x86_32]
+# required by www-plugins/pipelight-0.2.7.3::gentoo
+# required by pipelight (argument)
+>=net-libs/libasyncns-0.8-r3 abi_x86_32
+# required by app-emulation/wine-1.7.21::gentoo[nls,abi_x86_32]
+# required by www-plugins/pipelight-0.2.7.3::gentoo
+# required by pipelight (argument)
+>=sys-devel/gettext-0.19.3 abi_x86_32
+# required by media-sound/pulseaudio-5.0-r7::gentoo[tcpd]
+# required by media-sound/mpg123-1.18.1::gentoo[pulseaudio]
+# required by app-emulation/wine-1.7.21::gentoo[abi_x86_64,mp3,abi_x86_32]
+# required by www-plugins/pipelight-0.2.7.3::gentoo
+# required by pipelight (argument)
+>=sys-apps/tcp-wrappers-7.6.22-r1 abi_x86_32
+# required by app-emulation/wine-1.7.21::gentoo[ldap,abi_x86_32]
+# required by www-plugins/pipelight-0.2.7.3::gentoo
+# required by pipelight (argument)
+>=net-nds/openldap-2.4.38-r2 abi_x86_32
+# required by app-emulation/wine-1.7.21::gentoo[abi_x86_32,lcms]
+# required by www-plugins/pipelight-0.2.7.3::gentoo
+# required by pipelight (argument)
+>=media-libs/lcms-2.6-r1 abi_x86_32
+# required by media-libs/glu-9.0.0-r1::gentoo
+# required by virtual/glu-9.0-r1::gentoo
+# required by app-emulation/wine-1.7.21::gentoo[opengl,abi_x86_32]
+# required by www-plugins/pipelight-0.2.7.3::gentoo
+# required by pipelight (argument)
+>=virtual/opengl-7.0-r1 abi_x86_32
+# required by virtual/glu-9.0-r1::gentoo
+# required by app-emulation/wine-1.7.21::gentoo[opengl,abi_x86_32]
+# required by www-plugins/pipelight-0.2.7.3::gentoo
+# required by pipelight (argument)
+>=media-libs/glu-9.0.0-r1 abi_x86_32
+# required by app-emulation/wine-1.7.21::gentoo[openal,abi_x86_32]
+# required by www-plugins/pipelight-0.2.7.3::gentoo
+# required by pipelight (argument)
+>=media-libs/openal-1.15.1-r2 abi_x86_32
+# required by app-emulation/wine-1.7.21::gentoo[abi_x86_32,v4l]
+# required by www-plugins/pipelight-0.2.7.3::gentoo
+# required by pipelight (argument)
+>=media-libs/libv4l-1.0.0 abi_x86_32
+# required by app-emulation/wine-1.7.21::gentoo[xml,abi_x86_32]
+# required by www-plugins/pipelight-0.2.7.3::gentoo
+# required by pipelight (argument)
+>=dev-libs/libxslt-1.1.28-r4 abi_x86_32
+# required by media-sound/pulseaudio-5.0-r7::gentoo[caps]
+# required by media-sound/mpg123-1.18.1::gentoo[pulseaudio]
+# required by app-emulation/wine-1.7.21::gentoo[abi_x86_64,mp3,abi_x86_32]
+# required by www-plugins/pipelight-0.2.7.3::gentoo
+# required by pipelight (argument)
+>=sys-libs/libcap-2.22-r2 abi_x86_32
+# required by media-sound/pulseaudio-5.0-r7::gentoo
+# required by media-sound/mpg123-1.18.1::gentoo[pulseaudio]
+# required by app-emulation/wine-1.7.21::gentoo[abi_x86_64,mp3,abi_x86_32]
+# required by www-plugins/pipelight-0.2.7.3::gentoo
+# required by pipelight (argument)
+>=media-libs/libsndfile-1.0.25-r1 abi_x86_32
+# required by net-nds/openldap-2.4.38-r2::gentoo[-gnutls,ssl]
+# required by app-emulation/wine-1.7.21::gentoo[ldap,abi_x86_32]
+# required by www-plugins/pipelight-0.2.7.3::gentoo
+# required by pipelight (argument)
+>=dev-libs/openssl-1.0.1l-r1 abi_x86_32
+# required by app-emulation/wine-1.7.21::gentoo[mp3,abi_x86_32]
+# required by www-plugins/pipelight-0.2.7.3::gentoo
+# required by pipelight (argument)
+>=media-sound/mpg123-1.18.1 abi_x86_32
+# required by media-libs/libsndfile-1.0.25-r1::gentoo[-minimal]
+# required by media-sound/pulseaudio-5.0-r7::gentoo
+# required by media-sound/mpg123-1.18.1::gentoo[pulseaudio]
+# required by app-emulation/wine-1.7.21::gentoo[abi_x86_64,mp3,abi_x86_32]
+# required by www-plugins/pipelight-0.2.7.3::gentoo
+# required by pipelight (argument)
+>=media-libs/libogg-1.3.1 abi_x86_32
+# required by media-libs/libsndfile-1.0.25-r1::gentoo[-minimal]
+# required by media-sound/pulseaudio-5.0-r7::gentoo
+# required by media-sound/mpg123-1.18.1::gentoo[pulseaudio]
+# required by app-emulation/wine-1.7.21::gentoo[abi_x86_64,mp3,abi_x86_32]
+# required by www-plugins/pipelight-0.2.7.3::gentoo
+# required by pipelight (argument)
+>=media-libs/libvorbis-1.3.4 abi_x86_32
+# required by app-emulation/wine-1.7.21::gentoo[opengl,abi_x86_32]
+# required by www-plugins/pipelight-0.2.7.3::gentoo
+# required by pipelight (argument)
+>=virtual/glu-9.0-r1 abi_x86_32
+# required by media-libs/libsndfile-1.0.25-r1::gentoo[-minimal]
+# required by media-sound/pulseaudio-5.0-r7::gentoo
+# required by media-sound/mpg123-1.18.1::gentoo[pulseaudio]
+# required by app-emulation/wine-1.7.21::gentoo[abi_x86_64,mp3,abi_x86_32]
+# required by www-plugins/pipelight-0.2.7.3::gentoo
+# required by pipelight (argument)
+>=media-libs/flac-1.3.1-r1 abi_x86_32
+# required by dev-libs/libxslt-1.1.28-r4::gentoo
+# required by app-emulation/wine-1.7.21::gentoo[xml,abi_x86_64,abi_x86_32]
+# required by www-plugins/pipelight-0.2.7.3::gentoo
+# required by pipelight (argument)
+>=dev-libs/libxml2-2.9.2-r1 abi_x86_32
+# don't pull in rtkit (and consequently policykit)
+app-emulation/wine -realtime
+# required by x11-libs/gtk+-2.24.27::gentoo
+# required by media-gfx/gimp-2.8.14::gentoo
+# required by @selected
+# required by @world (argument)
+>=gnome-base/librsvg-2.40.8 abi_x86_32
+# required by gnome-base/librsvg-2.40.8::gentoo
+# required by media-libs/gegl-0.2.0-r2::gentoo[svg]
+# required by media-gfx/gimp-2.8.14::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-libs/libcroco-0.6.8-r1 abi_x86_32

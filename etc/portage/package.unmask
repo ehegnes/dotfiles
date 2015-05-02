@@ -1,0 +1,11 @@
+# required by nethack (argument)
+# /usr/portage/profiles/package.mask:
+# Tavis Ormandy <taviso@gentoo.org> (21 Mar 2006)
+# masked pending unresolved security issues #125902
+=games-roguelike/nethack-3.4.3-r1
+# required by gentoo-sources (argument)
+# /etc/portage/package.mask:
+=sys-kernel/gentoo-sources-3.16.4
+# required by =sys-kernel/gentoo-sources-3.17.0 (argument)
+# /etc/portage/package.mask:
+=sys-kernel/gentoo-sources-3.17.0
