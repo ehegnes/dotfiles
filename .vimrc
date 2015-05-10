@@ -8,21 +8,23 @@ set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
 
 " Plugins managed by Vundle
-Plugin 'gmarik/Vundle.vim'
-Plugin 'scrooloose/nerdtree'
-Plugin 'scrooloose/nerdcommenter'
-Plugin 'scrooloose/syntastic'
+"Plugin 'spf13/vim-autoclose'
+Plugin 'FredKSchott/CoVim'
 Plugin 'Lokaltog/vim-easymotion'
-Plugin 'xuhdev/SingleCompile'
+Plugin 'Shougo/neocomplete.vim'
+Plugin 'airblade/vim-gitgutter'
 Plugin 'bling/vim-airline'
 Plugin 'flazz/vim-colorschemes'
-Plugin 'octol/vim-cpp-enhanced-highlight'
-Plugin 'airblade/vim-gitgutter'
-"Plugin 'spf13/vim-autoclose'
-Plugin 'Shougo/neocomplete.vim'
+Plugin 'gmarik/Vundle.vim'
 Plugin 'godlygeek/tabular'
+Plugin 'octol/vim-cpp-enhanced-highlight'
 Plugin 'rust-lang/rust.vim'
-Plugin 'FredKSchott/CoVim'
+Plugin 'scrooloose/nerdcommenter'
+Plugin 'scrooloose/nerdtree'
+Plugin 'scrooloose/syntastic'
+Plugin 'tpope/vim-fugitive'
+Plugin 'tpope/vim-surround'
+Plugin 'xuhdev/SingleCompile'
 
 " End Vundle shenanigans
 call vundle#end()
@@ -65,11 +67,10 @@ set undodir=~/.vimundo
 "set backupdir=~/.vimswp
 
 " Keymapping
+set pastetoggle=<F2>
 let mapleader=","
 nmap <Leader>r :SCCompileRun<cr>
-" nmap <F6> <Plug>ColorstepPrev \| :set bg=dark<cr>
-" nmap <F7> <Plug>ColorstepNext \| :set bg=dark<cr>
-nmap <Leader>q :qall!<cr>
+nmap qq :qall!<cr>
 nmap <Leader>l :next<cr>
 nmap <Leader>h :prev<cr>
 nmap <Leader>e :cw<cr>
@@ -87,7 +88,7 @@ inoremap {} {<CR>}<Esc>O
 
 " Neocomplete
 let g:acp_enableAtStartup = 0
-"let g:neocomplete#enable_at_startup = 1
+let g:neocomplete#enable_at_startup = 1
 
 " Airline
 let g:airline_theme = 'murmur'
