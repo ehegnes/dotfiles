@@ -1,4 +1,13 @@
 #!/bin/bash
 export LOCK_EXEC='USER=eric /usr/local/bin/slock'
-slock &
-sudo pm-suspend
+
+# Check if we're running an X session.
+if [[ -z "$DISPLAY" ]]; then
+    # no X session: run vlock
+    sudo pm-suspend & vlock -a
+else
+    # X session: run slock
+    slock & sudo pm-suspend
+fi
+
+exit 0;

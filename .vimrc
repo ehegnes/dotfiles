@@ -70,11 +70,11 @@ set undodir=~/.vimundo
 set pastetoggle=<F2>
 let mapleader=","
 nmap <Leader>r :SCCompileRun<cr>
-nmap qq :qall!<cr>
 nmap <Leader>l :next<cr>
 nmap <Leader>h :prev<cr>
 nmap <Leader>e :cw<cr>
 nmap <Leader>ec :ccl<cr>
+nmap <Leader>nh :nohl<cr>
 inoremap  <Up>     <NOP>
 inoremap  <Down>   <NOP>
 inoremap  <Left>   <NOP>
@@ -109,4 +109,6 @@ let b:syntastic_c_cflags = '-I/usr/include/gtk-3.0'
 autocmd BufNewFile,BufReadPost *.md set filetype=markdown
 autocmd BufNewFile,BufReadPost *.fth set filetype=forth
 autocmd BufNewFile,BufReadPost *.toml set filetype=desktop
+autocmd BufNewFile,BufReadPost *.nix set filetype=nix
+autocmd BufNewFile,BufReadPost *.hs set tabstop=2 softtabstop=2 shiftwidth=2
 "autocmd BufNewFile,BufReadPost *.rs set tw=120

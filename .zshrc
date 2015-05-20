@@ -23,7 +23,7 @@ ZSH_THEME="gentoo"
 # DISABLE_AUTO_TITLE="true"
 
 # Uncomment the following line to enable command auto-correction.
-# ENABLE_CORRECTION="true"
+#ENABLE_CORRECTION="true"
 
 # Uncomment the following line to display red dots whilst waiting for completion.
 # COMPLETION_WAITING_DOTS="true"
@@ -55,22 +55,27 @@ export PATH="/usr/local/bin:/usr/bin:/bin:/opt/bin:/usr/x86_64-pc-linux-gnu/gcc-
 # export MANPATH="/usr/local/man:$MANPATH"
 export PATH="$HOME/.cabal/bin:$PATH"
 export PATH="/usr/local/games:$PATH"
+# export nix stuffs
+export NCB="$HOME/.nix-profile/bin"
+export NIX_PATH="/nix/var/nix/profiles/per-user/eric/channels"
+export PATH="$PATH:$NCB"
 
 # You may need to manually set your language environment
 # export LANG=en_US.UTF-8
 
 # Preferred editor for local and remote sessions
-if [[ -n $SSH_CONNECTION ]]; then
-    export EDITOR='vim'
-else
-    export EDITOR='vim'
-fi
+#if [[ -n $SSH_CONNECTION ]]; then
+    #export EDITOR='vim'
+#else
+    #export EDITOR='vim'
+#fi
+export EDITOR='vim'
 
 # Compilation flags
 # export ARCHFLAGS="-arch x86_64"
 
 # ssh
-# export SSH_KEY_PATH="~/.ssh/dsa_id"
+export SSH_KEY_PATH="~/.ssh/rsa_id"
 
 # fixes node.js not finding modules
 export NODE_PATH=/usr/lib/node_modules/
@@ -110,6 +115,10 @@ alias lla="ls -la"
 alias dmesg="dmesg --color=always"
 alias gcheat="less ~/.gcheat"
 alias espk="espeak -v mb-us2 -p 50 -s 100"
+alias e="exit"
+
+# stop fucking correcting these
+alias eix="nocorrect eix"
 
 # cargo aliases
 alias cr="cargo run"
@@ -121,15 +130,11 @@ alias cbi="cabal install"
 alias cbc="cabal configure"
 alias cbs="cabal sandbox --init"
 
-mkcd()
-{
-    mkdir -p -- "$1" && cd -P -- "$1"
-}
+mkcd() { mkdir -p -- "$1" && cd -P -- "$1" }
 
-
+# fbterm bullshit (works, like, half the time)
 if [ $FBTERM ]; then
     export TERM=fbterm
-    byobu
 fi
 
 # hehehe
@@ -137,3 +142,6 @@ fi
 
 # Use `The Fuck` from https://github.com/nvbn/thefuck
 alias fuck='$(thefuck $(fc -ln -1))'
+
+# muahahahaahahahhaha
+HISTSIZE=9223372036854775807

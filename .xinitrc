@@ -8,7 +8,7 @@ case "$2" in
         urxvtd -q -f -o &
         xbacklight -set 30 &
         xautolock -time 10 -locker $LOCK_EXEC &
-        compton -bczC &
+        compton -fbczC --shadow-blue 0.314 --shadow-green 0.224 --backend glx --vsync opengl-swc
         export TERMINAL=/usr/bin/urxvtc
         exec dbus-launch --exit-with-session i3
         ;;
@@ -18,7 +18,7 @@ case "$2" in
         urxvtd -q -f -o &
         redshift &
         xbacklight -set 35 &
-        compton -bczC &
+        compton -fbczC --shadow-blue 0.314 --shadow-green 0.224 --backend glx --vsync opengl-swc
         dwmstatus &
         xautolock -time 10 -locker $LOCK_EXEC &
         dunst &

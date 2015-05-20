@@ -776,3 +776,6 @@ app-emulation/wine -realtime
 >=dev-libs/libcroco-0.6.8-r1 abi_x86_32
 media-gfx/fbida fbcon -X
 www-client/elinks javascript
+
+# fucking libtinfo bullshit
+sys-libs/ncurses tinfo

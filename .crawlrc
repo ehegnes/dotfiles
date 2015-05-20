@@ -8,5 +8,3 @@ runrest_stop_message += .*Xom.*
 explore_wall_bias = 4
 
 autofight_stop = 40
-
-autopickup_exceptions = <*ambrosia
