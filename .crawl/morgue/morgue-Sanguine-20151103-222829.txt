@@ -1,0 +1,235 @@
+ Dungeon Crawl Stone Soup version 0.18-a0-8-g0de29c1 (console) character file.
+
+246 Sanguine the Cudgeler (level 5, -4/41 HPs)
+             Began as a Demonspawn Abyssal Knight on Nov 3, 2015.
+             Was a Believer of Lugonu.
+             Slain by a scorpion (5 damage)
+             ... on level 4 of the Dungeon.
+             The game lasted 00:06:03 (2659 turns).
+
+Sanguine the Cudgeler (Demonspawn Abyssal Knight)   Turns: 2659, Time: 00:06:03
+
+Health: -4/41      AC:  6    Str: 16    XL:     5   Next: 84%
+Magic:  6/6        EV: 10    Int: 13    God:    Lugonu [**....]
+Gold:   203        SH:  0    Dex: 12    Spells: 0 memorised, 4 levels left
+
+rFire  . . .     SeeInvis .     a - +1 mace
+rCold  . . .     Clarity  .     g - +0 ring mail
+rNeg   . . .     SustAt   .     (no shield)
+rPois  .         Gourm    .     (no helmet)
+rElec  .         Spirit   .     (no cloak)
+rCorr  .         Warding  .     (no gloves)
+rMut   .         Stasis   .     i - +0 pair of boots
+MR     .....                    (no amulet)
+Stlth  ++........               (no ring)
+                                w - +2 ring of strength
+
+@: not resistant to hostile enchantments, unstealthy
+A: talons 1, nightstalker 1, spiny 2
+a: Depart the Abyss, Bend Space, Renounce Religion
+
+
+You were on level 4 of the Dungeon.
+You worshipped Lugonu.
+Lugonu was pleased with you.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+You visited the Abyss 1 time.
+
+You collected 203 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +1 mace (weapon)
+Armour
+ g - a +0 ring mail (worn)
+ i - a +0 pair of boots (worn)
+Jewellery
+ w - a +2 ring of strength (left hand)
+Wands
+ r - a wand of magic darts (0)
+ t - a wand of draining (7)
+Scrolls
+ b - 3 scrolls of teleportation {unknown}
+ d - 4 scrolls of identify {unknown}
+ h - 2 scrolls of remove curse {unknown}
+ k - 2 scrolls of magic mapping {unknown}
+ l - a scroll of enchant armour {unknown}
+ o - a scroll of immolation {unknown}
+ s - a scroll of random uselessness {unknown}
+ u - a scroll of amnesia {unknown}
+ v - 2 scrolls of fear {unknown}
+Potions
+ e - 3 potions of agility {unknown}
+ j - 3 potions of curing {unknown}
+ m - a potion of resistance {unknown}
+ q - 2 potions of cancellation {unknown}
+Comestibles
+ c - 5 bread rations
+ f - a chunk of flesh
+ n - a meat ration
+ p - a beef jerky
+
+
+   Skills:
+ + Level 3.2 Fighting
+ - Level 5.3 Maces & Flails
+ * Level 2.2 Armour
+ - Level 0.8 Dodging
+ - Level 2.4 Invocations
+
+
+You had 4 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)            
+Temple: D:4-7       
+
+Altars:
+Dithmenos
+Gozag
+Kikubaaqudgha
+Qazlal
+Sif Muna
+Trog
+Vehumet
+Yredelemnul
+
+Annotations:
+D:4 Grinder, Natasha
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have sharp toenails.
+You are slightly more attuned to the shadows.
+You are mostly covered in sharp spines.
+
+
+Message History
+
+Aim: Grinder (heavily wounded)
+The magic dart hits Grinder.
+Grinder is heavily wounded.
+Evoking this partially-identified wand wasted a few charges.
+Grinder is struck by your spines. Grinder hits you.
+* * * LOW HITPOINT WARNING * * *
+You writhe in agony.
+* * * LOW HITPOINT WARNING * * *
+You hit Grinder but do no damage.
+Grinder is severely wounded.
+Grinder is struck by your spines. Grinder closely misses you. The scorpion barely misses you.
+Grinder is struck by your spines. Grinder closely misses you.
+Unknown command.
+You hit Grinder.
+Grinder is almost dead.
+The scorpion is struck by your spines. The scorpion barely misses you. Grinder barely misses you.
+You closely miss Grinder.
+Grinder is almost dead.
+The scorpion is struck by your spines. The scorpion stings you.
+You die...
+
+                       #.
+                      .#.#.      ##
+     ##+###           ......    ..(
+     #....#            .....   ....
+     #....#   #        #.#.####..#
+     #....# #.#.     .##.#.....#
+######....#.......   ......s5..+
+.........h..w..$ .  # ##.#..@..#
+ ######.w####?## .###.##.#.##.....#
+............#    ...............+..
+#######.....#    #.##..#.#.##...# .
+      #.<...#.####..#  #.#.# ####
+      #.............# .#.#.#
+      #..#########..#..#.#.#
+      #..########<.....#.#.#
+      #..#............##.#.#
+      #..#..########.###.#.#
+      #.....###...###.##.#.#
+    ####.#.##.......####.#.######
+
+
+You could see Grinder and a scorpion.
+
+Vanquished Creatures
+  A phantom (D:4)
+  An orc priest (D:3)
+  Jessica (D:4)
+  2 adders
+  2 worms
+  A giant gecko (D:1)
+  8 orcs
+  5 giant cockroaches
+  5 goblins
+  5 hobgoblins
+  5 jackals
+  7 kobolds
+  A quokka (D:4)
+  4 bats
+  4 giant newts
+  15 rats
+  A spectral orc (D:2)
+68 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | Abyss:1  | Sanguine the Demonspawn Abyssal Knight began the quest for the Orb.
+     0 | Abyss:1  | Reached XP level 1. HP: 18/18 MP: 2/2
+   180 | Abyss:1  | Noticed a large abomination
+   195 | Abyss:1  | Noticed an iron imp
+   201 | Abyss:1  | Noticed an ancient zyme
+   203 | D:1      | Escaped the Abyss
+   425 | D:1      | Gained mutation: You have sharp toenails. [demonic ancestry]
+   425 | D:1      | Reached XP level 2. HP: 17/24 MP: 3/3
+   427 | D:1      | Reached * piety under Lugonu
+  1059 | D:2      | Gained mutation: You are partially covered in sharp spines. [demonic ancestry]
+  1059 | D:2      | Reached XP level 3. HP: 24/29 MP: 4/4
+  1140 | D:2      | Found a basalt altar of Yredelemnul.
+  1409 | D:3      | Reached ** piety under Lugonu
+  1457 | D:3      | Reached skill level 4 in Maces & Flails
+  1457 | D:3      | Gained mutation: You are mostly covered in sharp spines. [demonic ancestry]
+  1457 | D:3      | Reached XP level 4. HP: 16/35 MP: 5/5
+  1780 | D:3      | Found a stormy altar of Qazlal.
+  2005 | D:3      | Found a stormy altar of Qazlal.
+  2005 | D:3      | Found a shadowy altar of Dithmenos.
+  2005 | D:3      | Found an opulent altar of Gozag.
+  2005 | D:3      | Found a radiant altar of Vehumet.
+  2033 | D:3      | Found an ancient bone altar of Kikubaaqudgha.
+  2037 | D:3      | Found a bloodstained altar of Trog.
+  2079 | D:4      | Noticed an ogre
+  2087 | D:4      | Noticed Natasha
+  2374 | D:4      | Noticed a phantom
+  2391 | D:4      | Killed a phantom
+  2391 | D:4      | Reached skill level 5 in Maces & Flails
+  2391 | D:4      | Gained mutation: You are slightly more attuned to the shadows. [demonic ancestry]
+  2391 | D:4      | Reached XP level 5. HP: 29/41 MP: 6/6
+  2575 | D:4      | Noticed Jessica
+  2588 | D:4      | Killed Jessica
+  2596 | D:4      | Found a deep blue altar of Sif Muna.
+  2632 | D:4      | Noticed Grinder
+  2646 | D:4      | Paralysed by Grinder for 4 turns
+  2652 | D:4      | Paralysed by Grinder for 4 turns
+  2656 | D:4      | HP: 1/41 [Grinder (5)]
+  2659 | D:4      | Slain by a scorpion
+
+Vault maps used:
+D:1:      saegor_arrival_simple_c
+D:2:      yredelemnul_forgotten_temple_becter, first_bread,
+          minmay_tree_intersection, serial_bayou_lagoon_a
+D:3:      minmay_overflow_temple_hex, grunt_qazlal_sundering
+D:4:      tgw_sif, minmay_temple_entry_poolview, uniq_natasha, uniq_grinder
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Mace              |    92 |    45 ||   137
+Invok: Depart the Abyss  |     1 |       ||     1
+Evoke: Wand              |       |     8 ||     8
+  Eat: Chunk             |     2 |     4 ||     6
+

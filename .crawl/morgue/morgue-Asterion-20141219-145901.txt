@@ -1,0 +1,471 @@
+ Dungeon Crawl Stone Soup version 0.15.2 (console) character file.
+
+12579 Asterion the Bludgeoner (level 11, -5/97 HPs)
+             Began as a Minotaur Berserker on Dec 19, 2014.
+             Was a High Priest of Trog.
+             Slain by an orc knight
+             ... wielding a +0 great sword
+              (23 damage)
+             ... on Level 1 of the Orcish Mines.
+             The game lasted 00:42:19 (11948 turns).
+
+Asterion the Bludgeoner (Minotaur Berserker)       Turns: 11948, Time: 00:42:19
+
+HP  -5/97        AC 22     Str 21      XL: 11   Next: 64%
+MP   4/4         EV  8     Int  4      God: Trog [*****.]
+Gold 711         SH  0     Dex 14      Spells:  0 memorised, 10 levels left
+
+rFire  . . .     SeeInvis +     E - +2 broad axe (elec)
+rCold  . . .     Clarity  .     D - +3 chain mail
+rNeg   . . .     rCorr    .     (no shield)
+rPois  +         rRot     .     t - +2 hat
+rElec  .         Spirit   .     r - +2 cloak {rPois}
+SustAb .         Warding  .     M - +0 pair of gloves
+rMut   .         Stasis   .     I - +0 pair of boots
+Gourm  .                        V - amulet of rage
+MR     .....                    F - ring of poison resistance
+                                g - ring of see invisible
+
+@: exhausted, slowed, drained, very slow, not resistant to hostile enchantments,
+extremely unstealthy
+A: retaliatory headbutt, horns 2, wild magic 1
+a: Burn Spellbooks, Berserk, Trog's Hand, Brothers in Arms, Renounce Religion,
+Evoke Berserk Rage
+
+
+You were on level 1 of the Orcish Mines.
+You worshipped Trog.
+Trog was extremely pleased with you.
+You were very hungry.
+
+You visited 2 branches of the dungeon, and saw 14 of its levels.
+
+You collected 796 gold pieces.
+You spent 85 gold pieces at shops.
+
+Inventory:
+
+Hand weapons
+ n - a +1 great mace of holy wrath
+ E - a +2 broad axe of electrocution (weapon)
+ N - a +2 flail of protection
+ R - a +3 antimagic great mace
+Armour
+ r - a +2 cloak of poison resistance (worn)
+ t - a +2 hat (worn)
+ D - a +3 chain mail (worn)
+ I - a +0 pair of boots (worn)
+ M - a +0 pair of gloves (worn)
+Magical devices
+ p - a wand of frost (8)
+ s - a wand of draining (2)
+ w - a wand of teleportation (9)
+ x - a wand of magic darts (10)
+ J - a wand of slowing (5)
+ K - a wand of flame (8)
+ L - a wand of confusion (5)
+ Q - a wand of polymorph (10)
+ S - a wand of flame (7)
+Comestibles
+ b - 3 slices of pizza
+ c - 11 bread rations
+ d - 13 beef jerkies
+ j - 8 meat rations
+ q - 2 fruits
+Scrolls
+ a - 2 scrolls of enchant armour
+ e - 10 scrolls of identify
+ f - a scroll of enchant weapon
+ h - 5 scrolls of remove curse
+ m - 3 scrolls of teleportation
+ v - 3 scrolls of amnesia
+ y - 6 scrolls of immolation
+Jewellery
+ g - a ring of see invisible (left hand)
+ F - a ring of poison resistance (right hand)
+ V - an amulet of rage (around neck)
+Potions
+ i - 2 potions of brilliance
+ k - 3 potions of restore abilities
+ o - 5 potions of curing
+ u - a potion of resistance {unknown}
+ G - 2 potions of berserk rage
+ O - a potion of porridge
+ X - 3 potions of invisibility {unknown}
+Books
+ l - a book of Minor Magic   
+   
+   Spells                             Type                      Level
+   Magic Dart                         Conjuration                  1
+   Blink                              Translocation                2
+   Call Imp                           Summoning                    2
+   Repel Missiles                     Charms/Air                   2
+   Slow                               Hexes                        2
+   Conjure Flame                      Conjuration/Fire             3
+   Mephitic Cloud                     Conjuration/Poison/Air       3
+   
+   
+   Trog disapproves of the use of such an item.
+ z - Vehumet's Guide on Conjuration
+   (You found it on level 5 of the Dungeon)   
+   
+   Spells                             Type                      Level
+   Magic Dart                         Conjuration                  1
+   
+   
+   Trog disapproves of the use of such an item.
+ A - Kikubaaqudgha's Catalogue of Darkness
+   (You found it on level 5 of the Dungeon)   
+   
+   Spells                             Type                      Level
+   Pain                               Necromancy                   1
+   
+   
+   Trog disapproves of the use of such an item.
+ B - Sif Muna's Papyrus of the Oath
+   (You found it on level 5 of the Dungeon)   
+   
+   Spells                             Type                      Level
+   Corona                             Hexes                        1
+   
+   
+   Trog disapproves of the use of such an item.
+ C - a book of Party Tricks   
+   
+   Spells                             Type                      Level
+   Summon Butterflies                 Summoning                    1
+   Apportation                        Translocation                1
+   Blink                              Translocation                2
+   Tukima's Dance                     Hexes                        3
+   Alistair's Intoxication            Transmutation/Poison         4
+   
+   
+   Trog disapproves of the use of such an item.
+ H - a book of Clouds   
+   
+   Spells                             Type                      Level
+   Mephitic Cloud                     Conjuration/Poison/Air       3
+   Conjure Flame                      Conjuration/Fire             3
+   Poisonous Cloud                    Conjuration/Poison/Air       6
+   Freezing Cloud                     Conjuration/Ice/Air          6
+   Ring of Flames                     Charms/Fire                  7
+   
+   
+   Trog disapproves of the use of such an item.
+ P - a book of Conjurations   
+   
+   Spells                             Type                      Level
+   Magic Dart                         Conjuration                  1
+   Searing Ray                        Conjuration                  2
+   Dazzling Spray                     Conjuration/Hexes            3
+   Fulminant Prism                    Conjuration/Hexes            4
+   Iskenderun's Mystic Blast          Conjuration                  4
+   Iskenderun's Battlesphere          Conjuration/Charms           5
+   
+   
+   Trog disapproves of the use of such an item.
+ U - a book of Minor Magic   
+   
+   Spells                             Type                      Level
+   Magic Dart                         Conjuration                  1
+   Blink                              Translocation                2
+   Call Imp                           Summoning                    2
+   Repel Missiles                     Charms/Air                   2
+   Slow                               Hexes                        2
+   Conjure Flame                      Conjuration/Fire             3
+   Mephitic Cloud                     Conjuration/Poison/Air       3
+   
+   
+   Trog disapproves of the use of such an item.
+Miscellaneous
+ T - an ornate deck of summonings
+
+
+   Skills:
+ * Level 9.3(9.2) Fighting
+ - Level 16.4 Maces & Flails
+ * Level 9.1 Armour
+ + Level 7.3 Dodging
+
+
+You had 10 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (12/15)            Temple (0/1) D:6             Orc (2/4) D:9
+   Lair (0/8) D:9         
+
+Altars:
+Ashenzari
+Cheibriados
+Fedhas
+Kikubaaqudgha
+Makhleb
+Okawaru
+Sif Muna
+Trog
+Vehumet
+Yredelemnul
+Zin
+
+Shops:
+D:9 %   D:10 *[
+
+Annotations:
+D:11 blink across fire gate
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+Your spells are a little harder to cast, but a little more powerful.
+
+
+Message History
+
+Things that are here:
+a short sword; an orc corpse
+The orc knight barely misses you.
+There is a stone staircase leading up, spattered with blood here.
+You see here 3 poisoned tomahawks.
+The orc knight hits you but does no damage.
+You climb upwards.
+There is a stone staircase leading down here.
+You hit the orc knight but do no damage.
+There is a sudden explosion of sparks!
+You headbutt the orc knight, but do no damage.
+The orc knight is almost dead.
+The orc knight hits you but does no damage.
+You closely miss the orc knight.
+The orc knight is almost dead.
+The orc knight hits you but does no damage.
+Your chain mail prevents you from hitting the orc knight.
+The orc knight is almost dead.
+The orc knight hits you with a great sword!!
+You die...
+
+        ###.###      ##.#####..............##.....................#
+       ##...#.#      #....# #..........##.###..............##....##
+      ##......### ####....####..........### ##..............#.....#
+     ##.......#.###.##.....#####.......########......))#...###...##
+     #...........#..........###[([........#.##.....)()).....#....#
+     #..........)............##[(..)(........##....)))).)........##
+     #...........)...........##)[[#.(.()..#.......................#
+ #####...###..........#.....[)[(.####..(.......................#.##
+##.#......###.........##...........##.......######''######........#
+#.......######........###....>.######.......####..[[..####........#
+##........##...........#.#......##.#........##.'.[..§.'.##.......##
+ ##......####..........###.................#####(.....####...)....#
+  ###......#....#.#....##............o@....# ###......####.......##
+    #.#.)..#....#.##.....................### #.'......'.##.......#
+    ###........####..........##..........#   ###......######.....#
+      ##........# #.........###.......####    ####))####  #...#.##
+       ##......## #####..#.## ##.....#.#      #[['..'..#  ##.####
+        #.#.####    #...####   ###.#####      ##########   ###
+        #####       ###.#        #.#
+                      #.#        ###
+                      ###
+
+
+You could see an orc knight.
+
+Vanquished Creatures
+  A flayed ghost (D:8)
+  2 hill giants
+  An ugly thing (D:11)
+  A gargoyle (D:10)
+  2 two-headed ogres (D:10)
+  2 trolls
+  3 deep elf magi
+  A basilisk (D:9)
+  The ghost of Eric the Shooter, an average CeHu (D:5)
+  5 wraiths (D:8)
+  A hippogriff (D:8)
+  Eustachio (D:6)
+  A warg (D:9)
+  4 fire bats (D:8)
+  A hill giant skeleton (D:8)
+  6 porcupines (D:9)
+  A water moccasin (D:9)
+  A swamp drake (Orc:1)
+  A sky beast (D:8)
+  12 orc warriors
+  2 centaurs
+  12 ogres
+  3 ice beasts
+  3 phantoms
+  Sigmund (D:6)
+  2 crocodiles (D:9)
+  A big kobold (D:9)
+  4 giant frogs
+  A gnoll sergeant (D:8)
+  Blork the orc (D:9)
+  A cyclops zombie (D:11)
+  2 wyvern zombies
+  2 jellies
+  A scorpion (D:8)
+  A wyvern skeleton (D:9)
+  4 killer bees (D:7)
+  A yak zombie (D:7)
+  A giant frog zombie (D:9)
+  A quasit (D:8)
+  12 orc priests
+  A hound (D:9)
+  5 crimson imps
+  An iron imp (Orc:1)
+  A giant frog skeleton (D:11)
+  19 orc wizards
+  4 iguanas
+  3 worker ants
+  7 sheep (D:9)
+  A crocodile skeleton (D:7)
+  2 ogre skeletons
+  A mottled dragon skeleton (D:12)
+  Terence (D:3)
+  2 mummies (D:8)
+  10 gnolls
+  3 green rats (D:9)
+  A swamp drake zombie (Orc:1)
+  A worker ant zombie (D:5)
+  4 shadow imps
+  8 adders
+  2 giant mites (D:4)
+  A white imp (Orc:1)
+  4 worms (D:2)
+  An orc zombie (D:6)
+  An iguana skeleton (D:8)
+  An ooze (D:3)
+  99 orcs
+  2 ball pythons
+  8 giant cockroaches
+  10 hobgoblins
+  26 kobolds
+  5 quokkas
+  20 bats
+  5 giant geckos
+  3 giant newts
+  A giant spore (D:8)
+  16 goblins
+  2 goblin zombies (D:8)
+  A hobgoblin skeleton (D:4)
+  An orc skeleton (D:6)
+  12 rats
+  10 ballistomycetes
+410 creatures vanquished.
+
+Vanquished Creatures (others)
+  A water moccasin (D:11)
+  A yellow wasp (D:11)
+  3 giant spores
+  An orc skeleton (Orc:1)
+  A ballistomycete (D:8)
+  2 fungi (D:9)
+  A plant (D:9)
+10 creatures vanquished.
+
+Grand Total: 420 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | D:1      | Asterion, the Minotaur Berserker, began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
+   260 | D:1      | Reached skill level 4 in Maces & Flails
+   571 | D:1      | Reached XP level 2. HP: 26/26 MP: 1/1
+   788 | D:2      | Acquired Trog's second power
+   842 | D:2      | Reached skill level 5 in Maces & Flails
+   842 | D:2      | Reached XP level 3. HP: 17/31 MP: 2/2
+  1348 | D:3      | Reached skill level 6 in Maces & Flails
+  1348 | D:3      | Reached XP level 4. HP: 39/39 MP: 2/2
+  1383 | D:3      | Noticed Terence
+  1393 | D:3      | Killed Terence
+  1585 | D:3      | Received a gift from Trog
+  1585 | D:3      | Reached XP level 5. HP: 45/45 MP: 2/2
+  1832 | D:3      | Reached skill level 7 in Maces & Flails
+  2101 | D:4      | Noticed a phantom
+  2108 | D:4      | Killed a phantom
+  2108 | D:4      | Reached skill level 8 in Maces & Flails
+  2108 | D:4      | Reached XP level 6. HP: 43/51 MP: 3/3
+  2727 | D:5      | Entered Level 5 of the Dungeon
+  2737 | D:5      | Reached skill level 9 in Maces & Flails
+  3008 | D:5      | Found an ancient bone altar of Kikubaaqudgha.
+  3017 | D:5      | Acquired Trog's third power
+  3091 | D:5      | Noticed Eric's ghost (average CeHu)
+  3101 | D:5      | Killed Eric's ghost
+  3101 | D:5      | Reached skill level 10 in Maces & Flails
+  3101 | D:5      | Reached XP level 7. HP: 57/57 MP: 3/3
+  3207 | D:5      | Found a radiant altar of Vehumet.
+  3211 | D:5      | Identified Vehumet's Guide on Conjuration (You found it on level 5 of the Dungeon)
+  3217 | D:5      | Found an ancient bone altar of Kikubaaqudgha.
+  3220 | D:5      | Found a deep blue altar of Sif Muna.
+  3224 | D:5      | Identified Kikubaaqudgha's Catalogue of Darkness (You found it on level 5 of the Dungeon)
+  3233 | D:5      | Identified Sif Muna's Papyrus of the Oath (You found it on level 5 of the Dungeon)
+  3526 | D:6      | Noticed Eustachio
+  3533 | D:6      | Killed Eustachio
+  3533 | D:6      | Reached skill level 11 in Maces & Flails
+  3730 | D:6      | Reached XP level 8. HP: 27/64 MP: 3/3
+  4088 | D:6      | Reached skill level 12 in Maces & Flails
+  4127 | D:6      | Found a staircase to the Ecumenical Temple.
+  4569 | D:6      | Noticed Sigmund
+  4578 | D:6      | Killed Sigmund
+  4578 | D:6      | Reached skill level 13 in Maces & Flails
+  5426 | D:7      | Reached XP level 9. HP: 70/70 MP: 4/4
+  5871 | D:7      | Reached skill level 14 in Maces & Flails
+  6114 | D:8      | Found a blossoming altar of Fedhas.
+  6186 | D:8      | Found a basalt altar of Yredelemnul.
+  6197 | D:8      | Found an iron altar of Okawaru.
+  6212 | D:8      | Reached skill level 15 in Maces & Flails
+  6234 | D:8      | Found a shattered altar of Ashenzari.
+  6279 | D:8      | Found a glowing silver altar of Zin.
+  6375 | D:8      | Reached skill level 16 in Maces & Flails
+  6599 | D:8      | Noticed a flayed ghost
+  6609 | D:8      | Killed a flayed ghost
+  6609 | D:8      | Reached XP level 10. HP: 77/77 MP: 4/4
+  6637 | D:8      | Found a bloodstained altar of Trog.
+  6861 | D:8      | Found a burning altar of Makhleb.
+  6862 | D:8      | Found a snail-covered altar of Cheibriados.
+  7431 | D:9      | Received a gift from Trog
+  7563 | D:9      | Reached skill level 5 in Fighting
+  7851 | D:9      | Found a staircase to the Lair.
+  7874 | D:9      | Reached skill level 5 in Armour
+  7907 | D:9      | Reached skill level 5 in Dodging
+  7915 | D:9      | Gained mutation: Your spells are a little harder to cast, but a little more powerful. [potion of beneficial mutation]
+  7995 | D:9      | Found Luiwaal's Food Boutique.
+  8000 | D:9      | Found a staircase to the Orcish Mines.
+  8203 | D:9      | Noticed Blork the orc
+  8256 | D:9      | Killed Blork the orc
+  8511 | D:10     | Entered Level 10 of the Dungeon
+  8634 | D:10     | Reached XP level 11. HP: 49/92 MP: 1/4
+  8733 | D:10     | Received a gift from Trog
+  8750 | D:10     | Found Pradet's Assorted Antiques.
+  8825 | D:10     | Found Kas Akhla's Antique Armour Emporium.
+  8826 | D:10     | Noticed a hill giant
+  8831 | D:10     | Killed a hill giant
+  8836 | D:10     | Bought a glowing cloak for 85 gold pieces
+  9815 | D:11     | Noticed a hill giant
+  9822 | D:11     | Killed a hill giant
+ 10824 | Orc:1    | Entered Level 1 of the Orcish Mines
+ 10930 | Orc:1    | Received a gift from Trog
+ 11044 | D:9      | HP: 2/95 [orc wizard/magic dart (8)]
+ 11742 | Orc:1    | Received a gift from Trog
+ 11948 | Orc:1    | Slain by an orc knight
+
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Mace              |   112 |   127 |   353 |       ||   592
+       Great mace        |       |       |       |   286 ||   286
+       Flail             |       |       |       |   104 ||   104
+       Broad axe         |       |       |       |    86 ||    86
+Throw: Tomahawk          |       |       |       |     4 ||     4
+Invok: Berserk           |       |     2 |     6 |     4 ||    12
+Evoke: Wand              |       |     2 |     1 |     7 ||    10
+  Use: Potion            |     1 |       |       |    11 ||    12
+       Scroll            |       |     3 |       |    11 ||    14
+  Eat: Chunk             |     1 |     5 |     7 |    15 ||    28
+       Fruit             |       |     2 |       |     3 ||     5
+       Meat ration       |       |       |     2 |     1 ||     3
+

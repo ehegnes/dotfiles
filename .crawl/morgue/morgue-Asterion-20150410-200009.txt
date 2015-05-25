@@ -1,0 +1,591 @@
+ Dungeon Crawl Stone Soup version 0.16-a0-4088-g7c8221e (console) character file.
+
+62191 Asterion the Warrior (level 14, 0/214 HPs)
+             Began as a Minotaur Berserker on Apr 4, 2015.
+             Was the Champion of Trog.
+             Slain by a white ugly thing (2 damage)
+             ... on level 1 of the Swamp on Apr 10, 2015.
+             The game lasted 01:30:03 (23696 turns).
+
+Asterion the Warrior (Minotaur Berserker)          Turns: 23696, Time: 01:30:03
+
+Health: 0/214      AC: 34    Str: 32    XL:     14   Next: 63%
+Magic:  5/5        EV: 10    Int:  4    God:    Trog [******]
+Gold:   2096       SH:  0    Dex: 13    Spells: 0 memorised, 13 levels left
+
+rFire  . . .     SeeInvis .     U - +6 great mace (protect)
+rCold  . . .     Clarity  .     d - +0 plate armour
+rNeg   + . .     SustAb   .     (no shield)
+rPois  .         Gourm    .     (helmet restricted)
+rElec  +         Spirit   .     C - +0 cloak
+rCorr  .         Warding  .     S - +1 pair of gloves {Dex+3}
+rMut   .         Stasis   .     y - +1 pair of boots
+MR     +....                    w - amulet of faith
+Stlth  ..........               D - +4 ring of protection
+                                i - ring of Free Will {rElec rN+}
+
+@: berserking, very quick, somewhat resistant to hostile enchantments, extremely
+unstealthy
+A: retaliatory headbutt, horns 2
+a: Burn Spellbooks, Berserk, Trog's Hand, Brothers in Arms, Renounce Religion
+
+
+You were on level 1 of the Swamp.
+You worshipped Trog.
+Trog was exalted by your worship.
+You were not hungry.
+
+You visited 5 branches of the dungeon, and saw 26 of its levels.
+You also visited: Labyrinth.
+
+You collected 2096 gold pieces.
+
+Inventory:
+
+Hand weapons
+ U - a +6 great mace of protection (weapon)
+Armour
+ d - a +0 plate armour (worn)
+ u - the +5 buckler "Julitz" {+Blink rF- rC+ Dex-5 Slay+4}
+   (You acquired it on level 10 of the Dungeon)   
+   
+   It affects your dexterity (-5).
+   It affects your accuracy and damage with ranged weapons and melee attacks
+   (+4).
+   It makes you vulnerable to fire.
+   It protects you from cold.
+   It lets you blink.
+ y - a +1 pair of boots (worn)
+ C - a +0 cloak (worn)
+ S - a +1 pair of gloves of dexterity (worn)
+ X - the +2 robe of the Archfiend {rN+ Int-5 Dex+3}
+   (You found it on level 4 of the Lair of Beasts)   
+   
+   It affects your intelligence (-5).
+   It affects your dexterity (+3).
+   It protects you from negative energy.
+Jewellery
+ i - the ring of Free Will (left hand) {rElec rN+}
+   (You found it on level 1 of the Lair of Beasts)   
+   
+   [ring of positive energy]
+   
+   It insulates you from electricity.
+   It protects you from negative energy.
+ n - an uncursed ring of sustain abilities
+ w - an amulet of faith (around neck)
+ D - a +4 ring of protection (right hand)
+Magical devices
+ z - a wand of heal wounds (4)
+ G - a wand of teleportation (5)
+ Q - a wand of lightning (9)
+ Y - a wand of draining (3)
+Scrolls
+ a - 4 scrolls of fog
+ g - 5 scrolls of enchant armour
+ l - 5 scrolls of teleportation
+ o - 9 scrolls of remove curse
+ r - 3 scrolls of fear
+ A - a scroll of blinking
+ B - 4 scrolls of enchant weapon
+ F - 3 scrolls of recharging
+ T - a scroll of identify
+Potions
+ b - a potion of mutation {unknown}
+ e - 10 potions of curing
+ f - 3 potions of cancellation
+ h - 6 potions of restore abilities
+ j - 2 potions of lignification
+ k - 2 potions of might
+ p - 3 potions of haste
+ t - a potion of resistance
+ H - a potion of agility
+ L - a potion of flight
+ O - a potion of brilliance
+ R - a potion of experience {unknown}
+Books
+ m - a Necronomicon {highlevel, unknown}   
+   This book is beyond your current level of understanding.
+   
+    Spells                             Type                      Level
+    a - Haunt                        Necromancy/Summoning          7
+    b - Borgnjor's Revivification    Necromancy                    8
+    c - Death's Door                 Charms/Necromancy             8
+    d - Necromutation                Transmutation/Necromancy      8
+   
+   
+   Trog disapproves of the use of such an item.
+ q - a book of Death   
+   
+    Spells                             Type                      Level
+    a - Corpse Rot                   Necromancy                    2
+    b - Sublimation of Blood         Necromancy                    2
+    c - Agony                        Necromancy                    5
+    d - Dispel Undead                Necromancy                    5
+    e - Excruciating Wounds          Charms/Necromancy             5
+    f - Bolt of Draining             Conjuration/Necromancy        5
+   
+   
+   Trog disapproves of the use of such an item.
+ M - a book of the Dragon   
+   
+    Spells                             Type                      Level
+    a - Flight                       Charms/Air                    3
+    b - Cause Fear                   Hexes                         4
+    c - Bolt of Fire                 Conjuration/Fire              6
+    d - Dragon Form                  Transmutation                 7
+    e - Dragon's Call                Summoning                     9
+   
+   
+   Trog disapproves of the use of such an item.
+ W - a book of Spatial Translocations   
+   
+    Spells                             Type                      Level
+    a - Apportation                  Translocation                 1
+    b - Blink                        Translocation                 2
+    c - Shroud of Golubria           Charms/Translocation          2
+    d - Portal Projectile            Translocation                 3
+    e - Teleport Other               Translocation                 3
+    f - Passage of Golubria          Translocation                 4
+   
+   
+   Trog disapproves of the use of such an item.
+Miscellaneous
+ V - a stone of tremors
+Comestibles
+ c - 7 bread rations
+ s - 7 meat rations
+ v - a slice of pizza
+ x - 5 royal jellies
+ Z - a beef jerky
+
+
+   Skills:
+ - Level 18.2 Fighting
+ * Level 15.1 Maces & Flails
+ - Level 18.1 Armour
+ - Level 2.1 Dodging
+
+
+You had 13 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (14/15)            Temple (1/1) D:4            Lair (7/8) D:8
+  Swamp (1/5) Lair:4        Snake (0/5) Lair:3        Slime (0/6) Lair:6
+    Orc (3/4) D:9         
+   Elf: Orc:3-4     Vaults: D:13-14     
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Vehumet
+Xom
+Yredelemnul
+Zin
+The Shining One
+Beogh
+
+Shops:
+D:10 !   D:13 [   Orc:2 :
+
+Annotations:
+D:14 exclusion: Roxanne, Roxanne
+Swamp:1 Nikola
+Orc:2 digging for money
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+
+
+Message History
+
+The white ugly thing is almost dead.
+The white ugly thing punches you!
+* * * LOW HITPOINT WARNING * * *
+The white ugly thing freezes you!!
+* * * LOW HITPOINT WARNING * * *
+You bludgeon the white ugly thing!!
+You kill the white ugly thing!
+Trog accepts your kill.
+The white ugly thing engulfs you!
+* * * LOW HITPOINT WARNING * * *
+The white ugly thing freezes you!!
+* * * LOW HITPOINT WARNING * * *
+You sock the white ugly thing! You headbutt the white ugly thing!
+The white ugly thing is moderately wounded.
+Nikola mumbles some strange words.
+Nikola blinks!
+You bludgeon the white ugly thing!!
+The white ugly thing is almost dead.
+The white ugly thing engulfs you.
+You die...
+
+            .≈.≈
+      ♣  ♣.....≈≈.
+   ..>≈  .≈≈≈≈≈..♣♣
+  .!≈≈.   .≈≈≈≈≈..♣
+ ..≈≈≈.   ♣.≈≈≈≈..♣
+≈..?.≈.   ♣..≈≈≈.♣
+....§..  ♣♣≈≈...♣
+.≈.§≈≈≈♣♣♣..≈§≈♣
+  ♣≈.§u†♣♣♣≈...♣♣♣
+  ♣.≈≈≈@†♣♣♣.≈≈..♣♣
+  ♣.≈≈≈≈≈...≈≈≈...♣
+  ♣♣.≈≈≈≈≈...≈≈≈..♣
+   ♣.≈≈≈≈≈..≈≈≈≈≈≈♣
+   ♣≈[≈≈≈≈≈≈≈≈≈≈.♣♣
+   ♣♣.≈≈≈≈§≈≈≈≈<♣♣
+    ♣.≈≈≈..≈≈≈≈.♣
+    ..=≈≈..≈≈≈≈♣♣
+     ≈≈≈≈..≈≈≈≈♣
+      ≈≈≈..≈≈≈.
+         ...≈..
+          ...≈♣
+           ...
+
+
+You could see a white ugly thing.
+
+Vanquished Creatures
+  Rupert (Lair:5)
+  A stone giant (Orc:3)
+  A slime creature (D:12)
+  Josephine (D:10)
+  A minotaur (Lab)
+  A hydra (Lair:7)
+  Harold (D:11)
+  2 centaur warriors (D:13)
+  Nergalle (Lair:1)
+  2 catoblepae (D:13)
+  An unseen horror (D:9)
+  Erolcha (D:10)
+  Pikel (D:5)
+  8 hill giants
+  8 ugly things
+  A cyclops (D:12)
+  A manticore (D:12)
+  2 orc sorcerers (Orc:2)
+  A wolf spider (Lair:6)
+  3 orc knights (Orc:3)
+  An elephant (D:8)
+  5 black mambas
+  Joseph (D:11)
+  A gargoyle (D:13)
+  10 spiny frogs
+  A centaur skeleton (D:13)
+  A fire drake (Lair:4)
+  7 komodo dragons
+  An efreet (D:13)
+  4 trolls
+  5 polar bears
+  5 two-headed ogres
+  A giant leech (Lair:4)
+  12 blink frogs
+  2 trapdoor spider zombies (D:13)
+  The ghost of Xombaby the Slasher, an average DsCK of Xom (D:5)
+  A wyvern (Lair:6)
+  6 basilisks
+  A deep elf mage (D:13)
+  4 wraiths (D:10)
+  3 fire bats (Orc:3)
+  45 yaks
+  2 steam dragons
+  7 hippogriffs
+  18 wolves
+  A hungry ghost (D:9)
+  2 wargs
+  3 vampire mosquitoes (D:12)
+  2 mottled dragons (D:12)
+  5 nagas
+  Edmund (D:7)
+  6 porcupines
+  15 orc warriors
+  2 soldier ants (D:8)
+  4 phantoms
+  4 ice beasts
+  3 sky beasts
+  3 slaves (D:5)
+  6 black bears
+  12 water moccasins
+  A wasp (D:8)
+  An eye of draining (D:10)
+  8 ogres
+  A boring beetle (Lair:3)
+  7 centaurs
+  13 big kobolds
+  7 crocodiles
+  11 giant frogs
+  6 scorpions
+  A wyvern skeleton (D:12)
+  12 killer bees
+  An electric eel (Lair:2)
+  2 quasits
+  2 giant frog zombies
+  5 goliath beetles
+  7 crimson imps
+  17 jellies
+  21 orc priests
+  2 giant frog skeletons
+  10 hounds
+  13 worker ants
+  27 orc wizards
+  7 iguanas
+  Natasha (D:4)
+  A sheep (D:8)
+  Ijyb (D:3)
+  Jessica (D:3)
+  2 mummies (D:10)
+  A hound zombie (D:10)
+  2 worker ant zombies (D:11)
+  6 gnolls
+  23 adders
+  51 river rats
+  5 shadow imps
+  4 giant mites (Lair:6)
+  2 worms (D:2)
+  2 adder skeletons (D:4)
+  3 giant geckos
+  3 oozes
+  130 orcs
+  8 bats
+  A bat skeleton (D:7)
+  A bat zombie (D:9)
+  7 giant cockroaches
+  12 hobgoblins
+  19 jackals
+  13 quokkas
+  13 giant newts
+  A giant spore (D:12)
+  30 goblins
+  A jackal skeleton (D:8)
+  25 kobolds
+  An orc zombie (D:13)
+  A quokka zombie (D:7)
+  13 rats
+  3 rat zombies (D:9)
+  A spectral orc (Lair:1)
+  22 ballistomycetes (D:12)
+  2 fungi
+  2 plants
+849 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  Sonja (D:10)
+  An orc warrior (Orc:2)
+  An orc priest (Orc:2)
+  4 orcs (Orc:2)
+7 creatures vanquished.
+
+Vanquished Creatures (others)
+  An iguana (D:5)
+  2 orc priests (D:5)
+  A hound skeleton (D:5)
+  A bat (D:5)
+  2 giant cockroaches
+  3 giant spores (D:12)
+  A jackal zombie (D:5)
+  A kobold (D:1)
+  3 ballistomycetes (D:12)
+  4 fungi
+  4 plants (Lair:6)
+23 creatures vanquished.
+
+Grand Total: 879 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | D:1      | Asterion, the Minotaur Berserker, began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
+   143 | D:1      | Reached skill level 4 in Maces & Flails
+   154 | D:1      | Reached XP level 2. HP: 24/26 MP: 1/1
+   416 | D:1      | Acquired Trog's second power
+   946 | D:2      | Reached skill level 5 in Maces & Flails
+  1168 | D:2      | Reached XP level 3. HP: 28/31 MP: 2/2
+  1285 | D:2      | Reached skill level 6 in Maces & Flails
+  1285 | D:2      | Reached XP level 4. HP: 33/39 MP: 2/2
+  1907 | D:3      | Noticed Jessica
+  1910 | D:3      | Reached skill level 7 in Maces & Flails
+  1910 | D:3      | Reached XP level 5. HP: 27/45 MP: 2/2
+  1914 | D:3      | Killed Jessica
+  2053 | D:3      | Found a stormy altar of Qazlal.
+  2056 | D:3      | Acquired Trog's third power
+  2291 | D:3      | Found a sparkling altar of Nemelex Xobeh.
+  2297 | D:3      | Reached skill level 8 in Maces & Flails
+  2298 | D:3      | Reached XP level 6. HP: 36/51 MP: 3/3
+  2318 | D:3      | Noticed Ijyb
+  2330 | D:3      | Killed Ijyb
+  2447 | D:4      | Noticed Natasha
+  2454 | D:4      | Killed Natasha
+  2713 | D:4      | Found a staircase to the Ecumenical Temple.
+  2882 | Temple   | Entered the Ecumenical Temple
+  3107 | D:5      | Entered Level 5 of the Dungeon
+  3107 | D:5      | Noticed Pikel
+  3116 | D:5      | Killed Pikel
+  3116 | D:5      | Reached skill level 5 in Armour
+  3116 | D:5      | Reached XP level 7. HP: 63/63 MP: 3/3
+  3233 | D:5      | Noticed Xombaby's ghost (average DsCK)
+  3242 | D:5      | Paralysed by Xombaby's ghost for 6 turns
+  3254 | D:5      | Killed Xombaby's ghost
+  3254 | D:5      | Reached XP level 8. HP: 34/71 MP: 3/3
+  3955 | D:5      | Found a shimmering altar of Xom.
+  4456 | D:6      | Reached skill level 9 in Maces & Flails
+  4681 | D:6      | Found a burning altar of Makhleb.
+  4788 | D:6      | Found an opulent altar of Gozag.
+  4880 | D:7      | Found a radiant altar of Vehumet.
+  4889 | D:7      | Reached skill level 10 in Maces & Flails
+  5278 | D:7      | Reached XP level 9. HP: 81/81 MP: 4/4
+  5412 | D:7      | Noticed Edmund
+  5453 | D:7      | Killed Edmund
+  5996 | D:8      | Noticed an elephant
+  6043 | D:8      | Found a staircase to the Lair.
+  6074 | D:8      | Killed an elephant
+  6074 | D:8      | Reached skill level 10 in Fighting
+  6398 | D:8      | Reached skill level 10 in Armour
+  6973 | D:8      | Received a gift from Trog
+  7218 | D:8      | Reached XP level 10. HP: 86/94 MP: 4/4
+  7482 | Lair:1   | Entered Level 1 of the Lair of Beasts
+  7489 | Lair:1   | Noticed Nergalle
+  7492 | Lair:1   | Noticed a spectral orc warlord
+  7796 | D:9      | Killed an unseen horror
+  7796 | D:9      | Reached skill level 11 in Fighting
+  8654 | D:9      | Received a gift from Trog
+  8658 | D:9      | Found a staircase to the Orcish Mines.
+  8720 | D:9      | Found an ancient bone altar of Kikubaaqudgha.
+  8987 | D:10     | Entered Level 10 of the Dungeon
+  8997 | D:10     | Noticed Erolcha
+  9001 | D:10     | Killed Erolcha
+  9001 | D:10     | Reached skill level 12 in Maces & Flails
+  9096 | D:10     | Noticed a hill giant
+  9100 | D:10     | Killed a hill giant
+  9174 | D:10     | Reached XP level 11. HP: 87/104 MP: 4/4
+  9191 | D:10     | Noticed Josephine
+  9196 | D:10     | Killed Josephine
+  9306 | D:10     | Found Grosm's Distillery.
+  9413 | D:10     | Reached skill level 13 in Maces & Flails
+  9418 | D:10     | Noticed Sonja
+  9436 | D:10     | Killed Sonja
+  9476 | D:10     | HP: 4/105 [poisoned by an orc wizard]
+  9861 | D:11     | Noticed Harold
+  9880 | D:11     | Killed Harold
+ 10386 | D:11     | Noticed a hill giant
+ 10395 | D:11     | Killed a hill giant
+ 10524 | D:11     | Noticed a hill giant
+ 10530 | D:11     | Killed a hill giant
+ 10618 | D:11     | Found a glowing silver altar of Zin.
+ 10686 | D:11     | Noticed Joseph
+ 10697 | D:11     | Killed Joseph
+ 10775 | D:11     | Reached skill level 14 in Maces & Flails
+ 10832 | D:11     | Noticed a hill giant
+ 10841 | D:11     | Killed a hill giant
+ 10964 | D:11     | Received a gift from Trog
+ 10983 | D:11     | Got a steaming dire flail {god gift}
+ 10984 | D:11     | Identified the +3 dire flail of Trog's Castigation {crush, rC+ Int+4} (Trog gifted it to you on level 11 of the Dungeon)
+ 11237 | D:12     | Reached XP level 12. HP: 115/115 MP: 5/5
+ 11821 | D:12     | Noticed a hill giant
+ 11829 | D:12     | Killed a hill giant
+ 12372 | D:12     | Received a gift from Trog
+ 12620 | D:13     | Found a labyrinth entrance.
+ 12647 | Lab      | Entered a labyrinth
+ 12995 | Lab      | Noticed a minotaur
+ 13000 | Lab      | Killed a minotaur
+ 13000 | Lab      | Received a gift from Trog
+ 13007 | Lab      | Got a slimy ivory ring
+ 13438 | D:13     | Noticed a centaur warrior
+ 13447 | D:13     | Killed a centaur warrior
+ 13447 | D:13     | Reached skill level 15 in Fighting
+ 13527 | D:13     | Found Kiuroeni's Antique Armour Shoppe.
+ 13751 | D:13     | Reached skill level 15 in Armour
+ 13845 | D:13     | Reached XP level 13. HP: 127/127 MP: 5/5
+ 14013 | D:13     | Noticed a centaur warrior
+ 14026 | D:13     | Killed a centaur warrior
+ 14401 | D:14     | Noticed Roxanne
+ 14595 | D:10     | Received a gift from Trog
+ 14604 | D:10     | Identified the ring "Ogups" {rC+ Int+4 Stlth+} (You found it in a labyrinth)
+ 14612 | D:10     | Identified a scroll of acquirement
+ 14615 | D:10     | Got an encrusted buckler
+ 14616 | D:10     | Identified a +5 rod of inaccuracy (11/11) (You found it in a labyrinth)
+ 14622 | D:10     | Identified the +5 buckler "Julitz" {+Blink rF- rC+ Dex-5 Slay+4} (You acquired it on level 10 of the Dungeon)
+ 14757 | Orc:1    | Entered Level 1 of the Orcish Mines
+ 15030 | Orc:2    | Received a gift from Trog
+ 15074 | Orc:2    | Found Imiagori's Book Boutique.
+ 15496 | Orc:2    | Paralysed by an orc sorcerer for 4 turns
+ 15697 | Orc:2    | Found a roughly hewn altar of Beogh.
+ 15892 | Orc:3    | Noticed a stone giant
+ 15913 | Orc:3    | Killed a stone giant
+ 16375 | Orc:3    | Received a gift from Trog
+ 16560 | Orc:3    | Reached skill level 16 in Fighting
+ 16983 | Orc:3    | Found a roughly hewn altar of Beogh.
+ 17309 | D:9      | Received a gift from Trog
+ 17371 | Lair:1   | Killed Nergalle
+ 17930 | Lair:1   | Noticed a black mamba
+ 17935 | Lair:1   | Killed a black mamba
+ 18137 | Lair:1   | Got a smoking gossamer ring
+ 18139 | Lair:1   | Identified the ring of Free Will {rElec rN+} (You found it on level 1 of the Lair of Beasts)
+ 18724 | Lair:2   | Received a gift from Trog
+ 19299 | Lair:2   | Reached skill level 17 in Fighting
+ 19595 | Lair:3   | Found a staircase to the Snake Pit.
+ 19769 | Lair:3   | You fall through a shaft for 3 floors!
+ 19844 | Lair:6   | Received a gift from Trog
+ 20020 | Lair:6   | Found a staircase to the Slime Pits.
+ 20189 | Lair:6   | Reached XP level 14. HP: 93/140 MP: 5/5
+ 20264 | Lair:6   | Received a gift from Trog
+ 20489 | Lair:6   | Found a staircase to the Snake Pit.
+ 20928 | Lair:5   | Noticed Rupert
+ 20939 | Lair:5   | Killed Rupert
+ 20988 | Lair:5   | Received a gift from Trog
+ 21337 | Lair:5   | Reached skill level 18 in Fighting
+ 22191 | Lair:4   | Received a gift from Trog
+ 22307 | Lair:4   | Got a wizard robe
+ 22318 | Lair:4   | Identified the +2 robe of the Archfiend {rN+ Int-5 Dex+3} (You found it on level 4 of the Lair of Beasts)
+ 22318 | Lair:4   | Lost intelligence.
+ 22671 | Lair:4   | Found a staircase to the Swamp.
+ 23653 | Swamp:1  | Entered Level 1 of the Swamp
+ 23678 | Swamp:1  | Received a gift from Trog
+ 23680 | Swamp:1  | Noticed Nikola
+ 23691 | Swamp:1  | Reached skill level 15 in Maces & Flails
+ 23694 | Swamp:1  | HP: 2/214 [white ugly thing (32)]
+ 23696 | Swamp:1  | Slain by a white ugly thing
+
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 || total
+-------------------------+-------+-------+-------+-------+-------++-------
+Melee: Mace              |    74 |   183 |     7 |       |       ||   264
+       Whip              |       |       |   418 |       |       ||   418
+       Great mace        |       |       |    10 |   615 |   779 ||  1404
+       Dire flail        |       |       |       |    15 |       ||    15
+       Unarmed           |       |       |       |       |    99 ||    99
+       Rod               |       |       |       |       |     3 ||     3
+Invok: Berserk           |     1 |     2 |       |     9 |    10 ||    22
+       Trog's Hand       |       |       |     2 |     1 |     1 ||     4
+       Burn Spellbooks   |       |       |     2 |       |       ||     2
+       Brothers in Arms  |       |       |       |     1 |     1 ||     2
+Evoke: Wand              |       |       |     1 |     2 |       ||     3
+  Use: Scroll            |       |       |    13 |     3 |     8 ||    24
+       Potion            |       |       |    10 |     3 |       ||    13
+ Stab: Distracted        |       |       |     1 |       |       ||     1
+  Eat: Chunk             |     2 |     6 |    11 |    16 |    20 ||    55
+       Pizza             |       |     1 |     1 |       |     1 ||     3
+       Fruit             |       |       |       |     6 |     2 ||     8
+       Royal jelly       |       |       |       |     4 |     2 ||     6
+       Beef jerky        |       |       |       |     2 |     1 ||     3
+       Meat ration       |       |       |       |       |     2 ||     2
+       Bread ration      |       |       |       |       |     1 ||     1
+

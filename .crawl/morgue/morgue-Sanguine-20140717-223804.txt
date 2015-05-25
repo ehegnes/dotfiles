@@ -1,0 +1,177 @@
+ Dungeon Crawl Stone Soup version 0.13.1 (console) character file.
+
+179 Sanguine the Distorting Demonspawn (level 3, -1/28 HPs)
+             Began as a Demonspawn Abyssal Knight on July 17, 2014.
+             Was a Believer of Lugonu.
+             Killed by a spatial distortion (4 damage)
+             ... on Level 3 of the Dungeon.
+             The game lasted 00:07:35 (1575 turns).
+
+Sanguine the Distorting Demonspawn (DsAK)           Turns: 1575, Time: 00:07:35
+
+HP  -1/28        AC  6     Str 13      XL: 3   Next: 16%
+MP   4/4         EV  9     Int 13      God: Lugonu [**....]
+Gold 144         SH  7     Dex 12      Spells:  0 memorised,  2 levels left
+
+Res.Fire  : . . .   See Invis. : .   a - +2 mace
+Res.Cold  : . . .   Warding    : .   b - +0 leather armour
+Life Prot.: . . .   Conserve   : .   r - +0 dwarf buckler
+Res.Poison: .       Res.Corr.  : .   (no helmet)
+Res.Elec. : .       Clarity    : .   (no cloak)
+Sust.Abil.: . .     Spirit.Shd : .   g - +1 pair of orc gloves
+Res.Mut.  : .       Stasis     : .   s - +0 pair of boots
+Res.Rott. : .       Flight     : .   (no amulet)
+Saprovore : . . .                    (no ring)
+                                     (no ring)
+
+@: not resistant to hostile enchantments, very unstealthy
+A: conserve scrolls
+a: Depart the Abyss, Bend Space, Renounce Religion
+
+
+You were on level 3 of the Dungeon.
+You worshipped Lugonu.
+Lugonu was pleased with you.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 3 of its levels.
+You visited the Abyss 1 time.
+
+You collected 124 gold pieces.
+
+Inventory:
+
+Hand weapons
+ a - a +2,+2 mace (weapon)
+ m - a +0,+0 whip
+Missiles
+ i - 7 arrows of flame
+ o - 14 poisoned needles
+Armour
+ b - a +0 leather armour (worn)
+ g - a +1 pair of orcish gloves (worn)
+ r - a +0 dwarven buckler (worn)
+ s - a +0 pair of boots (worn)
+Comestibles
+ c - 2 bread rations
+Scrolls
+ d - a scroll of enchant weapon I {unknown}
+ e - a scroll of curse weapon {unknown}
+ h - a scroll of magic mapping {unknown}
+ k - 2 scrolls of identify {unknown}
+ p - a scroll of teleportation {unknown}
+Potions
+ f - 2 potions of curing
+ j - 2 potions of heal wounds {unknown}
+ l - a potion of cure mutation {unknown}
+ n - a potion of invisibility {unknown}
+ q - a potion of agility {unknown}
+
+
+   Skills:
+ - Level 3.0 Fighting
+ + Level 2.6 Maces & Flails
+ - Level 1.7 Armour
+ - Level 0.8 Dodging
+ + Level 3.7 Invocations
+
+
+You had 2 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/27)            
+
+Altars:
+Cheibriados
+Xom
+
+Annotations:
+D:3 Sanguine's ghost, average DsAK
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are very good at protecting items from fire.
+
+
+Message History
+
+You closely miss Sanguine's ghost. You block Sanguine's ghost's attack.
+You sock Sanguine's ghost!
+Sanguine's ghost is moderately damaged.
+Sanguine's ghost closely misses you.
+You hit Sanguine's ghost.
+Sanguine's ghost is moderately damaged.
+Sanguine's ghost barely misses you.
+You sock Sanguine's ghost!
+Sanguine's ghost is heavily damaged.
+Sanguine's ghost hits you!
+* * * LOW HITPOINT WARNING * * *
+Use which ability? (? or * to list) 
+Okay, then.
+You hit Sanguine's ghost.
+Sanguine's ghost is severely damaged.
+Sanguine's ghost hits you.
+* * * LOW HITPOINT WARNING * * *
+Use which ability? (? or * to list) 
+Space bends sharply around you! You blink.
+You die...
+
+       #####
+       #...####
+       #......#          .
+       #......#         ..#
+ ##########..§#########>..#
+..............p............
+........<...............$...
+###.##########.....@...#
+             #.........#
+             #...###.###
+             #####  .#
+                    .#
+                    .#
+                    .#
+                    .#
+                    .
+
+
+You could see Sanguine's ghost.
+
+Vanquished Creatures
+  A giant gecko (D:2)
+  An ooze (D:1)
+  4 giant cockroaches
+  2 hobgoblins
+  4 jackals (D:2)
+  3 bats
+  3 giant newts
+  6 goblins
+  6 kobolds
+  A rat (D:1)
+31 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | Abyss:1  | Sanguine, the Demonspawn Abyssal Knight, began the quest for the Orb.
+     0 | Abyss:1  | Reached XP level 1. HP: 16/16 MP: 1/1
+    12 | D:1      | Escaped the Abyss
+   328 | D:1      | Gained mutation: You are very good at protecting items from fire. [demonic ancestry]
+   328 | D:1      | Reached XP level 2. HP: 15/22 MP: 3/3
+  1038 | D:2      | Acquired Lugonu's second power
+  1170 | D:2      | Found a shimmering altar of Xom.
+  1246 | D:2      | Reached XP level 3. HP: 28/28 MP: 4/4
+  1247 | D:2      | Found a snail-covered altar of Cheibriados.
+  1563 | D:3      | Noticed Sanguine's ghost (average DsAK)
+  1575 | D:3      | Killed by a spatial distortion
+
+
+Action                   || total
+-------------------------++-------
+Melee: Mace              ||    93
+  Use: Potion            ||     4
+       Scroll            ||     1
+

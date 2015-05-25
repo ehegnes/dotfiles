@@ -20,12 +20,7 @@ app-accessibility/julius -alsa pulseaudio -oss -portaudio
 # required by @selected
 # required by @world (argument)
 =media-libs/harfbuzz-0.9.28 icu
-games-util/steam-client-meta flash trayicon
-# required by games-util/steam-client-meta-0-r20140616::steam-overlay[flash]
-# required by games-util/steam-meta-0-r20131107::steam-overlay
-# required by steam-meta (argument)
 >=www-plugins/adobe-flash-11.2.202.394 abi_x86_32
-games-util/steam-games-meta s3tc
 # required by games-util/steam-games-meta-0-r20140325::steam-overlay[s3tc]
 # required by games-util/steam-meta-0-r20131107::steam-overlay
 # required by steam-meta (argument)
@@ -46,10 +41,6 @@ media-fonts/* nls
 # required by pipelight (argument)
 =app-emulation/wine-1.7.21 pipelight
 x11-misc/compton dbus xinerama opengl
-# required by net-analyzer/nmap-6.25[gtk,-ndiff]
-# required by net-analyzer/metasploit-4.9.3
-# required by metasploit (argument)
-=dev-lang/python-2.7.7 sqlite
 # required by dev-ruby/metasploit_data_models-0.17.0[ruby_targets_ruby19]
 # required by net-analyzer/metasploit-4.9.3[ruby_targets_ruby19]
 # required by metasploit (argument)
@@ -64,7 +55,6 @@ dev-vcs/git -gtk
 # required by app-portage/layman-2.0.0-r3[git]
 # required by @selected
 # required by @world (argument)
-=dev-vcs/subversion-1.8.10 perl -dso
 # xml target description support
 sys-devel/gdb expat
 # required by dev-lang/rust-9999-r3[system-llvm]
@@ -83,21 +73,6 @@ dev-libs/boost python
 =sys-devel/llvm-3.5.0 clang
 mail-client/mutt imap sidebar smtp gnutls sasl debug
 # required by net-libs/webkit-gtk-2.4.8
-# required by @selected
-# required by @world (argument)
-=media-libs/harfbuzz-0.9.35 icu
-# required by dev-qt/qtcore-5.4.0
-# required by dev-qt/qtgui-5.4.0
-# required by dev-qt/qtquickcontrols-5.4.0
-# required by x11-terms/cool-retro-term-9999::gerczei
-# required by x11-terms/cool-retro-term::gerczei (argument)
-=dev-libs/libpcre-8.35 pcre16
-# required by x11-terms/cool-retro-term-9999::gerczei
-# required by x11-terms/cool-retro-term::gerczei (argument)
-=dev-qt/qtdeclarative-5.4.0 localstorage
-# required by x11-terms/cool-retro-term-9999::gerczei
-# required by x11-terms/cool-retro-term::gerczei (argument)
-=dev-qt/qtquickcontrols-5.4.0 widgets
 dev-python/pygame examples
 sci-mathematics/octave -opengl -qhull -qrupdate -sparse -imagemagick gnuplot fftw curl postscript
 # required by dev-libs/nss-3.17.4
@@ -779,3 +754,15 @@ www-client/elinks javascript
 
 # fucking libtinfo bullshit
 sys-libs/ncurses tinfo
+# required by app-emulation/wine-1.7.21::gentoo[ssl,abi_x86_32]
+# required by www-plugins/pipelight-0.2.7.3::gentoo
+# required by @selected
+# required by @world (argument)
+>=net-libs/gnutls-3.3.15 abi_x86_32
+# required by media-sound/pulseaudio-5.0-r7::gentoo[alsa-plugin,alsa]
+# required by media-video/mpv-9999::gentoo[pulseaudio]
+# required by @selected
+# required by @world (argument)
+>=media-plugins/alsa-plugins-1.0.28 abi_x86_32
+
+app-editors/neovim perl python

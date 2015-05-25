@@ -1,0 +1,169 @@
+ Dungeon Crawl Stone Soup version 0.13.1 (console) character file.
+
+93 Eric the Skirmisher (level 3, 0/33 HPs)
+             Began as a Minotaur Berserker on July 10, 2014.
+             Was a Believer of Trog.
+             Slain by a jackal (3 damage)
+             ... on Level 1 of the Dungeon.
+             The game lasted 00:06:23 (691 turns).
+
+Eric the Skirmisher (Minotaur Berserker)             Turns: 691, Time: 00:06:30
+
+HP   0/33        AC  2     Str 22      XL: 3   Next: 35%
+MP   1/1         EV 12     Int  4      God: Trog [**....]
+Gold 51          SH  0     Dex  9      Spells:  0 memorised,  2 levels left
+
+Res.Fire  : . . .   See Invis. : .   a - +0 hand axe {=f}
+Res.Cold  : . . .   Warding    : .   b - +0 animal skin
+Life Prot.: . . .   Conserve   : .   (no shield)
+Res.Poison: .       Res.Corr.  : .   (helmet restricted)
+Res.Elec. : .       Clarity    : .   (no cloak)
+Sust.Abil.: . .     Spirit.Shd : .   (no gloves)
+Res.Mut.  : .       Stasis     : .   (no boots)
+Res.Rott. : .       Flight     : .   (no amulet)
+Saprovore : . . .                    (no ring)
+                                     (no ring)
+
+@: not resistant to hostile enchantments, very unstealthy
+A: retaliatory headbutt, horns 2
+a: Burn Spellbooks, Berserk, Trog's Hand, Renounce Religion
+
+
+You were on level 1 of the Dungeon.
+You worshipped Trog.
+Trog was pleased with you.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+
+You collected 31 gold pieces.
+
+Inventory:
+
+Hand weapons
+ a - a +0,+0 hand axe (weapon) {=f}
+ g - a +1,+0 dwarven short sword
+ l - a +1,+2 mace
+ s - a +1,+0 spear of dragon slaying (quivered)
+Missiles
+ k - 23 arrows
+Armour
+ b - a +0 animal skin (worn)
+ r - a +0 leather armour
+Comestibles
+ c - a bread ration
+Scrolls
+ d - a scroll of amnesia {unknown}
+ e - 3 scrolls of magic mapping {unknown}
+ f - a scroll of noise {unknown}
+ h - 2 scrolls of remove curse {unknown}
+ i - 2 scrolls of enchant weapon II {unknown}
+ o - a scroll of blinking {unknown}
+ q - a scroll of curse weapon {unknown}
+Potions
+ j - a potion of invisibility {unknown}
+ m - a potion of brilliance {unknown}
+ n - a potion of curing {unknown}
+ p - 2 potions of agility {unknown}
+
+
+   Skills:
+ + Level 4.4 Fighting
+ + Level 4.2 Axes
+ + Level 2.8 Armour
+ + Level 2.5 Dodging
+
+
+You had 2 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/27)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+
+
+Message History
+
+You headbutt the jackal, but do no damage.
+The jackal bites you.
+* * * LOW HITPOINT WARNING * * *
+The kobold hits you but does no damage.
+You hit the kobold.
+You kill the kobold!
+Trog accepts your kill.
+You completely miss the jackal. The jackal bites you.
+* * * LOW HITPOINT WARNING * * *
+The jackal bites you.
+* * * LOW HITPOINT WARNING * * *
+The jackal bites you.
+* * * LOW HITPOINT WARNING * * *
+The jackal bites you.
+You die...
+
+##.##.##
+ #.....#
+ ##....#                                             ###### #####
+ #....##                                             #....# #...#
+ #...##                                              #....# #...#
+ #....                                       ####### #....# #...#
+ #...##                                      #.....# #....# #...#
+ ....$                       .               #.....# #....# #...#
+##...#                       ...##############.....###....###...#
+ .#..#                      ....................................#
+   ...                      .......%%...............)...........#
+                            ..........(h...........###....##....#
+                             ...#######@######.....###....##....#
+                             .     #..h......#.....##......#.####
+                                  ##......S..#.....##......#.#
+                                $..........................#.#
+                                ####.........##..####..>...#.#
+                                   #.......................#.#
+                                   #.........##.....#......#.#
+                                   #.........##.....#....>.#.#
+                                   ##...#.#####.....#......#.#
+                              #######...#.#####.....#......#.#
+                        .   .............................).#.#
+                      #..   #.#.....#...#######.....##.#####.#
+                       ..  .......... ..#     #.....##.#   #.#
+
+
+You could see an adder and 2 jackals.
+
+Vanquished Creatures
+  2 gnolls (D:1)
+  A giant gecko (D:2)
+  An ooze (D:1)
+  2 goblins
+  3 hobgoblins (D:1)
+  2 jackals (D:1)
+  4 kobolds
+  3 bats (D:1)
+  3 giant newts
+  4 rats
+25 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | D:1      | Eric, the Minotaur Berserker, began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+   112 | D:2      | Reached XP level 2. HP: 21/26 MP: 0/0
+   512 | D:1      | Reached skill level 4 in Axes
+   574 | D:1      | Acquired Trog's second power
+   626 | D:1      | Reached XP level 3. HP: 11/33 MP: 1/1
+   691 | D:1      | Slain by a jackal
+
+
+Action                   || total
+-------------------------++-------
+Melee: Hand axe          ||    55
+

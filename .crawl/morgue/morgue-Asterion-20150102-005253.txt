@@ -1,0 +1,328 @@
+ Dungeon Crawl Stone Soup version 0.15.2 (console) character file.
+
+3389 Asterion the Basher (level 9, -4/126 HPs)
+             Began as a Minotaur Berserker on Jan 2, 2015.
+             Was the Champion of Trog.
+             Slain by an iron devil
+             ... wielding a +0 dire flail
+             ... summoned by a kobold demonologist
+              (12 damage)
+             ... on Level 8 of the Dungeon.
+             The game lasted 00:14:59 (7003 turns).
+
+Asterion the Basher (Minotaur Berserker)            Turns: 7003, Time: 00:15:00
+
+HP  -4/126       AC  9     Str 28      XL: 9   Next: 74%
+MP   4/4         EV  9     Int  4      God: Trog [******]
+Gold 323         SH  0     Dex 12      Spells:  0 memorised,  8 levels left
+
+rFire  + . .     SeeInvis .     o - +2 whip (elec)
+rCold  . . .     Clarity  .     l - +1 scale mail
+rNeg   . . .     rCorr    .     (no shield)
+rPois  .         rRot     .     (helmet restricted)
+rElec  .         Spirit   .     (no cloak)
+SustAb +         Warding  .     (no gloves)
+rMut   .         Stasis   .     (no boots)
+Gourm  .                        (no amulet)
+MR     .....                    x - ring of protection from fire
+                                e - ring of sustain abilities
+
+@: berserking, lethally poisoned, slowed, not resistant to hostile enchantments,
+extremely unstealthy
+A: retaliatory headbutt, horns 2
+a: Burn Spellbooks, Berserk, Trog's Hand, Brothers in Arms, Renounce Religion
+
+
+You were on level 8 of the Dungeon.
+You worshipped Trog.
+Trog was exalted by your worship.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 8 of its levels.
+
+You collected 323 gold pieces.
+
+Inventory:
+
+Hand weapons
+ k - a +0 morningstar
+ n - a +1 battleaxe
+ o - a +2 whip of electrocution (weapon)
+ q - a +1 flail of holy wrath
+Armour
+ a - a +0 buckler
+ j - a +0 plate armour
+ l - a +1 scale mail (worn)
+Magical devices
+ p - a wand of slowing (14)
+ t - a wand of fireball (3)
+ v - a wand of flame (6)
+Comestibles
+ b - 3 fruits
+ c - 2 bread rations
+ z - a meat ration
+Scrolls
+ d - 11 scrolls of identify
+ g - a scroll of blinking {unknown}
+ i - 3 scrolls of fear
+ A - a scroll of enchant armour
+Jewellery
+ e - a ring of sustain abilities (left hand)
+ x - a ring of protection from fire (right hand)
+ y - an uncursed ring of flight
+Potions
+ f - 2 potions of curing
+ m - 2 potions of resistance
+ r - a potion of agility {unknown}
+ u - a potion of berserk rage {unknown}
+Books
+ h - a book of Necromancy   
+   
+   Spells                             Type                      Level
+   Pain                               Necromancy                   1
+   Animate Skeleton                   Necromancy                   1
+   Vampiric Draining                  Necromancy                   3
+   Regeneration                       Charms/Necromancy            3
+   Animate Dead                       Necromancy                   4
+   Control Undead                     Necromancy                   4
+   
+   
+   Trog disapproves of the use of such an item.
+ s - a book of Summonings   
+   
+   Spells                             Type                      Level
+   Abjuration                         Summoning                    3
+   Recall                             Summoning/Translocation      3
+   Shadow Creatures                   Summoning                    5
+   Summon Demon                       Summoning                    5
+   Summon Forest                      Summoning/Translocation      5
+   Monstrous Menagerie                Summoning                    6
+   
+   
+   Trog disapproves of the use of such an item.
+ w - a book of Wizardry   
+   
+   Spells                             Type                      Level
+   Agony                              Necromancy                   5
+   Force Lance                        Conjuration                  5
+   Dispersal                          Translocation                6
+   Haste                              Charms                       6
+   Invisibility                       Hexes                        6
+   Spellforged Servitor               Conjuration/Summoning        7
+   
+   
+   Trog disapproves of the use of such an item.
+
+
+   Skills:
+ + Level 9.4 Fighting
+ * Level 11.9 Maces & Flails
+ + Level 8.4 Armour
+ - Level 2.1 Dodging
+
+
+You had 8 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (8/15)             Temple (0/1) D:7         
+  Lair: D:8-11      
+
+Altars:
+Okawaru
+Sif Muna
+Xom
+Zin
+
+Shops:
+D:5 *(
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+
+
+Message History
+
+You headbutt the iron devil.
+The iron devil is severely wounded.
+You feel sick. The cyan ugly thing bites you. The cyan ugly thing shocks you!
+You hit the iron devil but do no damage.
+The iron devil is severely wounded.
+The red devil hits you from afar with a trident!
+* * * LOW HITPOINT WARNING * * *
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You completely miss the cyan ugly thing.
+The cyan ugly thing bites you.
+* * * LOW HITPOINT WARNING * * *
+The cyan ugly thing shocks you!
+* * * LOW HITPOINT WARNING * * *
+The kobold demonologist mumbles some strange words.
+The iron devil hits you with a dire flail!
+You die...
+
+    ######.##.#.#..#
+         #.##...#..####
+     #####.............
+     .............#####
+     ####....))...#
+  ###########.)...#
+ .................#
+ ........##.#.....#
+...$.##..%..#.....#
+.......5.##%#.....##
+..#..##4@#..#......#
+  #  #Ku##..#......###
+     #45 ...#........#
+    #55##...#.####.#.#
+    #.. ..#.#.#  #.#.#
+    ..##..#.#.#  #.#.#
+   #..    #.#.#  #.#.#
+    .#      ###  #.#.#
+                 #.#.#
+                 #.#.#
+                 ....#
+
+
+You could see a cyan ugly thing, an iron devil, a kobold demonologist, a red
+devil, a white imp, a shadow imp and 2 ufetubi.
+
+Vanquished Creatures
+  Pikel (D:4)
+  A hippogriff (D:5)
+  A soldier ant (D:8)
+  3 orc warriors (D:7)
+  4 slaves (D:4)
+  3 phantoms
+  A mottled dragon (D:8)
+  4 ogres
+  A centaur (D:5)
+  2 giant frogs
+  2 scorpions
+  4 wights (D:5)
+  9 orc priests
+  A hound (D:4)
+  4 crimson imps
+  10 orc wizards
+  An iguana (D:4)
+  6 worker ants
+  Ijyb (D:2)
+  Jessica (D:2)
+  An ogre skeleton (D:4)
+  A mummy (D:6)
+  4 adders
+  12 gnolls
+  An orc skeleton (D:5)
+  A shadow imp (D:5)
+  5 worms
+  An inept feature mimic (D:3)
+  An adder skeleton (D:6)
+  3 giant geckos
+  2 oozes (D:1)
+  33 orcs
+  A giant cockroach (D:1)
+  12 hobgoblins
+  10 jackals
+  13 bats
+  A giant gecko zombie (D:5)
+  5 giant newts
+  A giant spore (D:6)
+  11 goblins
+  A goblin zombie (D:5)
+  9 kobolds
+  2 kobold skeletons (D:7)
+  3 quokkas
+  13 rats
+  9 ballistomycetes
+216 creatures vanquished.
+
+Vanquished Creatures (others)
+  2 giant spores
+2 creatures vanquished.
+
+Grand Total: 218 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | D:1      | Asterion, the Minotaur Berserker, began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
+   288 | D:1      | Reached XP level 2. HP: 22/27 MP: 1/1
+   387 | D:1      | Reached skill level 4 in Fighting
+   497 | D:1      | Acquired Trog's second power
+   759 | D:1      | Reached XP level 3. HP: 33/33 MP: 2/2
+   926 | D:2      | Noticed Jessica
+   941 | D:2      | Killed Jessica
+  1014 | D:2      | Reached XP level 4. HP: 31/41 MP: 2/2
+  1167 | D:2      | Noticed Ijyb
+  1178 | D:2      | Killed Ijyb
+  1178 | D:2      | Reached skill level 5 in Maces & Flails
+  1489 | D:3      | Found a deep blue altar of Sif Muna.
+  1773 | D:3      | Found an iron altar of Okawaru.
+  1791 | D:3      | Reached skill level 5 in Fighting
+  2273 | D:3      | Reached XP level 5. HP: 45/48 MP: 2/2
+  2807 | D:4      | Noticed an ogre
+  2811 | D:4      | Killed an ogre
+  2811 | D:4      | Reached skill level 6 in Maces & Flails
+  2811 | D:4      | Reached XP level 6. HP: 54/56 MP: 3/3
+  2862 | D:4      | Noticed Pikel
+  2862 | D:4      | Noticed a slave
+  2862 | D:4      | Noticed a slave
+  2862 | D:4      | Noticed a slave
+  2865 | D:4      | Noticed a slave
+  2868 | D:4      | Killed a slave
+  2870 | D:4      | Killed a slave
+  2875 | D:4      | Killed Pikel
+  2875 | D:4      | Reached skill level 7 in Maces & Flails
+  2875 | D:4      | Reached skill level 5 in Armour
+  2875 | D:4      | Reached XP level 7. HP: 64/64 MP: 3/3
+  2876 | D:4      | Killed a freed slave
+  2902 | D:4      | Killed a freed slave
+  2963 | D:4      | Acquired Trog's third power
+  2966 | D:4      | Reached skill level 8 in Maces & Flails
+  3244 | D:4      | Got an ebony dagger
+  3245 | D:4      | Identified the +4 dagger "Noasch" {stab, rN+ Dex+3} (You found it on level 4 of the Dungeon)
+  3264 | D:4      | Reached XP level 8. HP: 67/71 MP: 3/3
+  3417 | D:4      | Noticed a phantom
+  3442 | D:4      | Killed a phantom
+  3614 | D:5      | Entered Level 5 of the Dungeon
+  3664 | D:5      | Reached skill level 9 in Maces & Flails
+  3785 | D:5      | Found Suuty's Antique Weapon Emporium.
+  4305 | D:5      | Reached skill level 10 in Maces & Flails
+  4514 | D:5      | Found Zin's Purification Station.
+  4582 | D:5      | Found a glowing silver altar of Zin.
+  4947 | D:6      | HP: 2/74 [something (33)]
+  5407 | D:6      | Reached XP level 9. HP: 47/81 MP: 4/4
+  6086 | D:7      | Reached skill level 11 in Maces & Flails
+  6539 | D:7      | Found a staircase to the Ecumenical Temple.
+  6905 | D:8      | Found a shimmering altar of Xom.
+  6986 | D:8      | Noticed a kobold demonologist
+  6988 | D:8      | Noticed a cyan ugly thing
+  6992 | D:8      | Noticed an iron devil
+  6996 | D:8      | Received a gift from Trog
+  7003 | D:8      | Slain by an iron devil
+
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Mace              |    71 |   107 |     1 ||   179
+       Whip              |       |       |   278 ||   278
+       Flail             |       |       |    19 ||    19
+       Battleaxe         |       |       |    66 ||    66
+       Morningstar       |       |       |    14 ||    14
+Invok: Berserk           |       |     4 |     5 ||     9
+Evoke: Wand              |       |       |     3 ||     3
+  Use: Scroll            |     4 |       |     5 ||     9
+       Potion            |       |     5 |       ||     5
+  Eat: Chunk             |       |     3 |    11 ||    14
+       Bread ration      |       |     2 |       ||     2
+       Meat ration       |       |       |     1 ||     1
+

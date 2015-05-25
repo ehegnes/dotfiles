@@ -1,0 +1,292 @@
+ Dungeon Crawl Stone Soup version 0.16-a0-4088-g7c8221e (console) character file.
+
+2156 Asterion the Basher (level 9, 0/82 HPs)
+             Began as a Minotaur Berserker on May 15, 2015.
+             Was an Elder of Trog.
+             Slain by Joseph
+             ... wielding a +0 quarterstaff
+              (9 damage)
+             ... on level 7 of the Dungeon.
+             The game lasted 00:13:28 (4557 turns).
+
+Asterion the Basher (Minotaur Berserker)            Turns: 4557, Time: 00:13:28
+
+Health: 0/82       AC: 10    Str: 25    XL:     9   Next: 10%
+Magic:  4/4        EV: 11    Int:  4    God:    Trog [****..]
+Gold:   427        SH:  0    Dex: 10    Spells: 0 memorised, 8 levels left
+
+rFire  . . .     SeeInvis .     a - +0 mace
+rCold  + . .     Clarity  .     u - +0 scale mail
+rNeg   . . .     SustAb   .     (no shield)
+rPois  .         Gourm    .     (helmet restricted)
+rElec  .         Spirit   .     C - +0 cloak
+rCorr  .         Warding  .     p - +0 pair of gloves
+rMut   .         Stasis   .     (no boots)
+MR     ++...                    v - amulet of regeneration
+Stlth  ..........               (no ring)
+                                q - ring of protection from cold
+
+@: regenerating, very resistant to hostile enchantments, extremely unstealthy
+A: retaliatory headbutt, horns 2
+a: Burn Spellbooks, Berserk, Trog's Hand, Brothers in Arms, Renounce Religion
+
+
+You were on level 7 of the Dungeon.
+You worshipped Trog.
+Trog was greatly pleased with you.
+You were very hungry.
+
+You visited 1 branch of the dungeon, and saw 7 of its levels.
+
+You collected 427 gold pieces.
+
+Inventory:
+
+Hand weapons
+ a - a +0 mace (weapon)
+Armour
+ p - a +0 pair of gloves (worn)
+ u - a +0 scale mail (worn)
+ C - a +0 cloak (worn)
+Jewellery
+ q - a ring of protection from cold (left hand)
+ s - an uncursed amulet of resist mutation
+ v - an amulet of regeneration (around neck)
+Scrolls
+ d - 2 scrolls of fear {unknown}
+ e - 3 scrolls of enchant armour {unknown}
+ i - 4 scrolls of teleportation {unknown}
+ j - 5 scrolls of identify {unknown}
+ k - a scroll of magic mapping {unknown}
+ l - a scroll of fog {unknown}
+ n - 6 scrolls of remove curse
+ t - 3 scrolls of blinking {unknown}
+ y - a scroll of enchant weapon {unknown}
+ z - a scroll of immolation {unknown}
+ B - a scroll of recharging {unknown}
+ E - 2 scrolls of random uselessness {unknown}
+Potions
+ b - a potion of mutation {unknown}
+ f - a potion of beneficial mutation {unknown}
+ g - a potion of flight {unknown}
+ h - a potion of might {unknown}
+ m - 3 potions of curing {unknown}
+ o - 6 potions of heal wounds {unknown}
+ w - 2 potions of agility {unknown}
+ x - a potion of degeneration {unknown}
+ A - a potion of experience {unknown}
+ F - a potion of haste {unknown}
+ G - 2 potions of lignification {unknown}
+Comestibles
+ c - 7 bread rations
+ r - 3 meat rations
+
+
+   Skills:
+ + Level 8.4 Fighting
+ - Level 10.3 Maces & Flails
+ + Level 7.8 Armour
+ - Level 2.1 Dodging
+
+
+You had 8 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (7/15)             Temple (0/1) D:5         
+
+Altars:
+Ashenzari
+Elyvilon
+Nemelex Xobeh
+Ru
+Zin
+The Shining One
+
+Shops:
+D:5 (
+
+Annotations:
+D:5 digging for scrolls
+D:7 Joseph
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+
+
+Message History
+
+Joseph hits you with an uncursed quarterstaff.
+* * * LOW HITPOINT WARNING * * *
+You hit Joseph but do no damage.
+Joseph is severely wounded.
+Joseph hits you with an uncursed quarterstaff.
+* * * LOW HITPOINT WARNING * * *
+Use which ability? (? or * to list) 
+You're too hungry to go berserk.
+Use which ability? (? or * to list) 
+Your skin crawls.
+You feel resistant to hostile enchantments.
+You feel slightly more hungry.
+Joseph hits you with an uncursed quarterstaff!
+* * * LOW HITPOINT WARNING * * *
+You sock Joseph!
+Joseph is almost dead.
+You sock Joseph! Your headbutt misses Joseph.
+Joseph is almost dead.
+Joseph hits you with an uncursed quarterstaff!
+You die...
+
+ ###############
+ ..............#
+ ....$.........##
+.......@........#
+.......>@(......#
+................#
+ ...........(...#
+ ............(..#
+ ...............#
+  ..............#
+   .............#
+    ............#
+       .........#
+       .........# ###
+       .........###.#
+      ..........##.##
+      .........###.#
+
+
+You could see Joseph.
+
+Vanquished Creatures
+  The ghost of Sanguine the Covered, an experienced DsAK of Lugonu (D:6)
+  Eustachio (D:7)
+  A hungry ghost (D:7)
+  Menkaure (D:5)
+  A black bear (D:6)
+  3 ice beasts
+  An ogre (D:4)
+  A phantom (D:5)
+  A centaur (D:7)
+  Duvessa (D:7)
+  2 giant frogs
+  A water moccasin skeleton (D:5)
+  A scorpion (D:5)
+  Dowan (D:7)
+  5 crimson imps
+  An iron imp (D:6)
+  Crazy Yiuf (D:4)
+  3 iguanas
+  2 jellies (D:5)
+  A giant frog skeleton (D:4)
+  2 centaur skeletons
+  Natasha (thrice) (D:6)
+  A hound zombie (D:7)
+  A gnoll (D:4)
+  8 adders
+  A river rat (D:7)
+  A white imp (D:7)
+  2 worms
+  2 adder skeletons (D:4)
+  2 giant geckos
+  4 oozes
+  6 orcs
+  3 ball pythons
+  A bat skeleton (D:4)
+  5 giant cockroaches
+  8 goblins
+  14 hobgoblins
+  3 quokkas
+  12 bats
+  A giant gecko skeleton (D:5)
+  A giant gecko zombie (D:5)
+  4 giant newts
+  13 kobolds
+  12 rats
+140 creatures vanquished.
+
+Vanquished Creatures (others)
+  A rat (D:1)
+1 creature vanquished.
+
+Grand Total: 141 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | D:1      | Asterion, the Minotaur Berserker, began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
+    43 | D:1      | Reached skill level 4 in Maces & Flails
+   195 | D:1      | Reached XP level 2. HP: 26/26 MP: 1/1
+   442 | D:1      | Acquired Trog's second power
+   449 | D:1      | Reached skill level 5 in Maces & Flails
+   634 | D:2      | Reached XP level 3. HP: 22/31 MP: 2/2
+   785 | D:2      | Found a glowing golden altar of the Shining One.
+  1151 | D:2      | Found a sparkling altar of Nemelex Xobeh.
+  1163 | D:2      | Found a shattered altar of Ashenzari.
+  1417 | D:3      | Reached XP level 4. HP: 30/39 MP: 2/2
+  1422 | D:3      | Reached skill level 6 in Maces & Flails
+  1523 | D:3      | Found a sacrificial altar of Ru.
+  2230 | D:4      | Found a white marble altar of Elyvilon.
+  2367 | D:4      | Noticed an ogre
+  2375 | D:4      | Killed an ogre
+  2470 | D:4      | Reached skill level 7 in Maces & Flails
+  2470 | D:4      | Reached XP level 5. HP: 19/45 MP: 2/2
+  2751 | D:4      | Noticed Crazy Yiuf
+  2759 | D:4      | Killed Crazy Yiuf
+  2876 | D:4      | Got a pair of faintly glowing gloves
+  2887 | D:4      | Identified the cursed -4 pair of gloves of Ziocogaa {rElec MR+ Str-5 Stlth+} (You found it on level 4 of the Dungeon)
+  2922 | D:5      | Entered Level 5 of the Dungeon
+  2931 | D:5      | Reached skill level 8 in Maces & Flails
+  2931 | D:5      | Reached XP level 6. HP: 41/51 MP: 3/3
+  3030 | D:5      | Acquired Trog's third power
+  3030 | D:5      | Reached skill level 9 in Maces & Flails
+  3053 | D:5      | Noticed a phantom
+  3063 | D:5      | Noticed an ice beast
+  3076 | D:5      | Reached XP level 7. HP: 57/57 MP: 3/3
+  3078 | D:5      | Killed a phantom
+  3078 | D:5      | Reached skill level 10 in Maces & Flails
+  3082 | D:5      | Killed an ice beast
+  3152 | D:5      | Found Shacweasm's Weapon Shop.
+  3188 | D:5      | Found a staircase to the Ecumenical Temple.
+  3306 | D:5      | Noticed Menkaure
+  3312 | D:5      | Killed Menkaure
+  3658 | D:5      | Found a glowing silver altar of Zin.
+  3780 | D:6      | Reached skill level 5 in Fighting
+  3780 | D:6      | Reached XP level 8. HP: 66/68 MP: 3/3
+  3792 | D:6      | Noticed Sanguine's ghost (experienced DsAK)
+  3800 | D:6      | Killed Sanguine's ghost
+  3800 | D:6      | Reached skill level 5 in Armour
+  3827 | D:6      | Noticed Natasha
+  3833 | D:6      | Killed Natasha
+  3943 | D:6      | Noticed Natasha
+  3967 | D:6      | Killed Natasha
+  4073 | D:6      | Noticed Natasha
+  4077 | D:6      | Killed Natasha
+  4311 | D:7      | Noticed Dowan
+  4312 | D:7      | Noticed Duvessa
+  4319 | D:7      | Killed Duvessa
+  4324 | D:7      | Killed Dowan
+  4383 | D:7      | Noticed Eustachio
+  4447 | D:7      | Killed Eustachio
+  4447 | D:7      | Reached XP level 9. HP: 78/81 MP: 4/4
+  4533 | D:7      | Noticed Joseph
+  4557 | D:7      | Slain by Joseph
+
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Mace              |    76 |   134 |   216 ||   426
+Invok: Berserk           |       |     2 |     3 ||     5
+       Trog's Hand       |       |       |     1 ||     1
+  Use: Scroll            |       |     1 |     1 ||     2
+  Eat: Chunk             |     1 |     5 |     8 ||    14
+       Pizza             |       |     1 |       ||     1
+       Beef jerky        |       |       |     1 ||     1
+       Fruit             |       |       |     1 ||     1
+

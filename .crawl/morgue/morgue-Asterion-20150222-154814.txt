@@ -1,0 +1,253 @@
+ Dungeon Crawl Stone Soup version 0.15.2 (console) character file.
+
+609 Asterion the Basher (level 7, -2/58 HPs)
+             Began as a Minotaur Berserker on Feb 22, 2015.
+             Was a High Priest of Trog.
+             Killed from afar by Sigmund (3 damage)
+             ... with a magic dart
+             ... on Level 5 of the Dungeon.
+             The game lasted 00:12:57 (3593 turns).
+
+Asterion the Basher (Minotaur Berserker)            Turns: 3593, Time: 00:12:57
+
+HP  -2/58        AC 10     Str 20      XL: 7   Next: 19%
+MP   3/3         EV  7     Int  4      God: Trog [*****.]
+Gold 132         SH  0     Dex 15      Spells:  0 memorised,  6 levels left
+
+rFire  . . .     SeeInvis .     H - +4 cutlass of Grandeur {slice, *Rage +Fly rC++ Str-1 Dex+3}
+rCold  + + .     Rnd*Rage +     d - +0 chain mail
+rNeg   . . .     rCorr    .     (no shield)
+rPois  .         rRot     .     (helmet restricted)
+rElec  .         Spirit   .     q - +0 cloak
+SustAb .         Warding  .     (no gloves)
+rMut   .         Stasis   .     (no boots)
+Gourm  .                        (no amulet)
+MR     .....                    (no ring)
+                                (no ring)
+
+@: confused, exhausted, slowed, very slow, not resistant to hostile
+enchantments, extremely unstealthy
+A: retaliatory headbutt, horns 2
+a: Burn Spellbooks, Berserk, Trog's Hand, Brothers in Arms, Renounce Religion,
+Evoke Flight
+
+
+You were on level 5 of the Dungeon.
+You worshipped Trog.
+Trog was extremely pleased with you.
+You were hungry.
+
+You visited 1 branch of the dungeon, and saw 5 of its levels.
+
+You collected 132 gold pieces.
+
+Inventory:
+
+Hand weapons
+ a - a +0 mace
+ H - the +4 cutlass of Grandeur (weapon) {slice, *Rage +Fly rC++ Str-1 Dex+3}
+   (You took it off an orc on level 4 of the Dungeon)   
+   
+   It inflicts extra damage upon your enemies.
+   
+   It affects your strength (-1).
+   It affects your dexterity (+3).
+   It greatly protects you from cold.
+   It lets you fly.
+   It may make you go berserk in combat.
+Armour
+ d - a +0 chain mail (worn)
+ q - a +0 cloak (worn)
+Magical devices
+ m - a wand of frost (12)
+ x - a wand of disintegration (21) {unknown}
+ D - a wand of digging (12) {unknown}
+Comestibles
+ b - 3 meat rations
+ c - 2 bread rations
+ j - a slice of pizza
+ C - 5 fruits
+ E - a beef jerky
+Scrolls
+ f - 5 scrolls of identify {unknown}
+ h - 2 scrolls of blinking {unknown}
+ i - a scroll of enchant armour {unknown}
+ o - a scroll of fear {unknown}
+ p - a scroll of fog {unknown}
+ s - 2 scrolls of recharging {unknown}
+ y - a scroll of random uselessness {unknown}
+ A - a scroll of amnesia {unknown}
+ B - a scroll of teleportation {unknown}
+ F - 3 scrolls of enchant weapon {unknown}
+Jewellery
+ n - an uncursed amulet of stasis {unknown}
+ w - an uncursed ring of poison resistance {unknown}
+ z - a +3 ring of evasion {unknown}
+Potions
+ e - 2 potions of heal wounds
+ g - 2 potions of might
+ k - a potion of curing
+ l - a potion of mutation {unknown}
+ r - a potion of brilliance {unknown}
+ t - a potion of resistance {unknown}
+ u - a potion of poison {unknown}
+ v - 2 potions of haste {unknown}
+ G - a potion of cancellation {unknown}
+
+
+   Skills:
+ + Level 3.8 Fighting
+ + Level 9.8 Maces & Flails
+ + Level 2.7 Armour
+ - Level 2.1 Dodging
+
+
+You had 6 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (5/15)            
+Temple: D:4-7       
+
+Altars:
+Cheibriados
+Kikubaaqudgha
+Okawaru
+
+Annotations:
+D:5 Sigmund
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+
+
+Message History
+
+You miss something.
+You hear a zap.
+The magic dart hits you!
+* * * LOW HITPOINT WARNING * * *
+You hear some strange, mumbled words.
+You are confused.
+You puncture something!
+You hear a zap.
+The magic dart hits you!
+* * * LOW HITPOINT WARNING * * *
+Something hits you but does no damage.
+Something hits you but does no damage.
+A kobold comes into view. It is wielding a dagger.
+The kobold shouts!
+The puff of flame hits you!
+* * * LOW HITPOINT WARNING * * *
+You're too confused!
+You're too confused!
+Ouch! The magic dart hits you!
+You die...
+
+       .   .
+    ......#.#.#  .#
+   .......#.#.## .#
+  #...K...#.#..##.##.
+  ##.... ..... .......
+   .....  ...  ......#
+     ...  #.###.#.....
+####.##.###.#........#.
+........@..............
+####.##.###.#..!.....#.
+      #.  #.####..##.#
+   #.##.###.#<##..##.
+   ...................
+   #.#......#.###.#..
+     #.####.#.#   #.
+   .........#.#
+    ........#.#
+    ........#.#
+    ##.........
+     #..###.#.#
+      ..  #.#.
+
+
+You could see a kobold.
+
+Vanquished Creatures
+  2 ogres (D:4)
+  A crimson imp (D:5)
+  Crazy Yiuf (D:2)
+  An orc priest (D:4)
+  A hound (D:5)
+  3 orc wizards (D:4)
+  2 worker ants (D:4)
+  8 adders
+  A gnoll (D:1)
+  A worm (D:2)
+  7 giant geckos
+  11 orcs
+  2 ball pythons
+  5 giant cockroaches
+  10 goblins
+  12 hobgoblins
+  2 jackals (D:3)
+  4 quokkas
+  9 bats
+  3 giant newts
+  A hobgoblin skeleton (D:4)
+  11 kobolds
+  8 rats
+106 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | D:1      | Asterion, the Minotaur Berserker, began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
+   158 | D:1      | Reached skill level 4 in Maces & Flails
+   218 | D:1      | Reached XP level 2. HP: 26/26 MP: 1/1
+   837 | D:1      | Reached skill level 5 in Maces & Flails
+   838 | D:1      | Reached XP level 3. HP: 10/31 MP: 2/2
+   956 | D:2      | Acquired Trog's second power
+   958 | D:2      | Found a snail-covered altar of Cheibriados.
+   958 | D:2      | Found an iron altar of Okawaru.
+  1061 | D:2      | Found an ancient bone altar of Kikubaaqudgha.
+  1071 | D:2      | Reached skill level 6 in Maces & Flails
+  1071 | D:2      | Reached XP level 4. HP: 8/39 MP: 2/2
+  1688 | D:2      | Noticed Crazy Yiuf
+  1697 | D:2      | Killed Crazy Yiuf
+  1804 | D:2      | W
+  1977 | D:3      | Reached XP level 5. HP: 42/45 MP: 2/2
+  2044 | D:3      | Reached skill level 7 in Maces & Flails
+  2450 | D:3      | Acquired Trog's third power
+  2699 | D:4      | Reached skill level 8 in Maces & Flails
+  2808 | D:4      | Noticed an ogre
+  2813 | D:4      | Killed an ogre
+  2813 | D:4      | Reached XP level 6. HP: 43/51 MP: 3/3
+  3100 | D:4      | W
+  3314 | D:4      | Noticed an ogre
+  3326 | D:4      | Reached skill level 9 in Maces & Flails
+  3328 | D:4      | Killed an ogre
+  3340 | D:4      | Got a crystal cutlass
+  3341 | D:4      | Identified the +4 cutlass of Grandeur {slice, *Rage +Fly rC++ Str-1 Dex+3} (You took it off an orc on level 4 of the Dungeon)
+  3358 | D:4      | Reached XP level 7. HP: 53/57 MP: 3/3
+  3367 | D:4      | W
+  3546 | D:5      | Entered Level 5 of the Dungeon
+  3564 | D:5      | Noticed Sigmund
+  3592 | D:5      | HP: 1/58 [something/puff of flame (8)]
+  3593 | D:5      | Killed from afar by Sigmund
+
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Mace              |    75 |   144 |       ||   219
+       Cutlass           |       |     3 |    24 ||    27
+Invok: Berserk           |     1 |     2 |       ||     3
+Evoke: Wand              |       |     1 |       ||     1
+  Use: Potion            |       |     3 |       ||     3
+  Eat: Pizza             |     1 |       |       ||     1
+       Chunk             |       |     4 |       ||     4
+       Beef jerky        |       |     1 |       ||     1
+       Bread ration      |       |     1 |       ||     1
+

@@ -1,0 +1,180 @@
+ Dungeon Crawl Stone Soup version 0.13.1 (console) character file.
+
+285 Dracula the Covert (level 4, 0/32 HPs)
+             Began as a Vampire Assassin on July 19, 2014.
+             Succumbed to a worker ant's poison
+             ... on Level 4 of the Dungeon.
+             The game lasted 00:11:27 (3406 turns).
+
+Dracula the Covert (Vampire Assassin)               Turns: 3406, Time: 00:11:27
+
+HP   0/32        AC  0     Str  5      XL: 4   Next: 90%
+MP   2/4         EV 19     Int 11 (13) God: 
+Gold 155         SH  0     Dex 21      Spells:  0 memorised,  3 levels left
+
+Res.Fire  : . . .   See Invis. : +   a - melded +2,+3 dagger {=f}
+Res.Cold  : . . .   Warding    : .   c - melded +0 robe
+Life Prot.: + . .   Conserve   : .   (shield currently unavailable)
+Res.Poison: .       Res.Corr.  : .   (helmet currently unavailable)
+Res.Elec. : .       Clarity    : .   d - melded +0 cloak (curse)
+Sust.Abil.: . .     Spirit.Shd : .   (gloves currently unavailable)
+Res.Mut.  : .       Stasis     : .   (boots currently unavailable)
+Res.Rott. : .       Flight     : +   (no amulet)
+Saprovore : . . .                    (ring currently unavailable)
+                                     (ring currently unavailable)
+
+@: bat-form, flying, mildly poisoned, very quick, slightly resistant to hostile
+enchantments, extremely stealthy
+A: (fangs 0), see invisible, (unbreathing)
+a: End Transformation
+
+
+You were on level 4 of the Dungeon.
+You were not thirsty.
+
+You were in vampire bat-form.
+
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+
+You collected 105 gold pieces.
+
+Inventory:
+
+Hand weapons
+ a - a +2,+3 dagger (melded) {=f}
+ b - a +0 blowgun
+Missiles
+ e - 8 poisoned needles
+ f - 2 curare-tipped needles
+ o - 2 needles of confusion
+Armour
+ c - a +0 robe (melded)
+ d - a cursed +0 cloak (melded)
+Magical devices
+ g - a wand of random effects (11) {unknown}
+Scrolls
+ h - a scroll of amnesia
+ j - 2 scrolls of identify
+ m - 2 scrolls of remove curse
+Jewellery
+ i - an uncursed ring of flight {unknown}
+
+
+   Skills:
+ - Level 1.7 Fighting
+ + Level 2.5 Short Blades
+ - Level 1.5 Throwing
+ - Level 1.1 Dodging
+ + Level 9.3 Stealth
+
+
+You had 3 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/27)            
+Temple: D:4-7       
+
+Altars:
+Nemelex Xobeh
+
+Shops:
+D:4 /
+
+
+Innate Abilities, Weirdness & Mutations
+
+((You have razor-sharp teeth.))*
+You have supernaturally acute eyesight.
+((You can survive without breathing.))*
+
+
+Message History
+
+You feel sick. The worker ant closely misses you. The worker ant bites you.
+* * * LOW HITPOINT WARNING * * *
+You hit the worker ant but do no damage.
+The worker ant is severely wounded.
+The worker ant bites you but does no damage.
+You hit the worker ant.
+The worker ant is almost dead.
+* * * LOW HITPOINT WARNING * * *
+You feel sick. The worker ant completely misses you.
+Use which ability? (? or * to list) 
+You turn into a vampire bat.
+Your +2,+3 dagger {=f} melds into your body.
+Your cursed +0 cloak melds into your body.
+Your +0 robe melds into your body.
+* * * LOW HITPOINT WARNING * * *
+You feel sick. The worker ant bites you.
+* * * LOW HITPOINT WARNING * * *
+* * * LOW HITPOINT WARNING * * *
+You feel sick.
+You die...
+
+#....####.... .
+#.###.......##.#
+#.###.###.# ...
+#.....#≈#.#...
+#.###.###.#.#
+#.# #.......#
+#.# #####.#.#
+#.#     #.#
+#.#     #.#
+#.#     #.#
+#.#     #.#
+#.#######.###.#
+#...a.b...)..#
+#############.#
+
+
+You could see a worker ant.
+
+Vanquished Creatures
+  A worker ant (D:4)
+  3 adders
+  A worm (D:2)
+  2 adder skeletons
+  4 giant geckos
+  5 oozes
+  2 giant cockroaches (D:2)
+  6 goblins
+  8 hobgoblins
+  7 kobolds
+  2 quokkas (D:2)
+  2 ball pythons
+  4 bats
+  8 giant newts
+  11 rats
+66 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | D:1      | Dracula, the Vampire Assassin, began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 15/15 MP: 1/1
+     8 | D:1      | Reached skill level 6 in Stealth
+   103 | D:1      | Reached XP level 2. HP: 19/21 MP: 2/2
+   211 | D:1      | Reached skill level 7 in Stealth
+   507 | D:1      | Reached XP level 3. HP: 17/26 MP: 3/3
+  1834 | D:2      | Reached skill level 8 in Stealth
+  1959 | D:2      | Reached XP level 4. HP: 25/32 MP: 4/4
+  2489 | D:3      | Found a sparkling altar of Nemelex Xobeh.
+  2879 | D:4      | Reached skill level 9 in Stealth
+  2916 | D:4      | Found Uxeet's Magical Wand Shoppe.
+  2989 | D:4      | HP: 1/32 [worker ant (7)]
+  3405 | D:4      | HP: 1/32 [poisoned by a worker ant]
+  3406 | D:4      | Succumbed to a worker ant's poison
+
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Dagger            |   242 |    92 ||   334
+ Abil: Bat Form          |     1 |     2 ||     3
+       End Transformatio |     1 |     1 ||     2
+  Use: Scroll            |     8 |     3 ||    11
+       Potion            |       |     7 ||     7
+ Stab: Sleeping          |    13 |    11 ||    24
+

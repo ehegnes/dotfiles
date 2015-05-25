@@ -1,0 +1,220 @@
+ Dungeon Crawl Stone Soup version 0.15.2 (console) character file.
+
+804 Asterion the Basher (level 7, 0/85 HPs)
+             Began as a Minotaur Berserker on Dec 29, 2014.
+             Was a Priest of Trog.
+             Slain by a hippogriff (3 damage)
+             ... on Level 5 of the Dungeon.
+             The game lasted 00:11:19 (4542 turns).
+
+Asterion the Basher (Minotaur Berserker)            Turns: 4542, Time: 00:11:19
+
+HP   0/85        AC -3     Str 26      XL: 7   Next: 60%
+MP   3/3         EV  9     Int  7      God: Trog [***...]
+Gold 134         SH  5     Dex 12      Spells:  0 memorised,  6 levels left
+
+rFire  . . .     SeeInvis .     q - +2 whip (pain)
+rCold  . . .     Clarity  .     i - +0 ring mail
+rNeg   . . .     rCorr    .     o - +2 buckler
+rPois  .         rRot     .     (helmet restricted)
+rElec  .         Spirit   .     (no cloak)
+SustAb .         Warding  .     j - +0 pair of gloves
+rMut   .         Stasis   .     (no boots)
+Gourm  .                        (no amulet)
+MR     .....                    m - +3 ring of intelligence
+                                u - ring of stealth
+
+@: berserking, corroded equipment, very quick, not resistant to hostile
+enchantments, extremely unstealthy
+A: retaliatory headbutt, horns 2
+a: Burn Spellbooks, Berserk, Trog's Hand, Renounce Religion
+
+
+You were on level 5 of the Dungeon.
+You worshipped Trog.
+Trog was most pleased with you.
+You were hungry.
+
+You visited 1 branch of the dungeon, and saw 5 of its levels.
+
+You collected 134 gold pieces.
+
+Inventory:
+
+Hand weapons
+ a - a +0 mace
+ q - a +2 whip of pain (weapon)
+Armour
+ i - a +0 ring mail (worn)
+ j - a +0 pair of gloves (worn)
+ o - a +2 buckler (worn)
+Comestibles
+ c - 5 bread rations
+ d - a slice of pizza
+Scrolls
+ k - 5 scrolls of identify
+ n - 3 scrolls of enchant armour {unknown}
+ p - a scroll of fear {unknown}
+Jewellery
+ m - a +3 ring of intelligence (right hand)
+ u - a ring of stealth (left hand)
+Potions
+ b - a potion of heal wounds {unknown}
+ e - a potion of might
+ f - a potion of haste {unknown}
+ h - a potion of porridge
+ l - a potion of curing {unknown}
+ r - a potion of brilliance {unknown}
+ s - a potion of beneficial mutation {unknown}
+
+
+   Skills:
+ - Level 3.6 Fighting
+ + Level 10.7 Maces & Flails
+ - Level 2.4 Armour
+ - Level 2.1 Dodging
+
+
+You had 6 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (5/15)             Temple (0/1) D:4         
+
+Altars:
+Cheibriados
+Makhleb
+Nemelex Xobeh
+Xom
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+
+
+Message History
+
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You hit the jelly. You headbutt the jelly.
+You kill the jelly!
+Trog accepts your kill.
+You whack the giant cockroach!
+You kill the giant cockroach!
+Trog accepts your kill.
+The ice beast hits you.
+* * * LOW HITPOINT WARNING * * *
+The ice beast freezes you!
+* * * LOW HITPOINT WARNING * * *
+Found a shimmering altar of Xom.
+You see here a giant cockroach corpse.
+You whack the hippogriff!
+The hippogriff is moderately wounded.
+The hippogriff misses you. You furiously retaliate! You headbutt the hippogriff! The hippogriff pecks you.
+* * * LOW HITPOINT WARNING * * *
+The hippogriff claws you.
+You die...
+
+                  #
+                 #.  ..≈
+                  .  .≈≈.
+                  .##.≈≈.§
+                  ....l≈§§§
+                  #...≈....
+          #########...≈≈≈≈.
+        #.........YH...≈≈≈≈≈
+       .#.#.......#@##..###)
+      #............)........
+      #..#.#.#.#.##.########
+      #..........##.#
+      #..#.#.#.#.##.#
+ #    #..........##.#######
+ #.####..#.#.#.#............
+ ..........................
+ #.......#.#.#.#......#####
+  ####...)............#
+......................#
+ #####.....#..##..#.###
+
+
+You could see a hippogriff, an ice beast and a giant newt.
+
+Vanquished Creatures
+  A hungry ghost (D:4)
+  2 ogres
+  The ghost of Sanguine the Cudgeler, an average DsAK of Lugonu (D:3)
+  4 hounds
+  A jelly (D:5)
+  3 worker ants (D:4)
+  7 adders
+  2 giant mites
+  5 worms
+  2 orcs (D:4)
+  5 giant cockroaches
+  4 goblins
+  13 hobgoblins
+  7 jackals
+  4 kobolds
+  12 bats
+  3 giant geckos
+  4 giant newts
+  A giant newt zombie (D:5)
+  14 rats
+95 creatures vanquished.
+
+Vanquished Creatures (others)
+  2 hounds (D:5)
+  2 worker ants (D:5)
+  A goblin (D:5)
+  An orc zombie (D:5)
+6 creatures vanquished.
+
+Grand Total: 101 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | D:1      | Asterion, the Minotaur Berserker, began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
+   112 | D:1      | Reached skill level 4 in Maces & Flails
+   363 | D:1      | Reached XP level 2. HP: 26/26 MP: 1/1
+   556 | D:1      | Acquired Trog's second power
+   902 | D:2      | Reached skill level 5 in Maces & Flails
+   902 | D:2      | Reached XP level 3. HP: 16/31 MP: 2/2
+  1303 | D:2      | Reached skill level 6 in Maces & Flails
+  1303 | D:2      | Reached XP level 4. HP: 23/39 MP: 2/2
+  1416 | D:2      | Found a snail-covered altar of Cheibriados.
+  1428 | D:2      | Found a sparkling altar of Nemelex Xobeh.
+  2313 | D:3      | Noticed Sanguine's ghost (average DsAK)
+  2323 | D:3      | Killed Sanguine's ghost
+  2323 | D:3      | Reached skill level 7 in Maces & Flails
+  2323 | D:3      | Reached XP level 5. HP: 39/45 MP: 2/2
+  2888 | D:3      | Reached skill level 8 in Maces & Flails
+  2888 | D:3      | Reached XP level 6. HP: 39/51 MP: 3/3
+  2924 | D:3      | Found a burning altar of Makhleb.
+  2975 | D:4      | Found a staircase to the Ecumenical Temple.
+  3550 | D:4      | Noticed a hungry ghost
+  3579 | D:4      | Killed a hungry ghost
+  3579 | D:4      | Reached skill level 9 in Maces & Flails
+  3745 | D:4      | Reached XP level 7. HP: 4/57 MP: 3/3
+  3913 | D:4      | Reached skill level 10 in Maces & Flails
+  4487 | D:5      | Entered Level 5 of the Dungeon
+  4541 | D:5      | Found a shimmering altar of Xom.
+  4542 | D:5      | HP: 3/85 [hippogriff (2)]
+  4542 | D:5      | Slain by a hippogriff
+
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Mace              |    71 |   114 |       ||   185
+       Whip              |       |    76 |    46 ||   122
+Invok: Berserk           |       |     2 |     1 ||     3
+  Use: Scroll            |       |     8 |     1 ||     9
+       Potion            |       |     3 |       ||     3
+  Eat: Chunk             |     1 |    10 |     1 ||    12
+       Fruit             |       |       |     3 ||     3
+

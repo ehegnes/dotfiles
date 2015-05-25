@@ -1,0 +1,225 @@
+Dracula
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a bread ration
+(-10, 1, D:1)
+  7 tomahawks
+(-12, 2, D:1)
+  a +1,+1 short sword
+(-36, 10, D:1)
+  4 darts
+(-36, 12, D:1)
+  15 stones
+(12, 14, D:1)
+  3 darts of dispersal
+(-26, 18, D:1)
+  a bread ration
+(6, 20, D:1)
+  a +0,+0 short sword
+(-10, 22, D:1)
+  a cursed +0,+0 dagger
+(-20, 24, D:1)
+  a +0 robe
+(-45, 25, D:1)
+  a +2,+0 dagger
+(-45, 26, D:1)
+  an orange
+(12, 31, D:1)
+  a +0,+0 club
+(-20, 36, D:1)
+  5 steel darts
+(-17, 42, D:1)
+  20 sling bullets
+(3, 46, D:1)
+  a +0,+0 dagger
+(-19, 47, D:1)
+  5 tomahawks
+
+Level 2 of the Dungeon
+(-24, 20, D:2)
+  17 stones
+(-24, 22, D:2)
+  a +0 ring mail
+(-18, 22, D:2)
+  16 arrows
+(24, 23, D:2)
+  a +0,+0 short sword
+(-24, 26, D:2)
+  a cursed -3,-3 club
+(16, 29, D:2)
+  a dart
+(17, 29, D:2)
+  a dart
+(19, 29, D:2)
+  a dart
+(-5, 30, D:2)
+  a cursed -2,-2 club
+(-3, 30, D:2)
+  a pear
+(-24, 31, D:2)
+  a +0 chain mail
+(31, 32, D:2)
+  a +2,+2 flail
+(-7, 34, D:2)
+  14 exploding darts
+(-5, 38, D:2)
+  a snozzcumber
+(1, 40, D:2)
+  22 stones
+(5, 44, D:2)
+  a +0,+0 club
+(4, 46, D:2)
+  a +0,+0 club
+(-6, 48, D:2)
+  a +0,+0 dagger
+(5, 48, D:2)
+  26 arrows
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +0,+0 dagger
+(-34, 1, D:3)
+  a bread ration
+(12, 1, D:3)
+  a +0,+0 whip
+(-31, 7, D:3)
+  an uncursed staff of wizardry
+(11, 13, D:3)
+  a cursed -3,-3 dagger
+(-31, 16, D:3)
+  26 stones
+(-2, 20, D:3)
+  23 arrows
+(-13, 22, D:3)
+  a bread ration
+(-14, 32, D:3)
+  8 silver darts
+(1, 33, D:3)
+  a +0,+0 cutlass
+(18, 41, D:3)
+  18 darts
+(14, 42, D:3)
+  a +0 pair of boots
+
+Level 4 of the Dungeon
+[Shop] Qeis' Armour Boutique
+  a +1 scale mail (108 gold)
+  a +0 pair of boots (54 gold)
+  a +3 leather armour of cold resistance (288 gold)
+  a +0 helmet of intelligence (138 gold)
+  the cursed -4 robe "Paonarph" {+Blink} (1 gold)
+    It lets you blink.
+    It has a curse placed upon it.
+  a +0 pair of boots (54 gold)
+  a +1 ring mail of cold resistance (192 gold)
+  a +2 ring mail (168 gold)
+  a +0 leather armour (24 gold)
+  a +0 ring mail (48 gold)
+  a +0 robe (8 gold)
+[Shop] Wuddamuf's Assorted Antiques
+  a potion of cure mutation (735 gold)
+  a potion of agility (52 gold)
+  a potion of agility (52 gold)
+  a potion of cure mutation (735 gold)
+  a potion of curing (42 gold)
+  a scroll of acquirement (21 gold)
+  a scroll of magic mapping (73 gold)
+  a scroll of recharging (199 gold)
+  a crystal ball of energy (420 gold)
+  a scroll of enchant weapon II (21 gold)
+  3 scrolls of fear (220 gold)
+  a book of the Dragon (315 gold)
+[Shop] Zikk's Jewellery Shoppe
+  a +3 ring of protection (231 gold)
+  the amulet of Ofushryt {Spirit SInv} (453 gold)
+    [amulet of guardian spirit]
+    It enhances your eyesight.
+  an uncursed ring of positive energy (220 gold)
+  an uncursed ring of protection from magic (275 gold)
+  a +1 ring of dexterity (24 gold)
+  a +2 ring of protection (110 gold)
+  an uncursed ring of protection from cold (275 gold)
+  an uncursed amulet of guardian spirit (330 gold)
+[Shop] Lomuel's General Store
+  a scroll of identify (20 gold)
+  a potion of agility (25 gold)
+  a +0,+0 mace (30 gold)
+  a potion of brilliance (25 gold)
+  a scroll of fear (35 gold)
+  a +0 ring mail (40 gold)
+  a +0,+0 dagger (20 gold)
+  a potion of confusion (10 gold)
+  the +2,+2 short sword "Ghexio Huco" {slice, rF+ rC+ Dex-2} (333 gold)
+    It inflicts extra damage upon your enemies.
+    
+    It affects your dexterity (-2).
+    It protects you from fire.
+    It protects you from cold.
+(0, 0, D:4)
+  a cursed -2,-3 club
+(10, 4, D:4)
+  17 stones
+(16, 7, D:4)
+  21 stones
+(-27, 8, D:4)
+  a +0,+0 dagger
+  a +0,+0 bow
+  7 arrows
+  a kobold corpse (skeletalised by now)
+(-23, 8, D:4)
+  17 bolts
+(18, 11, D:4)
+  a stone
+(-37, 12, D:4)
+  a choko
+(18, 12, D:4)
+  a stone
+(22, 14, D:4)
+  a curare-tipped needle
+(5, 15, D:4)
+  an arrow
+(19, 15, D:4)
+  15 gold pieces
+(6, 18, D:4)
+  a +0,+0 dagger
+(15, 18, D:4)
+  a potion of paralysis
+(26, 20, D:4)
+  a stone
+(15, 21, D:4)
+  a scroll of noise
+(26, 23, D:4)
+  an orc skeleton
+(26, 24, D:4)
+  an arrow
+(26, 25, D:4)
+  an arrow
+(-7, 26, D:4)
+  a pear
+(-7, 31, D:4)
+  2 arrows
+(-6, 31, D:4)
+  3 arrows
+(-6, 32, D:4)
+  an arrow
+(-6, 36, D:4)
+  26 bolts
+(-4, 38, D:4)
+  a +0,+0 dagger
+(21, 40, D:4)
+  a potion of porridge
+(2, 41, D:4)
+  2 stones
+(3, 42, D:4)
+  2 stones
+(4, 42, D:4)
+  a +0,+0 dagger
+  (unseen)
+(5, 42, D:4)
+  2 stones
+(-6, 51, D:4)
+  a +2,+0 whip
+
+the Ecumenical Temple
+

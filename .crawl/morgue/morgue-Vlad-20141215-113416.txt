@@ -1,0 +1,278 @@
+ Dungeon Crawl Stone Soup version 0.15.2 (console) character file.
+
+931 Vlad the Covert (level 7, -7/46 HPs)
+             Began as a Vampire Enchanter on Dec 15, 2014.
+             Was a Follower of Dithmenos.
+             Mangled by a wight
+             ... wielding a cursed +0 great sword
+              (8 damage)
+             ... on Level 5 of the Dungeon.
+             The game lasted 00:21:56 (3457 turns).
+
+Vlad the Covert (Vampire Enchanter)                 Turns: 3457, Time: 00:21:56
+
+HP  -7/46        AC  8     Str  4 (5)  XL: 7   Next: 86%
+MP  23/23        EV 12     Int 17      God: Dithmenos [*.....]
+Gold 338         SH  0     Dex 13 (16) Spells:  1 memorised, 10 levels left
+
+rFire  + . .     SeeInvis +     b - +2 falchion
+rCold  + . .     Clarity  .     h - +2 robe {rC+}
+rNeg   + . .     rCorr    .     (no shield)
+rPois  .         rRot     .     (no helmet)
+rElec  .         Spirit   .     s - +0 cloak
+SustAb .         Warding  .     n - +2 pair of gloves
+rMut   .         Stasis   .     (no boots)
+Gourm  .                        (no amulet)
+MR     +....                    d - ring of magical power
+                                r - ring of protection from fire
+
+@: wreathed by umbra, somewhat resistant to hostile enchantments, very stealthy
+A: bottle blood, fangs 3, see invisible, deterioration 1, magic resistance 1,
+weak 1, unbreathing
+a: Bat Form, Bottle Blood, Renounce Religion
+
+
+You were on level 5 of the Dungeon.
+You worshipped Dithmenos.
+Dithmenos was aware of your devotion.
+You were not thirsty.
+
+You visited 1 branch of the dungeon, and saw 5 of its levels.
+
+You collected 338 gold pieces.
+
+Inventory:
+
+Hand weapons
+ a - a +2 dagger of speed
+ b - a +2 falchion (weapon)
+Armour
+ h - a +2 robe of cold resistance (worn)
+ n - a +2 pair of gloves (worn)
+ s - a +0 cloak (worn)
+Magical devices
+ l - a wand of lightning (6)
+ p - a wand of digging (16)
+ q - a wand of frost (14)
+ u - a wand of digging (15)
+Scrolls
+ e - a scroll of enchant weapon
+ f - 5 scrolls of identify
+ m - 2 scrolls of teleportation
+ t - a scroll of enchant armour {unknown}
+Jewellery
+ d - a ring of magical power (right hand)
+ r - a ring of protection from fire (left hand)
+Potions
+ i - 2 potions of curing
+ v - 5 potions of blood
+Books
+ c - a book of Maledictions   
+   
+   Spells                             Type                      Level
+   Corona                             Hexes                        1
+   Sure Blade                         Hexes/Charms                 2
+   *Ensorcelled Hibernation           Hexes/Ice                    2
+   Confuse                            Hexes                        3
+   Dazzling Spray                     Conjuration/Hexes            3
+   Enslavement                        Hexes                        4
+
+
+   Skills:
+ + Level 5.5 Short Blades
+ - Level 2.3 Dodging
+ * Level 9.8 Stealth
+ - Level 3.1 Spellcasting
+ - Level 5.8 Hexes
+ + Level 1.6 Ice Magic
+ + Level 1.1 Invocations
+
+
+You had 10 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+b - Ensorcelled Hibernat  Hex/Ice        ###...       6%          2    ##.....
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (5/15)            
+Temple: D:4-7       
+
+Altars:
+Dithmenos
+Elyvilon
+Makhleb
+Qazlal
+Vehumet
+Zin
+
+Shops:
+D:4 [
+
+
+Innate Abilities, Weirdness & Mutations
+
+You can bottle blood from corpses.
+You have razor-sharp teeth.
+You have supernaturally acute eyesight.
+You can survive without breathing.
+Your body is slowly deteriorating.
+You are resistant to hostile enchantments.
+You are weak. (Str -2)
+
+
+Message History
+
+There is a fountain of clear blue water here.
+Found a beef jerky.
+The wight hits you with a great sword.
+* * * LOW HITPOINT WARNING * * *
+There is a fountain of clear blue water here.
+Drink which item? (? for menu, Esc to quit)
+There was something very wrong with that liquid!
+You feel clumsy.
+It was a potion of degeneration. The wight hits you with a great sword.
+* * * LOW HITPOINT WARNING * * *
+You hit the wight but do no damage.
+The wight is moderately damaged.
+The wight barely misses you.
+You hit the wight but do no damage.
+The wight is moderately damaged.
+The wight misses you.
+You slash the wight!
+The wight is severely damaged.
+The wight hits you with a great sword!
+You die...
+
+                    #.#       #.#
+                    #.#########.#
+                    #.#.........#
+#####################.#.........#########
+#......................................>#
+#.###################.#.........#######.#
+#.#                 #.#........##     #.#
+#.#                ##.#....<...#      #.#
+#.#                #..#######.##      #.#
+#.##################.##     #.#       #.#
+#>........#...#...#...#     #.#    ####.#
+#.#########.⌠.#.⌠.#.⌠.#     #.#    #....#
+#.#  ######.@.#...#...#     #.#    #....#
+#.#  #....##z###.###.########.######....#
+#.#  #....#...#...#...#.................#
+#.#  #....#.⌠...⌠...⌠.#.#####.######.%.##
+#.#  #....#...#%..#...#     #.#    #...#
+#.####....##.###.######     #.#    #...#
+#.........#...#...#         #.#    #...#
+######....#.⌠.#.⌠...        #.#   ##...###
+     #....#...#...#..       #.#   #......#
+     ####.###########       #.#   #......#
+        #.#                  .    #......#
+        #.#                       #>.....#
+        #.#                       #....%.#
+
+
+You could see a wight.
+
+Vanquished Creatures
+  Pikel (D:4)
+  2 slaves (D:4)
+  Sigmund (D:2)
+  4 wights (D:5)
+  A jelly (D:5)
+  Crazy Yiuf (D:2)
+  A hound (D:4)
+  Ijyb (D:2)
+  6 adders
+  A giant mite (D:5)
+  3 oozes
+  5 orcs
+  5 bats
+  17 goblins
+  10 hobgoblins
+  14 kobolds
+  A ball python (D:2)
+  4 giant cockroaches
+  A giant gecko (D:1)
+  4 giant newts
+  A kobold skeleton (D:5)
+  8 rats
+92 creatures vanquished.
+
+Vanquished Creatures (others)
+  A giant cockroach (D:4)
+  A quokka (D:4)
+  A rat (D:4)
+3 creatures vanquished.
+
+Grand Total: 95 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | D:1      | Vlad, the Vampire Enchanter, began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+   335 | D:1      | Reached XP level 2. HP: 16/19 MP: 4/4
+   515 | D:1      | Reached skill level 5 in Stealth
+   684 | D:1      | Reached XP level 3. HP: 6/24 MP: 6/6
+   742 | D:1      | Learned a level 2 spell: Ensorcelled Hibernation
+   903 | D:2      | Noticed Sigmund
+   911 | D:2      | Killed Sigmund
+   911 | D:2      | Reached skill level 6 in Stealth
+   911 | D:2      | Reached XP level 4. HP: 30/30 MP: 7/7
+  1141 | D:2      | Noticed Crazy Yiuf
+  1147 | D:2      | Killed Crazy Yiuf
+  1147 | D:2      | Reached XP level 5. HP: 28/35 MP: 9/9
+  1357 | D:2      | Noticed Ijyb
+  1398 | D:2      | Killed Ijyb
+  1682 | D:3      | Reached skill level 7 in Stealth
+  1696 | D:3      | Found a stormy altar of Qazlal.
+  1760 | D:3      | Noticed an angel
+  1761 | D:3      | Found a glowing silver altar of Zin.
+  2273 | D:3      | Found a shadowy altar of Dithmenos.
+  2273 | D:3      | Found a burning altar of Makhleb.
+  2346 | D:3      | Became a worshipper of Dithmenos the Shadowed
+  2538 | D:4      | Gained mutation: Your body is slowly deteriorating. [potion of mutation]
+  2538 | D:4      | Gained mutation: You are resistant to hostile enchantments. [potion of mutation]
+  2538 | D:4      | Gained mutation: You are weak. (Str -2) [potion of mutation]
+  2544 | D:4      | Found a radiant altar of Vehumet.
+  2634 | D:4      | Noticed a slave
+  2637 | D:4      | Noticed a slave
+  2638 | D:4      | Killed a slave
+  2639 | D:4      | Noticed Pikel
+  2639 | D:4      | Noticed a slave
+  2639 | D:4      | Noticed a slave
+  2643 | D:4      | Killed Pikel
+  2643 | D:4      | Reached skill level 5 in Short Blades
+  2643 | D:4      | Reached skill level 9 in Stealth
+  2643 | D:4      | Reached skill level 5 in Hexes
+  2643 | D:4      | Reached XP level 6. HP: 41/41 MP: 13/13
+  2643 | D:4      | Reached XP level 7. HP: 46/46 MP: 14/14
+  2659 | D:4      | Killed a freed slave
+  2777 | D:4      | Found Ewuuc's Armour Shop.
+  2923 | D:4      | Found a white marble altar of Elyvilon.
+  3158 | D:5      | Entered Level 5 of the Dungeon
+  3326 | D:5      | Reached skill level 1 in Ice Magic
+  3349 | D:5      | Reached skill level 1 in Invocations
+  3399 | D:5      | HP: 2/46 [wight/great sword (9)]
+  3446 | D:5      | HP: 1/46 [wight/great sword (6)]
+  3454 | D:5      | HP: 1/46 [wight/great sword (1)]
+  3457 | D:5      | Mangled by a wight
+
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Dagger            |   129 |    85 |   140 ||   354
+       Falchion          |       |       |    10 ||    10
+ Cast: Ensorcelled Hiber |       |    11 |    11 ||    22
+ Abil: Bottle Blood      |       |       |     6 ||     6
+Evoke: Wand              |       |     1 |     1 ||     2
+  Use: Potion            |     2 |     3 |     5 ||    10
+       Scroll            |     5 |     4 |     1 ||    10
+ Stab: Sleeping          |     7 |    14 |    10 ||    31
+       Invisible         |     1 |       |       ||     1
+       Distracted        |       |     1 |       ||     1
+  Eat: Corpse            |     5 |     1 |       ||     6
+

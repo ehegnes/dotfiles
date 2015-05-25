@@ -1,0 +1,195 @@
+ Dungeon Crawl Stone Soup version 0.15.2 (console) character file.
+
+192 Iskenderun the Ruinous (level 5, -16/28 HPs)
+             Began as a Deep Elf Conjurer on Dec 20, 2014.
+             Demolished by Menkaure (18 damage)
+             ... on Level 4 of the Dungeon.
+             The game lasted 00:09:44 (2983 turns).
+
+Iskenderun the Ruinous (Deep Elf Conjurer)          Turns: 2983, Time: 00:09:44
+
+HP -16/28        AC  2     Str  5      XL: 5   Next: 42%
+MP   0/18        EV 13     Int 21      God: 
+Gold 193         SH  0     Dex 15      Spells:  2 memorised,  7 levels left
+
+rFire  . . .     SeeInvis .     (no weapon)
+rCold  . . .     Clarity  .     o - +0 robe (curse)
+rNeg   . . .     rCorr    .     (no shield)
+rPois  .         rRot     .     (no helmet)
+rElec  .         Spirit   +     (no cloak)
+SustAb .         Warding  .     (no gloves)
+rMut   .         Stasis   .     (no boots)
+Gourm  .                        i - amulet of guardian spirit
+MR     .....                    (no ring)
+                                (no ring)
+
+@: flying, not resistant to hostile enchantments, unstealthy
+A: no striking features
+a: no special abilities
+
+
+You were on level 4 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+
+You collected 193 gold pieces.
+
+Inventory:
+
+Armour
+ o - a cursed +0 robe (worn)
+Magical devices
+ e - a wand of cold (7)
+ l - a wand of random effects (22)
+Comestibles
+ b - 4 bread rations
+ d - a meat ration
+ f - 2 fruits
+ j - a beef jerky
+ s - a chunk of orc flesh
+ t - a slice of pizza
+Scrolls
+ g - 3 scrolls of recharging
+ n - 2 scrolls of remove curse {unknown}
+Jewellery
+ i - an amulet of guardian spirit (around neck)
+Potions
+ h - a potion of might {unknown}
+ m - a potion of berserk rage {unknown}
+ p - a potion of curing {unknown}
+ q - a potion of mutation {unknown}
+Books
+ c - a book of Conjurations   
+   
+   Spells                             Type                      Level
+   *Magic Dart                        Conjuration                  1
+   Searing Ray                        Conjuration                  2
+   Dazzling Spray                     Conjuration/Hexes            3
+   Fulminant Prism                    Conjuration/Hexes            4
+   Iskenderun's Mystic Blast          Conjuration                  4
+   *Iskenderun's Battlesphere         Conjuration/Charms           5
+
+
+   Skills:
+ - Level 2.4 Dodging
+ - Level 2.4 Stealth
+ - Level 4.7 Spellcasting
+ + Level 6.6 Conjurations
+ * Level 1.3 Charms
+
+
+You had 7 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Magic Dart            Conj           ####         1%          1    None
+b - Iskenderun's Battles  Conj/Chrm      ###.....     67%         5    #####..
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)             Temple (0/1) D:4         
+
+Altars:
+Xom
+
+Annotations:
+D:4 Menkaure
+
+Message History
+
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Magic Dart
+Press: ? - help, Shift-Dir - straight line, f/p - Menkaure
+Aim: Menkaure (almost destroyed, fast)
+The magic dart hits Menkaure.
+Menkaure is almost destroyed.
+Menkaure gestures at you while chanting.
+Pain shoots through your body!
+* * * LOW HITPOINT WARNING * * *
+Casting: Magic Dart
+Confirm with . or Enter, or press ? or * to list all spells.
+You don't have enough magic to cast that spell.
+Drink which item? (? for menu, Esc to quit)
+You feel magically purged. It was a potion of cancellation.
+Some of the chunks of flesh in your inventory have rotted away.
+Drink which item? (? for menu, Esc to quit)
+You feel very buoyant.
+You fly up into the air. It was a potion of flight. Menkaure hits you!!
+Ouch! That really hurt!
+You die...
+
+                         .
+                      .....
+                      #...#   ..
+                    ###...####.?.
+                   88888..........
+                  .8...8..........
+                  .8.>............
+                  .8...8...M.......
+                 #.88888..@........
+.##+####+####+######+####'##+####..
+#...............................#
+#...............................#
+#...............................+
+#...............................#
+#............)..................#
+#.....#+######'######+#######)#.....#
+#.....#....#.................%# ....
+#.....#....+..................#    .
+#.....'....#..................+
+#.....#....#..................#
+
+
+You could see Menkaure.
+
+Vanquished Creatures
+  An iguana (D:3)
+  Ijyb (D:3)
+  6 adders
+  3 worms
+  A giant gecko (D:2)
+  6 orcs
+  9 bats
+  3 giant cockroaches
+  11 goblins
+  6 hobgoblins
+  10 kobolds
+  A quokka (D:2)
+  7 giant newts
+  8 rats
+  3 butterflies (D:3)
+76 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | D:1      | Iskenderun, the Deep Elf Conjurer, began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 5/5
+   187 | D:1      | Reached XP level 2. HP: 15/15 MP: 4/8
+   194 | D:1      | Reached skill level 5 in Conjurations
+   845 | D:2      | Reached XP level 3. HP: 19/19 MP: 1/11
+  1245 | D:2      | Reached XP level 4. HP: 24/24 MP: 5/14
+  1561 | D:3      | Found a shimmering altar of Xom.
+  1703 | D:3      | Reached skill level 6 in Conjurations
+  2367 | D:3      | Reached XP level 5. HP: 24/28 MP: 6/18
+  2371 | D:3      | Noticed Ijyb
+  2529 | D:3      | Killed Ijyb
+  2549 | D:3      | Learned a level 5 spell: Iskenderun's Battlesphere
+  2828 | D:4      | Reached skill level 1 in Charms
+  2973 | D:4      | Found a staircase to the Ecumenical Temple.
+  2973 | D:4      | Noticed Menkaure
+  2983 | D:4      | Demolished by Menkaure
+
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Unarmed           |     1 |       ||     1
+ Cast: Magic Dart        |    75 |   109 ||   184
+Evoke: Wand              |       |     1 ||     1
+  Use: Scroll            |       |     5 ||     5
+       Potion            |       |     2 ||     2
+  Eat: Chunk             |     1 |     5 ||     6
+

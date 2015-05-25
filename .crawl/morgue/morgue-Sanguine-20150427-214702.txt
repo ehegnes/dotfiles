@@ -1,0 +1,213 @@
+ Dungeon Crawl Stone Soup version 0.16-a0-4088-g7c8221e (console) character file.
+
+152 Sanguine the Slasher (level 5, -5/41 HPs)
+             Began as a Demonspawn Abyssal Knight on Apr 27, 2015.
+             Was a Priest of Lugonu.
+             Slain by Sigmund
+             ... wielding a +0 scythe
+              (7 damage)
+             ... on level 3 of the Dungeon.
+             The game lasted 00:07:45 (2440 turns).
+
+Sanguine the Slasher (Demonspawn Abyssal Knight)    Turns: 2440, Time: 00:07:45
+
+Health: -5/41      AC:  8    Str: 14    XL:     5   Next: 11%
+Magic:  6/6        EV: 11    Int: 13    God:    Lugonu [***...]
+Gold:   145        SH:  0    Dex: 12    Spells: 0 memorised, 4 levels left
+
+rFire  + . .     SeeInvis .     a - +1 falchion
+rCold  . . .     Clarity  .     b - +0 leather armour
+rNeg   . . .     SustAb   .     (no shield)
+rPois  +         Gourm    .     r - +0 helmet
+rElec  .         Spirit   .     j - +2 cloak
+rCorr  .         Warding  .     k - +0 pair of gloves
+rMut   .         Stasis   .     (no boots)
+MR     .....                    (no amulet)
+Stlth  +.........               (no ring)
+                                f - ring of poison resistance
+
+@: not resistant to hostile enchantments, very unstealthy
+A: claws 1, fire resistance 1, flame cloud immunity
+a: Depart the Abyss, Bend Space, Banish, Renounce Religion
+
+
+You were on level 3 of the Dungeon.
+You worshipped Lugonu.
+Lugonu was most pleased with you.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 3 of its levels.
+You visited the Abyss 1 time.
+
+You collected 145 gold pieces.
+
+Inventory:
+
+Hand weapons
+ a - a +1 falchion (weapon)
+Armour
+ b - a +0 leather armour (worn)
+ j - a +2 cloak (worn)
+ k - a +0 pair of gloves (worn)
+ r - a +0 helmet (worn)
+Jewellery
+ f - a ring of poison resistance (left hand)
+Scrolls
+ e - a scroll of remove curse {unknown}
+ g - 2 scrolls of teleportation {unknown}
+ h - a scroll of recharging {unknown}
+ m - 2 scrolls of identify {unknown}
+ n - a scroll of noise {unknown}
+ q - 3 scrolls of random uselessness {unknown}
+ u - a scroll of magic mapping {unknown}
+Potions
+ i - a potion of restore abilities {unknown}
+ l - a potion of heal wounds {unknown}
+ p - a potion of degeneration {unknown}
+ t - a potion of berserk rage {unknown}
+Comestibles
+ c - 3 bread rations
+ d - 4 fruits
+ o - a beef jerky
+
+
+   Skills:
+ - Level 3.0 Fighting
+ + Level 4.9 Long Blades
+ - Level 1.7 Armour
+ - Level 0.8 Dodging
+ - Level 2.4 Invocations
+
+
+You had 4 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/15)            
+
+Altars:
+Trog
+
+Annotations:
+D:3 Sigmund
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have sharp fingernails.
+Your flesh is heat resistant.
+You are immune to clouds of flame.
+
+
+Message History
+
+You miss something. The orc throws a tomahawk.
+You hear some strange, mumbled words.
+The magic dart hits you!
+You miss something. Something hits you!
+* * * LOW HITPOINT WARNING * * *
+You hit something but do no damage. Something hits you but does no damage.
+You miss something.
+You hit something. Something hits you!
+* * * LOW HITPOINT WARNING * * *
+You closely miss something. Something hits you but does no damage.
+You hit something.
+You miss something.
+You hear some strange, mumbled words.
+The magic dart hits you!
+* * * LOW HITPOINT WARNING * * *
+You closely miss something. Something hits you but does no damage.
+You barely miss something. Something hits you but does no damage.
+You miss something.
+You barely miss something. Something hits you!
+You die...
+
+#####                         ...
+....#                         #.# #
+###.#                  ####.###.#.#
+#.#.#                  .........#.#
+###.#                  ########...#
+....#                        ##.###
+._..#                        #...#
+....#                        #.>.#
+#.###                        #..o#
+#.#                          #...#
+#.####                       #>..#######
+.....#                       #..o{@...(#
+...#.#                  ######<..#####.##
+####.####         #.. #.................##
+#....)..#         #..  ..................#
+#.##<##.#         #..  ..................#
+#.##)##.#         #.#  #####.#.÷...#######
+#.##.##.#         #.#      #.#.....#
+#.##.##.#         #.#      #.#.....#
+#..^....#         #.#      #.#...#.#
+####....##        #.########.......#
+#.....#..##########).............#.#
+#.##.###........[..).####..##....#.#
+
+
+You could see an orc.
+
+Vanquished Creatures
+  An orc priest (D:3)
+  An orc wizard (D:3)
+  2 adders (D:2)
+  A worm (D:2)
+  3 giant geckos
+  13 orcs (D:3)
+  2 ball pythons (D:2)
+  9 bats
+  6 goblins
+  5 hobgoblins
+  6 kobolds
+  A quokka (D:2)
+  A giant cockroach (D:2)
+  3 giant newts (D:1)
+  7 rats
+61 creatures vanquished.
+
+Vanquished Creatures (others)
+  A wizard (D:3)
+1 creature vanquished.
+
+Grand Total: 62 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | Abyss:1  | Sanguine, the Demonspawn Abyssal Knight, began the quest for the Orb.
+     0 | Abyss:1  | Reached XP level 1. HP: 18/18 MP: 1/1
+    47 | Abyss:1  | Noticed a worldbinder
+    48 | Abyss:1  | Noticed an orc warrior
+    50 | Abyss:1  | Noticed an orc priest
+    50 | Abyss:1  | Noticed an orc warrior
+    51 | D:1      | Escaped the Abyss
+   134 | D:1      | Acquired Lugonu's first power
+   219 | D:1      | Gained mutation: Your flesh is heat resistant. [demonic ancestry]
+   219 | D:1      | Reached XP level 2. HP: 24/24 MP: 2/2
+   588 | D:1      | Acquired Lugonu's second power
+   765 | D:1      | Reached XP level 3. HP: 21/29 MP: 4/4
+  1382 | D:2      | Gained mutation: You are immune to clouds of flame. [demonic ancestry]
+  1382 | D:2      | Reached XP level 4. HP: 22/35 MP: 5/5
+  1835 | D:3      | Reached skill level 4 in Long Blades
+  1853 | D:3      | Acquired Lugonu's third power
+  2269 | D:3      | Gained mutation: You have sharp fingernails. [demonic ancestry]
+  2269 | D:3      | Reached XP level 5. HP: 19/41 MP: 6/6
+  2285 | D:3      | Found a bloodstained altar of Trog.
+  2285 | D:3      | Noticed a wizard
+  2298 | D:3      | Killed a wizard
+  2401 | D:3      | Noticed Sigmund
+  2436 | D:3      | HP: 2/41 [something/magic dart (1)]
+  2440 | D:3      | Slain by Sigmund
+
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Falchion          |    97 |    65 ||   162
+Invok: Depart the Abyss  |     1 |       ||     1
+  Eat: Chunk             |     1 |     2 ||     3
+       Fruit             |       |     2 ||     2
+

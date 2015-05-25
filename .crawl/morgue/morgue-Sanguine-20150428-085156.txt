@@ -1,0 +1,174 @@
+ Dungeon Crawl Stone Soup version 0.16-a0-4088-g7c8221e (console) character file.
+
+25 Sanguine the Slasher (level 2, 0/24 HPs)
+             Began as a Demonspawn Abyssal Knight on Apr 28, 2015.
+             Was a Follower of Lugonu.
+             Succumbed to Terence's poison
+             ... on level 2 of the Dungeon.
+             The game lasted 00:03:50 (1135 turns).
+
+Sanguine the Slasher (Demonspawn Abyssal Knight)    Turns: 1135, Time: 00:03:50
+
+Health: 0/24       AC:  7    Str: 12    XL:     2   Next: 86%
+Magic:  2/2        EV:  9    Int: 13    God:    Lugonu [*.....]
+Gold:   55         SH:  0    Dex: 12    Spells: 0 memorised, 1 level left
+
+rFire  . . .     SeeInvis .     a - +2 falchion
+rCold  . . .     Clarity  .     k - +1 scale mail
+rNeg   . . .     SustAb   .     (no shield)
+rPois  .         Gourm    .     (helmet restricted)
+rElec  .         Spirit   .     (no cloak)
+rCorr  .         Warding  .     (no gloves)
+rMut   .         Stasis   .     (no boots)
+MR     .....                    (no amulet)
+Stlth  ..........               (no ring)
+                                (no ring)
+
+@: confused, lethally poisoned (0 -> -23), not resistant to hostile
+enchantments, extremely unstealthy
+A: horns 1, sense surroundings 1
+a: Depart the Abyss, Renounce Religion
+
+
+You were on level 2 of the Dungeon.
+You worshipped Lugonu.
+Lugonu was aware of your devotion.
+You were very hungry.
+
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+You visited the Abyss 1 time.
+
+You collected 55 gold pieces.
+
+Inventory:
+
+Hand weapons
+ a - a +2 falchion (weapon)
+Armour
+ k - a +1 scale mail (worn)
+Scrolls
+ b - 3 scrolls of identify {unknown}
+ f - a scroll of enchant weapon
+ g - a scroll of enchant armour
+Potions
+ h - a potion of curing
+ j - a potion of invisibility
+Comestibles
+ c - 2 bread rations
+
+
+   Skills:
+ - Level 3.0 Fighting
+ + Level 3.1 Long Blades
+ - Level 1.7 Armour
+ - Level 0.8 Dodging
+ - Level 2.4 Invocations
+
+
+You had one spell level left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+
+Annotations:
+D:1 digging for baddies
+D:2 Terence
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a pair of small horns on your head.
+You passively map a small area around you.
+
+
+Message History
+
+* * * LOW HITPOINT WARNING * * *
+You feel sick. Terence zaps a wand.
+You are more confused.
+Eat which item? (? for menu, Esc to quit)
+Okay, then.
+Drink which item? (? for menu, Esc to quit)
+You feel better.
+Terence zaps a wand.
+You are confused.
+You bump into the rock wall. Terence zaps a wand.
+You are more confused.
+You bump into the rock wall. Terence hits you with a mace of venom.
+You are poisoned.
+You hit Terence but do no damage. You headbutt Terence, but do no damage.
+Terence is almost dead.
+You feel sick. Terence hits you with a mace of venom!
+* * * LOW HITPOINT WARNING * * *
+You are more poisoned.
+You bump into the rock wall.
+You die...
+
+         ,
+                ...
+    ,          .......    * *
+            ,  ........   ,
+  ,            #......
+          .    +.....
+         ... * #....           *
+         ....#+#...   , ,     ,
+   ,   , .........#+#       * *  ,
+ ,      .<........#.#######    ,  *
+ ,      ..........#@......#
+        ..#+##+##@#@#####.#       *
+     *     ,##.##.#.......#
+         ., #.....†.......#
+        ...##.....#.#####.#   *
+  ,     ..........#.#     *,
+     ,  ..........#'### *,*     **
+,      ...............#  ,
+       .........).....#  ,*
+       ...............#
+      , ..............###.#
+
+
+You could see Terence.
+
+Vanquished Creatures
+  3 giant cockroaches
+  2 goblins
+  4 hobgoblins (D:1)
+  5 bats (D:1)
+  2 giant newts (D:1)
+  4 kobolds
+  4 rats
+24 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | Abyss:1  | Sanguine, the Demonspawn Abyssal Knight, began the quest for the Orb.
+     0 | Abyss:1  | Reached XP level 1. HP: 18/18 MP: 1/1
+   124 | Abyss:1  | Noticed a starcursed mass
+   126 | D:1      | Escaped the Abyss
+   145 | D:1      | Noticed a polar bear
+   145 | D:1      | Noticed a crocodile
+   145 | D:1      | Noticed an anaconda
+   145 | D:1      | Noticed a hound
+   201 | D:1      | Acquired Lugonu's first power
+   286 | D:1      | Gained mutation: You have a pair of small horns on your head. [demonic ancestry]
+   286 | D:1      | Reached XP level 2. HP: 10/24 MP: 2/2
+  1006 | D:1      | Gained mutation: You passively map a small area around you. [potion of beneficial mutation]
+  1101 | D:2      | Noticed Terence
+  1134 | D:2      | HP: 1/24 [Terence/mace of venom (7)]
+  1135 | D:2      | Succumbed to Terence's poison
+
+
+Action                   || total
+-------------------------++-------
+Melee: Falchion          ||    91
+Invok: Depart the Abyss  ||     1
+  Use: Scroll            ||     4
+       Potion            ||     4
+ Stab: Invisible         ||     1
+

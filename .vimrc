@@ -11,7 +11,10 @@ call vundle#begin()
 "Plugin 'spf13/vim-autoclose'
 Plugin 'FredKSchott/CoVim'
 Plugin 'Lokaltog/vim-easymotion'
-Plugin 'Shougo/neocomplete.vim'
+if !has('nvim')
+  Plugin 'Shougo/neocomplete.vim'
+endif
+Plugin 'benekastah/neomake'
 Plugin 'airblade/vim-gitgutter'
 Plugin 'bling/vim-airline'
 Plugin 'flazz/vim-colorschemes'
@@ -25,6 +28,7 @@ Plugin 'scrooloose/syntastic'
 Plugin 'tpope/vim-fugitive'
 Plugin 'tpope/vim-surround'
 Plugin 'xuhdev/SingleCompile'
+Plugin 'nathanaelkane/vim-indent-guides'
 
 " End Vundle shenanigans
 call vundle#end()
@@ -34,61 +38,72 @@ filetype plugin indent on
 cnoreabbrev <expr> W ((getcmdtype() is# ':' && getcmdline() is# 'W')?('w'):('W'))
 
 " Theme settings
-let g:solarized_termtrans = 1
+"let g:solarized_termtrans = 1
 let g:solarized_termcolors = 256
-colorscheme hegnes
+"colorscheme hegnes
 set bg=dark
 set t_Co=256
+colorscheme solarized
 
 " Formatting & Syntax Style
-set cursorcolumn
+set autoindent
+set backspace=indent,eol,start
+"set cursorcolumn
 set cursorline
+set expandtab
+set foldenable
+set foldenable                  " Auto fold code
+set hidden
+set hlsearch
+set ignorecase
+set laststatus=2
+set lazyredraw
+set list
+set listchars=tab:›\ ,trail:•,extends:#,nbsp:. " Highlight problematic whitespace
 set nu
 set scrolljump=5                " Lines to scroll when cursor leaves screen
 set scrolloff=3                 " Minimum lines to keep above and below cursor
-set foldenable                  " Auto fold code
-set tabstop=4
-set softtabstop=4
 set shiftwidth=4
-set autoindent
-set expandtab
-set list
-set listchars=tab:›\ ,trail:•,extends:#,nbsp:. " Highlight problematic whitespace
-set showbreak=⟫⟫
-set laststatus=2
-set backspace=indent,eol,start
-set hlsearch
+set showbreak=››
 set showmatch
-set foldenable
-set pastetoggle=<F9>
-set ignorecase
-set undofile
+set softtabstop=4
+set tabstop=4
+set ttyfast
 set undodir=~/.vimundo
+set undofile
 "set backupdir=~/.vimswp
 
 " Keymapping
-set pastetoggle=<F2>
 let mapleader=","
+set pastetoggle=<Leader>pm
 nmap <Leader>r :SCCompileRun<cr>
 nmap <Leader>l :next<cr>
 nmap <Leader>h :prev<cr>
 nmap <Leader>e :cw<cr>
 nmap <Leader>ec :ccl<cr>
 nmap <Leader>nh :nohl<cr>
-inoremap  <Up>     <NOP>
-inoremap  <Down>   <NOP>
-inoremap  <Left>   <NOP>
-inoremap  <Right>  <NOP>
-noremap   <Up>     <NOP>
-noremap   <Down>   <NOP>
-noremap   <Left>   <NOP>
-noremap   <Right>  <NOP>
+inoremap <Up>    <NOP>
+inoremap <Down>  <NOP>
+inoremap <Left>  <NOP>
+inoremap <Right> <NOP>
+noremap  <Up>    <NOP>
+noremap  <Down>  <NOP>
+noremap  <Left>  <NOP>
+noremap  <Right> <NOP>
+noremap j gj
+noremap k gk
+nnoremap Y y$
+vnoremap < <gv
+vnoremap > >gv
 
+" Type {} quickly in insert mode to auto-indent curly braces
 inoremap {} {<CR>}<Esc>O
 
 " Neocomplete
-let g:acp_enableAtStartup = 0
-let g:neocomplete#enable_at_startup = 1
+if !has('nvim')
+  let g:acp_enableAtStartup = 0
+  let g:neocomplete#enable_at_startup = 1
+endif
 
 " Airline
 let g:airline_theme = 'murmur'
@@ -104,6 +119,13 @@ let g:airline#extensions#tabline#enabled = 1
 " Syntastic C Includes
 let b:syntastic_c_cflags = '-I/usr/include/webkit2gtk-4.0'
 let b:syntastic_c_cflags = '-I/usr/include/gtk-3.0'
+
+" Indent Guides
+if isdirectory(expand("~/.vim/bundle/vim-indent-guides/"))
+  let g:indent_guides_start_level = 2
+  let g:indent_guides_guide_size = 1
+  let g:indent_guides_enable_on_vim_startup = 0
+endif
 
 " Override syntax
 autocmd BufNewFile,BufReadPost *.md set filetype=markdown

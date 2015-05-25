@@ -1,0 +1,248 @@
+ Dungeon Crawl Stone Soup version 0.18-a0-8-g0de29c1 (console) character file.
+
+695 Sanguine the Cudgeler (level 7, 0/53 HPs)
+             Began as a Demonspawn Abyssal Knight on Nov 1, 2015.
+             Was an Elder of Lugonu.
+             Succumbed to poison (a potion of poison)
+             ... on level 5 of the Dungeon.
+             The game lasted 00:06:25 (2613 turns).
+
+Sanguine the Cudgeler (Demonspawn Abyssal Knight)   Turns: 2613, Time: 00:06:25
+
+Health: 0/53       AC:  7    Str: 15    XL:     7   Next: 37%
+Magic:  8/8        EV:  9    Int: 13    God:    Lugonu [****..]
+Gold:   187        SH:  0    Dex: 12    Spells: 0 memorised, 6 levels left
+
+rFire  + . .     SeeInvis .     a - +1 mace
+rCold  . . .     Clarity  .     r - +0 scale mail
+rNeg   . . .     SustAt   .     (no shield)
+rPois  .         Gourm    .     (no helmet)
+rElec  .         Spirit   .     (no cloak)
+rCorr  .         Warding  .     (no gloves)
+rMut   .         Stasis   .     (no boots)
+MR     .....                    (no amulet)
+Stlth  ..........               (no ring)
+                                g - ring of protection from fire
+
+@: lethally poisoned (0 -> -5), very slightly contaminated, hasted, very quick,
+not resistant to hostile enchantments, extremely unstealthy
+A: talons 2, rugged brown scales 1, spiny 1, rot immunity
+a: Depart the Abyss, Bend Space, Banish, Corrupt, Renounce Religion
+
+
+You were on level 5 of the Dungeon.
+You worshipped Lugonu.
+Lugonu was greatly pleased with you.
+You were hungry.
+
+You visited 2 branches of the dungeon, and saw 6 of its levels.
+You visited the Abyss 1 time.
+
+You collected 187 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +1 mace (weapon)
+Armour
+ r - a +0 scale mail (worn)
+Jewellery
+ g - a ring of protection from fire (left hand)
+Wands
+ l - a wand of digging (12)
+ u - a wand of cold (3)
+Scrolls
+ d - a scroll of teleportation {unknown}
+ h - a scroll of fog {unknown}
+ i - 2 scrolls of identify {unknown}
+ j - 2 scrolls of remove curse {unknown}
+ p - a scroll of enchant armour {unknown}
+ w - a scroll of random uselessness {unknown}
+Potions
+ b - a potion of curing {unknown}
+ e - a potion of flight {unknown}
+ o - a potion of might
+ q - a potion of beneficial mutation {unknown}
+ s - 2 potions of poison
+ t - a potion of agility {unknown}
+ v - 2 potions of haste
+ x - a potion of mutation {unknown}
+Comestibles
+ c - 3 bread rations
+ k - 3 meat rations
+ m - a beef jerky
+ n - 15 fruits
+
+
+   Skills:
+ - Level 3.0 Fighting
+ * Level 7.6 Maces & Flails
+ - Level 1.7 Armour
+ - Level 0.8 Dodging
+ - Level 2.4 Invocations
+
+
+You had 6 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (5/15)             Temple (1/1) D:4         
+
+Altars:
+Ashenzari
+Dithmenos
+Elyvilon
+Gozag
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Qazlal
+Ru
+Sif Muna
+Trog
+Vehumet
+Xom
+Zin
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have razor-sharp toenails.
+You are partially covered in rugged brown scales (AC +1, +3% HP).
+You are partially covered in sharp spines.
+You are immune to rotting.
+
+
+Message History
+
+You sock the ogre! You claw the ogre, but do no damage.
+The ogre is almost dead.
+The ogre hits you with a giant club!
+* * * LOW HITPOINT WARNING * * *
+Drink which item? (? for menu, Esc to quit)
+It was a potion of poison.
+That liquid tasted very nasty...
+You are lethally poisoned!
+* * * LOW HITPOINT WARNING * * *
+You feel sick.
+Drink which item? (? for menu, Esc to quit)
+It was a potion of haste. You feel yourself speed up.
+* * * LOW HITPOINT WARNING * * *
+You feel sick. The ogre is struck by your spines.
+You kill the ogre!
+Lugonu accepts your kill.
+You are very lightly contaminated with residual magic.
+Things that are here:
+a giant club; an ogre corpse; a worm corpse
+You die...
+
+     ..≈≈...≈≈.##
+     ..≈(§...O..
+    #..≈.§§..≈.#
+    ...≈.....≈.#
+    #..≈≈...≈≈.#
+     ..#≈≈≈w≈..#
+     ......(..#
+     #.#   #..##########
+     #.#  ##.#...@)....#
+...  #.####..#.#######.#
+.... #.........####
+.....#.<###........#
+........###.##.###.#
+.........#..##.#
+#...........##.#
+######..##.###..
+     #..##.#   #
+     #..#..#
+     #......
+     ...#.##
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  Grinder (D:3)
+  An ogre (D:5)
+  2 hounds
+  Ijyb (D:3)
+  A giant frog skeleton (D:5)
+  3 worker ants
+  Natasha (twice) (D:2)
+  9 adders
+  A shadow imp (D:5)
+  An ooze (D:1)
+  An adder skeleton (D:4)
+  3 worms
+  3 giant geckos
+  9 orcs
+  A ball python (D:3)
+  4 giant cockroaches
+  4 goblins
+  13 hobgoblins
+  2 jackals (D:1)
+  10 bats
+  4 giant newts
+  4 kobolds
+  A quokka (D:3)
+  5 rats
+86 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | Abyss:1  | Sanguine the Demonspawn Abyssal Knight began the quest for the Orb.
+     0 | Abyss:1  | Reached XP level 1. HP: 18/18 MP: 2/2
+    41 | D:1      | Escaped the Abyss
+   414 | D:1      | Gained mutation: You are partially covered in rugged brown scales (AC +1, +3% HP). [demonic ancestry]
+   414 | D:1      | Reached XP level 2. HP: 16/24 MP: 3/3
+   600 | D:1      | Reached ** piety under Lugonu
+   729 | D:1      | Gained mutation: You are partially covered in sharp spines. [demonic ancestry]
+   729 | D:1      | Reached XP level 3. HP: 25/29 MP: 4/4
+   921 | D:2      | Noticed Natasha
+   926 | D:2      | Killed Natasha
+  1144 | D:2      | Gained mutation: You are immune to rotting. [demonic ancestry]
+  1144 | D:2      | Reached XP level 4. HP: 27/36 MP: 5/5
+  1183 | D:2      | Reached skill level 4 in Maces & Flails
+  1188 | D:2      | Noticed Natasha
+  1192 | D:2      | Killed Natasha
+  1686 | D:3      | Noticed Grinder
+  1688 | D:3      | Paralysed by Grinder for 5 turns
+  1695 | D:3      | Killed Grinder
+  1695 | D:3      | Reached skill level 6 in Maces & Flails
+  1695 | D:3      | Gained mutation: You have sharp toenails. [demonic ancestry]
+  1695 | D:3      | Reached XP level 5. HP: 17/42 MP: 6/6
+  1695 | D:3      | Gained mutation: You have razor-sharp toenails. [demonic ancestry]
+  1695 | D:3      | Reached XP level 6. HP: 19/48 MP: 7/7
+  1715 | D:3      | Noticed Ijyb
+  1722 | D:3      | Killed Ijyb
+  1723 | D:3      | Reached *** piety under Lugonu
+  2132 | D:4      | Found a staircase to the Ecumenical Temple.
+  2246 | D:4      | Reached skill level 7 in Maces & Flails
+  2246 | D:4      | Reached XP level 7. HP: 46/53 MP: 8/8
+  2259 | D:4      | Found a white marble altar of Elyvilon.
+  2445 | Temple   | Entered the Ecumenical Temple
+  2559 | D:5      | Entered Level 5 of the Dungeon
+  2576 | D:5      | Found a shimmering altar of Xom.
+  2586 | D:5      | Reached **** piety under Lugonu
+  2609 | D:5      | HP: 2/53 [ogre/giant club (12)]
+  2613 | D:5      | Succumbed to poison (a potion of poison)
+
+Vault maps used:
+D:1:      roderic_crop_circles_arrival_small
+D:2:      serial_glass, glass_columns_a, glass_columns_a, dk_vineyard_1,
+          uniq_natasha
+D:3:      uniq_iyjb, uniq_grinder
+D:4:      kennysheep_mini_moat, minmay_temple_entry_enclosed_plants
+D:5:      xom_confusion_cloud, first_bread, patterned_corridor, uniq_duvessa
+Temple:   circular_temple_12
+Abyss:1:  evilmike_abyss_exit_16
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Mace              |    90 |    85 |    22 ||   197
+  Use: Potion            |       |     1 |     2 ||     3
+  Eat: Chunk             |     1 |     3 |       ||     4
+       Fruit             |       |     1 |       ||     1
+

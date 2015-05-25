@@ -1,0 +1,1372 @@
+ERROR in 'libutil.cc' at line 402: screen write out of bounds: (-1,-1) into (55,33)
+
+Version: Dungeon Crawl Stone Soup 0.16-a0-4088-g7c8221e
+Platform: unix
+Bits: 64
+Game mode: normal
+Tiles: no
+
+Command line: crawl
+
+RC options:
+restart_after_game = false
+
+
+Crash caused by signal #6: Aborted
+
+Obtained 23 stack frames.
+crawl(_Z17write_stack_traceP8_IO_FILEi+0x23) [0x6296f3]: write_stack_trace(_IO_FILE*, int)
+crawl(_Z13do_crash_dumpv+0x362) [0x632bc2]: do_crash_dump()
+crawl(_Z20crash_signal_handleri+0x89) [0x629989]: crash_signal_handler(int)
+/lib64/libc.so.6(+0x34ef0) [0x7f375ee8bef0]: 
+/lib64/libpthread.so.0(raise+0x2b) [0x7f375f1febeb]: 
+crawl() [0x632319]
+crawl() [0x632718]
+crawl() [0x80b42a]
+crawl(_Z7puttextiiRK17crawl_view_buffer+0x4e) [0xb68dfe]: puttext(int, int, crawl_view_buffer const&)
+crawl(_Z10viewwindowbbP9animation+0x54e) [0xb1eece]: viewwindow(bool, bool, animation*)
+crawl(_Z13redraw_screenv+0xab) [0x99cb2b]: redraw_screen()
+/lib64/libc.so.6(+0x34ef0) [0x7f375ee8bef0]: 
+/lib64/libpthread.so.0(read+0x2b) [0x7f375f1fdf2b]: 
+/lib64/libncursesw.so.5(_nc_wgetch+0x581) [0x7f375fc4cd61]: 
+/lib64/libncursesw.so.5(wget_wch+0xcb) [0x7f375fc66efb]: 
+crawl(_Z6getchkv+0x2d) [0xb6806d]: getchk()
+crawl(_Z7m_getchv+0xd) [0xb680ad]: m_getch()
+crawl() [0x81dd57]
+crawl(_Z25getch_with_command_macrosv+0x221) [0x822401]: getch_with_command_macros()
+crawl() [0x8302aa]
+crawl(main+0x535) [0x508f45]: 
+/lib64/libc.so.6(__libc_start_main+0xf5) [0x7f375ee78aa5]: 
+crawl() [0x58b0eb]
+
+Trying to run gdb.
+GNU gdb (Gentoo 7.9 vanilla) 7.9
+Copyright (C) 2015 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.  Type "show copying"
+and "show warranty" for details.
+This GDB was configured as "x86_64-pc-linux-gnu".
+Type "show configuration" for configuration details.
+For bug reporting instructions, please see:
+<http://bugs.gentoo.org/>.
+Find the GDB manual and other documentation resources online at:
+<http://www.gnu.org/software/gdb/documentation/>.
+For help, type "help".
+Type "apropos word" to search for commands related to "word".
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library "/lib64/libthread_db.so.1".
+0x00007f375f1fe919 in waitpid () from /lib64/libpthread.so.0
+#0  0x00007f375f1fe919 in waitpid () from /lib64/libpthread.so.0
+No symbol table info available.
+#1  0x0000000000629ddb in call_gdb(_IO_FILE*) ()
+No symbol table info available.
+#2  0x0000000000632bde in do_crash_dump() ()
+No symbol table info available.
+#3  0x0000000000629989 in crash_signal_handler(int) ()
+No symbol table info available.
+#4  <signal handler called>
+No symbol table info available.
+#5  0x00007f375f1febeb in raise () from /lib64/libpthread.so.0
+No symbol table info available.
+#6  0x0000000000632319 in ?? ()
+No symbol table info available.
+#7  0x0000000000632718 in die(char const*, int, char const*, ...) ()
+No symbol table info available.
+#8  0x000000000080b42a in cgotoxy(int, int, GotoRegion) ()
+No symbol table info available.
+#9  0x0000000000b68dfe in puttext(int, int, crawl_view_buffer const&) ()
+No symbol table info available.
+#10 0x0000000000b1eece in viewwindow(bool, bool, animation*) ()
+No symbol table info available.
+#11 0x000000000099cb2b in redraw_screen() ()
+No symbol table info available.
+#12 <signal handler called>
+No symbol table info available.
+#13 0x00007f375f1fdf2b in read () from /lib64/libpthread.so.0
+No symbol table info available.
+#14 0x00007f375fc4cd61 in _nc_wgetch () from /lib64/libncursesw.so.5
+No symbol table info available.
+#15 0x00007f375fc66efb in wget_wch () from /lib64/libncursesw.so.5
+No symbol table info available.
+#16 0x0000000000b6806d in getchk() ()
+No symbol table info available.
+#17 0x0000000000b680ad in m_getch() ()
+No symbol table info available.
+#18 0x000000000081dd57 in ?? ()
+No symbol table info available.
+#19 0x0000000000822401 in getch_with_command_macros() ()
+No symbol table info available.
+#20 0x00000000008302aa in ?? ()
+No symbol table info available.
+#21 0x0000000000508f45 in main ()
+No symbol table info available.
+
+Compilation info:
+<<<<<<<<<<<
+Compiled with GCC 4.8.4 on Feb 24 2015 at 09:27:55
+Build platform: x86_64-pc-linux-gnu
+Platform: x86_64-pc-linux-gnu
+CFLAGS: -O2 -pipe -Wall -Wformat-security -Wundef -Wno-array-bounds -Wno-format-zero-length -Wmissing-declarations -Wredundant-decls -Wno-parentheses -Wwrite-strings -Wshadow -pedantic -Wuninitialized -Iutil -I. -Irltiles -isystem /usr/include/ncursesw -DWIZARD -DASSERTS -DCLUA_BINDINGS -DSAVE_DIR_PATH="~/.crawl"
+LDFLAGS: -rdynamic -fuse-ld=gold -O2 
+>>>>>>>>>>>
+
+Place info:
+branch = 0, depth = 6
+
+Level id: D:6
+Level build method = , level layout type  = passages, absdepth0 = 5
+Level vaults:
+    layout_gridville
+    nicolae_overflow_hidden_temple
+    kennysheep_vampire_church
+
+Markers:
+<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>
+
+Messages:
+<<<<<<<<<<<<<<<<<<<<<<
+You are exhausted.
+You feel yourself slow down.
+You are feeling very hungry.
+You feel sick.
+You see here a worker ant corpse.
+You butcher the worker ant corpse.
+z - a chunk of flesh
+You feel sick.
+Eat a chunk of flesh? (ye/n/q/i?)
+This raw flesh tastes terrible.
+You continue eating.
+You feel sick.
+You continue eating.
+Things that are here:
+a giant club; an ogre corpse
+You offer a prayer to Trog.
+The ogre corpse is consumed in a column of flame.
+Trog is greatly pleased with you.
+You feel sick.
+z - an agate ring
+You feel sick.
+There are no items here.
+Put on which piece of jewellery? (? for menu, Esc to quit)
+z - a +1 ring of slaying (left hand)
+You feel sick.
+You are no longer poisoned.
+You see here a giant club.
+There is a stone staircase leading down here.
+You feel yourself speed up.
+You feel less exhausted.
+v - 3 scrolls labeled NEUK SKOZYEP (gained 2)
+Key pressed, stopping explore.
+What do you say?
+ t - Shout!
+Orders for allies: a - Attack new target.
+                   r - Retreat!             s - Stop attacking.
+                   w - Wait here.           f - Follow me.
+ Anything else - Stay silent.
+You shout for attention!
+A goblin comes into view. It is wielding a club.
+The goblin shouts!
+What do you say?
+ t - Shout!
+Orders for allies: a - Attack new target.
+                   r - Retreat!             s - Stop attacking.
+                   w - Wait here.           f - Follow me.
+ Anything else - Stay silent.
+You shout for attention!
+A goblin is nearby!
+A goblin is nearby!
+The goblin hits you but does no damage.
+You hit the goblin.
+You kill the goblin!
+Trog accepts your kill.
+No target in view!
+Things that are here:
+a club; a goblin corpse
+You offer a prayer to Trog.
+The goblin corpse is consumed in a column of flame.
+Trog is greatly pleased with you.
+Key pressed, stopping explore.
+What do you say?
+ t - Shout!
+Orders for allies: a - Attack new target.
+                   r - Retreat!             s - Stop attacking.
+                   w - Wait here.           f - Follow me.
+ Anything else - Stay silent.
+You shout for attention!
+Key pressed, stopping explore.
+Unknown command.
+You sock the fungus! You headbutt the fungus.
+The fungus is moderately damaged.
+You sock the fungus! You headbutt the fungus!
+The fungus is severely damaged.
+You hit the fungus.
+The fungus is severely damaged.
+You sock the fungus! You headbutt the fungus!
+You destroy the fungus!
+You are feeling hungry.
+Found a hammer.
+Crazy Yiuf the Enlightened comes into view. He is wielding a quarterstaff of chaos.
+Crazy Yiuf cries, "Orb toodlewoodle chair!"
+Crazy Yiuf says, "Prologue! Trifle sallow Xom."
+You hit Crazy Yiuf. Your headbutt misses Crazy Yiuf.
+Crazy Yiuf is moderately wounded.
+You hit Crazy Yiuf.
+Crazy Yiuf is heavily wounded.
+Crazy Yiuf hits you but does no damage.
+You hit Crazy Yiuf but do no damage. You headbutt Crazy Yiuf.
+Crazy Yiuf is severely wounded.
+Crazy Yiuf barely misses you.
+You barely miss Crazy Yiuf.
+Crazy Yiuf is severely wounded.
+Crazy Yiuf barely misses you.
+You hit Crazy Yiuf but do no damage. You headbutt Crazy Yiuf.
+You kill Crazy Yiuf!
+Trog accepts your kill.
+Your Armour skill increases to level 6!
+No target in view!
+u - 2 fizzy white potions (gained 1)
+Things that are here:
+a quarterstaff of chaos; a cloak
+A - a cloak
+Wear which item? (? for menu, Esc to quit)
+You start removing your armour. You continue taking off your +1 cloak.
+You continue taking off your +1 cloak. x3
+You finish taking off your +1 cloak.
+You start putting on your armour. You continue putting on your cloak.
+You continue putting on your cloak. x4
+You finish putting on your +0 cloak.
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+Okay, then.
+Unknown command.
+Wear which item? (? for menu, Esc to quit)
+You start removing your armour. You continue taking off your +0 cloak.
+You continue taking off your +0 cloak. x3
+You finish taking off your +0 cloak.
+You start putting on your armour. You continue putting on your +1 cloak.
+You continue putting on your +1 cloak. x4
+You finish putting on your +1 cloak.
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+Okay, then.
+Wear which item? (? for menu, Esc to quit)
+Okay, then.
+Drop what? 27/52 slots (_ for help) (? for menu, Esc to quit)
+You drop a +0 cloak.
+Things that are here:
+a +0 cloak; a quarterstaff of chaos
+You offer a prayer to Trog.
+Trog only cares about fresh corpses!
+Trog is greatly pleased with you.
+You hit the fungus. You headbutt the fungus.
+The fungus is lightly damaged.
+Drop what? 26/52 slots (_ for help) (? for menu, Esc to quit)
+You drop a scroll of random uselessness.
+Search for what [? for help]? mace
+You see here a club.
+Key pressed, stopping explore.
+Eat which item? (? for menu, Esc to quit)
+Okay, then.
+A giant cockroach comes into view.
+You hit the giant cockroach.
+You kill the giant cockroach!
+Trog accepts your kill.
+No target in view!
+You see here a giant cockroach corpse.
+You butcher the giant cockroach corpse.
+k - a chunk of flesh
+Eat a chunk of flesh? (ye/n/q/i?)
+This raw flesh tastes terrible.
+You continue eating. x2
+A slave and Pikel come into view.
+The slave shouts!
+A slave comes into view.
+Found a bread ration.
+Use which ability? (? or * to list) 
+A red film seems to cover your vision as you go berserk!
+You feel yourself moving faster! You feel mighty! You feel somewhat more hungry. Pikel hits you with a whip of flaming.
+Pikel burns you.
+You hit Pikel.
+Pikel is lightly wounded.
+Pikel hits you but does no damage.
+You sock Pikel!
+Pikel is moderately wounded.
+You hit Pikel.
+Pikel is heavily wounded.
+Pikel hits you with a whip of flaming. Pikel burns you. The slave hits you but does no damage.
+You barely miss Pikel. Your headbutt misses Pikel.
+Pikel is heavily wounded.
+You sock Pikel! Your headbutt misses Pikel.
+Pikel is severely wounded.
+Pikel hits you but does no damage. The slave hits you.
+You sock Pikel! Your headbutt misses Pikel.
+Pikel is almost dead.
+Pikel hits you with a whip of flaming. Pikel burns you. The slave hits you but does no damage.
+You completely miss Pikel.
+Pikel is almost dead.
+The slave hits you but does no damage.
+You sock Pikel!
+You kill Pikel!
+Trog accepts your kill.
+Your Fighting skill increases to level 7!
+Your Armour skill increases to level 7!
+You have reached level 8!
+You feel stronger.
+With Pikel's spell broken, the former slaves thank you for their freedom.
+No target in view!
+No target in view!
+Really attack the non-hostile freed slave? 
+Uppercase [Y]es or [N]o only, please.
+Really attack the non-hostile freed slave? 
+[Y]es or [N]o only, please.
+Really attack the non-hostile freed slave? 
+You sock the freed slave! You headbutt the freed slave!
+The freed slave is almost dead.
+You hit the freed slave.
+The freed slave is almost dead.
+The freed slave hits you but does no damage.
+You closely miss the freed slave. You headbutt the freed slave.
+You kill the freed slave!
+That felt strangely unrewarding.
+You see here 4 large rocks.
+You feel a strong urge to attack something.
+Really attack the non-hostile freed slave? 
+You thump the freed slave! You headbutt the freed slave.
+You kill the freed slave!
+That felt strangely unrewarding.
+You start resting.
+You feel a strong urge to attack something.
+You are no longer berserk.
+You are exhausted.
+You feel yourself slow down.
+You are feeling hungry.
+You start resting.
+You see here an animal skin.
+You see here an animal skin.
+Things that are here:
+a whip of flaming; a robe
+You see here an animal skin.
+Things that are here:
+a whip of flaming; a robe
+k - a whip of flaming
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+It bursts into flame!
+k - a +0 whip of flaming (weapon)
+Drop what? 26/52 slots (_ for help) (? for menu, Esc to quit)
+You drop a +0 mace.
+You see here an animal skin.
+You see here an animal skin.
+You feel yourself speed up.
+You see here an animal skin.
+Things that are here:
+a +0 mace; a robe
+w - 2 bread rations (gained 1)
+Done exploring.
+Things that are here:
+a +0 mace; a robe
+You are feeling very hungry.
+You feel less exhausted.
+There is a stone staircase leading down here.
+You climb downwards.
+There is a stone staircase leading up here.
+Found an escape hatch in the floor and an escape hatch in the ceiling.
+Found a stone staircase leading down.
+No target in view!
+Key pressed, stopping explore.
+A kobold comes into view. It is wielding a club.
+The kobold shouts!
+There is an escape hatch in the floor here.
+Found 2 fizzy white potions and a potion of curing.
+A rat comes into view.
+3 jackals and a worker ant come into view.
+The jackal barks! x2
+The worker ant twitches its antennae in your direction.
+A giant gecko skeleton comes into view.
+You completely miss the kobold. Your headbutt misses the kobold. The kobold hits you but does no damage.
+You closely miss the kobold. Your headbutt misses the kobold.
+You hit the kobold. You burn the kobold.
+The kobold is severely wounded.
+The jackal barely misses you. You furiously retaliate! You headbutt the jackal!
+You kill the jackal!
+Trog accepts your kill.
+The kobold hits you but does no damage.
+You hit the kobold. You burn the kobold.
+You kill the kobold!
+Trog accepts your kill.
+The jackal barely misses you. You furiously retaliate! You headbutt the jackal.
+You closely miss the jackal.
+The jackal is severely wounded.
+The rat twitches its whiskers.
+The jackal bites you but does no damage.
+You completely miss the jackal. You headbutt the jackal.
+You kill the jackal!
+Trog accepts your kill.
+The rat barely misses you.
+The jackal bites you but does no damage.
+You whack the worker ant! You burn the worker ant. Your headbutt misses the worker ant.
+The worker ant is severely wounded.
+The worker ant bites you.
+You are poisoned.
+The worker ant poisons you!
+The jackal bites you but does no damage.
+The rat barely misses you.
+You hit the worker ant but do no damage.
+The worker ant is severely wounded.
+You feel sick. The worker ant closely misses you. The jackal barely misses you. You furiously retaliate!
+You headbutt the jackal!
+You kill the jackal!
+Trog accepts your kill.
+You hit the worker ant but do no damage.
+You headbutt the worker ant.
+You kill the worker ant!
+Trog accepts your kill.
+The rat barely misses you. You furiously retaliate! You headbutt the rat!
+You kill the rat!
+Trog accepts your kill.
+You hit the giant gecko skeleton. You burn the giant gecko skeleton.
+You destroy the giant gecko skeleton!
+No target in view!
+No target in view!
+No target in view!
+No target in view!
+No target in view!
+No target in view!
+No target in view!
+No target in view!
+You start resting. You feel sick.
+You feel sick. x5
+You are no longer poisoned.
+Found a dagger.
+Things that are here:
+a club; a kobold corpse
+You offer a prayer to Trog.
+The kobold corpse is slowly consumed by flames.
+Trog is extremely pleased with you.
+You see here a jackal corpse.
+h - 4 potions of curing (gained 1)
+HP restored.
+u - 4 fizzy white potions (gained 2)
+h - 5 potions of curing (gained 1)
+A worker ant comes into view.
+You closely miss the worker ant.
+The worker ant bites you but does no damage.
+You closely miss the worker ant.
+The worker ant bites you but does no damage.
+You hit the worker ant. You burn the worker ant. You headbutt the worker ant.
+You kill the worker ant!
+Trog accepts your kill.
+No target in view!
+You open the door.
+Found a staircase to the Ecumenical Temple.
+There is an open door here.
+w - 3 bread rations (gained 1)
+As you open the door, it creaks loudly!
+An orc comes into view. It is wielding a dagger.
+The orc shouts! You hear a shout! You hear a shout! You hear a shout!
+Found a pair of embroidered gloves.
+2 orcs and an orc wizard come into view.
+Unknown command.
+Use which ability? (? or * to list) 
+You're too hungry to go berserk.
+Eat which item? (? for menu, Esc to quit)
+Mmm... Pepperoni.
+Use which ability? (? or * to list) 
+A red film seems to cover your vision as you go berserk!
+You feel yourself moving faster! You feel mighty! You feel somewhat more hungry.
+You closely miss the orc. The orc hits you but does no damage.
+You closely miss the orc. You headbutt the orc!
+You feel the power of Trog in you as your rage grows.
+You kill the orc!
+Trog accepts your kill.
+You barely miss the orc.
+You closely miss the orc. You headbutt the orc.
+You feel the power of Trog in you as your rage grows.
+You kill the orc!
+Trog accepts your kill.
+You barely miss the orc wizard.
+You closely miss the orc wizard.
+You whack the orc wizard! You burn the orc wizard.
+The orc wizard is severely wounded.
+The orc wizard hits you but does no damage.
+You hit the orc wizard. You burn the orc wizard.
+You kill the orc wizard!
+Trog accepts your kill.
+Trog appreciates your killing of a magic user.
+Your Armour skill increases to level 8!
+The orc hits you but does no damage.
+There is an open door, spattered with blood here.
+Items here: )) [ ††
+a dagger; a robe; a flail; an orc corpse; an orc corpse
+You whack the orc! You burn the orc.
+You kill the orc!
+Trog accepts your kill.
+No target in view!
+No target in view!
+No target in view!
+No target in view!
+No target in view!
+You start waiting.
+You feel a strong urge to attack something.
+You start waiting.
+You feel your anger subside.
+You start waiting. You are no longer berserk.
+You are exhausted.
+You feel yourself slow down.
+You are feeling hungry.
+Things that are here:
+a falchion; an orc corpse
+There is an open door, spattered with blood here.
+Items here: )) [ ††
+a dagger; a robe; a flail; an orc corpse; an orc corpse
+You are feeling very hungry.
+Things that are here:
+a falchion; an orc corpse
+You offer a prayer to Trog.
+The orc corpse is slowly consumed by flames.
+Trog is extremely pleased with you.
+There is an open door, spattered with blood here.
+Items here: )) [ ††
+a dagger; a robe; a flail; an orc corpse; an orc corpse
+Butcher an orc corpse? [(y)es/(c)hop/(n)o/(a)ll/(q)uit/?]
+Butcher an orc corpse? [(y)es/(c)hop/(n)o/(a)ll/(q)uit/?]
+You butcher the orc corpse.
+a - 2 chunks of flesh
+There is an open door, spattered with blood here.
+Items here: )) [ †
+a dagger; a robe; a flail; an orc corpse
+Eat one of 2 chunks of flesh? (ye/n/q/i?)
+This raw flesh tastes terrible.
+You continue eating. x2
+Things that are here:
+a dagger; an orc corpse
+You offer a prayer to Trog.
+The orc corpse is consumed in a column of flame.
+Trog is extremely pleased with you.
+There is an open door, spattered with blood here.
+Items here: )) [ †
+a dagger; a robe; a flail; an orc corpse
+You see here a falchion.
+There is an open door, spattered with blood here.
+Items here: )) [ †
+a dagger; a robe; a flail; an orc corpse
+Unknown command.
+Eat which item? (? for menu, Esc to quit)
+Okay, then.
+Unknown command.
+You see here a falchion.
+There is an open door, spattered with blood here.
+Items here: )) [ †
+a dagger; a robe; a flail; an orc corpse
+You offer a prayer to Trog.
+The orc corpse is consumed in a column of flame.
+Trog is extremely pleased with you.
+Use which ability? (? or * to list) 
+Okay, then.
+Unknown command.
+Unknown command.
+You see here a falchion.
+You see here a pair of embroidered gloves.
+Key pressed, stopping explore.
+Unknown command.
+You feel yourself speed up.
+You see here a pair of embroidered gloves.
+f - a pair of embroidered gloves
+Wear which item? (? for menu, Esc to quit)
+You start removing your armour.
+You continue taking off your +0 pair of gloves. x4
+You finish taking off your +0 pair of gloves.
+You start putting on your armour.
+You continue putting on your pair of embroidered gloves. x3
+You feel less exhausted.
+You continue putting on your pair of embroidered gloves. x2
+You finish putting on your +2 pair of gloves.
+Drop what? 26/52 slots (_ for help) (? for menu, Esc to quit)
+You drop a +0 pair of gloves.
+Unknown command.
+A worm comes into view.
+A worm is nearby!
+Found a mace.
+You hit the worm but do no damage.
+You barely miss the worm. Your headbutt misses the worm. The worm barely misses you.
+You hit the worm. You burn the worm. You headbutt the worm.
+The worm is heavily wounded.
+You barely miss the worm. You headbutt the worm.
+The worm is heavily wounded.
+You hit the worm. You burn the worm. You headbutt the worm.
+The worm is severely wounded.
+You hit the worm. You burn the worm.
+The worm is almost dead.
+The worm bites you.
+You barely miss the worm.
+The worm is almost dead.
+You whack the worm! You burn the worm.
+You kill the worm!
+Trog accepts your kill.
+You now have 215 gold pieces (gained 6).
+You see here a mace.
+HP restored.
+w - 4 bread rations (gained 1)
+A giant gecko comes into view.
+The giant gecko bites you but does no damage.
+You hit the giant gecko. You burn the giant gecko. You headbutt the giant gecko.
+The giant gecko is heavily wounded.
+The giant gecko barely misses you.
+You hit the giant gecko. You burn the giant gecko. You headbutt the giant gecko.
+You kill the giant gecko!
+Trog accepts your kill.
+A giant cockroach comes into view.
+A giant cockroach is nearby!
+A giant cockroach is nearby!
+The giant cockroach bites you but does no damage.
+You closely miss the giant cockroach.
+The giant cockroach bites you but does no damage.
+You hit the giant cockroach but do no damage.
+You headbutt the giant cockroach.
+The giant cockroach is heavily wounded.
+The giant cockroach barely misses you.
+You hit the giant cockroach. You burn the giant cockroach.
+You kill the giant cockroach!
+Trog accepts your kill.
+No target in view!
+You see here a giant cockroach corpse.
+You offer a prayer to Trog.
+The giant cockroach corpse is slowly consumed by flames.
+Trog is extremely pleased with you.
+Key pressed, stopping explore.
+3 gnolls come into view.
+The gnoll shouts!
+Found a stone staircase leading down.
+A gnoll comes into view. It is wielding a whip.
+The gnoll shouts!
+The gnoll barely misses you.
+The gnoll hits you but does no damage.
+You hit the gnoll. You burn the gnoll.
+The gnoll is moderately wounded.
+You barely miss the gnoll.
+The gnoll is moderately wounded.
+The gnoll barely misses you. You furiously retaliate! You headbutt the gnoll!
+You kill the gnoll!
+Trog accepts your kill.
+You hit the gnoll. You burn the gnoll.
+The gnoll is heavily wounded.
+You are feeling hungry.
+The gnoll hits you but does no damage.
+You hit the gnoll but do no damage. Your headbutt misses the gnoll.
+The gnoll is heavily wounded.
+You hit the gnoll. You burn the gnoll.
+You kill the gnoll!
+Trog accepts your kill.
+The gnoll hits you but does no damage.
+There is a stone staircase leading down here.
+Things that are here:
+a whip; a spear; a gnoll corpse
+You hit the gnoll. You burn the gnoll.
+The gnoll is heavily wounded.
+The gnoll barely misses you.
+You hit the gnoll. You burn the gnoll.
+The gnoll is almost dead.
+You hit the gnoll but do no damage.
+The gnoll is almost dead.
+The gnoll closely misses you.
+You hit the gnoll but do no damage. Your headbutt misses the gnoll.
+The gnoll is almost dead.
+The gnoll hits you but does no damage.
+You hit the gnoll. You burn the gnoll.
+You kill the gnoll!
+Trog accepts your kill.
+You hit the gnoll. You burn the gnoll.
+The gnoll is heavily wounded.
+You closely miss the gnoll.
+The gnoll is heavily wounded.
+The gnoll barely misses you.
+You hit the gnoll. You burn the gnoll. Your headbutt misses the gnoll.
+The gnoll is almost dead.
+The gnoll closely misses you.
+You barely miss the gnoll.
+The gnoll is almost dead.
+You hit the gnoll. You burn the gnoll.
+You kill the gnoll!
+Trog accepts your kill.
+No target in view!
+Things that are here:
+a whip x2
+a gnoll corpse
+You offer a prayer to Trog.
+The gnoll corpse is consumed in a column of flame.
+Trog is extremely pleased with you.
+There is a stone staircase leading down here.
+Things that are here:
+a whip; a spear; a gnoll corpse
+You offer a prayer to Trog.
+The gnoll corpse is slowly consumed by flames.
+Trog is extremely pleased with you.
+You start waiting.
+Things that are here:
+a whip x2
+All of the chunks of flesh in your inventory have rotted away.
+Found an arbalest.
+You see here an arbalest.
+A hound skeleton comes into view.
+You hit the hound skeleton but do no damage.
+You headbutt the hound skeleton!
+You barely miss the hound skeleton.
+The hound skeleton bites you but does no damage.
+You hit the hound skeleton. You burn the hound skeleton.
+The hound skeleton bites you but does no damage.
+You hit the hound skeleton. You burn the hound skeleton.
+Your headbutt misses the hound skeleton.
+The hound skeleton bites you but does no damage.
+You barely miss the hound skeleton. The hound skeleton bites you.
+You hit the hound skeleton. You burn the hound skeleton. The hound skeleton bites you.
+You hit the hound skeleton. You burn the hound skeleton. The hound skeleton closely misses you.
+You hit the hound skeleton. You burn the hound skeleton.
+You destroy the hound skeleton!
+No target in view!
+HP restored.
+You are feeling very hungry.
+There is an escape hatch in the floor here.
+A jelly comes into view.
+The jelly quivers.
+An ooze comes into view.
+The ooze quivers.
+An ooze, a jelly and a zombie come into view.
+The ooze quivers.
+You hit the jelly. You burn the jelly. The acid corrodes your equipment!
+The jelly is moderately wounded.
+The jelly hits you. You are splashed with acid! The acid burns!
+You hit the jelly. You burn the jelly. You headbutt the jelly.
+The jelly is almost dead.
+The jelly hits you but does no damage.
+You hit the jelly. You burn the jelly.
+You kill the jelly!
+Trog accepts your kill.
+The centaur zombie barely misses you. You furiously retaliate! You headbutt the centaur zombie.
+The centaur zombie closely misses you.
+The centaur zombie barely misses you. You furiously retaliate! You headbutt the centaur zombie.
+You repair your equipment.
+There is an escape hatch in the floor here.
+The centaur zombie hits you but does no damage.
+You hit the centaur zombie. You burn the centaur zombie. The centaur zombie hits you.
+You hit the centaur zombie. You burn the centaur zombie.
+The centaur zombie hits you but does no damage.
+You whack the centaur zombie! You burn the centaur zombie.
+You hit the centaur zombie. You burn the centaur zombie. You headbutt the centaur zombie. The centaur zombie misses you.
+You hit the centaur zombie. You burn the centaur zombie.
+You destroy the centaur zombie!
+The jelly barely misses you.
+There is an escape hatch in the floor here.
+You whack the jelly! You burn the jelly.
+The jelly is heavily wounded.
+The jelly barely misses you.
+You hit the jelly. You burn the jelly. You headbutt the jelly.
+You kill the jelly!
+Trog accepts your kill.
+Your Fighting skill increases to level 8!
+The ooze hits you but does no damage.
+The ooze hits you but does no damage.
+You hit the ooze. You burn the ooze. You headbutt the ooze!
+You kill the ooze!
+Trog accepts your kill.
+The ooze hits you.
+The ooze misses you.
+You hit the ooze but do no damage. You headbutt the ooze.
+The ooze is lightly wounded.
+The ooze barely misses you.
+You hit the ooze. You burn the ooze. Your headbutt misses the ooze.
+The ooze is moderately wounded.
+You hit the ooze. You burn the ooze.
+The ooze is moderately wounded.
+The ooze hits you.
+You barely miss the ooze.
+The ooze is moderately wounded.
+You hit the ooze but do no damage. You headbutt the ooze.
+The ooze is heavily wounded.
+The ooze hits you but does no damage.
+You completely miss the ooze.
+The ooze is heavily wounded.
+You hit the ooze but do no damage. Your headbutt misses the ooze.
+The ooze is heavily wounded.
+The ooze misses you.
+You hit the ooze. You burn the ooze.
+The ooze is severely wounded.
+The ooze barely misses you. You furiously retaliate!
+You headbutt the ooze, but do no damage.
+You hit the ooze. You burn the ooze.
+You kill the ooze!
+Trog accepts your kill.
+A jelly comes into view.
+The jelly quivers.
+Found a -1 short sword.
+A jelly is nearby!
+A jelly comes into view.
+The jelly quivers.
+The jelly barely misses you.
+Found a viscous altar of Jiyva.
+You hit the jelly. You burn the jelly. The acid corrodes your equipment!
+The jelly is lightly wounded.
+You hit the jelly. You burn the jelly. You headbutt the jelly!
+You kill the jelly!
+Trog accepts your kill.
+You whack the jelly! You burn the jelly. The acid corrodes your equipment!
+The jelly is severely wounded.
+The jelly hits you but does no damage.
+You hit the jelly. You burn the jelly. The acid corrodes your equipment!
+The jelly is almost dead.
+You barely miss the jelly.
+The jelly is almost dead.
+The jelly barely misses you.
+You hit the jelly but do no damage.
+The jelly is almost dead.
+The jelly hits you. You are splashed with acid! The acid burns!
+You hit the jelly but do no damage. The acid corrodes your equipment! You headbutt the jelly.
+You kill the jelly!
+Trog accepts your kill.
+No target in view!
+You now have 231 gold pieces (gained 16).
+Items here: ) [[ †
+a -1 short sword; a -1 ring mail; a -3 helmet; a human corpse
+You butcher the human corpse.
+a - 2 chunks of flesh
+Things that are here:
+a -1 short sword; a -1 ring mail; a -3 helmet
+Eat one of 2 chunks of flesh? (ye/n/q/i?)
+This raw flesh tastes terrible.
+You continue eating. x2
+Things that are here:
+a -1 short sword; a -1 ring mail; a -3 helmet
+Use which ability? (? or * to list) 
+Okay, then.
+Unknown command.
+You are feeling hungry.
+A worker ant comes into view.
+The worker ant twitches its antennae in your direction.
+A worker ant is nearby!
+You hit the worker ant but do no damage.
+Your headbutt misses the worker ant. The worker ant bites you.
+You are poisoned.
+The worker ant poisons you!
+You hit the worker ant but do no damage.
+You feel sick. The worker ant closely misses you.
+You barely miss the worker ant.
+You hit the worker ant but do no damage.
+You feel sick. The worker ant bites you.
+You hit the worker ant but do no damage.
+You repair your equipment.
+The worker ant barely misses you.
+You hit the worker ant. You burn the worker ant. Your headbutt misses the worker ant.
+The worker ant is moderately wounded.
+You feel sick. The worker ant misses you. You furiously retaliate! You headbutt the worker ant.
+You closely miss the worker ant.
+The worker ant is heavily wounded.
+The worker ant bites you but does no damage.
+You hit the worker ant. You burn the worker ant.
+The worker ant is severely wounded.
+The worker ant barely misses you.
+You hit the worker ant. You burn the worker ant.
+You kill the worker ant!
+Trog accepts your kill.
+You feel sick.
+No target in view!
+No target in view!
+You feel sick.
+You feel sick.
+You feel sick.
+You feel sick.
+A hound skeleton comes into view.
+You feel sick. The hound skeleton closely misses you.
+The hound skeleton bites you but does no damage.
+You hit the hound skeleton. You burn the hound skeleton. The hound skeleton closely misses you. You furiously retaliate!
+You headbutt the hound skeleton!
+Your scale mail prevents you from hitting the hound skeleton.
+You hit the hound skeleton. You burn the hound skeleton.
+Your headbutt misses the hound skeleton.
+The hound skeleton bites you.
+You whack the hound skeleton! You burn the hound skeleton.
+You destroy the hound skeleton!
+No target in view!
+No target in view!
+You feel sick.
+You are no longer poisoned.
+Found a hand axe.
+A worker ant comes into view.
+You see here 10 gold pieces.
+The worker ant twitches its antennae in your direction.
+The worker ant bites you but does no damage.
+You closely miss the worker ant. The worker ant closely misses you. You furiously retaliate!
+You headbutt the worker ant, but do no damage.
+You hit the worker ant. You burn the worker ant.
+You headbutt the worker ant, but do no damage.
+The worker ant is lightly wounded.
+The worker ant closely misses you.
+You barely miss the worker ant. You headbutt the worker ant!
+The worker ant is heavily wounded.
+You closely miss the worker ant.
+The worker ant is heavily wounded.
+The worker ant bites you.
+You hit the worker ant but do no damage.
+The worker ant is heavily wounded.
+The worker ant barely misses you.
+You whack the worker ant! You burn the worker ant.
+You kill the worker ant!
+Trog accepts your kill.
+You now have 241 gold pieces (gained 10).
+You now have 253 gold pieces (gained 12).
+Found 8 needles of sleeping and a runed ring mail.
+Found a stone staircase leading down.
+r - a scratched marble ring
+No target in view!
+Put on which piece of jewellery? (? for menu, Esc to quit)
+You feel more attuned to ice.
+r - a ring of ice (right hand)
+Put on which piece of jewellery? (? for menu, Esc to quit)
+Okay, then.
+v - 5 scrolls labeled NEUK SKOZYEP (gained 2)
+There is a stone staircase leading down here.
+There is a stone staircase leading down here.
+HP restored.
+Key pressed, stopping explore.
+Unknown command.
+You see here a runed ring mail.
+A - a runed ring mail
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+Okay, then.
+Wear which item? (? for menu, Esc to quit)
+You start removing your armour.
+You continue taking off your +0 scale mail. x4
+You finish taking off your +0 scale mail.
+You start putting on your armour.
+You continue putting on your runed ring mail. x5
+You finish putting on your cursed +0 ring mail.
+Oops, that feels deathly cold.
+You are feeling very hungry.
+All of the chunks of flesh in your inventory have rotted away.
+Done exploring.
+Done exploring.
+Done exploring.
+Things that are here:
+a whip x2
+There is a stone staircase leading down here.
+Things that are here:
+a whip; a spear
+Things that are here:
+a whip x2
+There is a stone staircase leading down here.
+Things that are here:
+a whip; a spear
+Things that are here:
+a whip x2
+There is a stone staircase leading down here.
+Things that are here:
+a whip; a spear
+You climb downwards.
+There is a stone staircase leading up here.
+Found 19 arrows.
+You open the door.
+There is an open door here.
+You open the door.
+There is an open door here.
+You open the door.
+There is an open door here.
+An ogre comes into view. It is wielding a giant spiked club.
+The ogre shouts!
+You hit the ogre. You burn the ogre.
+The ogre is moderately wounded.
+The ogre misses you.
+You hit the ogre. You burn the ogre. Your headbutt misses the ogre.
+The ogre is heavily wounded.
+You hit the ogre. You burn the ogre. You headbutt the ogre!
+You kill the ogre!
+Trog accepts your kill.
+Your Armour skill increases to level 9!
+No target in view!
+No target in view!
+Found a glowing flail.
+HP restored.
+You open the door.
+There is an open door here.
+You now have 262 gold pieces (gained 9).
+You open the door.
+There is an open door here.
+Found 27 stones.
+You open the door.
+There is an open door here.
+A centaur comes into view.
+You found an alarm trap!
+The centaur shouts!
+The centaur wields a shortbow. The centaur shoots an arrow. The arrow closely misses you.
+Found 2 fuming purple potions.
+You see here an arrow.
+A centaur is nearby!
+The centaur shoots an arrow. The arrow hits you! The centaur shoots an arrow. The arrow hits you.
+You see here 2 arrows.
+The centaur shoots an arrow. The arrow hits you!
+You see here an arrow.
+The centaur shoots an arrow. The arrow closely misses you.
+The centaur shoots an arrow. The arrow barely misses you.
+The centaur unwields an uncursed shortbow.
+The centaur hits you but does no damage.
+You hit the centaur. You burn the centaur. You headbutt the centaur!
+The centaur is heavily wounded.
+You hit the centaur. You burn the centaur. Your headbutt misses the centaur.
+The centaur is severely wounded.
+The centaur completely misses you.
+You hit the centaur but do no damage.
+The centaur is severely wounded.
+The centaur hits you but does no damage.
+You hit the centaur but do no damage.
+The centaur is severely wounded.
+The centaur barely misses you.
+You whack the centaur! You burn the centaur.
+You kill the centaur!
+Trog accepts your kill.
+No target in view!
+Things that are here:
+an uncursed shortbow; 12 arrows; a centaur corpse
+You butcher the centaur corpse.
+a - 5 chunks of flesh
+Things that are here:
+an uncursed shortbow; 12 arrows
+Eat one of 5 chunks of flesh? (ye/n/q/i?)
+This raw flesh tastes terrible.
+You are feeling hungry.
+You continue eating. x2
+Eat one of 4 chunks of flesh? (ye/n/q/i?)
+This raw flesh tastes terrible.
+You continue eating. x2
+Read which item? (? for menu, Esc to quit)
+As you read the scroll of remove curse, it crumbles to dust.
+You feel as if something is helping you.
+Drop what? 26/52 slots (_ for help) (? for menu, Esc to quit)
+Okay, then.
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+Okay, then.
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+Okay, then.
+Wear which item? (? for menu, Esc to quit)
+You start removing your armour.
+You continue taking off your +0 ring mail. x4
+You finish taking off your +0 ring mail.
+You start putting on your armour.
+You continue putting on your +0 scale mail. x5
+You finish putting on your +0 scale mail.
+Drop what? 26/52 slots (_ for help) (? for menu, Esc to quit)
+You drop a +0 ring mail.
+Search for what [Enter for "mace", or ? for help]? plate
+Can't find anything matching that.
+Key pressed, stopping explore.
+Unknown command.
+n - 2 fuming purple potions
+You open the door.
+There is an open door here.
+You open the door.
+A centaur comes into view.
+The centaur shouts!
+There is an open door here.
+A centaur is nearby!
+The centaur wields a shortbow. The centaur shoots an arrow of flame.
+The arrow of flame hits you but does no damage.
+The arrow of flame burns you.
+The centaur shoots an arrow of flame. The arrow of flame closely misses you.
+You hit the centaur. You burn the centaur.
+The centaur is moderately wounded.
+The centaur unwields an uncursed shortbow.
+The centaur hits you but does no damage.
+You hit the centaur. You burn the centaur.
+The centaur is heavily wounded.
+The centaur barely misses you.
+You hit the centaur. You burn the centaur. You headbutt the centaur.
+You kill the centaur!
+Trog accepts your kill.
+No target in view!
+You open the door.
+Found a stone staircase leading down.
+There is an open door here.
+Found an escape hatch in the floor.
+You open the door.
+There is an open door here.
+There is an open door here.
+There is an open door here.
+There is an open door here.
+There is an open door here.
+HP restored.
+Found an escape hatch in the ceiling.
+You open the door.
+There is an open door here.
+You open the door.
+There is an open door here.
+You see here 19 arrows.
+You open the door.
+There is an open door here.
+Found a war axe.
+A kobold comes into view. It is wielding a club.
+A kobold is nearby!
+The kobold throws a stone. The stone hits you but does no damage.
+Things that are here:
+a stone; a war axe
+The kobold throws a stone. The stone closely misses you.
+You hear a distant blaring wail to the east.
+The kobold closely misses you. You furiously retaliate!
+You headbutt the kobold, but do no damage.
+You barely miss the kobold. Your headbutt misses the kobold.
+You barely miss the kobold. The kobold closely misses you.
+You hit the kobold. You burn the kobold.
+You kill the kobold!
+Trog accepts your kill.
+No target in view!
+Things that are here:
+a stone; a war axe
+You see here a stone.
+You open the door.
+There is an open door here.
+You open the door.
+There is an open door here.
+A bat zombie comes into view.
+The bat zombie moves out of view.
+Unknown command.
+The bat zombie hits you but does no damage.
+There is an open door here.
+The bat zombie closely misses you. The bat zombie barely misses you. You furiously retaliate! You headbutt the bat zombie!
+You destroy the bat zombie!
+
+>>>>>>>>>>>>>>>>>>>>>>
+
+Game state:
+
+mouse_enabled: 0, waiting_for_command: 1, terminal_resized: 0
+io_inited: 1, need_save: 1, saving_game: 0, updating_scores: 0:
+seen_hups: 0, map_stat_gen: 0, type: 1, arena_suspended: 0
+Last resize was 0 seconds ago.
+
+prev_cmd = CMD_MOVE_DOWN_LEFT
+repeat_cmd = CMD_NO_CMD
+
+Player:
+{{{{{{{{{{{
+Name:       [Asterion]
+Species:    Minotaur
+Job:        Berserker
+
+class_name: Berserker
+
+HP: 75/75; mods: 0/0
+MP: 3/3; mod: 0
+Stats: 24 (24) 4 (4) 10 (10)
+Position: (45, 34), god: Trog (10), turn_is_over: 0, banished: 0
+Standing on/in/over feature: floor
+
+Skills (mode: auto)
+Name            | can_train | train | training | level | points | progress
+Fighting        |     X     |   1   |    42    |    8  |   1491 | 219/318
+Short Blades    |           |   0   |     0    |    0  |      0 | 0/42
+Long Blades     |           |   0   |     0    |    0  |      0 | 0/35
+Axes            |           |   0   |     0    |    0  |      0 | 0/35
+Maces & Flails  |     X     |   0   |     0    |    8  |   1321 | 49/318
+Polearms        |           |   0   |     0    |    0  |      0 | 0/35
+Staves          |           |   0   |     0    |    0  |      0 | 0/35
+Slings          |           |   0   |     0    |    0  |      0 | 0/42
+Bows            |           |   0   |     0    |    0  |      0 | 0/42
+Crossbows       |           |   0   |     0    |    0  |      0 | 0/42
+Throwing        |     X     |   0   |     0    |    0  |      0 | 0/50
+Armour          |     X     |   1   |    58    |    9  |   1731 | 141/389
+Dodging         |     X     |   0   |     0    |    2  |    151 | 25/126
+Stealth         |     X     |   0   |     0    |    0  |      0 | 0/59
+Shields         |           |   0   |     0    |    0  |      0 | 0/35
+Unarmed Combat  |     X     |   0   |     0    |    0  |      0 | 0/42
+Spellcasting    |     X     |   0   |     0    |    0  |      0 | 0/100
+Conjurations    |           |   0   |     0    |    0  |      0 | 0/84
+Hexes           |           |   0   |     0    |    0  |      0 | 0/100
+Charms          |           |   0   |     0    |    0  |      0 | 0/100
+Summonings      |           |   0   |     0    |    0  |      0 | 0/84
+Necromancy      |           |   0   |     0    |    0  |      0 | 0/84
+Translocations  |           |   0   |     0    |    0  |      0 | 0/84
+Transmutations  |           |   0   |     0    |    0  |      0 | 0/70
+Fire Magic      |           |   0   |     0    |    0  |      0 | 0/84
+Ice Magic       |           |   0   |     0    |    0  |      0 | 0/84
+Air Magic       |           |   0   |     0    |    0  |      0 | 0/84
+Earth Magic     |           |   0   |     0    |    0  |      0 | 0/70
+Poison Magic    |           |   0   |     0    |    0  |      0 | 0/84
+Invocations     |           |   0   |     0    |    0  |      0 | 0/50
+Evocations      |     X     |   0   |     0    |    0  |      0 | 0/50
+
+Spell bugs:
+
+Durations:
+
+Attributes:
+    #12: 262
+    #27: 2763
+    #49: 301
+    #59: 1
+
+Mutations:
+    horns: 2 (innate)
+
+Inventory bugs:
+
+Equipment:
+    eq slot #0, inv slot #10: +0 whip of flaming
+    eq slot #1, inv slot #4: +1 cloak
+    eq slot #3, inv slot #5: +2 pair of gloves
+    eq slot #6, inv slot #11: +0 scale mail
+    eq slot #7, inv slot #25: +1 ring of slaying
+    eq slot #8, inv slot #17: ring of ice
+
+}}}}}}}}}}}
+
+
+Screenshot:
+           #..
+          ##... .
+          #...+ .
+          +......
+          #...#..
+          #......
+##        #......
+.#+###     #.....
+.....###+###.....
+.....#.....'.....
+.....#....@#..##.
+...(('.....#.....
+.....#.....#.....
+.....##+####.###.
+#####.....##.###+
+    #.....'......
+    #.....#......
+
+clua stack:
+
+
+dlua stack:
+
+
+Lua persistent data:
+<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>
+
+Lua marker contents:
+<<<<<<<<<<<<<<<<<<<<<<
+Lua marker 0 at (38, 15):
+{{{{
+CLASS: PortalDescriptor
+props: 
+    slave_name: vampire_church_blood
+}}}}
+Lua marker 1 at (38, 17):
+{{{{
+CLASS: PortalDescriptor
+props: 
+    slave_name: vampire_church_blood
+}}}}
+Lua marker 2 at (39, 16):
+{{{{
+CLASS: TriggerableFunction
+repeated: false
+listeners: 
+
+func: 
+    CLASS: FunctionWrapper
+    name: callback.vampire_church_blood
+    fn: [type function]
+
+props: 
+
+triggerers: 
+    1: 
+        CLASS: DgnTriggerer
+        type: player_move
+
+
+activating: false
+dgn_trigs_by_type: 
+    4: 
+        1: 1
+
+
+activated: true
+data: 
+}}}}
+Lua marker 3 at (40, 15):
+{{{{
+CLASS: PortalDescriptor
+props: 
+    slave_name: vampire_church_blood
+}}}}
+Lua marker 4 at (40, 17):
+{{{{
+CLASS: PortalDescriptor
+props: 
+    slave_name: vampire_church_blood
+}}}}
+Lua marker 5 at (41, 12):
+{{{{
+CLASS: PortalDescriptor
+props: 
+    slave_name: vampire_church_blood
+}}}}
+Lua marker 6 at (41, 20):
+{{{{
+CLASS: PortalDescriptor
+props: 
+    slave_name: vampire_church_blood
+}}}}
+Lua marker 7 at (43, 14):
+{{{{
+CLASS: PortalDescriptor
+props: 
+    slave_name: vampire_church_blood
+}}}}
+Lua marker 8 at (43, 18):
+{{{{
+CLASS: PortalDescriptor
+props: 
+    slave_name: vampire_church_blood
+}}}}
+Lua marker 9 at (45, 12):
+{{{{
+CLASS: PortalDescriptor
+props: 
+    slave_name: vampire_church_blood
+}}}}
+Lua marker 10 at (45, 16):
+{{{{
+CLASS: PortalDescriptor
+props: 
+    slave_name: vampire_church_blood
+}}}}
+Lua marker 11 at (45, 20):
+{{{{
+CLASS: PortalDescriptor
+props: 
+    slave_name: vampire_church_blood
+}}}}
+Lua marker 12 at (47, 14):
+{{{{
+CLASS: PortalDescriptor
+props: 
+    slave_name: vampire_church_blood
+}}}}
+Lua marker 13 at (47, 18):
+{{{{
+CLASS: PortalDescriptor
+props: 
+    slave_name: vampire_church_blood
+}}}}
+Lua marker 14 at (49, 16):
+{{{{
+CLASS: PortalDescriptor
+props: 
+    slave_name: vampire_church_blood
+}}}}
+Lua marker 15 at (51, 14):
+{{{{
+CLASS: PortalDescriptor
+props: 
+    slave_name: vampire_church_blood
+}}}}
+Lua marker 16 at (51, 18):
+{{{{
+CLASS: PortalDescriptor
+props: 
+    slave_name: vampire_church_blood
+}}}}
+>>>>>>>>>>>>>>>>>>>>>>

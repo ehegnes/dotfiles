@@ -1,0 +1,347 @@
+ Dungeon Crawl Stone Soup version 0.16-a0-4088-g7c8221e (console) character file.
+
+5828 Asterion the Basher (level 10, 0/144 HPs)
+             Began as a Minotaur Berserker on Mar 17, 2015.
+             Was a High Priest of Trog.
+             Slain by a killer bee (3 damage)
+             ... on level 9 of the Dungeon.
+             The game lasted 00:24:09 (8593 turns).
+
+Asterion the Basher (Minotaur Berserker)            Turns: 8593, Time: 00:24:10
+
+Health: 0/144      AC: 16    Str: 29    XL:     10   Next: 51%
+Magic:  4/4        EV:  8    Int:  4    God:    Trog [*****.]
+Gold:   426        SH:  0    Dex:  9    Spells: 0 memorised, 9 levels left
+
+rFire  + . .     SeeInvis .     B - +2 great mace (holy)
+rCold  x . .     Clarity  .     A - +0 plate armour
+rNeg   . . .     SustAb   .     (no shield)
+rPois  .         Gourm    .     (helmet restricted)
+rElec  .         Spirit   .     (no cloak)
+rCorr  .         Warding  .     (no gloves)
+rMut   .         Stasis   .     w - +0 pair of boots (curse)
+MR     .....                    m - amulet of rage
+Stlth  ..........               (no ring)
+                                t - ring of fire
+
+@: berserking (expiring), lethally poisoned (0 -> -6), very quick, not resistant
+to hostile enchantments, extremely unstealthy
+A: retaliatory headbutt, horns 2, slow healing 1, weak 1
+a: Burn Spellbooks, Berserk, Trog's Hand, Brothers in Arms, Renounce Religion,
+Evoke Berserk Rage
+
+
+You were on level 9 of the Dungeon.
+You worshipped Trog.
+Trog was extremely pleased with you.
+You were not hungry.
+
+You visited 2 branches of the dungeon, and saw 10 of its levels.
+
+You collected 461 gold pieces.
+You spent 35 gold pieces at shops.
+
+Inventory:
+
+Hand weapons
+ r - a +2 mace of crushing
+ B - a +2 great mace of holy wrath (weapon)
+Armour
+ w - a cursed +0 pair of boots (worn)
+ A - a +0 plate armour (worn)
+Jewellery
+ m - an amulet of rage (around neck)
+ t - a ring of fire (left hand)
+ v - an uncursed ring of protection from cold {unknown}
+Magical devices
+ s - a wand of magic darts (0)
+ x - a wand of digging (3)
+ C - a wand of disintegration (2)
+ E - a wand of fire (1)
+Scrolls
+ e - 2 scrolls of noise
+ f - 13 scrolls of remove curse
+ g - 11 scrolls of identify
+ j - 2 scrolls of blinking
+ q - 3 scrolls of immolation
+ y - 2 scrolls of magic mapping
+ z - a scroll of recharging {unknown}
+Potions
+ d - 2 potions of restore abilities
+ h - a potion of cancellation
+ i - 3 potions of magic
+ k - a potion of cure mutation
+ l - 4 potions of curing
+ n - a potion of lignification
+ o - a potion of ambrosia
+ p - 3 potions of heal wounds
+ D - a potion of brilliance {unknown}
+Books
+ F - a book of Cantrips   
+   
+    Spells                             Type                      Level
+    a - Corona                       Hexes                         1
+    b - Animate Skeleton             Necromancy                    1
+    c - Summon Small Mammal          Summoning                     1
+    d - Apportation                  Translocation                 1
+   
+   
+   Trog disapproves of the use of such an item.
+Comestibles
+ a - 2 beef jerkies
+ b - 4 meat rations
+ c - 8 bread rations
+ u - 17 fruits
+
+
+   Skills:
+ - Level 11.3 Fighting
+ * Level 11.5 Maces & Flails
+ - Level 11.0 Armour
+ - Level 2.1 Dodging
+
+
+You had 9 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (9/15)             Temple (1/1) D:7            Lair (0/8) D:8
+   Orc: D:9-12      
+
+Altars:
+Ashenzari
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Ru
+Sif Muna
+Trog
+Vehumet
+Xom
+Zin
+
+Shops:
+D:4 :   D:5 *   D:7 !
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+You heal slowly when monsters are visible.
+You are weak. (Str -2)
+
+
+Message History
+
+You feel sick. The killer bee stings you.
+* * * LOW HITPOINT WARNING * * *
+The killer bee stings you but does no damage.
+The slime creature hits you but does no damage.
+The killer bee barely misses you.
+You miss the killer bee. Your headbutt misses the killer bee.
+The killer bee is moderately wounded.
+The killer bee stings you.
+* * * LOW HITPOINT WARNING * * *
+The killer bee completely misses you.
+The killer bee stings you but does no damage.
+The slime creature hits you!
+* * * LOW HITPOINT WARNING * * *
+You sock the slime creature!
+The slime creature is severely wounded.
+You feel sick. The killer bee stings you!
+* * * LOW HITPOINT WARNING * * *
+The killer bee stings you but does no damage.
+The killer bee stings you.
+You die...
+
+                 .
+              #...
+              #...
+              #..[
+            # #...
+            #.#...
+             #....##
+             #...yJ#
+             #...#@#
+             #...#y#
+             #...#o#
+             #...#J#
+ ####        #...#.#####...
+ .....########...#.......#
+..................>.(.##.#
+.........................#
+..#######)#####...########
+ .........### #####
+ .#####...))#########
+      #####..........
+
+
+You could see 2 slime creatures, 2 killer bees and an orc.
+
+Vanquished Creatures
+  The ghost of Sanguine the Slasher, an experienced DsAK of Lugonu (D:5)
+  Prince Ribbit (D:6)
+  3 wandering mushrooms (D:8)
+  A slime creature (D:9)
+  A wyvern (D:8)
+  3 hippogriffs (D:8)
+  2 hungry ghosts (D:8)
+  A steam dragon (D:7)
+  Menkaure (D:7)
+  An orc warrior (D:7)
+  3 phantoms
+  7 ogres
+  4 ice beasts (D:7)
+  A black bear (D:7)
+  3 centaurs
+  A giant frog (D:7)
+  Blork the orc (D:8)
+  2 scorpions
+  A jelly (D:7)
+  The ghost of Sanguine the Slasher, a weakling DsAK of Lugonu (D:3)
+  4 killer bees (D:9)
+  2 oklob saplings (D:8)
+  4 wights
+  A goliath beetle (D:8)
+  5 crimson imps
+  4 hounds
+  3 orc priests
+  4 orc wizards
+  Natasha (thrice) (D:4)
+  10 worker ants
+  2 iguanas (D:7)
+  Ijyb (D:6)
+  A worker ant zombie (D:5)
+  11 adders
+  4 gnolls (D:7)
+  3 giant mites
+  2 river rats (D:8)
+  A worm (D:5)
+  An adder skeleton (D:6)
+  24 orcs
+  3 ball pythons
+  A bat skeleton (D:6)
+  2 bat zombies (D:5)
+  4 giant cockroaches
+  9 hobgoblins
+  6 jackals
+  12 kobolds
+  6 quokkas
+  12 bats
+  A giant cockroach zombie (D:5)
+  A giant gecko (D:2)
+  8 giant newts
+  12 goblins
+  16 rats
+  A butterfly (D:6)
+223 creatures vanquished.
+
+Vanquished Creatures (others)
+  A quokka (D:9)
+  A wandering mushroom (D:8)
+  3 butterflies (D:4)
+5 creatures vanquished.
+
+Grand Total: 228 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | D:1      | Asterion, the Minotaur Berserker, began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
+   119 | D:1      | Reached skill level 4 in Maces & Flails
+   132 | D:1      | Reached XP level 2. HP: 12/26 MP: 1/1
+   396 | D:1      | Acquired Trog's second power
+   729 | D:1      | Reached skill level 5 in Maces & Flails
+   960 | D:2      | Reached XP level 3. HP: 29/31 MP: 2/2
+  1005 | D:2      | Found a deep blue altar of Sif Muna.
+  1724 | D:3      | Reached XP level 4. HP: 35/39 MP: 2/2
+  1762 | D:3      | Reached skill level 6 in Maces & Flails
+  1870 | D:3      | Found a shadowy altar of Dithmenos.
+  2002 | D:3      | Noticed an ogre
+  2046 | D:3      | Killed an ogre
+  2046 | D:3      | Reached skill level 7 in Maces & Flails
+  2046 | D:3      | Reached XP level 5. HP: 45/45 MP: 2/2
+  2231 | D:3      | Noticed Sanguine's ghost (weakling DsAK)
+  2244 | D:3      | Killed Sanguine's ghost
+  2319 | D:3      | Reached skill level 8 in Maces & Flails
+  2516 | D:4      | Found a blossoming altar of Fedhas.
+  2544 | D:4      | Got a translucent leather armour
+  2555 | D:4      | Identified the +3 leather armour of Potuhi {rN+ Str+3 Dex+2} (You found it on level 4 of the Dungeon)
+  2633 | D:4      | Reached XP level 6. HP: 49/52 MP: 3/3
+  2986 | D:4      | Found Ifro Sapp's Book Shoppe.
+  2990 | D:4      | Acquired Trog's third power
+  3215 | D:4      | Noticed Natasha
+  3223 | D:4      | Killed Natasha
+  3223 | D:4      | Reached skill level 5 in Fighting
+  3476 | D:4      | Noticed Natasha
+  3483 | D:4      | Killed Natasha
+  3524 | D:4      | Noticed Natasha
+  3527 | D:4      | Killed Natasha
+  3538 | D:5      | Entered Level 5 of the Dungeon
+  3552 | D:5      | Reached XP level 7. HP: 35/61 MP: 3/3
+  3733 | D:5      | Reached skill level 5 in Armour
+  3869 | D:5      | Noticed Sanguine's ghost (experienced DsAK)
+  3883 | D:5      | Killed Sanguine's ghost
+  3883 | D:5      | Reached XP level 8. HP: 69/73 MP: 3/3
+  3946 | D:5      | Found Kligg's Assorted Antiques.
+  4483 | D:5      | Found a bloodstained altar of Trog.
+  5108 | D:6      | Noticed Prince Ribbit
+  5121 | D:6      | Killed Prince Ribbit
+  5121 | D:6      | Reached skill level 9 in Fighting
+  5237 | D:6      | Found a glowing silver altar of Zin.
+  5274 | D:6      | Found a shimmering altar of Xom.
+  5337 | D:6      | Found a shattered altar of Ashenzari.
+  5448 | D:6      | Found an opulent altar of Gozag.
+  5486 | D:6      | Noticed Ijyb
+  5493 | D:6      | Killed Ijyb
+  5898 | D:7      | Reached XP level 9. HP: 62/84 MP: 4/4
+  6049 | D:7      | Found Naomeij's Distillery.
+  6058 | D:7      | Bought a potion of mutation for 35 gold pieces
+  6058 | D:7      | Gained mutation: Scrolls take you a little longer to read. [potion of mutation]
+  6058 | D:7      | Gained mutation: You are weak. (Str -2) [potion of mutation]
+  6058 | D:7      | Gained mutation: You heal slowly when monsters are visible. [potion of mutation]
+  6189 | D:7      | Lost mutation: Scrolls take you a little longer to read. [potion of cure mutation]
+  6235 | D:7      | Reached skill level 10 in Fighting
+  6442 | D:7      | Found a staircase to the Ecumenical Temple.
+  6450 | D:7      | Reached skill level 10 in Armour
+  6804 | D:7      | Noticed Menkaure
+  6807 | D:7      | Killed Menkaure
+  7118 | D:7      | Reached skill level 11 in Fighting
+  7243 | D:7      | Found a burning altar of Makhleb.
+  7244 | D:7      | Found a radiant altar of Vehumet.
+  7298 | Temple   | Entered the Ecumenical Temple
+  7394 | D:8      | Received a gift from Trog
+  7464 | D:8      | Reached XP level 10. HP: 77/96 MP: 4/4
+  7469 | D:8      | Found a sparkling altar of Nemelex Xobeh.
+  7632 | D:8      | Noticed Blork the orc
+  7640 | D:8      | Killed Blork the orc
+  7738 | D:8      | Found an ancient bone altar of Kikubaaqudgha.
+  7780 | D:8      | Reached skill level 10 in Maces & Flails
+  7906 | D:8      | Found a blossoming altar of Fedhas.
+  8341 | D:8      | Found a staircase to the Lair.
+  8593 | D:9      | HP: 3/144 [killer bee (7)]
+  8593 | D:9      | Slain by a killer bee
+
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Mace              |    78 |   117 |   264 |       ||   459
+       Great mace        |       |       |     4 |   129 ||   133
+Invok: Berserk           |     1 |       |     4 |     2 ||     7
+ Abil: Evoke Berserk Rag |       |     1 |       |       ||     1
+Evoke: Wand              |       |       |       |     3 ||     3
+  Use: Scroll            |       |     9 |       |       ||     9
+       Potion            |       |     6 |     2 |       ||     8
+  Eat: Chunk             |     3 |     7 |     9 |     2 ||    21
+       Bread ration      |       |       |     1 |       ||     1
+       Fruit             |       |       |     3 |     4 ||     7
+

@@ -1,0 +1,184 @@
+ Dungeon Crawl Stone Soup version 0.15.0 (console) character file.
+
+Eric the Shooter (Centaur Hunter)                   Turns: 1756, Time: 00:11:30
+
+HP  35/35        AC  5     Str 15      XL: 4   Next: 39%
+MP   3/3         EV  9     Int 10      God: 
+Gold 95          SH  0     Dex 10      Spells:  0 memorised,  3 levels left
+
+rFire  . . .     SeeInvis .     b - +1 shortbow
+rCold  . . .     Clarity  .     d - +0 leather armour
+rNeg   . . .     rCorr    .     (no shield)
+rPois  .         rRot     .     n - +0 helmet (curse)
+rElec  .         Spirit   .     (no cloak)
+SustAb .         Warding  .     (no gloves)
+rMut   .         Stasis   .     (no barding)
+Gourm  .                        (no amulet)
+MR     .....                    (no ring)
+                                (no ring)
+
+@: very quick, not resistant to hostile enchantments, very unstealthy
+A: hooves 3, deformed body, speed 2, tough skin 3
+a: no special abilities
+
+
+You are on level 2 of the Dungeon.
+You are not hungry.
+
+You have visited 1 branch of the dungeon, and seen 2 of its levels.
+
+You have collected 95 gold pieces.
+
+Inventory:
+
+Hand weapons
+ a - a +0 short sword
+ b - a +1 shortbow (weapon)
+Missiles
+ c - 31 arrows (quivered)
+ e - 19 stones
+Armour
+ d - a +0 leather armour (worn)
+ m - a glowing shield
+ n - a cursed +0 helmet (worn)
+ o - a +0 scale mail
+Comestibles
+ f - a bread ration
+ g - 2 beef jerkies
+ h - a meat ration
+ l - a slice of pizza
+Scrolls
+ i - a scroll labeled OWKOOK VUCW
+ j - 2 scrolls labeled AQAATTAKKI
+ k - 2 scrolls labeled SCHENI SKIU
+ p - a scroll labeled PRIL SUICH
+ q - a scroll labeled JUJUTHR ASKIT
+ u - 2 scrolls labeled VUVAIC UT REQE
+ v - a scroll labeled SOXIYDOFIER
+Jewellery
+ t - a steel ring
+Potions
+ r - an orange potion
+ s - a sedimented white potion
+
+
+   Skills:
+ + Level 1.0 Fighting
+ + Level 7.7 Bows
+ + Level 0.2 Armour
+ - Level 1.3 Dodging
+ + Level 0.5 Stealth
+
+
+You have 3 spell levels left.
+You don't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+Fedhas
+Trog
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have hooves in place of feet.
+Armour fits poorly on your strangely shaped body.
+You cover ground very quickly.
+You have extremely tough skin (AC +3).
+
+
+Message History
+
+No target in view!
+A goblin comes into view. It is wielding a dagger.
+The goblin shouts!
+The goblin unwields an uncursed dagger. The goblin wields a hunting sling. The goblin shoots a stone.
+The stone closely misses you.
+You see here 10 gold pieces.
+A goblin is nearby!
+Firing (i - inventory. (,) - cycle): c - 30 arrows (quivered)
+Press: ? - help, Shift-Dir - straight line, f - goblin
+Aim: a goblin, wielding a hunting sling
+You shoot an arrow. The arrow hits the goblin!
+You kill the goblin!
+No target in view!
+You now have 95 gold pieces (gained 10).
+Items here: % ( ))
+a hunting sling; an uncursed dagger; 17 stones; a goblin corpse
+There is a stone staircase leading up here.
+c - 30 arrows (gained 1)
+c - 31 arrows (gained 1)
+Saving game... please wait.
+
+         ####.#####.#.##.# #.#.....#
+         #<......##.#.##.# #.##....#
+         #.##.##.#..%..#.###.......#
+         #.##.##.#........######.#####
+         #.##.............####.......#
+ .       #.#####.###.....%.).....###.##
+#.# .#.###.#####.# #..#.#.####.##.....#####
+.. #.............# #....#.#  #.##.##......#
+..  ...##.#.###### #......#  #...(...####.......
+.#   ###.###.##    ##...###  ####.####    #####
+.#  #...## ##.#     #...#       #.#######
+.####.#..# #..#     #...#       #.......#######
+......#.#.#.#.#     #...#       #..   #@......#
+........#..##%# #### ...#    .####.####.......#
+........##.##.#..........    ........)#.......#
+........##............       .#.##.##..<......#
+..............#......          ###.####.......#
+.......###.##########          #..............#
+....%%.)......#                #.######.......#
+####%##.#..##.#                #.##...........#
+...#(##.#.>...#                #.##.####.####.#
+.(...)..#.##..#       ..########.##.#  ....   #
+.#.#.......#..#        .............# ......#
+.#.#.##...%...#          .....##.#..#.......#
+##.#.......###.###   ##.####..##.#......_.....
+
+
+There are no monsters in sight!
+
+Vanquished Creatures
+  Ijyb (D:2)
+  2 adders (D:2)
+  A giant mite (D:2)
+  2 worms (D:2)
+  3 giant geckos (D:2)
+  6 bats
+  3 giant cockroaches
+  2 goblins
+  6 hobgoblins
+  3 kobolds
+  A ball python (D:1)
+  2 giant newts (D:1)
+  4 jackals (D:2)
+  4 rats
+40 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | D:1      | Eric, the Centaur Hunter, began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 16/16 MP: 1/1
+   296 | D:1      | Reached XP level 2. HP: 23/23 MP: 2/2
+   363 | D:1      | Reached skill level 6 in Bows
+  1243 | D:2      | Reached XP level 3. HP: 28/28 MP: 3/3
+  1408 | D:2      | Noticed Ijyb
+  1426 | D:2      | Killed Ijyb
+  1426 | D:2      | Reached skill level 7 in Bows
+  1565 | D:2      | Reached XP level 4. HP: 30/35 MP: 3/3
+  1568 | D:2      | Found a bloodstained altar of Trog.
+  1722 | D:2      | Found a blossoming altar of Fedhas.
+
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Unarmed           |     2 |       ||     2
+ Fire: Shortbow          |   118 |    14 ||   132
+  Eat: Fruit             |     1 |       ||     1
+

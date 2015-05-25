@@ -1,0 +1,233 @@
+Dracula
+
+Level 1 of the Dungeon
+(18, 7, D:1)
+  a +0 club
+(4, 8, D:1)
+  a bread ration
+(41, 12, D:1)
+  a +0 short sword
+  2 stones
+(44, 12, D:1)
+  a stone
+(20, 13, D:1)
+  a scroll of identify
+(44, 13, D:1)
+  a stone
+(41, 14, D:1)
+  a meat ration
+(44, 14, D:1)
+  a +0 club
+(14, 15, D:1)
+  2 stones
+(11, 16, D:1)
+  28 stones
+(16, 16, D:1)
+  a stone
+(18, 17, D:1)
+  a stone
+(1, 20, D:1)
+  a +0 club
+(-7, 21, D:1)
+  a +0 club
+(44, 23, D:1)
+  a +0 club
+(-7, 25, D:1)
+  a +0 dagger
+(21, 31, D:1)
+  a +0 hunting sling
+(15, 33, D:1)
+  29 stones
+(47, 35, D:1)
+  a +0 dagger
+(28, 36, D:1)
+  a +0 short sword
+(46, 37, D:1)
+  3 fruits
+(44, 38, D:1)
+  a +0 spear
+(46, 42, D:1)
+  a +0 club
+(16, 43, D:1)
+  a +0 dagger
+(34, 43, D:1)
+  a +0 dagger
+(44, 46, D:1)
+  a +0 leather armour
+(5, 48, D:1)
+  4 fruits
+(34, 50, D:1)
+  11 steel bolts
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +0 club
+(-10, 9, D:2)
+  a +0 club
+(-12, 14, D:2)
+  a +0 ring mail
+(-32, 16, D:2)
+  a +0 antimagic quarterstaff
+(-9, 17, D:2)
+  27 arrows
+(-11, 21, D:2)
+  23 stones
+(-20, 24, D:2)
+  a +0 trident
+(-1, 28, D:2)
+  a bread ration
+(-34, 32, D:2)
+  a cursed -1 dagger
+  a +0 ring mail
+(-2, 34, D:2)
+  a +0 mace
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  14 stones
+(1, 2, D:3)
+  a cursed -2 long sword
+(12, 9, D:3)
+  20 stones
+(19, 9, D:3)
+  a tomahawk
+(16, 10, D:3)
+  a +0 mace
+  a +0 leather armour
+(18, 10, D:3)
+  a tomahawk
+(44, 11, D:3)
+  23 bolts
+(30, 14, D:3)
+  a +0 dagger
+(37, 14, D:3)
+  a stone
+(36, 15, D:3)
+  a stone
+(54, 19, D:3)
+  a beef jerky
+(5, 24, D:3)
+  a +0 leather armour
+(34, 28, D:3)
+  a +0 leather armour
+  a +0 trident
+(13, 31, D:3)
+  a +0 club
+(41, 35, D:3)
+  a +0 short sword
+  12 stones
+(41, 36, D:3)
+  a +0 club
+(36, 37, D:3)
+  a +0 leather armour
+(39, 41, D:3)
+  7 stones
+(47, 41, D:3)
+  12 stones
+(38, 46, D:3)
+  a cursed -2 blowgun
+  a +0 short sword
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  a cursed -3 hand axe
+  a +0 scale mail
+(6, 4, D:4)
+  19 arrows
+(32, 8, D:4)
+  6 silver javelins
+(22, 9, D:4)
+  a +0 robe
+  a +0 scythe
+(40, 9, D:4)
+  22 bolts
+(-14, 13, D:4)
+  a +0 whip
+(38, 14, D:4)
+  a +0 whip
+(30, 15, D:4)
+  a bread ration
+(30, 16, D:4)
+  25 stones
+(13, 18, D:4)
+  a +0 club
+(3, 27, D:4)
+  32 sling bullets
+(32, 27, D:4)
+  a beef jerky
+(36, 27, D:4)
+  a +0 club
+(14, 35, D:4)
+  a beef jerky
+(-8, 46, D:4)
+  16 stones
+
+Level 5 of the Dungeon
+[Shop] Kanuis' Armour Shoppe
+  a +0 robe (9 gold)
+  a +0 cloak (58 gold)
+  a +0 robe (9 gold)
+  a +2 scale mail of poison resistance (234 gold)
+  a cursed +0 cloak (19 gold)
+  a +0 plate armour (299 gold)
+  a +1 plate armour of magic resistance (455 gold)
+  a +0 robe (9 gold)
+  a +0 leather armour (26 gold)
+  a +0 shield (58 gold)
+  the +0 pair of gloves of the Republic {Str+3 Slay+5} (504 gold)
+    It affects your strength (+3).
+    It affects your accuracy and damage with ranged weapons and melee attacks
+    (+5).
+  a +2 scale mail of fire resistance (273 gold)
+(0, 0, D:5)
+  a +0 ring mail
+(1, 0, D:5)
+  a bat corpse (skeletalised by now)
+(28, 3, D:5)
+  a +0 dagger
+(-6, 14, D:5)
+  a bread ration
+(15, 14, D:5)
+  a +0 club
+  a +0 leather armour
+  the goblin corpse of Ijyb (skeletalised by now)
+(16, 14, D:5)
+  a quokka corpse (skeletalised by now)
+(-11, 17, D:5)
+  a +0 quarterstaff
+(-3, 18, D:5)
+  a bread ration
+(-22, 20, D:5)
+  20 bolts
+(-22, 22, D:5)
+  a bat corpse (skeletalised by now)
+(38, 23, D:5)
+  a +0 robe
+(-3, 24, D:5)
+  a +0 club
+  a +0 chain mail of fire resistance
+  an orc corpse (skeletalised by now)
+(-4, 25, D:5)
+  a +0 dagger
+(-3, 25, D:5)
+  a +0 dagger
+  a +0 robe
+(2, 26, D:5)
+  a +0 giant club
+  an ogre corpse (skeletalised by now)
+(-3, 29, D:5)
+  a +2 pair of gloves
+(-6, 32, D:5)
+  a giant gecko skeleton
+(-5, 32, D:5)
+  26 stones
+(14, 32, D:5)
+  a +0 ring mail
+(-6, 35, D:5)
+  a +0 dagger
+  a +0 robe
+(-4, 39, D:5)
+  a +0 short sword
+(18, 49, D:5)
+  a worker ant corpse
+

@@ -1,0 +1,174 @@
+ Dungeon Crawl Stone Soup version 0.16-a0-4088-g7c8221e (console) character file.
+
+55 Sanguine the Skirmisher (level 3, 0/30 HPs)
+             Began as a Demonspawn Abyssal Knight on Apr 28, 2015.
+             Was a Believer of Lugonu.
+             Slain by an adder (2 damage)
+             ... on level 2 of the Dungeon.
+             The game lasted 00:06:19 (1944 turns).
+
+Sanguine the Skirmisher (Demonspawn Abyssal Knight) Turns: 1944, Time: 00:06:19
+
+Health: 0/30       AC:  6    Str: 13    XL:     3   Next: 67%
+Magic:  0/4        EV:  9    Int: 13    God:    Lugonu [**....]
+Gold:   119        SH:  0    Dex: 12    Spells: 0 memorised, 2 levels left
+
+rFire  . . .     SeeInvis .     a - +1 falchion
+rCold  . . .     Clarity  .     d - +0 scale mail
+rNeg   . . .     SustAb   .     (no shield)
+rPois  .         Gourm    .     (helmet restricted)
+rElec  .         Spirit   +     (no cloak)
+rCorr  +         Warding  .     (no gloves)
+rMut   .         Stasis   .     (no boots)
+MR     .....                    k - amulet of resist corrosion
+Stlth  ..........               (no ring)
+                                (no ring)
+
+@: not resistant to hostile enchantments, extremely unstealthy
+A: antennae 1, magic shield
+a: Depart the Abyss, Bend Space, Renounce Religion
+
+
+You were on level 2 of the Dungeon.
+You worshipped Lugonu.
+Lugonu was pleased with you.
+You were hungry.
+
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+You visited the Abyss 1 time.
+
+You collected 119 gold pieces.
+
+Inventory:
+
+Hand weapons
+ a - a +1 falchion (weapon)
+Armour
+ b - a +0 leather armour
+ d - a +0 scale mail (worn)
+ e - a +0 ring mail
+Jewellery
+ k - an amulet of resist corrosion (around neck)
+ m - an uncursed amulet of resist mutation
+Scrolls
+ p - 2 scrolls of immolation
+Comestibles
+ c - a bread ration
+ i - a meat ration
+ j - a royal jelly
+
+
+   Skills:
+ + Level 3.7 Fighting
+ + Level 2.2 Long Blades
+ + Level 1.9 Armour
+ + Level 1.6 Dodging
+ + Level 2.9 Invocations
+
+
+You had 2 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a pair of small antennae on your head.
+When hurt, damage is shared between your health and your magic reserves.
+
+
+Message History
+
+The bat closely misses you. The giant cockroach moves out of view.
+The bat hits you but does no damage.
+The bat hits you but does no damage. The adder bites you but does no damage.
+You feel sick. The bat hits you but does no damage.
+The bat closely misses you.
+Read which item? (? for menu, Esc to quit)
+As you read the scroll labeled XITWU BLOGULUL, it crumbles to dust.
+The creatures around you are filled with an inner flame!
+It was a scroll of immolation. The adder barely misses you. The adder bites you.
+* * * LOW HITPOINT WARNING * * *
+Read which item? (? for menu, Esc to quit)
+As you read the scroll labeled XULOJIKKIPS, it crumbles to dust.
+You feel aware of your surroundings. It was a scroll of magic mapping.
+The adder bites you but does no damage.
+You feel sick.
+You are no longer poisoned.
+A hobgoblin comes into view. It is wielding a club.
+The hobgoblin shouts!
+The adder bites you.
+You die...
+
+  *,*    *,,,,,,*,,,,,,****,,,,,,,*************,*
+  *,*    *,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*
+***,*** **,,,,,,**.##***,,,,,,,,,,,,,*,,,,,***,**
+,,,,,,* *,,,,,,,**....,..,,,,,,,,.,,,**,,,** *,*
+,,,,,,***,,.,.,,,,...##..**,,,,*,.S,,,**,**  *,*
+,,,,,,,,#.....#***#..$...,,,,,.*..,,,,,*,*   *,*
+.,,,,,*.......#,,,#.....,**##.##.,,,,*,*,*   *,*
+....,,........+,8,+.#.#####.....,,,,,*,*,**  *,*
+......>.....#.#,,,#...#...{.#,g##,#*,,,,,,*  *,*
+..............#####......s####.#..#*,,,,,,** *,*
+.....,#...#.#.........w..bg.S@...##*,,,,,,,***,*
+.[....*#..................#...........,,,,,,,,,**
+.,....##...........#......##......##.,,,,,*,,,,,**
+##*#......#.....##...##...#........#..,,,,,,,,,,,*
+.###.##.....###.##.#...................,,,,,,,,,,*
+...........†................).........,,,,,,,,,,,*
+##..............##..###...##.......##*****,,,,,,,*
+............#.......###...###<...#.#     *,,,,,,,*
+*##..................###### ###.##.#     **,,,,,**
+,..................#.#        #.##.#####  **,,,**
+*###...#....#.....##.#        #........#   *****
+
+
+You could see a worm (inner flame), 2 adders, a giant cockroach (inner flame), a
+hobgoblin, a goblin (inner flame) and a bat (inner flame).
+
+Vanquished Creatures
+  Robin (D:1)
+  An adder (D:2)
+  A giant gecko (D:1)
+  A giant cockroach (D:1)
+  11 goblins
+  6 hobgoblins
+  3 kobolds (D:1)
+  7 bats (D:1)
+  A giant newt (D:1)
+  4 rats
+36 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | Abyss:1  | Sanguine, the Demonspawn Abyssal Knight, began the quest for the Orb.
+     0 | Abyss:1  | Reached XP level 1. HP: 18/18 MP: 1/1
+   108 | Abyss:1  | Noticed a snapping turtle zombie
+   114 | D:1      | Escaped the Abyss
+   445 | D:1      | Acquired Lugonu's first power
+   507 | D:1      | Gained mutation: When hurt, damage is shared between your health and your magic reserves. [demonic ancestry]
+   507 | D:1      | Reached XP level 2. HP: 21/24 MP: 2/2
+   628 | D:1      | Reached skill level 1 in Dodging
+  1303 | D:2      | Noticed Robin
+  1309 | D:1      | Killed Robin
+  1309 | D:1      | Gained mutation: You have a pair of small antennae on your head. [demonic ancestry]
+  1309 | D:1      | Reached XP level 3. HP: 12/29 MP: 4/4
+  1836 | D:2      | Acquired Lugonu's second power
+  1944 | D:2      | Slain by an adder
+
+
+Action                   || total
+-------------------------++-------
+Melee: Falchion          ||   126
+Invok: Depart the Abyss  ||     1
+  Use: Scroll            ||     6
+       Potion            ||     4
+  Eat: Chunk             ||     3
+

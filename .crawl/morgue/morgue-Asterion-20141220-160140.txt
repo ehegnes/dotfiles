@@ -1,0 +1,217 @@
+ Dungeon Crawl Stone Soup version 0.15.2 (console) character file.
+
+497 Asterion the Basher (level 6, -2/51 HPs)
+             Began as a Minotaur Berserker on Dec 20, 2014.
+             Was a High Priest of Trog.
+             Killed from afar by Sigmund (6 damage)
+             ... with a wand of frost
+             ... on Level 4 of the Dungeon.
+             The game lasted 00:12:05 (3294 turns).
+
+Asterion the Basher (Minotaur Berserker)            Turns: 3294, Time: 00:12:05
+
+HP  -2/51        AC  7     Str 22      XL: 6   Next: 93%
+MP   3/3         EV  9     Int  4      God: Trog [*****.]
+Gold 267         SH  0     Dex 11      Spells:  0 memorised,  5 levels left
+
+rFire  . . .     SeeInvis .     r - +1 whip (distort)
+rCold  . . .     Clarity  .     g - +1 scale mail
+rNeg   . . .     rCorr    .     (no shield)
+rPois  .         rRot     .     (helmet restricted)
+rElec  .         Spirit   .     (no cloak)
+SustAb .         Warding  .     (no gloves)
+rMut   .         Stasis   .     (no boots)
+Gourm  .                        (no amulet)
+MR     .....                    b - +4 ring of slaying
+                                i - ring of invisibility
+
+@: lethally poisoned, not resistant to hostile enchantments, extremely
+unstealthy
+A: retaliatory headbutt, horns 2
+a: Burn Spellbooks, Berserk, Trog's Hand, Brothers in Arms, Renounce Religion,
+Evoke Invisibility
+
+
+You were on level 4 of the Dungeon.
+You worshipped Trog.
+Trog was extremely pleased with you.
+You were hungry.
+
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+
+You collected 267 gold pieces.
+
+Inventory:
+
+Hand weapons
+ a - a +0 mace
+ r - a +1 whip of distortion (weapon)
+Armour
+ g - a +1 scale mail (worn)
+ m - a +0 cloak
+Magical devices
+ j - a wand of lightning (7)
+ k - a wand of magic darts (16) {unknown}
+Comestibles
+ c - 4 bread rations
+ d - a beef jerky
+ f - 5 meat rations
+ l - 4 fruits
+ o - a royal jelly
+Scrolls
+ e - 2 scrolls of recharging {unknown}
+ h - 2 scrolls of identify
+Jewellery
+ b - a +4 ring of slaying (right hand)
+ i - a ring of invisibility (left hand)
+
+
+   Skills:
+ - Level 3.6 Fighting
+ + Level 9.5 Maces & Flails
+ - Level 2.4 Armour
+ - Level 2.1 Dodging
+
+
+You had 5 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)            
+Temple: D:4-7       
+
+Altars:
+Nemelex Xobeh
+Sif Muna
+
+Annotations:
+D:4 Sigmund
+Abyss:1 Jessica
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+
+
+Message History
+
+The puff of frost hits you!
+Found a plate armour.
+You feel sick. The magic dart hits you!
+* * * LOW HITPOINT WARNING * * *
+You feel sick.
+You hear a zap.
+The puff of frost misses you.
+You see here a cloak.
+m - a cloak
+You feel sick.
+You hear a zap.
+The puff of frost hits you!
+* * * LOW HITPOINT WARNING * * *
+You hear a zap.
+The puff of frost misses you.
+* * * LOW HITPOINT WARNING * * *
+You feel sick.
+You hear a zap.
+The puff of frost hits you!
+You die...
+
+                    ###
+                    #..      .
+                    #.#     ..#
+                    #.#     [.#
+                    ...     #.#
+                    #.#     #.#
+                    #.#    ##.#         #
+################    #.#  ###..#######...##
+#......#.....(.#  ###.####.#.....@........
+#>####.#.#####.#  #.....#........#.###..##
+#.####.#.#####.#  #.#.#.##.......#.#
+#.#.........##.####.#.....)........#
+#.#.##.#.##.........###.###......###
+#(#.##.#.#####.###..###.##.......#
+#......#.......# #......###......#
+###.##############.###### #......#
+ ##.#         #.......#   #......#
+ #..#         #.##.##.#   ###...#########
+ #.##         # ##..#.#     #...##......#      #######
+ #.#          #.#.....#######.........#.#      #.....#
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  A big kobold (D:3)
+  A scorpion (D:4)
+  An orc priest (D:3)
+  A gnoll shaman (D:4)
+  An orc wizard (D:3)
+  8 gnolls
+  4 adders
+  A worm (D:3)
+  A giant gecko (D:4)
+  An ooze (D:1)
+  11 orcs (D:3)
+  A ball python (D:3)
+  A giant cockroach (D:1)
+  11 goblins
+  8 hobgoblins
+  4 jackals (D:3)
+  A quokka (D:3)
+  11 bats
+  3 giant newts
+  51 kobolds
+  10 rats
+132 creatures vanquished.
+
+Vanquished Creatures (others)
+  An orc wizard (D:3)
+  A gnoll (D:3)
+  A giant cockroach (D:3)
+  A kobold (D:3)
+4 creatures vanquished.
+
+Grand Total: 136 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | D:1      | Asterion, the Minotaur Berserker, began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
+    81 | D:1      | Reached skill level 4 in Maces & Flails
+   174 | D:1      | Reached XP level 2. HP: 19/26 MP: 1/1
+   398 | D:1      | Acquired Trog's second power
+   596 | D:1      | Reached skill level 5 in Maces & Flails
+  1015 | D:2      | Found a sparkling altar of Nemelex Xobeh.
+  1026 | D:2      | Reached XP level 3. HP: 29/31 MP: 2/2
+  1123 | D:2      | Reached skill level 6 in Maces & Flails
+  1123 | D:2      | Reached XP level 4. HP: 5/39 MP: 2/2
+  1893 | D:3      | Reached XP level 5. HP: 36/45 MP: 2/2
+  1922 | D:3      | Reached skill level 7 in Maces & Flails
+  2302 | D:3      | Acquired Trog's third power
+  2343 | D:3      | Noticed Jessica
+  2348 | D:3      | Banished Jessica
+  2524 | D:3      | Reached skill level 8 in Maces & Flails
+  2557 | D:3      | Noticed a big kobold
+  2574 | D:3      | Reached XP level 6. HP: 43/51 MP: 3/3
+  2602 | D:3      | Noticed a big kobold
+  2605 | D:3      | Killed a big kobold
+  3019 | D:4      | Reached skill level 9 in Maces & Flails
+  3075 | D:4      | Found a deep blue altar of Sif Muna.
+  3284 | D:4      | Noticed Sigmund
+  3294 | D:4      | Killed from afar by Sigmund
+
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Mace              |    71 |       ||    71
+       Whip              |       |   184 ||   184
+Invok: Berserk           |     1 |       ||     1
+  Use: Scroll            |       |     7 ||     7
+       Potion            |       |     5 ||     5
+  Eat: Chunk             |       |     8 ||     8
+

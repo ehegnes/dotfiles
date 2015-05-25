@@ -1,0 +1,130 @@
+ Dungeon Crawl Stone Soup version 0.15.2 (console) character file.
+
+0 Sanguine the Skirmisher (level 1, -9/18 HPs)
+             Began as a Demonspawn Abyssal Knight on Dec 21, 2014.
+             Was a Follower of Lugonu.
+             Mangled by an iron devil
+             ... wielding a +2 battleaxe of electrocution
+              (18 damage)
+             ... on Level 1 of the Abyss.
+             The game lasted 00:00:38 (352 turns).
+
+Sanguine the Skirmisher (Demonspawn Abyssal Knight)  Turns: 352, Time: 00:00:38
+
+HP  -9/18        AC  3     Str 12      XL: 1   Next:  0%
+MP   1/1         EV 10     Int 13      God: Lugonu [*.....]
+Gold 26          SH  0     Dex 12      Spells:  0 memorised,  0 levels left
+
+rFire  . . .     SeeInvis .     a - +1 falchion
+rCold  . . .     Clarity  .     b - +0 leather armour
+rNeg   . . .     rCorr    .     (no shield)
+rPois  .         rRot     .     (no helmet)
+rElec  .         Spirit   .     (no cloak)
+SustAb .         Warding  .     (no gloves)
+rMut   .         Stasis   .     (no boots)
+Gourm  .                        (no amulet)
+MR     .....                    (no ring)
+                                (no ring)
+
+@: not resistant to hostile enchantments, very unstealthy
+A: no striking features
+a: Depart the Abyss, Renounce Religion
+
+
+You were on level 1 of the Abyss.
+You worshipped Lugonu.
+Lugonu was aware of your devotion.
+You were not hungry.
+
+You visited 0 branches of the dungeon, and saw 0 of its levels.
+You visited the Abyss 1 time.
+
+You collected 26 gold pieces.
+
+Inventory:
+
+Hand weapons
+ a - a +1 falchion (weapon)
+Armour
+ b - a +0 leather armour (worn)
+ d - a +0 leather armour
+ e - a +0 leather armour
+Comestibles
+ c - a bread ration
+
+
+   Skills:
+ - Level 3.0 Fighting
+ + Level 1.7 Long Blades
+ - Level 1.7 Armour
+ - Level 0.8 Dodging
+ - Level 2.4 Invocations
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (0/15)            
+
+Altars:
+
+Message History
+
+A large abomination is nearby!
+A large abomination is nearby!
+A large abomination is nearby!
+Found a leather armour.
+You see here a leather armour.
+d - a leather armour
+Found a leather armour.
+You see here a leather armour.
+e - a leather armour
+You are suddenly pulled into a different region of the Abyss!
+Found 18 arrows.
+You now have 11 gold pieces.
+You now have 26 gold pieces (gained 15).
+An iron devil comes into view. It is wielding a runed battleaxe.
+The iron devil screeches!
+The iron devil hits you with a runed battleaxe!
+Ouch! That really hurt!
+The iron devil hits you with a runed battleaxe!!
+Ouch! That really hurt!
+You die...
+
+ .# .   ..# .#..#. .
+   # .. # . .##. ..
+......#. .  ..##. .#
+ ... ###. #...#....
+   #. ..# .##....#
+ .##.##.#..##.#..  ## .
+ .....##.. ....#. #. ..#
+.......##..#.## ...#..
+      #..###.##.##..#
+     #.#.##..#.##...#
+    #. ##...#.#.@4.#
+    #   #......#..#.#
+        ##.....##.#
+         ###.#.# ..#
+           ###.# ##.#
+             ###   .#
+                    .
+                    .
+
+
+You could see an iron devil.
+
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | Abyss:1  | Sanguine, the Demonspawn Abyssal Knight, began the quest for the Orb.
+     0 | Abyss:1  | Reached XP level 1. HP: 18/18 MP: 1/1
+     8 | Abyss:1  | Found a corrupted altar of Lugonu.
+    71 | Abyss:1  | Found a corrupted altar of Lugonu.
+   106 | Abyss:1  | Noticed a large abomination
+   350 | Abyss:1  | Noticed an iron devil
+   352 | Abyss:1  | Mangled by an iron devil
+

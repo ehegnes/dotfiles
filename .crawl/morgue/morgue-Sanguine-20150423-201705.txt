@@ -1,0 +1,170 @@
+ Dungeon Crawl Stone Soup version 0.16-a0-4088-g7c8221e (console) character file.
+
+36 Sanguine the Slasher (level 3, -1/29 HPs)
+             Began as a Demonspawn Abyssal Knight on Apr 23, 2015.
+             Was a Believer of Lugonu.
+             Slain by a kobold (2 damage)
+             ... on level 2 of the Dungeon.
+             The game lasted 00:02:48 (1592 turns).
+
+Sanguine the Slasher (Demonspawn Abyssal Knight)    Turns: 1592, Time: 00:02:48
+
+Health: -1/29      AC:  3    Str: 13    XL:     3   Next: 19%
+Magic:  4/4        EV: 11    Int: 13    God:    Lugonu [**....]
+Gold:   95         SH:  0    Dex: 12    Spells: 0 memorised, 2 levels left
+
+rFire  . . .     SeeInvis .     a - +1 falchion
+rCold  . . .     Clarity  .     b - +0 leather armour
+rNeg   . . .     SustAb   .     (no shield)
+rPois  .         Gourm    .     (no helmet)
+rElec  .         Spirit   .     (no cloak)
+rCorr  .         Warding  .     (no gloves)
+rMut   .         Stasis   .     (no boots)
+MR     .....                    (no amulet)
+Stlth  ++........               (no ring)
+                                (no ring)
+
+@: lethally poisoned (-1 -> -11), not resistant to hostile enchantments,
+unstealthy
+A: claws 1, nightstalker 1
+a: Depart the Abyss, Bend Space, Renounce Religion
+
+
+You were on level 2 of the Dungeon.
+You worshipped Lugonu.
+Lugonu was pleased with you.
+You were very hungry.
+
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+You visited the Abyss 1 time.
+
+You collected 95 gold pieces.
+
+Inventory:
+
+Hand weapons
+ a - a +1 falchion (weapon)
+Armour
+ b - a +0 leather armour (worn)
+Jewellery
+ l - an uncursed ring of protection from fire {unknown}
+ m - an uncursed amulet of stasis {unknown}
+Scrolls
+ g - a scroll of remove curse {unknown}
+ h - a scroll of magic mapping {unknown}
+ i - 3 scrolls of identify {unknown}
+ j - a scroll of fear {unknown}
+Potions
+ d - a potion of resistance {unknown}
+ e - a potion of curing {unknown}
+ k - a potion of ambrosia {unknown}
+Comestibles
+ c - 2 bread rations
+ f - 2 meat rations
+
+
+   Skills:
+ - Level 3.0 Fighting
+ + Level 3.3 Long Blades
+ - Level 1.7 Armour
+ - Level 0.8 Dodging
+ - Level 2.4 Invocations
+
+
+You had 2 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+Nemelex Xobeh
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have sharp fingernails.
+You are slightly more attuned to the shadows.
+
+
+Message History
+
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You barely miss the adder.
+The adder is severely wounded.
+* * * LOW HITPOINT WARNING * * *
+You feel sick. The adder bites you.
+* * * LOW HITPOINT WARNING * * *
+The kobold misses you. The adder barely misses you. The kobold hits you.
+* * * LOW HITPOINT WARNING * * *
+You barely miss the adder.
+The adder is severely wounded.
+* * * LOW HITPOINT WARNING * * *
+You feel sick. The adder bites you but does no damage. The kobold hits you.
+You die...
+
+                        .
+                        .#
+                  ####  .#
+                  ....  .#
+                   #..##.####
+                 .##...>%...##
+                ......K.S......
+                .......@.#
+                .###..#..#
+                .........#
+                ####.##.###.#
+          #+#      #........#
+       .  #.#      ####.#####
+      #.# #.#    ###  #.#
+      #.###.######.## #.#
+      #.##........#.# #.#
+      #.#.....####.## #.#
+      #.##...##  #.#  #.#
+ ######.##..##   #.####.#
+............#    #......#
+
+
+You could see an adder and a kobold.
+
+Vanquished Creatures
+  A worm (D:2)
+  A giant gecko (D:2)
+  A goblin (D:1)
+  9 hobgoblins
+  9 bats
+  2 giant newts (D:1)
+  2 kobolds (D:1)
+  2 rats
+27 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | Abyss:1  | Sanguine, the Demonspawn Abyssal Knight, began the quest for the Orb.
+     0 | Abyss:1  | Reached XP level 1. HP: 18/18 MP: 1/1
+    13 | D:1      | Escaped the Abyss
+   326 | D:1      | Gained mutation: You have sharp fingernails. [demonic ancestry]
+   326 | D:1      | Reached XP level 2. HP: 10/24 MP: 2/2
+   727 | D:1      | Acquired Lugonu's second power
+  1283 | D:2      | Found a sparkling altar of Nemelex Xobeh.
+  1312 | D:2      | Gained mutation: You are slightly more attuned to the shadows. [demonic ancestry]
+  1312 | D:2      | Reached XP level 3. HP: 29/29 MP: 4/4
+  1592 | D:2      | HP: 1/29 [poisoned by an adder]
+  1592 | D:2      | Slain by a kobold
+
+
+Action                   || total
+-------------------------++-------
+Melee: Falchion          ||   123
+  Eat: Chunk             ||     1
+

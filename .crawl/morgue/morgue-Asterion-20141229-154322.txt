@@ -1,0 +1,266 @@
+ Dungeon Crawl Stone Soup version 0.15.2 (console) character file.
+
+1186 Asterion the Basher (level 8, -5/67 HPs)
+             Began as a Minotaur Berserker on Dec 29, 2014.
+             Was a High Priest of Trog.
+             Engulfed by a cloud of freezing vapour (24 damage)
+             ... on Level 6 of the Dungeon.
+             The game lasted 00:14:15 (5060 turns).
+
+Asterion the Basher (Minotaur Berserker)            Turns: 5060, Time: 00:14:15
+
+HP  -5/67        AC  7     Str 23      XL: 8   Next: 19%
+MP   3/3         EV 10     Int  4      God: Trog [*****.]
+Gold 199         SH  0     Dex 11      Spells:  0 memorised,  7 levels left
+
+rFire  . . .     SeeInvis .     a - +0 mace
+rCold  . . .     Clarity  .     g - +0 ring mail (curse)
+rNeg   . . .     rCorr    .     (no shield)
+rPois  .         rRot     .     (helmet restricted)
+rElec  .         Spirit   .     t - +0 cloak
+SustAb +         Warding  .     (no gloves)
+rMut   .         Stasis   .     (no boots)
+Gourm  +                        u - amulet of the gourmand
+MR     .....                    (no ring)
+                                b - ring of sustain abilities
+
+@: not resistant to hostile enchantments, very unstealthy
+A: retaliatory headbutt, horns 2
+a: Burn Spellbooks, Berserk, Trog's Hand, Brothers in Arms, Renounce Religion
+
+
+You were on level 6 of the Dungeon.
+You worshipped Trog.
+Trog was extremely pleased with you.
+You were full.
+
+You visited 1 branch of the dungeon, and saw 6 of its levels.
+
+You collected 199 gold pieces.
+
+Inventory:
+
+Hand weapons
+ a - a +0 mace (weapon)
+Armour
+ g - a cursed +0 ring mail (worn)
+ t - a +0 cloak (worn)
+Magical devices
+ k - a wand of teleportation (6)
+ r - a wand of slowing (8)
+ x - a wand of digging (18)
+Comestibles
+ c - 5 bread rations
+ o - 6 fruits
+ p - 3 meat rations
+ v - a slice of pizza
+Scrolls
+ f - a scroll of noise {unknown}
+ h - 4 scrolls of remove curse
+ i - 2 scrolls of teleportation
+ j - a scroll of fear
+ l - a scroll of random uselessness {unknown}
+ m - a scroll of fog
+ n - 4 scrolls of magic mapping
+ q - 2 scrolls of identify
+ s - a scroll of enchant weapon
+ w - a scroll of recharging {unknown}
+Jewellery
+ b - a ring of sustain abilities (left hand)
+ u - an amulet of the gourmand (around neck)
+Potions
+ d - 2 potions of brilliance {unknown}
+ e - a potion of heal wounds
+
+
+   Skills:
+ - Level 4.5 Fighting
+ + Level 11.1 Maces & Flails
+ - Level 3.7 Armour
+ - Level 3.1 Dodging
+
+
+You had 7 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (6/15)            
+Temple: D:4-7       
+
+Altars:
+Cheibriados
+Fedhas
+Makhleb
+Qazlal
+Vehumet
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Annotations:
+D:5 digging for angels and demons
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+
+
+Message History
+
+Press: ? - help, v - describe, . - travel
+The floor.
+Evoke which item? (* to show all) (? for menu, Esc to quit)
+Zapping: x - an encrusted bone wand
+Press: ? - help, Shift-Dir - straight line
+Nothing appears to happen.
+x - a wand of digging {zapped: 1}
+There is an open door here.
+Press: ? - help, v - describe, . - travel
+A translucent stone wall.
+Unknown command.
+Really walk into a travel-excluded area? 
+[Y]es or [N]o only, please.
+Really walk into a travel-excluded area? 
+You are engulfed in freezing vapours.
+You are engulfed in freezing vapours.
+You are engulfed in freezing vapours.
+* * * LOW HITPOINT WARNING * * *
+You are engulfed in freezing vapours.
+You die...
+
+    #..........#[#.8.#.#.#.#...#)))...#.#######
+    #......##..#[#§#...#.#.#...#.#.####.#
+    #......##..#?#§#..##.#)#..........#.#
+ ...#......##..#§#§##.##.#.#..........+.#
+...............#§#§##.##.#.#..........###
+ ####......###.#§#§#.......#..........#
+    #......# #.#§#§#.#.#.###...#.......
+    #......# #.#§#§#.#..... ...#######.#
+   ........# #.#§#§#.##..###          .
+   ...###### #.#§#§#.##.>#
+    ..       #.#§#§#.....#
+             #.#§#@#####.###.###
+             #.#§#§###...........
+             #.#§#§###.#.#......
+             #.#§#§###.#.#.#.###
+             #.#§#§###.#.# # ..
+             #.#§§§###.#.#    #
+             #.#######.#.#
+             #.#######.#.#
+             #.#######.#.#
+             #.........#.
+             ###########
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  Menkaure (D:4)
+  A sky beast (D:5)
+  A giant frog (D:6)
+  Blork the orc (D:4)
+  3 scorpions
+  A jelly (D:5)
+  2 orc priests (D:3)
+  A centaur skeleton (D:4)
+  Crazy Yiuf (D:3)
+  An iguana (D:4)
+  4 orc wizards
+  A giant frog skeleton (D:6)
+  3 worker ants (D:4)
+  Ijyb (D:2)
+  A hound skeleton (D:3)
+  9 adders
+  5 gnolls
+  A giant mite (D:3)
+  A shadow imp (D:5)
+  2 worms
+  An adder skeleton (D:2)
+  A gnoll zombie (D:3)
+  19 orcs
+  A bat skeleton (D:5)
+  A bat zombie (D:3)
+  4 giant cockroaches
+  7 goblins
+  17 hobgoblins
+  2 jackals (D:4)
+  14 kobolds
+  A quokka (D:2)
+  A ball python (D:3)
+  13 bats
+  4 giant geckos
+  3 giant newts
+  A goblin skeleton (D:5)
+  A goblin zombie (D:3)
+  A hobgoblin skeleton (D:3)
+  2 hobgoblin zombies (D:3)
+  2 kobold zombies
+  2 orc skeletons (D:3)
+  A quokka zombie (D:3)
+  8 rats
+  A rat skeleton (D:3)
+  A plant (D:3)
+150 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | D:1      | Asterion, the Minotaur Berserker, began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
+   173 | D:1      | Reached skill level 4 in Maces & Flails
+   297 | D:1      | Reached XP level 2. HP: 26/26 MP: 1/1
+   503 | D:1      | Acquired Trog's second power
+   652 | D:2      | Reached skill level 5 in Maces & Flails
+   660 | D:2      | Reached XP level 3. HP: 29/31 MP: 2/2
+   943 | D:2      | Noticed Ijyb
+   968 | D:2      | Killed Ijyb
+   979 | D:2      | Reached XP level 4. HP: 26/39 MP: 2/2
+  1054 | D:2      | Reached skill level 6 in Maces & Flails
+  1488 | D:3      | Found a shimmering altar of Xom.
+  1493 | D:3      | Found a basalt altar of Yredelemnul.
+  1496 | D:3      | Found a radiant altar of Vehumet.
+  1536 | D:3      | Reached skill level 7 in Maces & Flails
+  1536 | D:3      | Reached XP level 5. HP: 16/45 MP: 2/2
+  1901 | D:3      | Reached skill level 8 in Maces & Flails
+  1903 | D:3      | Acquired Trog's third power
+  2127 | D:3      | Found a snail-covered altar of Cheibriados.
+  2140 | D:3      | Reached XP level 6. HP: 43/51 MP: 3/3
+  2212 | D:3      | Noticed Crazy Yiuf
+  2222 | D:3      | Killed Crazy Yiuf
+  2360 | D:3      | Received a gift from Trog
+  2906 | D:4      | Noticed Menkaure
+  2912 | D:4      | Killed Menkaure
+  2912 | D:4      | Received a gift from Trog
+  2912 | D:4      | Reached skill level 9 in Maces & Flails
+  3060 | D:4      | Noticed Blork the orc
+  3066 | D:4      | Killed Blork the orc
+  3066 | D:4      | Reached XP level 7. HP: 46/57 MP: 3/3
+  3207 | D:4      | Found a stormy altar of Qazlal.
+  3905 | D:5      | Entered Level 5 of the Dungeon
+  4011 | D:5      | Found a glowing golden altar of the Shining One.
+  4429 | D:5      | Reached skill level 10 in Maces & Flails
+  4566 | D:5      | Found a burning altar of Makhleb.
+  4568 | D:5      | Found a glowing silver altar of Zin.
+  4568 | D:5      | Noticed an angel
+  4571 | D:5      | Noticed a balrug
+  4657 | D:5      | Reached XP level 8. HP: 58/67 MP: 3/3
+  4781 | D:5      | Found a blossoming altar of Fedhas.
+  4948 | D:6      | Reached skill level 11 in Maces & Flails
+  5060 | D:6      | Engulfed by a cloud of freezing vapour
+
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Mace              |    70 |   201 |   143 ||   414
+Invok: Berserk           |       |     2 |     1 ||     3
+Evoke: Wand              |       |       |     2 ||     2
+  Use: Scroll            |       |     8 |       ||     8
+       Potion            |       |     5 |       ||     5
+  Eat: Chunk             |       |     4 |    12 ||    16
+       Meat ration       |       |     1 |       ||     1
+

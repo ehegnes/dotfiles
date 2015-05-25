@@ -1,0 +1,144 @@
+ Dungeon Crawl Stone Soup version 0.18-a0-8-g0de29c1 (console) character file.
+
+2 Sanguine the Skirmisher (level 1, -1/18 HPs)
+             Began as a Demonspawn Abyssal Knight on Nov 1, 2015.
+             Was an Initiate of Lugonu.
+             Slain by a kobold
+             ... wielding a +0 dagger
+              (5 damage)
+             ... on level 1 of the Dungeon.
+             The game lasted 00:00:31 (461 turns).
+
+Sanguine the Skirmisher (Demonspawn Abyssal Knight)  Turns: 461, Time: 00:00:31
+
+Health: -1/18      AC:  3    Str: 12    XL:     1   Next: 25%
+Magic:  2/2        EV: 11    Int: 13    God:    Lugonu [......]
+Gold:   21         SH:  0    Dex: 12    Spells: 0 memorised, 0 levels left
+
+rFire  . . .     SeeInvis .     a - +1 mace
+rCold  . . .     Clarity  .     b - +0 leather armour
+rNeg   . . .     SustAt   .     (no shield)
+rPois  .         Gourm    .     (no helmet)
+rElec  .         Spirit   .     (no cloak)
+rCorr  .         Warding  .     (no gloves)
+rMut   .         Stasis   .     (no boots)
+MR     .....                    (no amulet)
+Stlth  +.........               (no ring)
+                                (no ring)
+
+@: not resistant to hostile enchantments, very unstealthy
+A: no striking features
+a: Renounce Religion
+
+
+You were on level 1 of the Dungeon.
+You worshipped Lugonu.
+Lugonu was noncommittal.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+You visited the Abyss 1 time.
+
+You collected 21 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +1 mace (weapon)
+Armour
+ b - a +0 leather armour (worn)
+Comestibles
+ c - a bread ration
+ d - a beef jerky
+
+
+   Skills:
+ - Level 3.0 Fighting
+ + Level 2.0 Maces & Flails
+ - Level 1.7 Armour
+ - Level 0.8 Dodging
+ - Level 2.4 Invocations
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+You hit the hobgoblin.
+You kill the hobgoblin!
+Lugonu accepts your kill.
+Your Maces & Flails skill increases to level 2!
+The kobold throws a stone. The stone misses you.
+The kobold hits you but does no damage.
+You see here a club.
+You barely miss the kobold. The kobold barely misses you.
+You completely miss the kobold. The kobold hits you with a dagger.
+* * * LOW HITPOINT WARNING * * *
+The kobold hits you but does no damage.
+You hit the kobold but do no damage. The kobold closely misses you.
+You hit the kobold but do no damage. The kobold barely misses you.
+You miss the kobold. The kobold hits you but does no damage.
+You hit the kobold.
+The kobold is moderately wounded.
+The kobold hits you with a dagger.
+* * * LOW HITPOINT WARNING * * *
+The kobold hits you with a dagger.
+You die...
+
+     .........###+##
+     .........#......
+     .........#.......
+     (................
+     ..l..............
+     .................
+     ......)........#
+     .......(.......#
+     ########(l.....#
+            ##l######
+             #K#
+             #@#
+             #.#
+             #.#
+      ########.#
+      .........#
+      .#######.#
+             #(#
+             #.#
+             #.#
+##############.#
+#...'..........#
+#.<.##########.#
+
+
+You could see a kobold and 2 giant newts.
+
+Vanquished Creatures
+  A hobgoblin (D:1)
+  A goblin (D:1)
+2 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | Abyss:1  | Sanguine the Demonspawn Abyssal Knight began the quest for the Orb.
+     0 | Abyss:1  | Reached XP level 1. HP: 18/18 MP: 2/2
+   153 | Abyss:1  | Noticed a large abomination
+   177 | D:1      | Escaped the Abyss
+   461 | D:1      | Slain by a kobold
+
+Vault maps used:
+D:1:      dpeg_arrival_simpleton_b
+
+Action                   || total
+-------------------------++-------
+Melee: Mace              ||    15
+Invok: Depart the Abyss  ||     1
+

@@ -1,0 +1,174 @@
+ Dungeon Crawl Stone Soup version 0.14.1 (console) character file.
+
+111 Dracula the Sneak (level 4, -4/33 HPs)
+             Began as a Vampire Assassin on July 24, 2014.
+             Slain by a gnoll sergeant
+             ... wielding a +1,+2 vampiric spear
+              (8 damage)
+             ... on Level 3 of the Dungeon.
+             The game lasted 00:07:52 (1735 turns).
+
+Dracula the Sneak (Vampire Assassin)                Turns: 1735, Time: 00:07:52
+
+HP  -4/33        AC  4     Str 10      XL: 4   Next: 16%
+MP   4/4         EV 12     Int 13      God: 
+Gold 32          SH  0     Dex 16      Spells:  0 memorised,  3 levels left
+
+rFire  . . .     SeeInvis +     a - +3,+2 dagger
+rCold  . . .     Clarity  .     r - +0 robe
+rNeg   + . .     Conserve .     (no shield)
+rPois  .         rCorr    .     (no helmet)
+rElec  .         rRot     .     d - +1 cloak
+SustAb . .       Spirit   .     (no gloves)
+rMut   .         Warding  .     (no boots)
+Saprov . . .     Stasis   .     (no amulet)
+MR     .....                    (no ring)
+                                (no ring)
+
+@: not resistant to hostile enchantments, very stealthy
+A: fangs 3, see invisible, unbreathing
+a: Bat Form
+
+
+You were on level 3 of the Dungeon.
+You were not thirsty.
+
+You visited 1 branch of the dungeon, and saw 3 of its levels.
+
+You collected 32 gold pieces.
+
+Inventory:
+
+Hand weapons
+ a - a +3,+2 dagger (weapon)
+ b - a +0 blowgun
+Missiles
+ e - 17 poisoned needles
+ f - 2 curare-tipped needles
+Armour
+ d - a +1 cloak (worn)
+ r - a +0 robe (worn)
+Scrolls
+ j - a scroll of enchant armour
+ k - a scroll of teleportation
+Jewellery
+ i - an uncursed ring of flight {unknown}
+Potions
+ n - a potion of heal wounds
+ p - a potion of resistance
+
+
+   Skills:
+ - Level 1.7 Fighting
+ + Level 3.2 Short Blades
+ - Level 1.5 Throwing
+ - Level 1.1 Dodging
+ * Level 7.9 Stealth
+
+
+You had 3 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have razor-sharp teeth.*
+You have supernaturally acute eyesight.
+You can survive without breathing.*
+
+
+Message History
+
+The gnoll is almost dead.
+You hit the gnoll.
+You kill the gnoll!
+You see here a flail.
+You aren't carrying any corpses which you can drain.
+There is an escape hatch in the ceiling here.
+There is a stone staircase leading down here.
+You climb downwards.
+There is a stone staircase leading up here.
+You see here a club.
+You see here a club.
+You completely miss the gnoll sergeant.
+The gnoll sergeant hits you with a runed spear.
+You hit the gnoll sergeant but do no damage.
+The gnoll sergeant hits you with a runed spear.
+You hit the gnoll sergeant but do no damage.
+The gnoll sergeant hits you with a runed spear!
+* * * LOW HITPOINT WARNING * * *
+The gnoll sergeant hits you from afar with a runed spear!
+You die...
+
+                  ..#
+                  #.#
+             ######.###          .#
+  #.#        .........###### ####.#
+  #.#     #............. ..###....#
+  #.#     #..###....#..# #.##.....
+  #.#     #.........#..###.##..#
+###.#######>.###....#......g...#
+.g.....................P.......#
+≈≈....≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈#@###.#######
+≈≈....≈≈≈≈≈≈≈≈≈G≈≈≈≈≈≈≈≈≈#)###.......####
+≈≈$...≈≈≈≈≈≈≈≈≈≈≈≈#####≈≈#.<.#.##.......#
+......g...g.......#.g.#≈≈###.#.##.#####.#
+##''g'#############...#≈≈# #.#.##.#
+ #....#           #g###≈G# #.#....#
+ +..g.'..         #.  ≈≈≈# #.#..#.#
+ #....####        #. .≈≈≈# #.#..#.#
+ ##gg##            .#.≈≈≈# #.#..#..
+  ..g.              #.≈≈≈# #.#. ###
+
+
+You could see a gnoll sergeant.
+
+Vanquished Creatures
+  An adder (D:2)
+  3 gnolls
+  A giant eyeball (D:3)
+  3 giant geckos
+  4 bats
+  3 hobgoblins (D:1)
+  4 jackals (D:3)
+  4 kobolds
+  A ball python (D:1)
+  A giant cockroach (D:3)
+  4 giant newts
+  6 goblins
+  3 rats (D:1)
+38 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | D:1      | Dracula, the Vampire Assassin, began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 16/16 MP: 1/1
+    38 | D:1      | Reached skill level 6 in Stealth
+   228 | D:1      | Reached XP level 2. HP: 16/22 MP: 2/2
+   632 | D:2      | Reached skill level 7 in Stealth
+   650 | D:2      | Reached XP level 3. HP: 25/27 MP: 3/3
+  1401 | D:3      | Noticed a gnoll sergeant
+  1482 | D:3      | Paralysed by a giant eyeball for 3 turns
+  1636 | D:3      | Paralysed by a giant eyeball for 2 turns
+  1644 | D:3      | Reached XP level 4. HP: 29/33 MP: 4/4
+  1735 | D:3      | Slain by a gnoll sergeant
+
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Dagger            |   102 |    13 ||   115
+       Unarmed           |     2 |       ||     2
+ Abil: End Transformatio |     5 |     1 ||     6
+       Bat Form          |     5 |     1 ||     6
+  Use: Potion            |     8 |       ||     8
+       Scroll            |     6 |       ||     6
+ Stab: Sleeping          |    14 |       ||    14
+

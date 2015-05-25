@@ -1,0 +1,115 @@
+ Dungeon Crawl Stone Soup version 0.13.1 (console) character file.
+
+20 Eric the Digger (level 1, 10/10 HPs)
+             Began as a Deep Elf Earth Elementalist on July 10, 2014.
+             Quit the game on Level 1 of the Dungeon.
+             The game lasted 00:00:21 (0 turns).
+
+Eric the Digger (Deep Elf Earth Elementalist)          Turns: 0, Time: 00:00:21
+
+HP  10/10        AC  2     Str  5      XL: 1   Next:  0%
+MP   4/4         EV 13     Int 19      God: 
+Gold 20          SH  0     Dex 15      Spells:  1 memorised,  2 levels left
+
+Res.Fire  : . . .   See Invis. : .   (no weapon)
+Res.Cold  : . . .   Warding    : .   c - +0 elf robe
+Life Prot.: . . .   Conserve   : .   (no shield)
+Res.Poison: .       Res.Corr.  : .   (no helmet)
+Res.Elec. : .       Clarity    : .   (no cloak)
+Sust.Abil.: . .     Spirit.Shd : .   (no gloves)
+Res.Mut.  : .       Stasis     : .   (no boots)
+Res.Rott. : .       Flight     : .   (no amulet)
+Saprovore : . . .                    (no ring)
+                                     (no ring)
+
+@: not resistant to hostile enchantments, fairly stealthy
+A: no striking features
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Missiles
+ b - 20 stones (quivered)
+Armour
+ c - a +0 elven robe (worn)
+Comestibles
+ a - a bread ration
+Books
+ d - a book of Geomancy   
+   
+   Spells                             Type                      Level
+   *Sandblast                         Earth                        1
+   Stoneskin                          Transmutation/Earth          2
+   Passwall                           Transmutation/Earth          3
+   Stone Arrow                        Conjuration/Earth            3
+   Petrify                            Transmutation/Earth          4
+   Lee's Rapid Deconstruction         Earth                        5
+
+
+   Skills:
+ + Level 2.4 Dodging
+ + Level 2.4 Stealth
+ + Level 1.5 Spellcasting
+   Level 1.1 Transmutations
+ + Level 3.2 Earth Magic
+
+
+You had 2 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Sandblast             Erth           ##....       6%          1    ##.....
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/27)            
+
+Altars:
+
+Message History
+
+Welcome, Eric the Deep Elf Earth Elementalist.
+Will you prevail where others failed? Will you get the Orb of Zot?
+Press ? for a list of commands and other information.
+Found a staircase leading out of the dungeon.
+There is a staircase leading out of the dungeon here.
+Unknown command.
+There is a staircase leading out of the dungeon here.
+Unknown command.
+You aren't carrying any potions.
+Unknown command.
+There is a staircase leading out of the dungeon here.
+Are you sure you want to abandon this character and quit the game? (Confirm with "yes".) 
+
+            #
+   #       .
+  ##.     .## #
+ ##..#####..#.#
+ #..#.....#...#
+#..#.......#...#
+  #....@....#
+#..#.......#...#
+ #..#.....#..#
+.....#####..##
+# ...     ...
+ ###       ##.
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | D:1      | Eric, the Deep Elf Earth Elementalist, began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 4/4
+     0 | D:1      | Quit the game
+

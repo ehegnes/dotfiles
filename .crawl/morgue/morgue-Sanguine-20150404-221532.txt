@@ -1,0 +1,226 @@
+ Dungeon Crawl Stone Soup version 0.16-a0-4088-g7c8221e (console) character file.
+
+1267 Sanguine the Slasher (level 8, -2/63 HPs)
+             Began as a Demonspawn Abyssal Knight on Apr 4, 2015.
+             Was a Priest of Lugonu.
+             Slain by a wight
+             ... wielding a +0 trident
+              (3 damage)
+             ... on level 6 of the Dungeon.
+             The game lasted 00:17:08 (5852 turns).
+
+Sanguine the Slasher (Demonspawn Abyssal Knight)    Turns: 5852, Time: 00:17:08
+
+Health: -2/63      AC:  9    Str: 19    XL:     8   Next: 28%
+Magic:  10/10      EV:  8    Int: 19    God:    Lugonu [***...]
+Gold:   250        SH:  0    Dex: 13    Spells: 0 memorised, 7 levels left
+
+rFire  . . .     SeeInvis .     a - +1 falchion
+rCold  + . .     Clarity  .     n - +3 plate armour
+rNeg   . . .     SustAb   .     (no shield)
+rPois  .         Gourm    .     (helmet restricted)
+rElec  .         Spirit   .     (no cloak)
+rCorr  .         Warding  .     (no gloves)
+rMut   .         Stasis   .     l - +0 pair of boots
+MR     .....                    (no amulet)
+Stlth  ..........               i - -6 ring of protection (curse)
+                                o - +3 ring of evasion
+
+@: mighty, brilliant, heavily drained, not resistant to hostile enchantments,
+extremely unstealthy
+A: antennae 2, hooves 1, cold resistance 1, evolution 1, freezing cloud immunity
+a: Depart the Abyss, Bend Space, Banish, Renounce Religion
+
+
+You were on level 6 of the Dungeon.
+You worshipped Lugonu.
+Lugonu was most pleased with you.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 6 of its levels.
+You visited the Abyss 1 time.
+
+You collected 250 gold pieces.
+
+Inventory:
+
+Hand weapons
+ a - a +1 falchion (weapon)
+Armour
+ l - a +0 pair of boots (worn)
+ n - a +3 plate armour (worn)
+Jewellery
+ i - a cursed -6 ring of protection (right hand)
+ o - a +3 ring of evasion (left hand)
+Scrolls
+ f - a scroll of identify
+ k - a scroll of blinking
+ q - 2 scrolls of recharging
+Comestibles
+ c - 4 bread rations
+ h - 3 meat rations
+
+
+   Skills:
+ + Level 5.4(4.1) Fighting
+ - Level 7.2(5.8) Long Blades
+ + Level 4.5(3.2) Armour
+ - Level 0.8(0.0) Dodging
+ - Level 2.4(1.2) Invocations
+
+
+You had 7 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (6/15)            
+Temple: D:4-7       
+
+Altars:
+Fedhas
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a pair of antennae on your head.
+You have large cloven feet.
+Your flesh is cold resistant.
+You are immune to freezing clouds.
+You evolve.
+
+
+Message History
+
+The wight is almost destroyed.
+The wight hits you but does no damage.
+The wight hits you from afar with a trident.
+* * * LOW HITPOINT WARNING * * *
+Items here: ))) [[[
+an enchanted scimitar; a robe; an enchanted short sword; a robe; an enchanted dagger; a robe
+Drink which item? (? for menu, Esc to quit)
+It was a potion of brilliance.
+You feel clever all of a sudden.
+The wight completely misses you.
+Drink which item? (? for menu, Esc to quit)
+It was a potion of beneficial mutation.
+You feel nature experimenting on you. Don't worry, failures die fast.
+You feel fantastic!
+The wight hits you from afar with a trident.
+* * * LOW HITPOINT WARNING * * *
+Drink which item? (? for menu, Esc to quit)
+You feel very mighty all of a sudden.
+The wight hits you from afar with a trident.
+You die...
+
+         #.##.......#
+        ##'#######...
+        #.....#   ...#
+        #.....#.# ..#
+        #.....#.#
+        +.....#.##
+        #.........
+   ##+  #.........
+####... #.....#.#.
+ .......#.....#.#.#..#
+ ................z....
+ ##+#'#####.#.#.#.#..#
+    #..z.@........#
+    #########.#.....
+            #....##..
+            #..#...
+            .......
+            #.##.#
+            #.#
+
+
+You could see a wight.
+
+Vanquished Creatures
+  The ghost of Asterion the Cudgeler, an average MiBe of Trog (D:4)
+  An ice beast (D:5)
+  A centaur (D:5)
+  An ogre (D:5)
+  A giant frog (D:5)
+  3 scorpions
+  2 water moccasin zombies (D:5)
+  3 wights (D:6)
+  A giant frog zombie (D:5)
+  3 hounds
+  3 centaur zombies (D:5)
+  A worker ant (D:5)
+  A hound skeleton (D:5)
+  A hound zombie (D:5)
+  4 adders
+  A worm (D:3)
+  3 adder zombies (D:5)
+  An adder skeleton (D:5)
+  An orc (D:4)
+  A ball python (D:3)
+  11 bats
+  A bat skeleton (D:5)
+  A bat zombie (D:5)
+  5 giant cockroaches
+  11 goblins
+  11 hobgoblins
+  3 jackals (D:1)
+  4 oozes
+  2 quokkas
+  2 giant geckos
+  A jackal skeleton (D:4)
+  10 kobolds
+  6 rats
+102 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | Abyss:1  | Sanguine, the Demonspawn Abyssal Knight, began the quest for the Orb.
+     0 | Abyss:1  | Reached XP level 1. HP: 18/18 MP: 1/1
+   157 | Abyss:1  | Noticed a spatial vortex
+   161 | Abyss:1  | Noticed a spatial vortex
+   180 | Abyss:1  | Noticed a small abomination
+   206 | D:1      | Escaped the Abyss
+   517 | D:1      | Gained mutation: You have a pair of small antennae on your head. [demonic ancestry]
+   517 | D:1      | Reached XP level 2. HP: 12/24 MP: 2/2
+   540 | D:1      | Acquired Lugonu's first power
+  1673 | D:2      | Gained mutation: You have large cloven feet. [demonic ancestry]
+  1673 | D:2      | Reached XP level 3. HP: 29/29 MP: 4/4
+  2813 | D:4      | Reached XP level 4. HP: 35/35 MP: 5/5
+  2919 | D:4      | Found a blossoming altar of Fedhas.
+  2939 | D:4      | Reached skill level 4 in Long Blades
+  3002 | D:4      | Acquired Lugonu's second power
+  3457 | D:4      | Noticed a scorpion
+  3474 | D:4      | Killed a scorpion
+  3474 | D:4      | Reached skill level 5 in Long Blades
+  3474 | D:4      | Gained mutation: Your flesh is cold resistant. [demonic ancestry]
+  3474 | D:4      | Reached XP level 5. HP: 26/41 MP: 6/6
+  3696 | D:4      | Noticed Asterion's ghost (average MiBe)
+  3715 | D:4      | Killed Asterion's ghost
+  3715 | D:4      | Reached skill level 6 in Long Blades
+  3715 | D:4      | Gained mutation: You are immune to freezing clouds. [demonic ancestry]
+  3715 | D:4      | Reached XP level 6. HP: 14/47 MP: 8/8
+  4106 | D:5      | Entered Level 5 of the Dungeon
+  4430 | D:5      | Reached skill level 7 in Long Blades
+  4430 | D:5      | Gained mutation: You have a pair of antennae on your head. [demonic ancestry]
+  4430 | D:5      | Reached XP level 7. HP: 43/52 MP: 9/9
+  5063 | D:5      | Acquired Lugonu's third power
+  5083 | D:5      | Reached XP level 8. HP: 38/61 MP: 10/10
+  5519 | D:5      | Reached skill level 5 in Fighting
+  5841 | D:6      | HP: 2/63 [wight/trident (5)]
+  5847 | D:6      | HP: 2/63 [wight/trident (1)]
+  5851 | D:6      | Gained mutation: You evolve. [potion of beneficial mutation]
+  5852 | D:6      | Slain by a wight
+
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Falchion          |   137 |   190 |   265 ||   592
+Invok: Depart the Abyss  |     1 |       |       ||     1
+  Use: Potion            |       |     4 |     6 ||    10
+       Scroll            |       |     4 |     6 ||    10
+  Eat: Fruit             |     2 |     3 |     2 ||     7
+       Chunk             |     3 |     4 |     2 ||     9
+       Beef jerky        |       |       |     1 ||     1
+

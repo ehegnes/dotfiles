@@ -1,0 +1,1251 @@
+ERROR in 'output.cc' at line 1087: misaligned HUD (is 45, should be -1)
+
+Version: Dungeon Crawl Stone Soup 0.15.2
+Platform: unix
+Bits: 64
+Game mode: normal
+Tiles: no
+
+Command line: crawl
+
+RC options:
+restart_after_game = false
+
+
+Crash caused by signal #6: Aborted
+
+Obtained 21 stack frames.
+crawl() [0x524633]
+crawl() [0x52c95e]
+crawl() [0x5248c9]
+/lib64/libc.so.6(+0x38830) [0x7f681d760830]: 
+/lib64/libpthread.so.0(raise+0x2b) [0x7f681dae00fb]: 
+crawl() [0x52c089]
+crawl() [0x52c495]
+crawl() [0x864321]
+crawl() [0x86482d]
+/lib64/libc.so.6(+0x38830) [0x7f681d760830]: 
+/lib64/libpthread.so.0(read+0x2b) [0x7f681dadf3db]: 
+/lib64/libncursesw.so.5(_nc_wgetch+0x5e5) [0x7f681e527145]: 
+/lib64/libncursesw.so.5(wget_wch+0x42) [0x7f681e53bba2]: 
+crawl() [0x9f25ad]
+crawl() [0x9f25ed]
+crawl() [0x6fc8c7]
+crawl() [0x6fd68c]
+crawl() [0x70d20b]
+crawl() [0x41eaa5]
+/lib64/libc.so.6(__libc_start_main+0xf5) [0x7f681d74cdb5]: 
+crawl() [0x4880fd]
+
+Trying to run gdb.
+GNU gdb (Gentoo 7.8.1 vanilla) 7.8.1
+Copyright (C) 2014 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.  Type "show copying"
+and "show warranty" for details.
+This GDB was configured as "x86_64-pc-linux-gnu".
+Type "show configuration" for configuration details.
+For bug reporting instructions, please see:
+<http://bugs.gentoo.org/>.
+Find the GDB manual and other documentation resources online at:
+<http://www.gnu.org/software/gdb/documentation/>.
+For help, type "help".
+Type "apropos word" to search for commands related to "word".
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library "/lib64/libthread_db.so.1".
+0x00007f681dadfe17 in waitpid () from /lib64/libpthread.so.0
+#0  0x00007f681dadfe17 in waitpid () from /lib64/libpthread.so.0
+No symbol table info available.
+#1  0x0000000000524d1b in call_gdb(_IO_FILE*) ()
+No symbol table info available.
+#2  0x000000000052c973 in do_crash_dump() ()
+No symbol table info available.
+#3  0x00000000005248c9 in crash_signal_handler(int) ()
+No symbol table info available.
+#4  <signal handler called>
+No symbol table info available.
+#5  0x00007f681dae00fb in raise () from /lib64/libpthread.so.0
+No symbol table info available.
+#6  0x000000000052c089 in _BreakStrToDebugger(char const*, bool) [clone .isra.3] ()
+No symbol table info available.
+#7  0x000000000052c495 in die(char const*, int, char const*, ...) ()
+No symbol table info available.
+#8  0x0000000000864321 in print_stats() ()
+No symbol table info available.
+#9  0x000000000086482d in redraw_screen() ()
+No symbol table info available.
+#10 <signal handler called>
+No symbol table info available.
+#11 0x00007f681dadf3db in read () from /lib64/libpthread.so.0
+No symbol table info available.
+#12 0x00007f681e527145 in _nc_wgetch () from /lib64/libncursesw.so.5
+No symbol table info available.
+#13 0x00007f681e53bba2 in wget_wch () from /lib64/libncursesw.so.5
+No symbol table info available.
+#14 0x00000000009f25ad in getchk() ()
+No symbol table info available.
+#15 0x00000000009f25ed in m_getch() ()
+No symbol table info available.
+#16 0x00000000006fc8c7 in _getch_mul(int (*)()) ()
+No symbol table info available.
+#17 0x00000000006fd68c in getch_with_command_macros() ()
+No symbol table info available.
+#18 0x000000000070d20b in _input() ()
+No symbol table info available.
+#19 0x000000000041eaa5 in main ()
+No symbol table info available.
+
+Compilation info:
+<<<<<<<<<<<
+Compiled with GCC 4.8.3 on Nov  1 2014 at 12:14:55
+Build platform: x86_64-pc-linux-gnu
+Platform: x86_64-pc-linux-gnu
+CFLAGS: -march=native -O2 -pipe -Wall -Wformat-security -Wmissing-declarations -Wredundant-decls -Wundef -Wno-array-bounds -Wno-format-zero-length -Wno-parentheses -Wno-unused-parameter -Wwrite-strings -Wshadow -Wuninitialized -Iutil -I. -Irltiles -isystem contrib/install/x86_64-pc-linux-gnu/include -DWIZARD -DASSERTS -DCLUA_BINDINGS -DSAVE_DIR_PATH="~/.crawl" -DDATA_DIR_PATH="/usr/share/games/stone-soup/" -I/usr/include/ncursesw
+LDFLAGS: -Wl,-O1 -Wl,--as-needed
+>>>>>>>>>>>
+
+Place info:
+branch = 5, depth = 4
+
+Level id: Lair:4
+Level build method = , level layout type  = open_caves, absdepth0 = 13
+Level vaults:
+    layout_cave_pods
+    guppyfry_snake_entry_island
+
+Markers:
+<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>
+
+Messages:
+<<<<<<<<<<<<<<<<<<<<<<
+You see here 26 stones.
+A green rat and a yak come into view.
+The yak bellows!
+You puncture the green rat!
+You kill the green rat!
+Trog accepts your kill.
+A yak comes into view.
+You impale the green rat!!
+You kill the green rat!
+Trog accepts your kill.
+2 green rats, a hound and a yak come into view.
+The yak bellows! The hound barks!
+The hound moves out of view. You block the green rat's attack. The green rat bites something!
+A green rat comes into view.
+Things that are here:
+28 stones; a green rat corpse; a green rat corpse
+You puncture the green rat!
+You kill the green rat!
+Trog accepts your kill.
+A green rat comes into view.
+You puncture the yak!
+The yak is moderately wounded.
+A yak comes into view.
+You sock the yak! You drain the yak! You headbutt the yak.
+The yak is almost dead.
+You block the yak's attack.
+A yak comes into view.
+You thump the yak!
+You kill the yak!
+Trog accepts your kill.
+You block the green rat's attack.
+You puncture the hound! You headbutt the hound.
+You kill the hound!
+Trog accepts your kill.
+You pound the green rat like an anvil!!!
+You kill the green rat!
+Trog accepts your kill.
+A green rat comes into view.
+You hit the green rat.
+The green rat is heavily wounded.
+You hit the green rat. You drain the green rat!
+You kill the green rat!
+Trog accepts your kill.
+You barely miss the yak. The green rat bites you! The yak gores you.
+You puncture the yak! You drain the yak!
+The yak is heavily wounded.
+The green rat bites you!
+The green rat bites you but does no damage.
+You puncture the yak! You drain the yak!
+The yak is moderately wounded.
+You block the green rat's attack. The green rat closely misses you. You furiously retaliate!
+You headbutt the green rat.
+You puncture the yak! Your headbutt misses the yak.
+The yak is severely wounded.
+The green rat barely misses you.
+You impale the yak!!
+You kill the yak!
+Trog accepts your kill.
+You block the green rat's attack. The yak completely misses you. You furiously retaliate! You headbutt the yak!!
+You sock the yak!
+You kill the yak!
+Trog accepts your kill.
+Your Shields skill increases to level 9!
+You block the green rat's attack. The yak misses you.
+The green rat bites you but does no damage.
+You sock the green rat!
+You kill the green rat!
+Trog accepts your kill.
+The green rat closely misses you. The yak closely misses you. You furiously retaliate! You headbutt the yak!
+The yak misses you.
+You bludgeon the yak!!
+The yak is almost dead.
+You block the green rat's attack. The green rat closely misses you. You furiously retaliate!
+You headbutt the green rat, but do no damage.
+The yak misses you.
+You impale the yak!!
+You kill the yak!
+Trog accepts your kill.
+The yak completely misses you.
+You bludgeon the yak!! You drain the yak!
+You kill the yak!
+Trog accepts your kill.
+You block the green rat's attack. The green rat misses you.
+You impale the green rat!!
+You kill the green rat!
+Trog accepts your kill.
+The green rat completely misses you.
+You closely miss the green rat.
+You headbutt the green rat, but do no damage.
+The green rat barely misses you. The green rat misses you.
+You impale the green rat!!
+You kill the green rat!
+Trog accepts your kill.
+You puncture the green rat! You drain the green rat!
+You kill the green rat!
+Trog accepts your kill.
+No target in view!
+You see here a yak corpse.
+Things that are here:
+28 stones; a green rat corpse; a green rat corpse
+You see here a yak corpse.
+You offer a prayer to Trog.
+The yak corpse is slowly consumed by flames.
+Trog is exalted by your worship.
+Things that are here:
+28 stones; a green rat corpse; a green rat corpse
+Things that are here:
+a green rat corpse x2
+You offer a prayer to Trog.
+The green rat corpse is consumed in a column of flame. x2
+Trog is exalted by your worship.
+You see here a green rat corpse.
+You offer a prayer to Trog.
+The green rat corpse is consumed in a column of flame.
+Trog is exalted by your worship.
+Things that are here:
+28 stones; a green rat corpse; a green rat corpse
+You offer a prayer to Trog.
+The green rat corpse is slowly consumed by flames.
+The green rat corpse is consumed in a column of flame.
+Trog is exalted by your worship.
+S - a potion of agility
+Found a radiant altar of Vehumet.
+You smell decay. Yuck! (slot O)
+HP restored.
+An iguana comes into view.
+The iguana hisses angrily.
+Drop what? (_ for help) (? for menu, Esc to quit)
+You drop a rotting chunk of giant frog flesh.
+An iguana is nearby!
+A porcupine comes into view.
+You hit the iguana.
+The iguana is lightly wounded.
+You thump the iguana!
+You kill the iguana!
+Trog accepts your kill.
+You barely miss the porcupine.
+You impale the porcupine!!
+You kill the porcupine!
+Trog accepts your kill.
+No target in view!
+An iguana comes into view.
+The iguana hisses angrily.
+You see here an iguana corpse.
+You offer a prayer to Trog.
+The iguana corpse is slowly consumed by flames.
+Trog is exalted by your worship.
+You see here a porcupine corpse.
+You offer a prayer to Trog.
+The porcupine corpse is slowly consumed by flames.
+Trog is exalted by your worship.
+A komodo dragon comes into view.
+You sock the iguana!
+The iguana is almost dead.
+You block the iguana's attack.
+You closely miss the iguana.
+The iguana is almost dead.
+You sock the iguana!
+You kill the iguana!
+Trog accepts your kill.
+You are feeling hungry.
+You puncture the komodo dragon!
+You headbutt the komodo dragon, but do no damage.
+The komodo dragon is moderately wounded.
+You block the komodo dragon's attack.
+You bludgeon the komodo dragon!! Your headbutt misses the komodo dragon.
+The komodo dragon is almost dead.
+You hit the komodo dragon but do no damage.
+You drain the komodo dragon!
+You kill the komodo dragon!
+Trog accepts your kill.
+No target in view!
+You see here a komodo dragon corpse.
+You start butchering the komodo dragon corpse.
+You continue butchering the corpse. x3
+You finish butchering the komodo dragon corpse.
+O - 2 chunks of komodo dragon flesh
+Eat one of 4 chunks of hippogriff flesh? (ye/n/q/i?)
+This raw flesh tastes terrible.
+You continue eating. x2
+Found 13 arrows of frost and a cloak.
+You smell something rotten. (slot R)
+A quokka comes into view.
+A quokka is nearby!
+A quokka is nearby!
+The quokka twitches its whiskers.
+You sock the quokka!
+You kill the quokka!
+Trog accepts your kill.
+You see here a cloak.
+T - a cloak
+Wear which item? (? for menu, Esc to quit)
+You start removing your armour. You continue taking off your +0 cloak.
+You continue taking off your +0 cloak. x3
+You finish taking off your +0 cloak.
+You start putting on your armour. You continue putting on your cloak.
+You continue putting on your cloak. x4
+You finish putting on your +0 cloak.
+Unknown command.
+Drop what? (_ for help) (? for menu, Esc to quit)
+You drop a +0 cloak.
+You see here a +0 cloak.
+An adder comes into view.
+Found a stone staircase leading up.
+You block the adder's attack.
+Your shield and ring mail prevent you from hitting the adder.
+Your headbutt misses the adder. You block the adder's attack.
+You bludgeon the adder!!
+You kill the adder!
+Trog accepts your kill.
+No target in view!
+You see here an adder corpse.
+You offer a prayer to Trog.
+The adder corpse is consumed in a column of flame.
+Trog is exalted by your worship.
+Found a trident and 18 stones.
+F - 2 potions of curing (gained 1)
+v - a short gold wand
+Found a stone staircase leading down.
+A giant frog comes into view.
+The giant frog gives a loud, deep croak!
+Evoke which item? (* to show all) (? for menu, Esc to quit)
+You don't have any such object.
+Evoke which item? (* to show all) (? for menu, Esc to quit)
+Okay, then.
+Evoke which item? (* to show all) (? for menu, Esc to quit)
+Zapping: v - a short gold wand
+Press: ? - help, Shift-Dir - straight line, f - giant frog
+Aim: a giant frog
+The bolt of fire hits the giant frog.
+The giant frog is almost dead.
+v - a wand of fire {zapped: 1}
+The giant frog misses you. You furiously retaliate! You headbutt the giant frog.
+You kill the giant frog!
+Trog accepts your kill.
+No target in view!
+Drop what? (_ for help) (? for menu, Esc to quit)
+Okay, then.
+2 green rats come into view.
+You hear a blaring wail to the north.
+You open the door.
+There are monsters nearby!
+You block the green rat's attack. The green rat completely misses you. You furiously retaliate!
+You headbutt the green rat!
+You closely miss the green rat. Your headbutt misses the green rat.
+The green rat is severely wounded.
+You block the green rat's attack. The green rat closely misses you. You furiously retaliate!
+You headbutt the green rat.
+You hit the green rat.
+You kill the green rat!
+Trog accepts your kill.
+You block the green rat's attack.
+You hit the green rat.
+You kill the green rat!
+Trog accepts your kill.
+A green rat comes into view.
+You see here a green rat corpse.
+You offer a prayer to Trog.
+The green rat corpse is consumed in a column of flame.
+Trog is exalted by your worship.
+A green rat is nearby!
+A green rat and a spiny frog come into view.
+You block the green rat's attack.
+Found a stone staircase leading down.
+You puncture the green rat!
+The green rat is severely wounded.
+You block the green rat's attack.
+You puncture the green rat!
+You kill the green rat!
+Trog accepts your kill.
+A giant frog comes into view.
+A green rat comes into view.
+The giant frog croaks.
+You block the spiny frog's attack.
+A green rat comes into view.
+You see here a green rat corpse.
+You impale the spiny frog!! You drain the spiny frog!
+The spiny frog is severely wounded.
+You block the spiny frog's attack.
+A water moccasin comes into view.
+You impale the spiny frog!!
+You kill the spiny frog!
+Trog accepts your kill.
+Your Dodging skill increases to level 9!
+You block the green rat's attack.
+You sock the green rat! You drain the green rat!
+You kill the green rat!
+Trog accepts your kill.
+You block the giant frog's attack. The giant frog completely misses you. You furiously retaliate!
+You headbutt the giant frog, but do no damage.
+You bludgeon the giant frog!! You drain the giant frog!
+You kill the giant frog!
+Trog accepts your kill.
+You block the water moccasin's attack.
+You barely miss the water moccasin. The water moccasin misses you.
+A blink frog comes into view.
+You hit the water moccasin. You headbutt the water moccasin.
+The water moccasin is moderately wounded.
+You block the green rat's attack. The water moccasin barely misses you. The blink frog blinks!
+You bludgeon the water moccasin!! You drain the water moccasin!
+You kill the water moccasin!
+Trog accepts your kill.
+The green rat barely misses you. You block the green rat's attack.
+You completely miss the green rat. You headbutt the green rat!
+You kill the green rat!
+Trog accepts your kill.
+You puncture the green rat!
+The green rat is almost dead.
+The blink frog blinks! You block the green rat's attack.
+You bludgeon the green rat!!
+You kill the green rat!
+Trog accepts your kill.
+The blink frog blinks!
+A blink frog comes into view.
+The blink frog barely misses you. You furiously retaliate! You headbutt the blink frog.
+You thump the blink frog!
+The blink frog is moderately wounded.
+You block the blink frog's attack.
+You closely miss the blink frog.
+The blink frog is moderately wounded.
+The blink frog misses you. You furiously retaliate! You headbutt the blink frog!
+The blink frog momentarily phases out as your attack passes through it.
+Your headbutt passes through the blink frog as it momentarily phases out.
+The blink frog is severely wounded.
+The blink frog misses you. You furiously retaliate! You headbutt the blink frog.
+The blink frog momentarily phases out as your attack passes through it.
+The blink frog is severely wounded.
+The blink frog hits you!
+You puncture the blink frog! You drain the blink frog!
+You kill the blink frog!
+Trog accepts your kill.
+The blink frog momentarily phases out as your attack passes through it.
+You headbutt the blink frog.
+The blink frog is lightly wounded.
+You block the blink frog's attack.
+The blink frog momentarily phases out as your attack passes through it.
+Your headbutt passes through the blink frog as it momentarily phases out.
+The blink frog is lightly wounded.
+You block the blink frog's attack.
+You thump the blink frog! You headbutt the blink frog!
+The blink frog is severely wounded.
+You impale the blink frog!!
+You kill the blink frog!
+Trog accepts your kill.
+No target in view!
+You see here a green rat corpse.
+You see here a green rat corpse.
+You offer a prayer to Trog.
+The green rat corpse is slowly consumed by flames.
+Trog is exalted by your worship.
+A blink frog comes into view.
+The blink frog gives a loud, deep croak!
+You see here a green rat corpse.
+You offer a prayer to Trog.
+The green rat corpse is slowly consumed by flames.
+Trog is exalted by your worship.
+The blink frog blinks!
+The blink frog momentarily phases out as your attack passes through it.
+Your headbutt passes through the blink frog as it momentarily phases out.
+You block the blink frog's attack.
+You puncture the blink frog! Your headbutt misses the blink frog.
+The blink frog is heavily wounded.
+The blink frog completely misses you. You furiously retaliate! You headbutt the blink frog.
+The blink frog momentarily phases out as your attack passes through it.
+Your headbutt misses the blink frog.
+The blink frog is heavily wounded.
+You block the blink frog's attack.
+The blink frog momentarily phases out as your attack passes through it.
+You headbutt the blink frog!
+The blink frog is almost dead.
+You block the blink frog's attack.
+You skewer the blink frog like a kebab!!!
+You kill the blink frog!
+Trog accepts your kill.
+Found an escape hatch in the floor.
+There is an escape hatch in the floor here.
+You smell something rotten. (slot O)
+HP restored.
+A water moccasin comes into view.
+You miss the water moccasin.
+Your headbutt misses the water moccasin.
+The water moccasin bites you.
+You puncture the water moccasin! You drain the water moccasin!
+The water moccasin is almost dead.
+The water moccasin barely misses you. You furiously retaliate! You headbutt the water moccasin.
+You kill the water moccasin!
+Trog accepts your kill.
+No target in view!
+i - 16 scrolls of identify (gained 1)
+You now have 2272 gold pieces (gained 15).
+HP restored.
+Some of the chunks of flesh in your inventory have rotted away.
+Found a quarterstaff.
+i - 17 scrolls of identify (gained 1)
+There is an open door here.
+You are feeling hungry.
+Found a stone staircase leading down.
+There is a stone staircase leading down here.
+Found a chain mail.
+i - 18 scrolls of identify (gained 1)
+Found 7 stones.
+Found an escape hatch in the ceiling.
+F - 3 potions of curing (gained 1)
+All of the chunks of flesh in your inventory have rotted away.
+You are feeling very hungry.
+You see here a chain mail.
+A water moccasin comes into view.
+The water moccasin hisses angrily.
+You sock the water moccasin!
+Your headbutt misses the water moccasin.
+The water moccasin is moderately wounded.
+The water moccasin misses you.
+Your shield and ring mail prevent you from hitting the water moccasin.
+Your headbutt misses the water moccasin.
+The water moccasin is moderately wounded.
+The water moccasin completely misses you.
+You puncture the water moccasin!
+The water moccasin is heavily wounded.
+You block the water moccasin's attack.
+Your shield prevents you from hitting the water moccasin.
+Your headbutt misses the water moccasin.
+The water moccasin is heavily wounded.
+You block the water moccasin's attack.
+You bludgeon the water moccasin!!
+You kill the water moccasin!
+Trog accepts your kill.
+No target in view!
+You see here a water moccasin corpse.
+You start butchering the water moccasin corpse.
+You continue butchering the corpse. x3
+You finish butchering the water moccasin corpse.
+O - 2 chunks of water moccasin flesh
+Eat one of 2 chunks of water moccasin flesh? (ye/n/q/i?)
+This raw flesh tastes terrible.
+You continue eating. x2
+You are feeling hungry.
+Done exploring.
+That item cannot be evoked!
+Unknown command.
+Done exploring.
+Done exploring.
+Eat a chunk of water moccasin flesh? (ye/n/q/i?)
+This raw flesh tastes terrible.
+You continue eating. x2
+Done exploring.
+Drop what? (_ for help) (? for menu, Esc to quit)
+Okay, then.
+There is a stone staircase leading up here.
+Drop what? (_ for help) (? for menu, Esc to quit)
+Okay, then.
+Drop what? (_ for help) (? for menu, Esc to quit)
+You drop a +3 antimagic glaive.
+You drop a +2 great mace of holy wrath.
+Drop what? (_ for help) (? for menu, Esc to quit)
+You drop a wand of frost {zapped: 1}.
+You drop a wand of digging {zapped: 2}.
+You drop a wand of slowing {zapped: 1}.
+You drop a wand of magic darts {zapped: 4}.
+Drop what? (_ for help) (? for menu, Esc to quit)
+Okay, then.
+Read which item? (? for menu, Esc to quit)
+As you read the scroll labeled GHIEHO MEATT, it crumbles to dust.
+The air around you briefly surges with heat, but it dissipates.
+It was a scroll of immolation.
+Read which item? (? for menu, Esc to quit)
+Okay, then.
+Drop what? (_ for help) (? for menu, Esc to quit)
+Okay, then.
+There is a stone staircase leading down here.
+You climb downwards.
+Found 2 scrolls of remove curse. Found a stone staircase leading down.
+There is a stone staircase leading up here.
+A wolf comes into view.
+The wolf barks!
+A wolf comes into view.
+There are monsters nearby!
+The wolf barks!
+A wolf comes into view.
+A wolf comes into view.
+The wolf barks! x2
+You block the wolf's attack. The wolf misses you.
+A wolf comes into view.
+You sock the wolf! You drain the wolf!
+The wolf is heavily wounded.
+You puncture the wolf!
+The wolf is heavily wounded.
+You hit the wolf but do no damage. You drain the wolf!
+The wolf is severely wounded.
+The wolf completely misses you. The wolf misses you. You furiously retaliate! You headbutt the wolf!
+You kill the wolf!
+Trog accepts your kill.
+You bludgeon the wolf!!
+You kill the wolf!
+Trog accepts your kill.
+You block the wolf's attack.
+A komodo dragon comes into view.
+You sock the wolf!
+You kill the wolf!
+Trog accepts your kill.
+The wolf closely misses you. You furiously retaliate! You headbutt the wolf!
+Things that are here:
+a wolf corpse x3
+You impale the wolf!!
+You kill the wolf!
+Trog accepts your kill.
+You block the wolf's attack. The wolf misses you.
+You bludgeon the wolf!! Your headbutt misses the wolf.
+The wolf is almost dead.
+You block the wolf's attack.
+You closely miss the wolf.
+The wolf is almost dead.
+The wolf bites you but does no damage.
+You barely miss the wolf. Your headbutt misses the wolf.
+The wolf is almost dead.
+The wolf barely misses you. You furiously retaliate! You headbutt the wolf!
+You kill the wolf!
+Trog accepts your kill.
+You block the komodo dragon's attack.
+You hit the komodo dragon.
+You headbutt the komodo dragon, but do no damage.
+The komodo dragon is lightly wounded.
+You block the komodo dragon's attack.
+You hit the komodo dragon. You headbutt the komodo dragon.
+The komodo dragon is lightly wounded.
+You hit the komodo dragon.
+The komodo dragon is moderately wounded.
+You block the komodo dragon's attack.
+You impale the komodo dragon!!
+You headbutt the komodo dragon, but do no damage.
+The komodo dragon is severely wounded.
+You block the komodo dragon's attack.
+You bludgeon the komodo dragon!!
+You kill the komodo dragon!
+Trog accepts your kill.
+Found 26 gold pieces.
+You see here a wolf corpse.
+You offer a prayer to Trog.
+The wolf corpse is slowly consumed by flames.
+Trog is exalted by your worship.
+Things that are here:
+a wolf corpse x3
+You offer a prayer to Trog.
+The wolf corpse is consumed in a column of flame. x2
+The wolf corpse is slowly consumed by flames.
+Trog is exalted by your worship.
+g - 2 scrolls of remove curse (gained 1)
+You now have 2298 gold pieces (gained 26).
+An iguana comes into view.
+The iguana hisses angrily.
+An iguana is nearby!
+A quokka comes into view.
+Found a potion of restore abilities.
+You hit the iguana but do no damage. You drain the iguana! Your headbutt misses the iguana.
+The iguana is lightly wounded.
+You block the iguana's attack.
+You hit the iguana. You drain the iguana! You headbutt the iguana!
+You kill the iguana!
+Trog accepts your kill.
+The quokka closely misses you.
+You see here an iguana corpse.
+You hit the quokka but do no damage. The quokka completely misses you.
+Your shield and ring mail prevent you from hitting the quokka.
+You block the quokka's attack.
+You bludgeon the quokka!!
+You kill the quokka!
+Trog accepts your kill.
+You offer a prayer to Trog.
+The iguana corpse is slowly consumed by flames.
+Trog is exalted by your worship.
+Found 25 stones.
+You see here a quokka corpse.
+You offer a prayer to Trog.
+The quokka corpse is consumed in a column of flame.
+Trog is exalted by your worship.
+B - 2 potions of restore abilities (gained 1)
+A giant frog comes into view.
+A giant frog is nearby!
+You block the giant frog's attack.
+You bludgeon the giant frog!! You headbutt the giant frog.
+You kill the giant frog!
+Trog accepts your kill.
+No target in view!
+Found 29 stones and a throwing net.
+No target in view!
+g - 3 scrolls of remove curse (gained 1)
+You see here 29 stones.
+A hound comes into view.
+You hit the hound but do no damage. You drain the hound! You headbutt the hound!
+The hound is severely wounded.
+You block the hound's attack.
+You closely miss the hound.
+The hound is severely wounded.
+You block the hound's attack.
+You completely miss the hound. You headbutt the hound!
+You kill the hound!
+Trog accepts your kill.
+No target in view!
+You see here a hound corpse.
+You offer a prayer to Trog.
+The hound corpse is slowly consumed by flames.
+Trog is exalted by your worship.
+A spiny frog comes into view.
+The spiny frog croaks.
+The spiny frog moves out of view.
+The spiny frog is too close now for your liking.
+You impale the spiny frog!!
+The spiny frog is severely wounded.
+The spiny frog closely misses you.
+You bludgeon the spiny frog!!
+You kill the spiny frog!
+Trog accepts your kill.
+No target in view!
+You now have 2318 gold pieces (gained 20).
+Found a stone staircase leading down.
+A water moccasin comes into view.
+The water moccasin hisses angrily.
+The water moccasin misses you. You furiously retaliate! You headbutt the water moccasin!
+Found a naga barding.
+You impale the water moccasin!!
+You kill the water moccasin!
+Trog accepts your kill.
+No target in view!
+You see here a water moccasin corpse.
+You offer a prayer to Trog.
+Something appears at your feet!
+Trog grants you a gift!
+The water moccasin corpse is consumed in a column of flame.
+Trog is exalted by your worship.
+b - a runed long sword {god gift}
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+You feel magic leave you.
+b - a +4 antimagic long sword (weapon)
+You are feeling hungry.
+Eat which item? (? for menu, Esc to quit)
+Okay, then.
+A black bear comes into view.
+The black bear growls angrily.
+Found 21 arrows.
+The black bear closely misses you.
+The black bear claws you but does no damage.
+You block the black bear's attack.
+You slash the black bear! You headbutt the black bear!
+The black bear is severely wounded.
+You block the black bear's attack. The black bear completely misses you. You block the black bear's attack.
+You slash the black bear!
+You kill the black bear!
+Trog accepts your kill.
+Your Shields skill increases to level 10!
+HP restored.
+You see here 21 arrows.
+You now have 2340 gold pieces (gained 22).
+Key pressed, stopping explore.
+Found 20 stones and 24 arrows.
+Found a stone staircase leading down.
+Found a staircase to the Shoals.
+You enter the shallow water.
+Moving in this stuff is going to be slow.
+l - a potion of brilliance
+A komodo dragon comes into view.
+You found a shaft!
+The komodo dragon hisses angrily.
+Found a stone staircase leading up.
+You block the komodo dragon's attack.
+You slash the komodo dragon!
+The komodo dragon is lightly wounded.
+The komodo dragon closely misses you.
+You hit the komodo dragon but do no damage.
+You headbutt the komodo dragon.
+The komodo dragon is moderately wounded.
+The komodo dragon completely misses you.
+You hit the komodo dragon. Your headbutt misses the komodo dragon.
+The komodo dragon is moderately wounded.
+The komodo dragon misses you. You furiously retaliate! You headbutt the komodo dragon.
+The komodo dragon closely misses you.
+You hit the komodo dragon but do no damage.
+You headbutt the komodo dragon!
+The komodo dragon is heavily wounded.
+You block the komodo dragon's attack.
+You hit the komodo dragon.
+The komodo dragon is heavily wounded.
+The komodo dragon misses you.
+You slash the komodo dragon! Your headbutt misses the komodo dragon.
+The komodo dragon is severely wounded.
+The komodo dragon barely misses you. The komodo dragon misses you.
+You hit the komodo dragon but do no damage.
+The komodo dragon is severely wounded.
+The komodo dragon barely misses you.
+You slash the komodo dragon!
+You kill the komodo dragon!
+Trog accepts your kill.
+You see here a komodo dragon corpse.
+You start butchering the komodo dragon corpse.
+You continue butchering the corpse. x3
+You finish butchering the komodo dragon corpse.
+t - 3 chunks of komodo dragon flesh
+Eat one of 3 chunks of komodo dragon flesh? (ye/n/q/i?)
+This raw flesh tastes terrible.
+You continue eating. x2
+An adder comes into view.
+Found a potion of lignification and a scroll of immolation.
+The adder misses you. You furiously retaliate! You headbutt the adder!
+You kill the adder!
+Trog accepts your kill.
+No target in view!
+No target in view!
+Found a stone staircase leading up.
+You see here an adder corpse.
+Read which item? (? for menu, Esc to quit)
+Identify which item? (\ to view known items) (? for menu, Esc to quit)
+As you read the scroll of identify, it crumbles to dust.
+You get a glimpse of the first card. It is the Tomb.
+J - an ornate deck of defence {the Tomb}
+There is a stone staircase leading up here.
+c - 4 bread rations (gained 1)
+A hound comes into view.
+The hound barks!
+A hound is nearby!
+You hit the hound.
+The hound is lightly wounded.
+You block the hound's attack. The hound barely misses you.
+You miss the hound.
+The hound is lightly wounded.
+The hound barely misses you. You block the hound's attack. The hound bites you but does no damage.
+You closely miss the hound. Your headbutt misses the hound.
+The hound is lightly wounded.
+The hound bites you. The hound misses you.
+You slash the hound!
+You headbutt the hound, but do no damage.
+The hound is severely wounded.
+You block the hound's attack. The hound barely misses you.
+You barely miss the hound.
+The hound is severely wounded.
+The hound closely misses you. You furiously retaliate! You headbutt the hound!
+You kill the hound!
+Trog accepts your kill.
+No target in view!
+You see here a hound corpse.
+You offer a prayer to Trog.
+The hound corpse is slowly consumed by flames.
+Trog is exalted by your worship.
+HP restored.
+A fire drake comes into view.
+A fire drake is nearby!
+The fire drake breathes flames at you.
+The blast of flame hits you!
+You block the fire drake's attack.
+Found 23 stones.
+You slash the fire drake!
+The fire drake is moderately wounded.
+The fire drake bites you. You block the fire drake's attack.
+You hit the fire drake.
+The fire drake is heavily wounded.
+The fire drake breathes flames at you.
+The blast of flame misses you. The fire drake completely misses you. You furiously retaliate!
+You headbutt the fire drake!
+You closely miss the fire drake.
+The fire drake is severely wounded.
+The fire drake closely misses you.
+You closely miss the fire drake.
+You headbutt the fire drake, but do no damage.
+The fire drake is severely wounded.
+The fire drake completely misses you. You furiously retaliate! You headbutt the fire drake!
+You kill the fire drake!
+Trog accepts your kill.
+No target in view!
+HP restored.
+A sheep comes into view.
+The sheep bellows!
+2 sheep come into view.
+There are monsters nearby!
+The sheep bellows! x2
+2 sheep come into view.
+A sheep comes into view.
+The sheep bellows! x3
+You slash the sheep!
+The sheep is heavily wounded.
+The sheep bites you but does no damage.
+The sheep "Baaaas" balefully.
+You block the sheep's attack.
+You slash the sheep!
+You kill the sheep!
+Trog accepts your kill.
+The sheep completely misses you.
+You barely miss the sheep. The sheep misses you. You furiously retaliate! You headbutt the sheep.
+You block the sheep's attack.
+You barely miss the sheep. Your headbutt misses the sheep.
+The sheep is moderately wounded.
+You block the sheep's attack. The sheep closely misses you. You furiously retaliate! You headbutt the sheep!
+You block the sheep's attack. The sheep completely misses you.
+You hit the sheep.
+The sheep is severely wounded.
+The sheep completely misses you. You block the sheep's attack. You block the sheep's attack.
+The sheep closely misses you. The sheep bites you.
+You slice the sheep!!
+You kill the sheep!
+Trog accepts your kill.
+The sheep completely misses you. You block the sheep's attack. You block the sheep's attack.
+You slash the sheep!
+You kill the sheep!
+Trog accepts your kill.
+The sheep completely misses you. The sheep misses you. You block the sheep's attack.
+You slash the sheep!
+You kill the sheep!
+Trog accepts your kill.
+You block the sheep's attack. x2
+The sheep misses you.
+You slash the sheep!
+The sheep is heavily wounded.
+You block the sheep's attack. x2
+The sheep bites you but does no damage.
+You hit the sheep. You headbutt the sheep!
+You kill the sheep!
+Trog accepts your kill.
+The sheep misses you.
+You barely miss the sheep.
+You are feeling hungry.
+You block the sheep's attack. The sheep misses you.
+You slash the sheep!
+The sheep is severely wounded.
+The sheep completely misses you.
+You closely miss the sheep. You headbutt the sheep.
+You kill the sheep!
+Trog accepts your kill.
+Your Armour skill increases to level 10!
+No target in view!
+You see here a sheep corpse.
+You start butchering the sheep corpse. You continue butchering the corpse.
+You continue butchering the corpse. x2
+You finish butchering the sheep corpse.
+G - 4 chunks of sheep flesh
+Eat one of 2 chunks of komodo dragon flesh? (ye/n/q/i?)
+This raw flesh tastes terrible.
+You continue eating. x2
+HP restored.
+Ugh! There is something really disgusting in your inventory. (slot t)
+L - a small fluorescent amulet
+You enter the shallow water.
+Moving in this stuff is going to be slow.
+Done exploring.
+Done exploring.
+Put on which piece of jewellery? (? for menu, Esc to quit)
+Oops, that amulet feels deathly cold.
+L - a cursed amulet of inaccuracy (around neck)
+Drop what? (_ for help) (? for menu, Esc to quit)
+Okay, then.
+Read which item? (? for menu, Esc to quit)
+As you read the scroll of remove curse, it crumbles to dust.
+You feel as if something is helping you.
+Drop what? (_ for help) (? for menu, Esc to quit)
+You drop a rotting chunk of komodo dragon flesh.
+You remove your amulet of inaccuracy.
+You drop an uncursed amulet of inaccuracy.
+You see here 29 stones.
+A yak comes into view.
+The yak moves out of view.
+A yak comes into view.
+There is a stone staircase leading up here.
+The yak bellows!
+You climb upwards.
+There is a stone staircase leading down here.
+Drop what? (_ for help) (? for menu, Esc to quit)
+Okay, then.
+Drop what? (_ for help) (? for menu, Esc to quit)
+You feel magic returning to you. You are now empty-handed. You drop a +4 antimagic long sword.
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+You sense an unholy aura.
+j - a +6 eveningstar of draining (weapon)
+There is a stone staircase leading down here.
+You climb downwards. You block the yak's attack.
+A yak comes into view.
+There is a stone staircase leading up here.
+You hit the yak.
+The yak is lightly wounded.
+The yak closely misses you. You furiously retaliate! You headbutt the yak!
+You barely miss the yak. You headbutt the yak!
+The yak is almost dead.
+The yak barely misses you. You furiously retaliate! You headbutt the yak!
+You kill the yak!
+Trog accepts your kill.
+A yak comes into view.
+The yak bellows!
+You hit the yak but do no damage. You drain the yak!
+The yak is lightly wounded.
+You block the yak's attack.
+Your shield prevents you from hitting the yak.
+The yak is lightly wounded.
+You block the yak's attack.
+You hit the yak. You drain the yak!
+The yak is moderately wounded.
+You block the yak's attack. The yak closely misses you. You furiously retaliate! You headbutt the yak!
+You block the yak's attack.
+You sock the yak!
+The yak is heavily wounded.
+The yak misses you. x2
+You barely miss the yak. You headbutt the yak, but do no damage.
+The yak is heavily wounded.
+The yak completely misses you. You furiously retaliate! You headbutt the yak! The yak misses you.
+You furiously retaliate! You headbutt the yak!
+You sock the yak!
+You kill the yak!
+Trog accepts your kill.
+The yak completely misses you. You block the yak's attack.
+You hit the yak. You drain the yak!
+The yak is moderately wounded.
+The yak misses you. You block the yak's attack.
+You hit the yak but do no damage.
+The yak is moderately wounded.
+You hit the yak. You drain the yak! Your headbutt misses the yak.
+The yak is severely wounded.
+You block the yak's attack. The yak barely misses you.
+You sock the yak!
+You kill the yak!
+Trog accepts your kill.
+You block the yak's attack.
+You bludgeon the yak!! You drain the yak!
+You kill the yak!
+Trog accepts your kill.
+No target in view!
+You see here a yak corpse.
+You offer a prayer to Trog.
+The yak corpse is consumed in a column of flame.
+Trog is exalted by your worship.
+You see here a yak corpse.
+You offer a prayer to Trog.
+The yak corpse is consumed in a column of flame.
+Trog is exalted by your worship.
+You see here a yak corpse.
+You offer a prayer to Trog.
+The yak corpse is consumed in a column of flame.
+Trog is exalted by your worship.
+Done exploring.
+Done exploring.
+There is a stone staircase leading down here.
+Done exploring.
+You climb downwards.
+Found 23 gold pieces. Found a stone staircase leading up.
+There is a stone staircase leading up here.
+A water moccasin comes into view.
+The water moccasin hisses angrily.
+You block the water moccasin's attack.
+You completely miss the water moccasin. You headbutt the water moccasin.
+The water moccasin is lightly wounded.
+You miss the water moccasin.
+The water moccasin is lightly wounded.
+You block the water moccasin's attack.
+You closely miss the water moccasin. You headbutt the water moccasin!
+The water moccasin is heavily wounded.
+You block the water moccasin's attack.
+You puncture the water moccasin!
+The water moccasin is almost dead.
+The water moccasin barely misses you. You furiously retaliate! You headbutt the water moccasin!
+You kill the water moccasin!
+Trog accepts your kill.
+No target in view!
+Magic restored.
+You now have 2363 gold pieces (gained 23).
+You smell something rotten. (slot G)
+Found 22 stones.
+An adder comes into view.
+Found a stone staircase leading down.
+An adder is nearby!
+You see here 22 stones.
+You see here a copper ring.
+b - a copper ring
+The adder barely misses you. You furiously retaliate! You headbutt the adder!
+You kill the adder!
+Trog accepts your kill.
+Put on which piece of jewellery? (? for menu, Esc to quit)
+You're wearing all the rings you can. Remove which one?
+(? for menu, Esc to cancel)
+< or y - a +4 ring of evasion; > or A - the ring of Prao {Str+2 Dex+2}
+Okay, then.
+Unknown command.
+Read which item? (? for menu, Esc to quit)
+Identify which item? (\ to view known items) (? for menu, Esc to quit)
+As you read the scroll of identify, it crumbles to dust.
+b - an uncursed ring of fire
+Found a cloak.
+A crocodile comes into view.
+The crocodile barely misses you.
+Found a paperback book.
+You barely miss the crocodile. Your headbutt misses the crocodile. The crocodile misses you.
+You furiously retaliate! You headbutt the crocodile!
+You closely miss the crocodile.
+The crocodile is moderately wounded.
+The crocodile completely misses you. You furiously retaliate! You headbutt the crocodile!
+You sock the crocodile! You drain the crocodile!
+The crocodile is almost dead.
+You hit the crocodile but do no damage. You drain the crocodile! You headbutt the crocodile.
+You kill the crocodile!
+Trog accepts your kill.
+You see here a crocodile corpse.
+You offer a prayer to Trog.
+The crocodile corpse is consumed in a column of flame.
+Trog is exalted by your worship.
+You are feeling hungry.
+No target in view!
+Found a stone staircase leading down.
+You see here a paperback book.
+t - a book of Burglary
+
+>>>>>>>>>>>>>>>>>>>>>>
+
+Game state:
+
+mouse_enabled: 0, waiting_for_command: 1, terminal_resized: 0
+io_inited: 1, need_save: 1, saving_game: 0, updating_scores: 0:
+seen_hups: 0, map_stat_gen: 0, type: 1, arena_suspended: 0
+Last resize was 0 seconds ago.
+
+prev_cmd = CMD_PICKUP
+repeat_cmd = CMD_NO_CMD
+
+Player:
+{{{{{{{{{{{
+Name:       [Asterion]
+Species:    Minotaur
+Job:        Berserker
+
+class_name: Berserker
+
+HP: 118/118; mods: 0/0
+MP: 5/5; mod: 0
+Stats: 23 (23) 4 (4) 19 (19)
+Position: (27, 51), god: Trog (10), turn_is_over: 0, banished: 0
+Standing on/in/over feature: floor
+
+Skills (mode: manual)
+Name            | can_train | train | training | level | points | progress
+Fighting        |     X     |   1   |    33    |   10  |   2411 | 432/460
+Short Blades    |           |   0   |     0    |    0  |      0 | 0/42
+Long Blades     |           |   0   |     0    |    0  |      0 | 0/35
+Axes            |           |   0   |     0    |    0  |      0 | 0/35
+Maces & Flails  |     X     |   0   |     0    |   16  |   5801 | 3/884
+Polearms        |           |   0   |     0    |    0  |      0 | 0/35
+Staves          |           |   0   |     0    |    0  |      0 | 0/35
+Slings          |           |   0   |     0    |    0  |      0 | 0/42
+Bows            |           |   0   |     0    |    0  |      0 | 0/42
+Crossbows       |           |   0   |     0    |    0  |      0 | 0/42
+Throwing        |     X     |   0   |     0    |    0  |      0 | 0/50
+Armour          |     X     |   1   |    33    |   10  |   2091 | 112/460
+Dodging         |     X     |   1   |    33    |    9  |   2191 | 299/462
+Stealth         |     X     |   0   |     0    |    0  |      0 | 0/59
+Stabbing        |           |   0   |     0    |    0  |      0 | 0/1410790144
+Shields         |     X     |   0   |     0    |   10  |   1980 | 1/460
+Traps           |           |   0   |     0    |    0  |      0 | 0/1410790144
+Unarmed Combat  |     X     |   0   |     0    |    0  |      0 | 0/42
+Spellcasting    |     X     |   0   |     0    |    0  |      0 | 0/100
+Conjurations    |           |   0   |     0    |    0  |      0 | 0/84
+Hexes           |           |   0   |     0    |    0  |      0 | 0/100
+Charms          |           |   0   |     0    |    0  |      0 | 0/100
+Summonings      |           |   0   |     0    |    0  |      0 | 0/84
+Necromancy      |           |   0   |     0    |    0  |      0 | 0/84
+Translocations  |           |   0   |     0    |    0  |      0 | 0/84
+Transmutations  |           |   0   |     0    |    0  |      0 | 0/70
+Fire Magic      |           |   0   |     0    |    0  |      0 | 0/84
+Ice Magic       |           |   0   |     0    |    0  |      0 | 0/84
+Air Magic       |           |   0   |     0    |    0  |      0 | 0/84
+Earth Magic     |           |   0   |     0    |    0  |      0 | 0/70
+Poison Magic    |           |   0   |     0    |    0  |      0 | 0/84
+Invocations     |           |   0   |     0    |    0  |      0 | 0/50
+Evocations      |     X     |   0   |     0    |    0  |      0 | 0/50
+
+Spell bugs:
+
+Durations:
+
+Attributes:
+    #12: 2363
+    #23: 11851
+    #24: 122028557
+    #27: 34563
+    #49: 2765
+
+Mutations:
+    horns: 2 (innate)
+    mutation resistance: 1
+    poison resistance: 1
+    robust: 1
+
+Inventory bugs:
+
+Equipment:
+    eq slot #0, inv slot #9: +6 eveningstar of draining
+    eq slot #1, inv slot #45: +0 cloak
+    eq slot #2, inv slot #38: +0 hat
+    eq slot #4, inv slot #4: +2 pair of boots of Trog's Envy {Str-2 Dex+3}
+    eq slot #5, inv slot #3: +0 shield
+    eq slot #6, inv slot #14: +1 ring mail of magic resistance
+    eq slot #7, inv slot #24: +4 ring of evasion
+    eq slot #8, inv slot #26: ring of Prao {Str+2 Dex+2}
+
+}}}}}}}}}}}
+
+
+Screenshot:
+#.....#
+##...##
+ ##...###
+  ##...P#     ..
+#  #...####   ..#
+#  ##..P#.#  ..#
+####......# #..#
+..#.......##..##
+..........#....#
+##...........##
+#.........@..>#
+.......[.......#
+#...........##..#
+#...........#  ..
+##.........#.   .
+ ##........###
+  #P.......#
+
+clua stack:
+
+
+dlua stack:
+
+
+Lua persistent data:
+<<<<<<<<<<<<<<<<<<<<<<
+bailey_type: bailey_axe
+aquarium_serial_pool_size: 0
+>>>>>>>>>>>>>>>>>>>>>>
+
+Lua marker contents:
+<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>

@@ -1,0 +1,172 @@
+ Dungeon Crawl Stone Soup version 0.15.2 (console) character file.
+
+46 Sanguine the Cudgeler (level 3, 0/29 HPs)
+             Began as a Demonspawn Abyssal Knight on Dec 20, 2014.
+             Was a Believer of Lugonu.
+             Succumbed to an adder's poison
+             ... on Level 2 of the Dungeon.
+             The game lasted 00:07:22 (1141 turns).
+
+Sanguine the Cudgeler (Demonspawn Abyssal Knight)   Turns: 1141, Time: 00:07:22
+
+HP   0/29        AC  6     Str 12      XL: 3   Next: 46%
+MP   5/5         EV  7     Int 13      God: Lugonu [**....]
+Gold 54          SH  0     Dex 13      Spells:  0 memorised,  2 levels left
+
+rFire  . . .     SeeInvis .     a - +1 mace
+rCold  . . .     Clarity  .     g - +0 scale mail
+rNeg   . . .     rCorr    .     (no shield)
+rPois  .         rRot     .     (no helmet)
+rElec  .         Spirit   .     (no cloak)
+SustAb .         Warding  .     (no gloves)
+rMut   .         Stasis   .     (no boots)
+Gourm  .                        (no amulet)
+MR     .....                    (no ring)
+                                (no ring)
+
+@: lethally poisoned, not resistant to hostile enchantments, extremely
+unstealthy
+A: blink 1, powered by pain 1, spiny 1
+a: Blink, Depart the Abyss, Bend Space, Renounce Religion
+
+
+You were on level 2 of the Dungeon.
+You worshipped Lugonu.
+Lugonu was pleased with you.
+You were hungry.
+
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+You visited the Abyss 1 time.
+
+You collected 54 gold pieces.
+
+Inventory:
+
+Hand weapons
+ a - a +1 mace (weapon)
+Armour
+ g - a +0 scale mail (worn)
+Comestibles
+ c - 3 bread rations
+ d - a meat ration
+ f - a fruit
+Scrolls
+ e - a scroll of amnesia
+
+
+   Skills:
+ - Level 3.0 Fighting
+ * Level 3.2 Maces & Flails
+ - Level 1.7 Armour
+ - Level 0.8 Dodging
+ - Level 3.1 Invocations
+
+
+You had 2 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You sometimes gain a little power by taking damage.
+You are partially covered in sharp spines.
+You can translocate small distances at will.
+
+
+Message History
+
+You feel blessed for a moment. It was a scroll of remove curse.
+* * * LOW HITPOINT WARNING * * *
+You feel sick.
+Read which item? (? for menu, Esc to quit)
+As you read the scroll labeled SMEEJA HEEJEQU, it crumbles to dust.
+You feel forgetful for a moment. It was a scroll of amnesia.
+* * * LOW HITPOINT WARNING * * *
+You feel sick.
+Read which item? (? for menu, Esc to quit)
+As you read the scroll labeled EPOVIMIORA, it crumbles to dust.
+It is a scroll of identify.
+You don't have any unidentified items.
+* * * LOW HITPOINT WARNING * * *
+You feel sick.
+There is a lethal amount of poison in your body!
+* * * LOW HITPOINT WARNING * * *
+You feel sick.
+* * * LOW HITPOINT WARNING * * *
+You feel sick.
+You die...
+
+                  #.>.......#.##.........[.##
+                   ......####.####.....##.##
+                   #....#####.......#####)#
+                   .............[..>......#
+            ..    .........##.#####.#####.#
+          .  .  ###....### #........##. ..#
+         ... .##....#..#####....#####..  #
+          #.##.............(...######.###
+      ..   ................<.............
+     #.. ####.....#..  ##.........###.###
+    ..#.##........#.#   #.........#...#
+    #......# #.@###.#   #.#.........###
+   ###...#.###......#####.##.........##
+   .............###.......##...#####..##
+  #............................#   ##..##
+   #.......##...#).####.......##    ##..#
+   #####.#.####[#..####.....###      ##.##
+       #....................########  #..#
+########............###........#...#####.#
+#........................................#
+#...............[..#...##.####.#...#######
+#......##..........###..#.####.#...#
+#......##..........................# ########
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  An adder (D:2)
+  A giant mite (D:1)
+  An ooze (D:2)
+  A bat (D:1)
+  7 goblins
+  4 hobgoblins
+  4 kobolds
+  2 giant geckos
+  3 giant newts
+  4 rats (D:1)
+28 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | Abyss:1  | Sanguine, the Demonspawn Abyssal Knight, began the quest for the Orb.
+     0 | Abyss:1  | Reached XP level 1. HP: 18/18 MP: 1/1
+     8 | D:1      | Escaped the Abyss
+    63 | D:1      | Gained mutation: You sometimes gain a little power by taking damage. [demonic ancestry]
+    63 | D:1      | Reached XP level 2. HP: 18/24 MP: 2/2
+   769 | D:1      | Acquired Lugonu's second power
+   975 | D:2      | Gained mutation: You are partially covered in sharp spines. [demonic ancestry]
+   975 | D:2      | Reached XP level 3. HP: 29/29 MP: 5/5
+  1134 | D:2      | Gained mutation: You are weak. (Str -2) [potion of mutation]
+  1134 | D:2      | Gained mutation: You can translocate small distances at will. [potion of mutation]
+  1134 | D:2      | Gained mutation: You have a pair of small horns on your head. [potion of mutation]
+  1135 | D:2      | Lost mutation: You have a pair of small horns on your head. [potion of mutation]
+  1135 | D:2      | Lost mutation: You are weak. (Str -2) [potion of mutation]
+  1140 | D:2      | HP: 1/29 [poisoned by an adder]
+  1141 | D:2      | Succumbed to an adder's poison
+
+
+Action                   || total
+-------------------------++-------
+Melee: Mace              ||    87
+Invok: Bend Space        ||     1
+  Use: Potion            ||     3
+       Scroll            ||     3
+

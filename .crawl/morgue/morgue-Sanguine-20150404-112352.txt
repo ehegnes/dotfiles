@@ -1,0 +1,227 @@
+ Dungeon Crawl Stone Soup version 0.16-a0-4088-g7c8221e (console) character file.
+
+867 Sanguine the Slasher (level 7, -10/56 HPs)
+             Began as a Demonspawn Abyssal Knight on Apr 4, 2015.
+             Was a Priest of Lugonu.
+             Mangled by Prince Ribbit (12 damage)
+             ... on level 4 of the Dungeon.
+             The game lasted 00:09:48 (3536 turns).
+
+Sanguine the Slasher (Demonspawn Abyssal Knight)    Turns: 3536, Time: 00:09:48
+
+Health: -10/56     AC:  7    Str: 15    XL:     7   Next: 73%
+Magic:  9/9        EV: 11    Int: 13    God:    Lugonu [***...]
+Gold:   149        SH:  0    Dex: 12    Spells: 0 memorised, 6 levels left
+
+rFire  . . .     SeeInvis .     a - +2 falchion
+rCold  . . .     Clarity  .     b - +1 leather armour
+rNeg   . . .     SustAb   .     (no shield)
+rPois  .         Gourm    .     (no helmet)
+rElec  .         Spirit   .     s - +0 cloak
+rCorr  .         Warding  .     (no gloves)
+rMut   .         Stasis   .     (no boots)
+MR     .....                    (no amulet)
+Stlth  ..........               m - +5 ring of slaying
+                                k - ring of loudness (curse)
+
+@: about to teleport, not resistant to hostile enchantments, extremely
+unstealthy
+A: claws 2, thin metallic scales 1
+a: Depart the Abyss, Bend Space, Banish, Renounce Religion
+
+
+You were on level 4 of the Dungeon.
+You worshipped Lugonu.
+Lugonu was most pleased with you.
+You were very hungry.
+
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+You visited the Abyss 1 time.
+
+You collected 149 gold pieces.
+
+Inventory:
+
+Hand weapons
+ a - a +2 falchion (weapon)
+Armour
+ b - a +1 leather armour (worn)
+ s - a +0 cloak (worn)
+Jewellery
+ j - an uncursed ring of see invisible
+ k - a cursed ring of loudness (left claw)
+ m - a +5 ring of slaying (right claw)
+ p - an uncursed ring of protection from fire
+Scrolls
+ d - 2 scrolls of teleportation
+ g - 2 scrolls of enchant weapon
+ l - a scroll of identify
+Potions
+ f - 2 potions of cancellation
+Comestibles
+ c - 2 bread rations
+ h - a beef jerky
+ n - a meat ration
+
+
+   Skills:
+ + Level 5.2 Fighting
+ - Level 6.0 Long Blades
+ + Level 4.1 Armour
+ - Level 0.8 Dodging
+ - Level 2.4 Invocations
+
+
+You had 6 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)            
+Temple: D:4-7       
+
+Altars:
+Dithmenos
+Gozag
+
+Annotations:
+D:4 Prince Ribbit
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have very sharp fingernails.
+You are partially covered in thin metallic scales (AC +2).
+
+
+Message History
+
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+Prince Ribbit is nearby!
+Drink which item? (? for menu, Esc to quit)
+You feel better. Prince Ribbit misses you. Prince Ribbit hits you.
+* * * LOW HITPOINT WARNING * * *
+Drink which item? (? for menu, Esc to quit)
+It was a potion of restore abilities. You feel refreshed.
+Prince Ribbit hits you but does no damage.
+Read which item? (? for menu, Esc to quit)
+As you read the scroll of teleportation, it crumbles to dust.
+You feel strangely unstable. Prince Ribbit barely misses you.
+You slash Prince Ribbit!
+Prince Ribbit is heavily wounded.
+Prince Ribbit hits you!
+* * * LOW HITPOINT WARNING * * *
+Prince Ribbit hits you!
+You die...
+
+#.#   ##....##..............##....
+#.#    #....###.##..###.#........#
+#.#    #....###)###.# #.#........#
+..#    ####...#)###.# #..........##.
+###       #.........#####........#..
+#         #......##...()......)....#
+#   #######.....########.)......##.#
+#  ##...##....#.##     ##.......##.########
+####........##...#    ###.......##..##....#
+.........<.###...#    #..[###...##..##....#
+...#.......# #..........### ###..#..##....#
+##.......### #...#######      #.....##.F..#
+ ###.....#   #...#            ###>...).@..#
+   #######   ##.##              ######....#
+              ###                    #....#
+                                     #....#
+                                     #....#
+                                     ######
+
+
+You could see Prince Ribbit.
+
+Vanquished Creatures
+  Pikel (D:4)
+  The ghost of Sanguine the Slasher, an average DsAK of Lugonu (D:3)
+  An ogre (D:4)
+  A scorpion (D:4)
+  2 worker ants
+  An adder (D:4)
+  A giant mite (D:3)
+  A worm (D:4)
+  A giant gecko (D:1)
+  An ooze (D:1)
+  An orc (D:3)
+  13 bats
+  A bat skeleton (D:4)
+  5 giant cockroaches
+  5 hobgoblins
+  8 jackals
+  A quokka (D:3)
+  4 ball pythons
+  A giant newt (D:2)
+  7 goblins
+  18 kobolds
+  5 rats
+80 creatures vanquished.
+
+Vanquished Creatures (others)
+  A centaur (D:4)
+  A hobgoblin (D:4)
+  A kobold (D:4)
+3 creatures vanquished.
+
+Grand Total: 83 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | Abyss:1  | Sanguine, the Demonspawn Abyssal Knight, began the quest for the Orb.
+     0 | Abyss:1  | Reached XP level 1. HP: 18/18 MP: 1/1
+     3 | Abyss:1  | Found a corrupted altar of Lugonu.
+    41 | Abyss:1  | Noticed a small abomination
+    53 | D:1      | Escaped the Abyss
+   375 | D:1      | Acquired Lugonu's first power
+   648 | D:1      | Gained mutation: You are partially covered in thin metallic scales (AC +2). [demonic ancestry]
+   648 | D:1      | Reached XP level 2. HP: 21/24 MP: 2/2
+  1164 | D:1      | Reached XP level 3. HP: 4/29 MP: 4/4
+  1733 | D:2      | Acquired Lugonu's second power
+  2542 | D:3      | Reached skill level 4 in Long Blades
+  2542 | D:3      | Reached XP level 4. HP: 21/35 MP: 5/5
+  2779 | D:3      | Found a shadowy altar of Dithmenos.
+  2902 | D:3      | Found an opulent altar of Gozag.
+  2999 | D:3      | Noticed Sanguine's ghost (average DsAK)
+  3034 | D:3      | Killed Sanguine's ghost
+  3034 | D:3      | Reached skill level 5 in Long Blades
+  3034 | D:3      | Reached XP level 5. HP: 30/41 MP: 6/6
+  3134 | D:4      | Noticed an ogre
+  3139 | D:4      | Killed an ogre
+  3139 | D:4      | Reached skill level 6 in Long Blades
+  3139 | D:4      | Gained mutation: You have sharp fingernails. [demonic ancestry]
+  3139 | D:4      | Reached XP level 6. HP: 37/47 MP: 8/8
+  3169 | D:4      | Acquired Lugonu's third power
+  3453 | D:4      | Noticed a slave
+  3454 | D:4      | Noticed a slave
+  3455 | D:4      | Noticed Pikel
+  3455 | D:4      | Noticed a slave
+  3457 | D:4      | Noticed a slave
+  3472 | D:4      | Killed Pikel
+  3472 | D:4      | Reached skill level 5 in Fighting
+  3472 | D:4      | Gained mutation: You have very sharp fingernails. [demonic ancestry]
+  3472 | D:4      | Reached XP level 7. HP: 38/56 MP: 9/9
+  3511 | D:4      | Noticed Prince Ribbit
+  3525 | D:4      | Killed a centaur
+  3536 | D:4      | HP: 2/56 [Prince Ribbit (10)]
+  3536 | D:4      | Mangled by Prince Ribbit
+
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Falchion          |   123 |    88 |    21 ||   232
+Invok: Depart the Abyss  |     1 |       |       ||     1
+  Use: Scroll            |     5 |     1 |     1 ||     7
+       Potion            |     1 |     4 |     3 ||     8
+  Eat: Bread ration      |     1 |       |       ||     1
+       Chunk             |       |     2 |       ||     2
+       Fruit             |       |     1 |       ||     1
+

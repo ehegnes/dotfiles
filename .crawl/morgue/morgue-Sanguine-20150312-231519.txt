@@ -1,0 +1,201 @@
+ Dungeon Crawl Stone Soup version 0.16-a0-4088-g7c8221e (console) character file.
+
+179 Sanguine the Slasher (level 5, -2/41 HPs)
+             Began as a Demonspawn Abyssal Knight on Mar 12, 2015.
+             Was a Priest of Lugonu.
+             Slain by a goliath beetle (25 damage)
+             ... on level 3 of the Dungeon.
+             The game lasted 00:10:26 (3557 turns).
+
+Sanguine the Slasher (Demonspawn Abyssal Knight)    Turns: 3557, Time: 00:10:26
+
+Health: -2/41      AC: 10    Str: 13    XL:     5   Next: 32%
+Magic:  6/6        EV:  8    Int: 14    God:    Lugonu [***...]
+Gold:   125        SH:  0    Dex: 12    Spells: 0 memorised, 4 levels left
+
+rFire  . . .     SeeInvis .     a - +1 falchion
+rCold  . . .     Clarity  .     m - +0 chain mail
+rNeg   . . .     SustAb   .     (no shield)
+rPois  .         Gourm    .     (no helmet)
+rElec  .         Spirit   .     (no cloak)
+rCorr  .         Warding  .     (no gloves)
+rMut   .         Stasis   .     (no boots)
+MR     .....                    (no amulet)
+Stlth  ..........               i - +2 ring of evasion
+                                e - ring of stealth
+
+@: not resistant to hostile enchantments, extremely unstealthy
+A: claws 2, thin metallic scales 1, spiny 1
+a: Depart the Abyss, Bend Space, Banish, Renounce Religion
+
+
+You were on level 3 of the Dungeon.
+You worshipped Lugonu.
+Lugonu was most pleased with you.
+You were very hungry.
+
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+You visited the Abyss 1 time.
+
+You collected 125 gold pieces.
+
+Inventory:
+
+Hand weapons
+ a - a +1 falchion (weapon)
+Armour
+ m - a +0 chain mail (worn)
+Jewellery
+ e - a ring of stealth (left claw)
+ i - a +2 ring of evasion (right claw)
+Magical devices
+ o - a wand of confusion (34)
+Scrolls
+ f - a scroll of fog
+ j - 2 scrolls of identify
+ n - a scroll of immolation
+Comestibles
+ c - 5 bread rations
+ g - a slice of pizza
+ k - 2 meat rations
+
+
+   Skills:
+ + Level 3.3 Fighting
+ - Level 4.7 Long Blades
+ + Level 2.2 Armour
+ - Level 0.8 Dodging
+ - Level 2.4 Invocations
+
+
+You had 4 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)            
+Temple: D:4-7       
+
+Altars:
+Dithmenos
+Xom
+
+Shops:
+D:4 !
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have very sharp fingernails.
+You are partially covered in thin metallic scales (AC +2).
+You are partially covered in sharp spines.
+
+
+Message History
+
+The goliath beetle is heavily wounded.
+You hit the goliath beetle but do no damage.
+The goliath beetle is heavily wounded.
+The goliath beetle seems less confused. The goliath beetle bites you!!
+You slash the goliath beetle!
+The goliath beetle is severely wounded.
+Evoke which item? (* to show all) (? for menu, Esc to quit)
+Okay, then.
+The goliath beetle bites you but does no damage.
+Evoke which item? (* to show all) (? for menu, Esc to quit)
+Zapping: o - a wand of confusion {zapped: 11} (will waste charges)
+Press: ? - help, Shift-Dir - straight line, f/p - goliath beetle
+Aim: a goliath beetle (severely wounded, chance 46%)
+The goliath beetle appears confused.
+Evoking this partially-identified wand wasted a few charges.
+You hit the goliath beetle.
+The goliath beetle is severely wounded.
+The goliath beetle bites you!!
+Ouch! That really hurt!
+You die...
+
+....#.# ##§##         ###..#           #........#
+.####.####§#            #..#           ##..###..#
+...........#           ##).#            #..##...#
+#####..<...#           #...#            #..>#..##
+##########.#          ##[#.#########    #.#....#
+........##.#          #............#    #.#....#
+#######.##.#          #..#.#######.#    #.#...##
+      #.##)#          #..#.#     #.#    #.#...#
+      #.##.#          #....#     #.#    #.#..##
+      #.##.#########  #..#.#     #.#    #....#
+#######.##.........#  #..#.#######.######....#
+.......#...###.....####..#.#......@..........#
+#######.####.............).......B...........#
+#######.####.#.....####.##########(.#####..[.#
+.........).......)..........................##
+#######.......##....................#####.###
+      #.####.###...########..######.#   #.#
+      #.#  ### ##..#     ##..#    #.#   #.#
+      #.#       #..#     #...#    #.#   #.#
+      #.#       #..#    ##.#.#    #.#   #.#
+      #.#       #..#    #..#.######.#####.#
+      #.#       #..#   ##.#...............#
+      #.#       #..#   #..#..######.#######
+
+
+You could see a goliath beetle (confused).
+
+Vanquished Creatures
+  An orc wizard (D:3)
+  A worker ant (D:3)
+  3 adders
+  A giant mite (D:1)
+  3 worms
+  5 giant geckos (D:2)
+  An ooze (D:2)
+  3 orcs (D:3)
+  A ball python (D:3)
+  3 giant cockroaches
+  5 goblins
+  11 hobgoblins
+  6 jackals
+  8 bats
+  3 giant newts
+  6 kobolds
+  12 rats
+73 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | Abyss:1  | Sanguine, the Demonspawn Abyssal Knight, began the quest for the Orb.
+     0 | Abyss:1  | Reached XP level 1. HP: 18/18 MP: 1/1
+    86 | Abyss:1  | Found a sacrificial altar of Ru.
+    99 | Abyss:1  | Noticed a hellion
+   100 | D:1      | Escaped the Abyss
+   317 | D:1      | Acquired Lugonu's first power
+   408 | D:1      | Gained mutation: You are partially covered in sharp spines. [demonic ancestry]
+   408 | D:1      | Reached XP level 2. HP: 24/24 MP: 2/2
+  1102 | D:1      | Gained mutation: You are partially covered in thin metallic scales (AC +2). [demonic ancestry]
+  1102 | D:1      | Reached XP level 3. HP: 25/29 MP: 4/4
+  1240 | D:2      | Acquired Lugonu's second power
+  1616 | D:2      | Gained mutation: You have sharp fingernails. [demonic ancestry]
+  1616 | D:2      | Reached XP level 4. HP: 35/35 MP: 5/5
+  1619 | D:2      | Reached skill level 4 in Long Blades
+  2688 | D:3      | Acquired Lugonu's third power
+  2776 | D:3      | Gained mutation: You have very sharp fingernails. [demonic ancestry]
+  2776 | D:3      | Reached XP level 5. HP: 33/41 MP: 6/6
+  2992 | D:3      | Found a shadowy altar of Dithmenos.
+  2992 | D:3      | Found a shimmering altar of Xom.
+  3092 | D:4      | Found Cuc Tumo's Distillery.
+  3557 | D:3      | Slain by a goliath beetle
+
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Falchion          |   130 |   153 ||   283
+Invok: Depart the Abyss  |     1 |       ||     1
+Evoke: Wand              |       |     5 ||     5
+  Use: Potion            |     3 |     3 ||     6
+       Scroll            |       |     4 ||     4
+ Stab: Sleeping          |     1 |       ||     1
+       Confused          |       |     2 ||     2
+  Eat: Chunk             |     2 |     6 ||     8
+

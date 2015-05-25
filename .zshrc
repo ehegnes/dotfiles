@@ -50,8 +50,7 @@ plugins=(git vi-mode sudo catimg)
 source $ZSH/oh-my-zsh.sh
 
 # User configuration
-
-export PATH="/usr/local/bin:/usr/bin:/bin:/opt/bin:/usr/x86_64-pc-linux-gnu/gcc-bin/4.7.3:/usr/games/bin"
+export PATH="/usr/lib64/ccache/bin:~/bin:/usr/local/bin:/usr/bin:/bin:/opt/bin:/usr/x86_64-pc-linux-gnu/gcc-bin/4.7.3:/usr/games/bin"
 # export MANPATH="/usr/local/man:$MANPATH"
 export PATH="$HOME/.cabal/bin:$PATH"
 export PATH="/usr/local/games:$PATH"
@@ -143,5 +142,7 @@ fi
 # Use `The Fuck` from https://github.com/nvbn/thefuck
 alias fuck='$(thefuck $(fc -ln -1))'
 
-# muahahahaahahahhaha
-HISTSIZE=9223372036854775807
+# Try neovim for now...
+alias vim=nvim
+
+HISTSIZE=10000000

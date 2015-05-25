@@ -1,0 +1,300 @@
+ Dungeon Crawl Stone Soup version 0.15.2 (console) character file.
+
+1993 Asterion the Basher (level 9, 0/78 HPs)
+             Began as a Minotaur Berserker on Dec 20, 2014.
+             Was an Elder of Trog.
+             Killed by divine providence
+             ... invoked by an orc priest
+              (8 damage)
+             ... on Level 8 of the Dungeon.
+             The game lasted 00:13:19 (4534 turns).
+
+Asterion the Basher (Minotaur Berserker)            Turns: 4534, Time: 00:13:19
+
+HP   0/78        AC  9     Str 21      XL: 9   Next:  1%
+MP   4/4         EV 12     Int  4      God: Trog [****..]
+Gold 259         SH  0     Dex 14      Spells:  0 memorised,  8 levels left
+
+rFire  . . .     SeeInvis .     Q - +3 quarterstaff (chaos)
+rCold  . . .     Clarity  +     u - +0 ring mail
+rNeg   . . .     rCorr    .     (no shield)
+rPois  .         rRot     .     (helmet restricted)
+rElec  .         Spirit   .     w - +0 cloak
+SustAb .         Warding  .     E - +1 pair of gloves
+rMut   .         Stasis   .     (no boots)
+Gourm  .                        I - amulet of clarity
+MR     +....                    (no ring)
+                                k - ring of protection from magic
+
+@: lethally poisoned, exhausted, slowed, very slow, somewhat resistant to
+hostile enchantments, very unstealthy
+A: retaliatory headbutt, horns 2
+a: Burn Spellbooks, Berserk, Trog's Hand, Brothers in Arms, Renounce Religion
+
+
+You were on level 8 of the Dungeon.
+You worshipped Trog.
+Trog was greatly pleased with you.
+You were near starving.
+
+You visited 1 branch of the dungeon, and saw 8 of its levels.
+
+You collected 259 gold pieces.
+
+Inventory:
+
+Hand weapons
+ F - a +2 flail of protection
+ Q - a +3 quarterstaff of chaos (weapon)
+Armour
+ u - a +0 ring mail (worn)
+ w - a +0 cloak (worn)
+ E - a +1 pair of gloves (worn)
+Magical devices
+ D - a wand of random effects (10)
+ H - a wand of magic darts (0)
+ P - a wand of frost (12)
+ S - a wand of heal wounds (4)
+ T - a wand of random effects (16)
+Comestibles
+ c - 7 bread rations
+ s - a slice of pizza
+ G - a meat ration
+ M - 8 fruits
+ O - 7 beef jerkies
+ R - a royal jelly
+Scrolls
+ b - a scroll of blinking {unknown}
+ g - 2 scrolls of enchant weapon {unknown}
+ h - a scroll of remove curse {unknown}
+ i - 3 scrolls of identify {unknown}
+ n - 5 scrolls of teleportation {unknown}
+ o - a scroll of magic mapping {unknown}
+ r - a scroll of enchant armour {unknown}
+ y - 2 scrolls of recharging {unknown}
+ z - 3 scrolls of fog {unknown}
+ B - 3 scrolls of amnesia {unknown}
+ L - a scroll of random uselessness {unknown}
+Jewellery
+ k - a ring of protection from magic (left hand)
+ l - an uncursed amulet of stasis
+ v - an uncursed amulet of resist mutation
+ A - an uncursed amulet of warding
+ I - an amulet of clarity (around neck)
+ J - a +3 ring of evasion {unknown}
+Potions
+ d - 2 potions of haste {unknown}
+ e - 2 potions of resistance {unknown}
+ f - a potion of degeneration {unknown}
+ j - a potion of poison {unknown}
+ m - a potion of lignification {unknown}
+ p - 3 potions of magic {unknown}
+ q - a potion of flight {unknown}
+ t - a potion of agility
+ x - a potion of might {unknown}
+ C - 2 potions of curing {unknown}
+ K - a potion of confusion {unknown}
+ N - a potion of invisibility {unknown}
+
+
+   Skills:
+ + Level 6.5 Fighting
+ * Level 11.1 Maces & Flails
+ + Level 5.7 Armour
+ + Level 5.2 Dodging
+
+
+You had 8 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (8/15)             Temple (0/1) D:7         
+  Lair: D:8-11      
+
+Altars:
+Dithmenos
+Elyvilon
+Makhleb
+Qazlal
+Vehumet
+Xom
+Zin
+The Shining One
+
+Shops:
+D:4 !   D:6 [
+
+Annotations:
+D:6 digging for elementals
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+
+
+Message History
+
+You are exhausted.
+You feel yourself slow down.
+You are near starving!
+You feel sick.
+The orc wizard gestures wildly while chanting.
+The orc wizard blinks!
+You feel sick.
+* * * LOW HITPOINT WARNING * * *
+You feel sick.
+The orc priest glows brightly for a moment.
+You feel sick.
+You feel sick. The orc misses you.
+The orc priest glows brightly for a moment.
+You feel sick.
+The orc wizard gestures wildly while chanting.
+The orc wizard blinks!
+You feel sick.
+The orc priest invokes the aid of Beogh against you.
+Something smites you!
+You die...
+
+         ###.#.#
+         #..)).#.#
+      ####.......#
+     ##.##...#####
+    ##...§....###..[.
+    #......#.......#
+    #....o)..#####...
+    #..o.............
+    #..o......##...#
+   ###.oo........#..
+   #...........###
+   #.##@.......#
+  ##.............
+  #............##
+  #<...#.......#
+  #....#.......
+ #..<..##.....
+ ......###...
+#.#....#  ##
+#.......
+###....##
+  ##..##
+    #
+
+
+You could see an orc warrior, an orc priest, an orc wizard and 2 orcs.
+
+Vanquished Creatures
+  The ghost of Asterion the Basher, an experienced MiBe of Trog (D:5)
+  Grinder (D:6)
+  2 black bears (D:6)
+  2 ogres (D:7)
+  3 centaurs
+  Duvessa (D:5)
+  2 giant frogs
+  A scorpion (D:5)
+  2 crimson imps
+  3 goliath beetles
+  Dowan (D:5)
+  A jelly (D:7)
+  Crazy Yiuf (D:6)
+  An iguana (D:5)
+  2 worker ants
+  An orc wizard (D:4)
+  A killer bee zombie (D:5)
+  Jessica (D:3)
+  A crocodile skeleton (D:6)
+  4 gnolls (D:6)
+  6 adders
+  A giant mite (D:3)
+  A goliath beetle zombie (D:6)
+  2 oozes
+  6 orcs
+  A ball python (D:2)
+  9 bats
+  2 bat skeletons
+  3 giant cockroaches
+  6 goblins
+  10 hobgoblins
+  15 jackals
+  7 kobolds
+  2 quokkas
+  5 giant geckos
+  5 giant newts
+  A jackal skeleton (D:5)
+  A kobold zombie (D:5)
+  13 rats
+128 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | D:1      | Asterion, the Minotaur Berserker, began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
+    64 | D:1      | Reached skill level 4 in Maces & Flails
+    89 | D:1      | Reached XP level 2. HP: 20/26 MP: 1/1
+   232 | D:1      | Acquired Trog's second power
+   421 | D:1      | Reached skill level 5 in Maces & Flails
+   600 | D:2      | Reached XP level 3. HP: 19/31 MP: 2/2
+  1507 | D:3      | Reached XP level 4. HP: 39/39 MP: 2/2
+  1511 | D:3      | Reached skill level 6 in Maces & Flails
+  1634 | D:3      | Noticed Jessica
+  1651 | D:3      | Killed Jessica
+  1889 | D:3      | Acquired Trog's third power
+  1904 | D:4      | Reached XP level 5. HP: 40/45 MP: 2/2
+  2055 | D:4      | Found a white marble altar of Elyvilon.
+  2112 | D:4      | Found Shujac's Distillery.
+  2287 | D:4      | Reached skill level 7 in Maces & Flails
+  2507 | D:4      | Reached skill level 8 in Maces & Flails
+  2572 | D:5      | Entered Level 5 of the Dungeon
+  2576 | D:5      | Found a shimmering altar of Xom.
+  2695 | D:5      | Reached XP level 6. HP: 39/51 MP: 3/3
+  2724 | D:5      | Noticed Duvessa
+  2725 | D:5      | Noticed Dowan
+  2736 | D:5      | Killed Duvessa
+  2738 | D:5      | Killed Dowan
+  2850 | D:5      | Noticed a centaur
+  2857 | D:5      | Killed a centaur
+  2857 | D:5      | Reached XP level 7. HP: 20/59 MP: 3/3
+  2938 | D:5      | Noticed Asterion's ghost (experienced MiBe)
+  2946 | D:5      | Killed Asterion's ghost
+  2946 | D:5      | Reached skill level 9 in Maces & Flails
+  3227 | D:6      | Noticed Grinder
+  3234 | D:6      | Killed Grinder
+  3234 | D:6      | Reached skill level 5 in Fighting
+  3234 | D:6      | Reached skill level 10 in Maces & Flails
+  3234 | D:6      | Reached XP level 8. HP: 68/68 MP: 3/3
+  3503 | D:6      | Found a stormy altar of Qazlal.
+  3504 | D:6      | Noticed a fire elemental
+  3504 | D:6      | Noticed an air elemental
+  3504 | D:6      | Noticed a water elemental
+  3646 | D:6      | Found Kaganeat's Armour Shop.
+  3673 | D:6      | Reached skill level 5 in Armour
+  3756 | D:6      | Noticed Crazy Yiuf
+  3765 | D:6      | Killed Crazy Yiuf
+  3970 | D:6      | Found a burning altar of Makhleb.
+  3971 | D:6      | Found a radiant altar of Vehumet.
+  4025 | D:7      | Found a staircase to the Ecumenical Temple.
+  4091 | D:7      | Found a glowing golden altar of the Shining One.
+  4091 | D:7      | Found a glowing silver altar of Zin.
+  4094 | D:7      | Found a white marble altar of Elyvilon.
+  4321 | D:7      | Reached skill level 5 in Dodging
+  4386 | D:7      | Found a shadowy altar of Dithmenos.
+  4429 | D:7      | Reached skill level 11 in Maces & Flails
+  4512 | D:8      | Reached XP level 9. HP: 51/78 MP: 4/4
+  4534 | D:8      | Killed from afar by an orc priest
+
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Mace              |    93 |    87 |    47 ||   227
+       Quarterstaff      |       |       |    56 ||    56
+       Flail             |       |       |    36 ||    36
+Invok: Berserk           |       |     1 |     3 ||     4
+Evoke: Wand              |       |       |     2 ||     2
+ Stab: Sleeping          |     1 |       |       ||     1
+  Eat: Chunk             |     2 |     5 |     6 ||    13
+       Fruit             |       |       |     1 ||     1
+

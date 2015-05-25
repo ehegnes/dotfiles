@@ -1,0 +1,216 @@
+ Dungeon Crawl Stone Soup version 0.13.1 (console) character file.
+
+532 Dragula the Covert (level 6, -1/44 HPs)
+             Began as a Vampire Assassin on July 19, 2014.
+             Killed from afar by an orc wizard (4 damage)
+             ... with a magic dart
+             
+             ... on Level 3 of the Dungeon.
+             The game lasted 00:30:24 (3914 turns).
+
+Dragula the Covert (Vampire Assassin)               Turns: 3914, Time: 00:30:24
+
+HP  -1/44        AC  4     Str 11      XL: 6   Next: 35%
+MP   6/6         EV 12     Int 10 (13) God: 
+Gold 180         SH  0     Dex 16      Spells:  0 memorised,  5 levels left
+
+Res.Fire  : . . .   See Invis. : +   h - +2,+1 dagger (venom)
+Res.Cold  : + . .   Warding    : .   c - +0 robe
+Life Prot.: + + .   Conserve   : .   (no shield)
+Res.Poison: +       Res.Corr.  : +   (no helmet)
+Res.Elec. : .       Clarity    : .   q - +0 elf cloak
+Sust.Abil.: . .     Spirit.Shd : .   (no gloves)
+Res.Mut.  : .       Stasis     : .   y - +0 pair of elf boots
+Res.Rott. : +       Flight     : .   u - amulet of resist corrosion {unknown}
+Saprovore : . . .                    (no ring)
+                                     j - ring of poison resistance
+
+@: regenerating slowly, slightly resistant to hostile enchantments, extremely
+stealthy
+A: bottle blood, fangs 3, see invisible, unbreathing
+a: Bat Form, Bottle Blood
+
+
+You were on level 3 of the Dungeon.
+You were thirsty.
+
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+
+You collected 130 gold pieces.
+
+Inventory:
+
+Hand weapons
+ a - a +2,+2 dagger {=f}
+ b - a +0 blowgun
+ h - a +2,+1 dagger of venom (weapon)
+Missiles
+ e - 7 poisoned needles
+ f - 2 curare-tipped needles
+ i - 32 darts (quivered)
+ n - 19 exploding darts
+ o - 10 bolts of frost
+ p - 13 bolts of penetration
+ r - 5 poisoned darts
+ s - 14 darts of flame
+Armour
+ c - a +0 robe (worn)
+ q - a +0 elven cloak (worn)
+ y - a +0 pair of elven boots (worn)
+Magical devices
+ t - a wand of polymorph (6) {unknown}
+Scrolls
+ g - 2 scrolls of identify
+ l - a scroll of remove curse
+Jewellery
+ j - a ring of poison resistance (left hand)
+ u - an amulet of resist corrosion (around neck) {unknown}
+Potions
+ k - 3 potions of curing
+ m - a potion of blood
+ z - a potion of restore abilities
+ B - a potion of poison
+
+
+   Skills:
+ - Level 1.7 Fighting
+ + Level 4.5 Short Blades
+ - Level 1.5 Throwing
+ - Level 1.1 Dodging
+ * Level 10.1 Stealth
+
+
+You had 5 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/27)            
+Temple: D:4-7       
+
+Altars:
+Xom
+
+
+Innate Abilities, Weirdness & Mutations
+
+You heal slowly.
+You can bottle blood from corpses.
+You have razor-sharp teeth.*
+You have supernaturally acute eyesight.
+You can survive without breathing.*
+
+
+Message History
+
+The magic dart hits you!
+You can't go down here!
+The orc wizard points at you and mumbles some strange words.
+The magic dart hits you! The orc barely misses you.
+The orc wizard hits you with an orcish dagger.
+You climb upwards.
+There is a stone staircase leading down here.
+Use which ability? (? or * to list) 
+You fail to use your ability.
+The orc wizard mumbles some strange words.
+The orc wizard seems to speed up. The orc hits you but does no damage.
+The orc wizard hits you but does no damage.
+The orc wizard gestures at you while chanting.
+The magic dart hits you!
+* * * LOW HITPOINT WARNING * * *
+The orc hits you with an orcish club.
+* * * LOW HITPOINT WARNING * * *
+The orc wizard casts a spell at you.
+The magic dart hits you!
+You die...
+
+  #.......#     #.#          ##.#
+  ###.#####     #.#          #..#
+    #.#         #.#          #.##
+    #.#         #.#          #.#
+   ##.#         #.#         ##.#
+   #..#        ##'######### #..#
+ ###'########  #..........###'##########
+##..........#  #...........#...........#
+.'..........####..##.....#.............#
+##..........+.##....#....#.#....[...)..#
+ #......%...#..#.%...#..#..+.....?..o..#
+ #..........##.'.....###...#....[.@.oo.#
+ ###'###########....###....#.###########
+   #..#        #...#%.#....#.#
+   ##%#        #..#....#.....#
+    #.#        #..#.....##.###
+    #.#        #...........#
+   ##'####     #############
+   #.....#
+####.....#
+...'.....#
+####.....#
+   #######
+
+
+You could see 2 orc wizards and an orc.
+
+Vanquished Creatures
+  A hound (D:4)
+  An orc wizard (D:3)
+  2 worker ants (D:4)
+  Ijyb (D:4)
+  Terence (D:3)
+  9 adders
+  4 worms
+  4 giant geckos
+  An ooze (D:3)
+  9 orcs
+  3 giant cockroaches
+  6 hobgoblins (D:1)
+  5 jackals (D:2)
+  2 quokkas (D:4)
+  13 bats
+  A giant gecko skeleton (D:4)
+  7 giant newts
+  13 goblins
+  12 kobolds
+  15 rats
+110 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | D:1      | Dragula, the Vampire Assassin, began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 15/15 MP: 1/1
+    39 | D:1      | Reached skill level 6 in Stealth
+   154 | D:1      | Reached XP level 2. HP: 19/21 MP: 2/2
+   308 | D:1      | Reached skill level 7 in Stealth
+   402 | D:1      | HP: 1/21 [hobgoblin/club (3)]
+   466 | D:1      | Reached XP level 3. HP: 12/26 MP: 3/3
+   785 | D:2      | Found a shimmering altar of Xom.
+  1134 | D:2      | Reached XP level 4. HP: 30/32 MP: 4/4
+  1343 | D:2      | Reached skill level 8 in Stealth
+  1962 | D:3      | Reached XP level 5. HP: 38/38 MP: 5/5
+  2104 | D:3      | Noticed Terence
+  2127 | D:3      | Killed Terence
+  2203 | D:4      | HP: 1/38 [orc/orcish short sword (3)]
+  2630 | D:4      | Reached skill level 9 in Stealth
+  2955 | D:4      | Noticed Ijyb
+  2972 | D:4      | Killed Ijyb
+  3039 | D:4      | Reached XP level 6. HP: 44/44 MP: 6/6
+  3089 | D:4      | Reached skill level 10 in Stealth
+  3914 | D:3      | Killed from afar by an orc wizard
+
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Dagger            |   137 |   204 ||   341
+       Blowgun           |     6 |       ||     6
+ Fire: Blowgun           |     3 |       ||     3
+ Abil: End Transformatio |     1 |     2 ||     3
+       Bat Form          |     1 |     2 ||     3
+       Bottle Blood      |       |     2 ||     2
+  Use: Scroll            |     6 |     7 ||    13
+       Potion            |     3 |     6 ||     9
+ Stab: Sleeping          |     9 |    22 ||    31
+       Distracted        |     1 |     3 ||     4
+       Invisible         |       |     1 ||     1
+

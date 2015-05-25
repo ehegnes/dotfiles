@@ -1,0 +1,179 @@
+ Dungeon Crawl Stone Soup version 0.15.2 (console) character file.
+
+55 Asterion the Cudgeler (level 3, -3/31 HPs)
+             Began as a Minotaur Berserker on Dec 18, 2014.
+             Was a Priest of Trog.
+             Slain by Sigmund
+             ... wielding a +0 scythe
+              (7 damage)
+             ... on Level 2 of the Dungeon.
+             The game lasted 00:03:16 (1200 turns).
+
+Asterion the Cudgeler (Minotaur Berserker)          Turns: 1200, Time: 00:03:16
+
+HP  -3/31        AC  3     Str 21      XL: 3   Next: 67%
+MP   2/2         EV 11     Int  4      God: Trog [***...]
+Gold 50          SH  0     Dex 10      Spells:  0 memorised,  2 levels left
+
+rFire  . . .     SeeInvis .     a - +0 mace
+rCold  . . .     Clarity  .     h - +0 leather armour
+rNeg   . . .     rCorr    .     (no shield)
+rPois  .         rRot     .     (helmet restricted)
+rElec  .         Spirit   .     (no cloak)
+SustAb .         Warding  .     (no gloves)
+rMut   .         Stasis   .     (no boots)
+Gourm  .                        l - cursed amulet of inaccuracy
+MR     .....                    (no ring)
+                                (no ring)
+
+@: not resistant to hostile enchantments, very unstealthy
+A: retaliatory headbutt, horns 2
+a: Burn Spellbooks, Berserk, Trog's Hand, Renounce Religion
+
+
+You were on level 2 of the Dungeon.
+You worshipped Trog.
+Trog was most pleased with you.
+You were hungry.
+
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+
+You collected 50 gold pieces.
+
+Inventory:
+
+Hand weapons
+ a - a +0 mace (weapon)
+Armour
+ h - a +0 leather armour (worn)
+Comestibles
+ c - a bread ration
+Scrolls
+ b - a scroll of fog {unknown}
+ f - 2 scrolls of remove curse {unknown}
+ g - a scroll of recharging
+ i - a scroll of teleportation {unknown}
+ j - 3 scrolls of random uselessness {unknown}
+ k - a scroll of enchant armour {unknown}
+Jewellery
+ l - a cursed amulet of inaccuracy (around neck)
+Potions
+ d - a potion of agility {unknown}
+ e - 2 potions of haste {unknown}
+ m - a potion of confusion {unknown}
+ n - 2 potions of degeneration {unknown}
+
+
+   Skills:
+ - Level 3.6 Fighting
+ + Level 5.7 Maces & Flails
+ - Level 2.4 Armour
+ - Level 2.1 Dodging
+
+
+You had 2 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+Vehumet
+
+Annotations:
+D:2 Sigmund
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+
+
+Message History
+
+Deactivating autopickup; reactivate with Ctrl-A.
+The giant gecko closely misses you.
+You miss the giant gecko. Your headbutt misses the giant gecko. Something hits you! The giant gecko closely misses you.
+You hit the giant gecko. You headbutt the giant gecko.
+The giant gecko is almost dead.
+The giant gecko closely misses you. Something hits you but does no damage.
+You barely miss the giant gecko.
+The giant gecko is almost dead.
+The giant gecko bites you. Something hits you.
+* * * LOW HITPOINT WARNING * * *
+The giant gecko bites you.
+* * * LOW HITPOINT WARNING * * *
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You sock the giant gecko!
+You kill the giant gecko!
+Trog accepts your kill.
+Something hits you!
+You die...
+
+                         ####
+                         #..#
+         ##########      #..####
+         .....$...#      #.....#
+         .."....?.##     #.###.#
+        ...........#     #.# #.#
+        .......%@).#     #.# #.#
+        ...<...(...#     #.# #.#
+         #########.#     #.# #.#
+                ##!#     #.# #.#
+               ##..##    #.# #.#
+ §             #....#  ###.# #.#
+ .._           #....#  #...# #.#
+#.§.§.#####    #....# ##.#####.#
+#...§.....#    #....###..###...#
+#...#####.##   #.....##.###..###
+        #..######..#.##.##..##
+        ##)...######..#.##.##
+         ####..######...#..#
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  2 adders (D:2)
+  3 giant geckos
+  6 bats
+  2 giant cockroaches
+  7 goblins
+  2 hobgoblins
+  7 kobolds
+  A quokka (D:2)
+  3 giant newts
+  A rat (D:1)
+34 creatures vanquished.
+
+Vanquished Creatures (others)
+  A rat (D:2)
+1 creature vanquished.
+
+Grand Total: 35 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | D:1      | Asterion, the Minotaur Berserker, began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
+   180 | D:1      | Reached skill level 4 in Maces & Flails
+   256 | D:1      | Reached XP level 2. HP: 26/26 MP: 1/1
+   441 | D:1      | Acquired Trog's second power
+   810 | D:2      | Reached skill level 5 in Maces & Flails
+   810 | D:2      | Reached XP level 3. HP: 31/31 MP: 2/2
+   831 | D:2      | Found a radiant altar of Vehumet.
+  1193 | D:2      | Noticed Sigmund
+  1200 | D:2      | Slain by Sigmund
+
+
+Action                   || total
+-------------------------++-------
+Melee: Mace              ||    65
+  Use: Scroll            ||     1
+

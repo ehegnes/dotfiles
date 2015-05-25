@@ -1,0 +1,271 @@
+ Dungeon Crawl Stone Soup version 0.15.2 (console) character file.
+
+857 Dracula the Covert (level 7, 0/49 HPs)
+             Began as a Vampire Assassin on Dec 15, 2014.
+             Slain by Eric's ghost (5 damage)
+             ... on Level 5 of the Dungeon.
+             The game lasted 00:18:24 (4711 turns).
+
+Dracula the Covert (Vampire Assassin)               Turns: 4711, Time: 00:18:24
+
+HP   0/49        AC  5     Str 10      XL: 7   Next: 70%
+MP   7/7         EV 13     Int 13      God: 
+Gold 343         SH  0     Dex 17      Spells:  0 memorised,  6 levels left
+
+rFire  . . .     SeeInvis +     a - +2 dagger
+rCold  + + .     Clarity  .     c - +0 robe
+rNeg   + + +     rCorr    .     (no shield)
+rPois  +         rRot     +     o - +1 helmet
+rElec  .         Spirit   .     d - +0 cloak
+SustAb .         Warding  .     (no gloves)
+rMut   .         Stasis   .     (no boots)
+Gourm  .                        (no amulet)
+MR     .....                    (no ring)
+                                s - ring of regeneration
+
+@: bloodless, non-regenerating, not resistant to hostile enchantments, very
+stealthy
+A: bottle blood, fangs 3, see invisible, unbreathing
+a: Bat Form, Bottle Blood
+
+
+You were on level 5 of the Dungeon.
+You were bloodless.
+
+You visited 1 branch of the dungeon, and saw 5 of its levels.
+You also visited: Ossuary.
+
+You collected 343 gold pieces.
+
+Inventory:
+
+Hand weapons
+ a - a +2 dagger (weapon)
+ b - a cursed +0 blowgun
+Missiles
+ e - 28 poisoned needles
+ f - 2 curare-tipped needles
+Armour
+ c - a +0 robe (worn)
+ d - a +0 cloak (worn)
+ o - a +1 helmet (worn)
+Magical devices
+ i - a wand of disintegration (14) {unknown}
+ m - a wand of random effects (7) {unknown}
+ D - a wand of disintegration (9) {unknown}
+ F - a wand of cold (6) {unknown}
+ G - a wand of disintegration (16) {unknown}
+Scrolls
+ g - 3 scrolls of amnesia {unknown}
+ h - 9 scrolls of identify {unknown}
+ j - 9 scrolls of remove curse
+ l - 4 scrolls of teleportation
+ n - a scroll of enchant armour {unknown}
+ q - a scroll of random uselessness {unknown}
+ r - a scroll of fear {unknown}
+ t - 3 scrolls of enchant weapon {unknown}
+ v - a scroll of vulnerability {unknown}
+ y - a scroll of immolation {unknown}
+ B - a scroll of blinking {unknown}
+ I - a scroll of recharging {unknown}
+Jewellery
+ s - a ring of regeneration (left hand)
+ A - an uncursed ring of positive energy {unknown}
+Potions
+ k - 2 potions of might
+ p - a potion of mutation {unknown}
+ u - 2 potions of brilliance
+ w - a potion of magic {unknown}
+ x - 3 potions of restore abilities
+ z - 2 potions of curing {unknown}
+ E - a potion of agility {unknown}
+ H - a potion of poison {unknown}
+Books
+ C - a book of Conjurations   
+   
+   Spells                             Type                      Level
+   Magic Dart                         Conjuration                  1
+   Searing Ray                        Conjuration                  2
+   Dazzling Spray                     Conjuration/Hexes            3
+   Fulminant Prism                    Conjuration/Hexes            4
+   Iskenderun's Mystic Blast          Conjuration                  4
+   Iskenderun's Battlesphere          Conjuration/Charms           5
+
+
+   Skills:
+ - Level 1.7 Fighting
+ * Level 6.9 Short Blades
+ - Level 1.5 Throwing
+ + Level 2.3 Dodging
+ + Level 10.8 Stealth
+
+
+You had 6 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (5/15)            
+Temple: D:4-7       
+
+Altars:
+Ashenzari
+Qazlal
+The Shining One
+
+Shops:
+D:5 [
+
+Annotations:
+D:5 Eric's ghost, average CeHu
+
+
+Innate Abilities, Weirdness & Mutations
+
+You do not heal naturally.
+You can bottle blood from corpses.
+You have razor-sharp teeth.
+You have supernaturally acute eyesight.
+You can survive without breathing.
+
+
+Message History
+
+You hit Eric's ghost but do no damage.
+Eric's ghost is moderately damaged.
+Eric's ghost hits you.
+* * * LOW HITPOINT WARNING * * *
+You hit Eric's ghost. Your bite misses Eric's ghost.
+Eric's ghost is moderately damaged.
+Eric's ghost hits you.
+* * * LOW HITPOINT WARNING * * *
+You hit Eric's ghost.
+Eric's ghost is heavily damaged.
+Eric's ghost barely misses you.
+You hit Eric's ghost.
+Eric's ghost is heavily damaged.
+Eric's ghost hits you.
+* * * LOW HITPOINT WARNING * * *
+You closely miss Eric's ghost.
+Eric's ghost is heavily damaged.
+Eric's ghost misses you.
+You open the door. Eric's ghost barely misses you. Eric's ghost hits you.
+You die...
+
+......................#.....[..+.....#....#     #....#.###..###+##....#
+...#####'##+#####.##..#........#.....##..#################..#.....#####
+ # #......#...###.##..#....##+##.....##..##.....##     #....#.....#
+   #......#...+...#...'..%('..+......+.......[...#     #....'.....#
+   #......'...#...'...#....#..#......#...........#    ##....#.....#
+   #......##......##'##....#######...###+####+#..#    #.....#.....#####
+   #######....#####.....#)########...###.##....###    #########'#.....#
+         #....#   #.....#....#............#....#            #...#.....#
+         #....#   #..........+............'....#            #...#.....#
+         #....#   #.......#.########..##..#....#######      #...#.....#
+        .......   #########)########..###'#..........#      #...+.....#
+        .......          #.....#..#...+...#####......#      #..##.....#
+        .......#         #.....'W@'...#....#  #......#      ###.......#
+           ....          #....##+###..##...#  #......#        #.......#
+              #############...##..##'###...#  #......#        #......<#
+              #......#...##'####...'.......#  #......#######  #.......#
+              #......#...##...##...#..##'###  #............#  #.......#
+              #......'........###+##..#....#  ###..........#  #########
+              #......#...##...#....#..#....#    #..........#
+         ######......###'##...'....+..'....#    #..........#
+         #.....##'####...##...#....#..#....###  #%.........#
+         #.....#.........######....#'###'#...#  #####......#
+         #.....#..........#   #####....#....##      #......#
+         #.....+..........#       #....'....#       #......#
+         #.....#..........#       #....#....#       #......#
+
+
+You could see Eric's ghost.
+
+Vanquished Creatures
+  An ice beast (D:5)
+  An ogre (D:5)
+  Sigmund (D:4)
+  A giant frog (D:5)
+  A water moccasin zombie (Ossuary)
+  A scorpion (D:3)
+  A crimson imp (D:5)
+  2 worker ants
+  An orc wizard (D:5)
+  Ijyb (D:5)
+  4 big kobold zombies (Ossuary)
+  2 mummies (Ossuary)
+  4 adders (D:3)
+  2 giant mites
+  A worm (D:4)
+  5 adder zombies (Ossuary)
+  3 giant geckos
+  2 oozes
+  9 orcs
+  A ball python (D:4)
+  13 bats
+  3 giant cockroaches
+  8 hobgoblins
+  7 jackals
+  3 giant newts
+  A giant newt skeleton (D:4)
+  2 gnoll zombies (Ossuary)
+  10 goblins
+  5 hobgoblin zombies (Ossuary)
+  7 kobolds
+  3 kobold zombies (Ossuary)
+  An orc skeleton (D:5)
+  4 orc zombies (Ossuary)
+  4 quokkas
+  7 rats
+  A rat zombie (D:5)
+123 creatures vanquished.
+
+Vanquished Creatures (others)
+  An orc wizard (D:5)
+1 creature vanquished.
+
+Grand Total: 124 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | D:1      | Dracula, the Vampire Assassin, began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 16/16 MP: 1/1
+    50 | D:1      | Reached skill level 6 in Stealth
+   256 | D:1      | Reached XP level 2. HP: 6/22 MP: 2/2
+   569 | D:1      | Reached XP level 3. HP: 25/27 MP: 3/3
+   890 | D:1      | Reached skill level 7 in Stealth
+  1930 | D:3      | Found a shattered altar of Ashenzari.
+  2030 | D:3      | Reached XP level 4. HP: 31/33 MP: 4/4
+  2530 | D:3      | Reached skill level 8 in Stealth
+  2639 | D:3      | Reached XP level 5. HP: 24/38 MP: 5/5
+  2695 | D:4      | Found a glowing golden altar of the Shining One.
+  2862 | D:4      | Noticed Sigmund
+  2867 | D:4      | Killed Sigmund
+  2867 | D:4      | Reached skill level 5 in Short Blades
+  2867 | D:4      | Reached skill level 9 in Stealth
+  2867 | D:4      | Reached XP level 6. HP: 44/44 MP: 6/6
+  2868 | D:4      | Found a stormy altar of Qazlal.
+  2900 | D:4      | Found a sand-covered staircase.
+  2908 | Ossuary  | Entered an ossuary
+  3862 | D:5      | Entered Level 5 of the Dungeon
+  3869 | D:5      | Reached skill level 10 in Stealth
+  3869 | D:5      | Reached XP level 7. HP: 49/49 MP: 7/7
+  3872 | D:5      | Found Kanuis' Armour Shoppe.
+  3956 | D:5      | Noticed Eric's ghost (average CeHu)
+  4153 | D:5      | Noticed Ijyb
+  4159 | D:5      | Killed Ijyb
+  4711 | D:5      | Slain by Eric's ghost
+
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Dagger            |   168 |   235 |    87 ||   490
+  Use: Potion            |     2 |     3 |     2 ||     7
+       Scroll            |       |     2 |       ||     2
+ Stab: Sleeping          |     8 |    22 |     5 ||    35
+       Distracted        |     4 |       |     1 ||     5
+       Invisible         |       |     1 |       ||     1
+  Eat: Corpse            |    16 |       |       ||    16
+

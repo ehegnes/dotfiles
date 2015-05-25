@@ -1,0 +1,187 @@
+ Dungeon Crawl Stone Soup version 0.16-a0-4088-g7c8221e (console) character file.
+
+128 Sanguine the Skirmisher (level 4, 0/38 HPs)
+             Began as a Demonspawn Abyssal Knight on Mar 9, 2015.
+             Was a Priest of Lugonu.
+             Slain by Sanguine's ghost (2 damage)
+             ... on level 3 of the Dungeon.
+             The game lasted 00:07:23 (2149 turns).
+
+Sanguine the Skirmisher (Demonspawn Abyssal Knight) Turns: 2149, Time: 00:07:25
+
+Health: 0/38       AC: 11    Str: 18    XL:     4   Next: 86%
+Magic:  5/5        EV: 11    Int: 14    God:    Lugonu [***...]
+Gold:   61         SH:  0    Dex: 10    Spells: 0 memorised, 3 levels left
+
+rFire  . . .     SeeInvis .     a - +1 falchion
+rCold  . . .     Clarity  .     b - +0 leather armour
+rNeg   . . .     SustAb   .     (no shield)
+rPois  .         Gourm    .     (no helmet)
+rElec  .         Spirit   .     (no cloak)
+rCorr  .         Warding  .     o - +0 pair of gloves
+rMut   .         Stasis   .     (no boots)
+MR     .....                    (no amulet)
+Stlth  +.........               (no ring)
+                                (no ring)
+
+@: mighty, not resistant to hostile enchantments, very unstealthy
+A: talons 1, rough black scales 2
+a: Depart the Abyss, Bend Space, Banish, Renounce Religion
+
+
+You were on level 3 of the Dungeon.
+You worshipped Lugonu.
+Lugonu was most pleased with you.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 3 of its levels.
+You visited the Abyss 1 time.
+
+You collected 61 gold pieces.
+
+Inventory:
+
+Hand weapons
+ a - a +1 falchion (weapon)
+Armour
+ b - a +0 leather armour (worn)
+ o - a +0 pair of gloves (worn)
+Jewellery
+ l - a +3 ring of intelligence {unknown}
+Scrolls
+ d - 3 scrolls of identify {unknown}
+ e - a scroll of amnesia {unknown}
+ g - 2 scrolls of enchant armour {unknown}
+ h - a scroll of noise {unknown}
+ j - a scroll of recharging {unknown}
+ m - a scroll of remove curse {unknown}
+ p - a scroll of teleportation {unknown}
+ q - a scroll of magic mapping {unknown}
+Potions
+ f - a potion of might
+ i - a potion of ambrosia {unknown}
+ k - a potion of curing {unknown}
+ n - a potion of resistance {unknown}
+ r - a potion of berserk rage {unknown}
+ s - a potion of invisibility {unknown}
+Comestibles
+ c - a bread ration
+
+
+   Skills:
+ + Level 4.4 Fighting
+ - Level 1.7 Long Blades
+ * Level 3.5 Armour
+ - Level 0.8 Dodging
+ - Level 2.4 Invocations
+
+
+You had 3 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/15)            
+
+Altars:
+
+Annotations:
+D:3 Sanguine's ghost, average DsAK
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have sharp toenails.
+You are mostly covered in rough black scales (AC +7, Dex -2).
+
+
+Message History
+
+You slash Sanguine's ghost!
+Sanguine's ghost is severely damaged.
+Sanguine's ghost hits you but does no damage.
+Drink which item? (? for menu, Esc to quit)
+Okay, then.
+You hit Sanguine's ghost.
+Sanguine's ghost is severely damaged.
+Sanguine's ghost barely misses you.
+You hit Sanguine's ghost but do no damage.
+You claw Sanguine's ghost, but do no damage.
+Sanguine's ghost is severely damaged.
+Sanguine's ghost keens inconsolably.
+Sanguine's ghost closely misses you.
+You hit Sanguine's ghost but do no damage.
+You claw Sanguine's ghost.
+Sanguine's ghost is severely damaged.
+Sanguine's ghost hits you.
+* * * LOW HITPOINT WARNING * * *
+Sanguine's ghost hits you.
+You die...
+
+ ##############
+ ........@Ws..######   ####
+ ##.#######......).##  #.PP#
+   #.##..!#.#.###..)##  P...
+#.###...#.........(.>##########
+........!.......#...#.........#
+....................(.........#
+ ........#####...#.##(###.....#
+ ....................(....)..#
+ ###.##########..#.$.####.#..###
+   #.         #...##.#....#....#
+   #          ##..##.#.####.##.#
+               #..##.#.........#
+
+
+You could see Sanguine's ghost and a giant cockroach.
+
+Vanquished Creatures
+  3 adders
+  A gnoll (D:1)
+  A worm (D:2)
+  6 giant geckos
+  An ooze (D:2)
+  An orc (D:3)
+  6 bats (D:2)
+  5 giant cockroaches
+  11 goblins
+  5 hobgoblins
+  4 jackals (D:2)
+  2 quokkas (D:2)
+  2 ball pythons (D:1)
+  3 giant newts
+  13 kobolds
+  6 rats
+70 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | Abyss:1  | Sanguine, the Demonspawn Abyssal Knight, began the quest for the Orb.
+     0 | Abyss:1  | Reached XP level 1. HP: 18/18 MP: 1/1
+    24 | Abyss:1  | Noticed a chaos spawn
+    24 | Abyss:1  | Noticed a large abomination
+    25 | D:1      | Escaped the Abyss
+   103 | D:1      | Acquired Lugonu's first power
+   224 | D:1      | Gained mutation: You are partially covered in rough black scales (AC +4, Dex -1). [demonic ancestry]
+   224 | D:1      | Reached XP level 2. HP: 17/24 MP: 2/2
+   591 | D:1      | Gained mutation: You have sharp toenails. [demonic ancestry]
+   591 | D:1      | Reached XP level 3. HP: 15/30 MP: 4/4
+   739 | D:1      | Reached skill level 4 in Fighting
+   748 | D:1      | Acquired Lugonu's second power
+  1187 | D:2      | Gained mutation: You are mostly covered in rough black scales (AC +7, Dex -2). [demonic ancestry]
+  1187 | D:2      | Reached XP level 4. HP: 12/37 MP: 5/5
+  1718 | D:2      | Acquired Lugonu's third power
+  2120 | D:3      | Noticed Sanguine's ghost (average DsAK)
+  2149 | D:3      | Slain by Sanguine's ghost
+
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Falchion          |   141 |   118 ||   259
+Invok: Depart the Abyss  |     1 |       ||     1
+  Use: Potion            |       |     1 ||     1
+  Eat: Pizza             |     1 |       ||     1
+       Chunk             |       |     3 ||     3
+

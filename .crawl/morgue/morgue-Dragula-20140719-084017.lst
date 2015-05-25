@@ -1,0 +1,165 @@
+Dragula
+
+Level 1 of the Dungeon
+(1, 3, D:1)
+  20 bolts
+(13, 5, D:1)
+  a pear
+(-23, 6, D:1)
+  a +0,+0 club
+(-20, 6, D:1)
+  a +0,+0 club
+(-19, 9, D:1)
+  a +0,+0 short sword
+(-25, 15, D:1)
+  a meat ration
+(-31, 18, D:1)
+  a +0,+0 club
+(-2, 20, D:1)
+  a +0,+0 orcish club
+(-35, 31, D:1)
+  a -1,+0 orcish club
+(2, 31, D:1)
+  a -1,+0 orcish club
+(-5, 37, D:1)
+  a -1,+0 orcish club
+(20, 38, D:1)
+  a +0 leather armour
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +0,+0 short sword
+(12, 1, D:2)
+  a +0,+0 whip
+(-19, 2, D:2)
+  a +0,+0 hand axe
+(11, 3, D:2)
+  a meat ration
+(-4, 8, D:2)
+  a +1 chain mail
+(-9, 12, D:2)
+  a +0 orcish robe
+(-20, 15, D:2)
+  a +0,+3 orcish dagger
+(-10, 15, D:2)
+  28 stones
+  a +1,+1 dagger of venom
+  a +0,+1 orcish dagger
+  a +0,+1 dagger
+  a +0,+0 dagger
+(3, 21, D:2)
+  a +0,+0 dagger
+(-20, 25, D:2)
+  a -1,+0 orcish dagger
+(-33, 27, D:2)
+  a choko
+(10, 28, D:2)
+  22 arrows
+(-28, 29, D:2)
+  a beef jerky
+(-27, 32, D:2)
+  a +0,+0 long sword
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +2,+1 dagger
+(-50, 1, D:3)
+  5 steel javelins
+(2, 1, D:3)
+  a dart
+(-35, 2, D:3)
+  a +0,+0 dagger
+(1, 7, D:3)
+  a +0 chain mail
+  a +0,+0 short sword
+(-11, 9, D:3)
+  a +1,+1 orcish trident
+(-3, 12, D:3)
+  a +0,+1 orcish club
+(-12, 13, D:3)
+  23 stones
+  a +0,+0 sling
+(4, 15, D:3)
+  16 stones
+  a +0,+0 sling
+(-25, 16, D:3)
+  a +0,+1 orcish short sword
+(0, 33, D:3)
+  a +0 orcish robe
+  a +0,+1 orcish club
+  a cursed +0,-3 orcish dagger
+(4, 33, D:3)
+  a cursed +0,-2 dagger
+(-24, 34, D:3)
+  an apple
+(1, 34, D:3)
+  a scroll of curse jewellery
+(0, 35, D:3)
+  a +0 cloak
+(-48, 42, D:3)
+  a dart
+(-50, 43, D:3)
+  a +0,+0 orcish club
+  a dart
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  a rat corpse (skeletalised by now)
+(1, 0, D:4)
+  a giant newt corpse (skeletalised by now)
+(3, 1, D:4)
+  a +0,+0 short sword
+(6, 8, D:4)
+  24 darts
+(-33, 12, D:4)
+  a +0,+1 orcish club
+(-25, 12, D:4)
+  a -1,+0 orcish mace
+  a +2 orcish leather armour
+  an orc corpse (skeletalised by now)
+(-23, 12, D:4)
+  a +0,+1 orcish spear
+(-22, 12, D:4)
+  a +0,+1 orcish spear
+(-29, 13, D:4)
+  a +0,+1 orcish spear
+(-27, 13, D:4)
+  a +0,+1 orcish spear
+(-26, 13, D:4)
+  a +0,+1 orcish spear
+(-32, 14, D:4)
+  a +0,+1 orcish club
+(2, 19, D:4)
+  a +0 dwarven ring mail
+(-11, 21, D:4)
+  a -1,+1 orcish whip
+(-10, 21, D:4)
+  a -1,+1 orcish short sword
+(-19, 23, D:4)
+  a +1,+3 orcish dagger
+(-16, 23, D:4)
+  a -1,+1 orcish dagger
+  a +0 orcish leather armour
+(-17, 24, D:4)
+  a -1,+1 orcish mace
+  a cursed +0 orcish ring mail
+(0, 24, D:4)
+  a giant newt corpse (skeletalised by now)
+(15, 33, D:4)
+  a dart
+  a rat corpse (skeletalised by now)
+(16, 34, D:4)
+  a dart
+(17, 34, D:4)
+  a dart
+(-20, 39, D:4)
+  a +2,+2 orcish spear
+(-24, 44, D:4)
+  a +0,+0 club
+(22, 44, D:4)
+  a dart
+(23, 44, D:4)
+  a bread ration
+(-32, 45, D:4)
+  a -1,+1 orcish club
+

@@ -1,0 +1,215 @@
+ Dungeon Crawl Stone Soup version 0.15.2 (console) character file.
+
+697 Asterion the Basher (level 7, -10/57 HPs)
+             Began as a Minotaur Berserker on Jan 1, 2015.
+             Was an Elder of Trog.
+             Mangled by Prince Ribbit (14 damage)
+             ... on Level 4 of the Dungeon.
+             The game lasted 00:08:44 (4307 turns).
+
+Asterion the Basher (Minotaur Berserker)            Turns: 4307, Time: 00:08:44
+
+HP -10/57        AC  7     Str 26      XL: 7   Next: 37%
+MP   3/3         EV  6     Int  4      God: Trog [****..]
+Gold 243         SH  8     Dex 12      Spells:  0 memorised,  6 levels left
+
+rFire  . . .     SeeInvis .     a - +1 mace
+rCold  . . .     Clarity  .     j - +1 scale mail
+rNeg   . . .     rCorr    .     n - +0 shield
+rPois  .         rRot     .     (helmet restricted)
+rElec  .         Spirit   .     (no cloak)
+SustAb .         Warding  .     (no gloves)
+rMut   .         Stasis   .     (no boots)
+Gourm  .                        (no amulet)
+MR     .....                    (no ring)
+                                (no ring)
+
+@: mighty, about to teleport, not resistant to hostile enchantments, extremely
+unstealthy
+A: retaliatory headbutt, horns 2
+a: Burn Spellbooks, Berserk, Trog's Hand, Brothers in Arms, Renounce Religion
+
+
+You were on level 4 of the Dungeon.
+You worshipped Trog.
+Trog was greatly pleased with you.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+
+You collected 243 gold pieces.
+
+Inventory:
+
+Hand weapons
+ a - a +1 mace (weapon)
+Armour
+ j - a +1 scale mail (worn)
+ n - a +0 shield (worn)
+Comestibles
+ c - 5 bread rations
+ f - a meat ration
+Scrolls
+ d - a scroll of noise {unknown}
+ g - 4 scrolls of remove curse
+ h - a scroll of enchant armour
+ l - a scroll of enchant weapon
+ o - a scroll of identify
+Jewellery
+ k - an uncursed amulet of stasis
+Potions
+ b - a potion of brilliance {unknown}
+ e - 2 potions of curing
+ p - a potion of resistance {unknown}
+ q - a potion of might
+ s - a potion of magic {unknown}
+
+
+   Skills:
+ - Level 3.6 Fighting
+ + Level 10.3 Maces & Flails
+ - Level 2.4 Armour
+ - Level 2.1 Dodging
+
+
+You had 6 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)            
+Temple: D:4-7       
+
+Altars:
+Okawaru
+Qazlal
+
+Annotations:
+D:4 Prince Ribbit
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+
+
+Message History
+
+* * * LOW HITPOINT WARNING * * *
+You continue eating.
+Prince Ribbit hits you.
+* * * LOW HITPOINT WARNING * * *
+You finish eating. That meat ration really hit the spot!
+Read which item? (? for menu, Esc to quit)
+Okay, then.
+Drink which item? (? for menu, Esc to quit)
+You feel very mighty all of a sudden.
+It was a potion of might. You block Prince Ribbit's attack.
+You sock Prince Ribbit! Your headbutt misses Prince Ribbit.
+Prince Ribbit is moderately wounded.
+You block Prince Ribbit's attack. Prince Ribbit completely misses you.
+You sock Prince Ribbit! You headbutt Prince Ribbit.
+Prince Ribbit is severely wounded.
+Prince Ribbit hits you but does no damage.
+Read which item? (? for menu, Esc to quit)
+As you read the scroll of teleportation, it crumbles to dust.
+You feel strangely unstable. Prince Ribbit hits you!
+You die...
+
+          #
+###########.#
+#...........##################################
+#.#########...................................
+#.#       #.#.###.####################.###.###
+#.#    ####...........#           #...........
+#.#   #.....#.###.#####           ####.####.##
+#.#   #...........#            .§≈   #.## #.##
+#.#   #...........#         ≈≈≈≈.≈#  #.)# #..#
+#(#   #.........@.#        ....≈.≈#####.####.#
+#.#   ..........F.###.#   ≈≈§§.≈.≈#...........
+#.#    #..............#  ≈..!§.≈§≈#.####.#....
+#.#     #####+###.#####  ≈.≈§≈.≈.§#.#  #.#....
+#.#            ....      ≈.≈§≈.§.§#.####..##..
+#.#          .......    .≈...§.§§≈#...........
+#.#         #.#.#.##    .≈≈≈≈≈§≈[≈#)#####..##.
+#.#         . .....     ....§....(([........#.
+#.######     .#.#.#      ≈≈≈§≈≈≈≈≈#[.....#....
+#......#      #.#.#      ##########......#....
+######.#      #.#+##     #...............'....
+
+
+You could see Prince Ribbit.
+
+Vanquished Creatures
+  Eustachio (D:4)
+  An ogre (D:4)
+  A gnoll shaman (D:4)
+  2 hounds (D:4)
+  2 orc priests
+  2 orc wizards
+  A worker ant (D:4)
+  Ijyb (D:3)
+  4 adders
+  12 gnolls
+  A giant mite (D:1)
+  A giant gecko (D:1)
+  An ooze (D:4)
+  6 orcs
+  11 bats
+  4 giant cockroaches
+  6 goblins
+  6 hobgoblins
+  2 quokkas
+  A ball python (D:4)
+  A giant gecko skeleton (D:4)
+  6 giant newts
+  4 jackals (D:3)
+  4 kobolds
+  A quokka skeleton (D:4)
+  8 rats
+90 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | D:1      | Asterion, the Minotaur Berserker, began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
+    66 | D:1      | Reached skill level 4 in Maces & Flails
+   159 | D:1      | Reached XP level 2. HP: 23/26 MP: 1/1
+   472 | D:1      | Reached skill level 5 in Maces & Flails
+   530 | D:1      | Acquired Trog's second power
+   530 | D:1      | Reached XP level 3. HP: 31/31 MP: 2/2
+  1738 | D:3      | Reached XP level 4. HP: 27/39 MP: 2/2
+  1948 | D:3      | Reached skill level 6 in Maces & Flails
+  2335 | D:3      | Reached XP level 5. HP: 27/45 MP: 2/2
+  2392 | D:3      | Reached skill level 7 in Maces & Flails
+  2701 | D:3      | Noticed Ijyb
+  2709 | D:3      | Killed Ijyb
+  3037 | D:4      | Found an iron altar of Okawaru.
+  3075 | D:4      | Reached skill level 8 in Maces & Flails
+  3077 | D:4      | Reached XP level 6. HP: 51/51 MP: 3/3
+  3439 | D:4      | Noticed an ogre
+  3462 | D:4      | Killed an ogre
+  3462 | D:4      | Reached skill level 9 in Maces & Flails
+  3548 | D:4      | Found a stormy altar of Qazlal.
+  3791 | D:4      | Noticed Eustachio
+  3793 | D:4      | Acquired Trog's third power
+  3806 | D:4      | Killed Eustachio
+  3806 | D:4      | Reached skill level 10 in Maces & Flails
+  3806 | D:4      | Reached XP level 7. HP: 54/57 MP: 3/3
+  4291 | D:4      | Noticed Prince Ribbit
+  4307 | D:4      | Mangled by Prince Ribbit
+
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Mace              |    65 |   135 |    31 ||   231
+Invok: Berserk           |       |     4 |       ||     4
+  Use: Scroll            |       |     6 |     1 ||     7
+       Potion            |       |     1 |     1 ||     2
+  Eat: Chunk             |     2 |     9 |     1 ||    12
+       Beef jerky        |       |     1 |       ||     1
+       Meat ration       |       |       |     1 ||     1
+

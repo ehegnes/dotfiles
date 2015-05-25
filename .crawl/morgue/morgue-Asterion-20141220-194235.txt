@@ -1,0 +1,182 @@
+ Dungeon Crawl Stone Soup version 0.15.2 (console) character file.
+
+100 Asterion the Cudgeler (level 4, -1/40 HPs)
+             Began as a Minotaur Berserker on Dec 20, 2014.
+             Was a Believer of Trog.
+             Succumbed to poison (a potion of poison)
+             ... on Level 3 of the Dungeon.
+             The game lasted 00:03:10 (1402 turns).
+
+Asterion the Cudgeler (Minotaur Berserker)          Turns: 1402, Time: 00:03:10
+
+HP  -1/40        AC  2     Str 22      XL: 4   Next: 46%
+MP   2/2         EV 17     Int  4      God: Trog [**....]
+Gold 135         SH  0     Dex 15      Spells:  0 memorised,  3 levels left
+
+rFire  . . .     SeeInvis .     a - +0 mace
+rCold  . . .     Clarity  .     b - +0 animal skin
+rNeg   . . .     rCorr    .     (no shield)
+rPois  .         rRot     .     (helmet restricted)
+rElec  .         Spirit   .     (no cloak)
+SustAb .         Warding  .     (no gloves)
+rMut   .         Stasis   .     (no boots)
+Gourm  .                        (no amulet)
+MR     .....                    (no ring)
+                                k - ring of wizardry
+
+@: agile, lethally poisoned, exhausted, very slightly contaminated, hasted and
+slowed, not resistant to hostile enchantments, unstealthy
+A: retaliatory headbutt, horns 2
+a: Burn Spellbooks, Berserk, Trog's Hand, Renounce Religion
+
+
+You were on level 3 of the Dungeon.
+You worshipped Trog.
+Trog was pleased with you.
+You were near starving.
+
+You visited 1 branch of the dungeon, and saw 3 of its levels.
+
+You collected 135 gold pieces.
+
+Inventory:
+
+Hand weapons
+ a - a +0 mace (weapon)
+Armour
+ b - a +0 animal skin (worn)
+Magical devices
+ s - a wand of magic darts (12) {unknown}
+Comestibles
+ c - 2 bread rations
+ f - 2 beef jerkies
+ g - a meat ration
+ q - 4 fruits
+Scrolls
+ d - a scroll of magic mapping {unknown}
+ e - 2 scrolls of blinking {unknown}
+ h - 2 scrolls of remove curse {unknown}
+ i - 2 scrolls of identify {unknown}
+ l - a scroll of recharging {unknown}
+ m - a scroll of noise {unknown}
+ o - a scroll of fog {unknown}
+ p - a scroll of random uselessness {unknown}
+ r - a scroll of teleportation {unknown}
+Jewellery
+ k - a ring of wizardry (left hand)
+Potions
+ j - 2 potions of agility
+ t - a potion of heal wounds {unknown}
+
+
+   Skills:
+ - Level 3.8 Fighting
+ + Level 6.3 Maces & Flails
+ - Level 2.4 Armour
+ - Level 2.1 Dodging
+
+
+You had 3 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+
+
+Message History
+
+You are feeling very hungry.
+* * * LOW HITPOINT WARNING * * *
+You feel sick.
+Drink which item? (? for menu, Esc to quit)
+You feel agile all of a sudden.
+It was a potion of agility.
+You are near starving!
+* * * LOW HITPOINT WARNING * * *
+You feel sick.
+Drink which item? (? for menu, Esc to quit)
+You can't drink that!
+Drink which item? (? for menu, Esc to quit)
+You feel yourself speed up. It was a potion of haste.
+* * * LOW HITPOINT WARNING * * *
+You feel sick.
+You are very lightly contaminated with residual magic.
+Drink which item? (? for menu, Esc to quit)
+That liquid tasted very nasty... You are more poisoned.
+It was a potion of poison.
+You die...
+
+          ...
+       #........
+      ..........#
+     .............
+      #.........#
+      #.........#
+      #.........##.
+       #...).......#
+   #.####..@..#.#
+   ......#......#
+   .........#####
+  ..........#
+ #.........##
+ ........#(###########.
+ ......................
+###..#........########.
+........<.....#
+##.....#..(%..#
+ ....###..(...#
+ ..#.###.#.##.#
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  Jessica (D:2)
+  3 adders
+  4 worms
+  2 giant geckos (D:1)
+  A bat (D:1)
+  2 giant cockroaches
+  3 goblins
+  6 hobgoblins
+  3 kobolds
+  2 giant newts (D:2)
+  A quokka (D:2)
+  10 rats
+38 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | D:1      | Asterion, the Minotaur Berserker, began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
+   175 | D:1      | Reached skill level 4 in Maces & Flails
+   194 | D:1      | Reached XP level 2. HP: 13/27 MP: 1/1
+   552 | D:1      | Acquired Trog's second power
+   794 | D:2      | Reached XP level 3. HP: 29/33 MP: 2/2
+   796 | D:2      | Reached skill level 5 in Maces & Flails
+   874 | D:2      | Noticed Jessica
+   883 | D:2      | Killed Jessica
+  1127 | D:2      | Reached XP level 4. HP: 37/40 MP: 2/2
+  1353 | D:3      | Reached skill level 6 in Maces & Flails
+  1400 | D:3      | HP: 2/40 [poisoned by an adder]
+  1402 | D:3      | Succumbed to poison (a potion of poison)
+
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Mace              |    60 |    17 ||    77
+Invok: Berserk           |       |     1 ||     1
+  Use: Potion            |       |     3 ||     3
+  Eat: Chunk             |     1 |       ||     1
+

@@ -1,0 +1,388 @@
+Asterion
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 hunting sling
+(12, 11, D:1)
+  a +0 hand axe of electrocution
+(24, 22, D:1)
+  18 arrows of flame
+(-7, 23, D:1)
+  a +0 dagger
+(-26, 30, D:1)
+  a +0 club
+(3, 33, D:1)
+  a +0 club
+(-9, 35, D:1)
+  a +0 dagger
+  4 stones
+(-5, 39, D:1)
+  21 stones
+(-28, 40, D:1)
+  11 poisoned needles
+(11, 43, D:1)
+  a +0 dagger
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  7 poisoned needles
+(35, 8, D:2)
+  a +0 club
+(42, 16, D:2)
+  a +0 animal skin
+(44, 23, D:2)
+  4 tomahawks
+(43, 24, D:2)
+  18 arrows
+(49, 26, D:2)
+  a +0 ring mail
+(44, 30, D:2)
+  21 stones
+(10, 32, D:2)
+  a +0 dagger
+(18, 37, D:2)
+  25 stones
+(30, 38, D:2)
+  26 stones
+(22, 39, D:2)
+  20 arrows
+(39, 43, D:2)
+  26 stones
+(53, 47, D:2)
+  a cursed -1 dagger
+(29, 50, D:2)
+  a stone
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a tomahawk
+(-35, 1, D:3)
+  a +0 whip
+(-34, 1, D:3)
+  a +0 mace
+  a +0 chain mail
+(-35, 2, D:3)
+  a +0 leather armour
+(-34, 2, D:3)
+  a +0 whip
+(0, 5, D:3)
+  a +0 hand axe
+  a +0 scale mail
+  a +0 falchion
+(0, 6, D:3)
+  a +0 club
+(0, 7, D:3)
+  a +0 dagger
+  3 tomahawks
+  a +0 scale mail
+(-4, 8, D:3)
+  a +0 dagger
+(-38, 9, D:3)
+  25 stones
+(4, 14, D:3)
+  a +0 dagger
+(-42, 15, D:3)
+  27 arrows
+(7, 19, D:3)
+  a +0 club
+(-9, 20, D:3)
+  a +0 robe
+(12, 21, D:3)
+  a +0 club
+(20, 26, D:3)
+  a +0 chain mail
+(-20, 31, D:3)
+  a +0 chain mail
+(0, 33, D:3)
+  a +0 club
+(9, 36, D:3)
+  24 sling bullets
+(-17, 41, D:3)
+  a +0 robe
+
+Level 4 of the Dungeon
+[Shop] Zaurch's Weapon Boutique
+  a +0 falchion (30 gold)
+  a +1 short sword of electrocution (145 gold)
+  a +0 flail of crushing (72 gold)
+  a +0 scimitar (40 gold)
+  a +0 hunting sling (15 gold)
+  a +3 war axe of freezing (233 gold)
+  a +0 cutlass (40 gold)
+  the +7 war axe of Objectivity {pain, +Inv rPois} (619 gold)
+    In the hands of one skilled in necromantic magic, it inflicts extra damage
+    on living creatures.
+    
+    It protects you from poison.
+    It lets you turn invisible.
+  12 arrows (24 gold)
+  a +0 whip (25 gold)
+(0, 0, D:4)
+  a +0 war axe
+(-21, 1, D:4)
+  a +0 club
+(-42, 7, D:4)
+  16 stones
+(-41, 7, D:4)
+  a +0 dagger
+(-4, 8, D:4)
+  a +0 club
+(-10, 13, D:4)
+  a cursed -1 falchion
+(-7, 16, D:4)
+  a +0 falchion
+(-18, 26, D:4)
+  a +0 leather armour
+(-24, 42, D:4)
+  13 poisoned needles
+(14, 42, D:4)
+  a +0 leather armour
+(-29, 46, D:4)
+  a poisoned needle
+(-24, 46, D:4)
+  a +0 blowgun
+  7 poisoned needles
+(15, 53, D:4)
+  a +0 leather armour
+
+Level 5 of the Dungeon
+(0, 0, D:5)
+  28 stones
+(26, 2, D:5)
+  a +0 club
+(40, 2, D:5)
+  a scroll of immolation
+(25, 9, D:5)
+  a +0 animal skin
+(6, 10, D:5)
+  2 scrolls of noise
+(27, 11, D:5)
+  a +0 trident
+  a +0 scale mail
+(28, 11, D:5)
+  a +0 robe
+(28, 12, D:5)
+  a +0 animal skin
+  a +0 animal skin
+(-15, 15, D:5)
+  a +0 dagger
+(-6, 16, D:5)
+  a +0 falchion
+(-1, 17, D:5)
+  9 poisoned needles
+(40, 20, D:5)
+  a +0 hunting sling
+(-19, 24, D:5)
+  a +0 club
+(-18, 25, D:5)
+  a +0 club
+(7, 29, D:5)
+  a +0 blowgun
+  5 curare-tipped needles
+(30, 38, D:5)
+  a +1 short sword of holy wrath
+  a +0 leather armour
+(13, 40, D:5)
+  25 arrows
+(21, 41, D:5)
+  14 arrows
+(34, 43, D:5)
+  a +0 falchion
+  a +0 leather armour
+(39, 45, D:5)
+  a +0 giant club
+(0, 46, D:5)
+  18 stones
+(-13, 52, D:5)
+  a cursed +0 animal skin
+(35, 53, D:5)
+  a +0 club
+
+Level 6 of the Dungeon
+(0, 0, D:6)
+  a +0 war axe
+(-8, 7, D:6)
+  a +0 flail
+(-9, 8, D:6)
+  a +0 halberd
+(-7, 8, D:6)
+  a +0 spear
+(-13, 16, D:6)
+  a +0 dagger
+  a +0 robe
+(-13, 17, D:6)
+  a +0 flail
+(-13, 18, D:6)
+  a +0 ring mail
+(-9, 18, D:6)
+  a +0 ring mail
+(-44, 19, D:6)
+  a +0 ring mail
+(-12, 19, D:6)
+  17 arrows
+(-47, 24, D:6)
+  a book of the Earth
+(2, 30, D:6)
+  a cursed -1 dagger
+(-22, 31, D:6)
+  a +0 whip
+(-2, 33, D:6)
+  a +0 robe
+(-29, 36, D:6)
+  a scroll of amnesia
+(-18, 39, D:6)
+  a +2 mace of distortion
+(-49, 40, D:6)
+  a +0 quarterstaff
+(-23, 41, D:6)
+  a +0 scale mail
+(-12, 43, D:6)
+  a +0 giant club
+
+Level 7 of the Dungeon
+(0, 0, D:7)
+  a +0 short sword
+  a +0 morningstar
+  a +0 trident
+  a cursed +0 leather armour
+(-17, 6, D:7)
+  a +0 hunting sling
+(4, 8, D:7)
+  a scroll of noise
+(-17, 9, D:7)
+  a +0 blowgun
+  a +0 short sword
+  2 poisoned needles
+(-14, 12, D:7)
+  20 bolts
+(-18, 13, D:7)
+  a poisoned needle
+(-23, 14, D:7)
+  a scroll of immolation
+(-3, 16, D:7)
+  a +0 giant club
+(-25, 21, D:7)
+  a +0 whip
+(-19, 28, D:7)
+  5 arrows
+(-10, 29, D:7)
+  a +0 plate armour
+(-8, 42, D:7)
+  a potion of mutation
+(-12, 49, D:7)
+  19 bolts
+
+Level 8 of the Dungeon
+(0, 0, D:8)
+  a +0 dagger
+  a +0 robe
+(-3, 1, D:8)
+  a +0 leather armour
+(0, 1, D:8)
+  a +0 whip
+(22, 1, D:8)
+  22 stones
+(-2, 2, D:8)
+  a +0 dagger
+  a +0 robe
+(32, 3, D:8)
+  a +0 plate armour
+(34, 5, D:8)
+  the +3 leather armour of Curagros {Str+2 Int-2}
+    It affects your strength (+2).
+    It affects your intelligence (-2).
+(39, 5, D:8)
+  the +4 shortbow of Paesim {freeze, rPois rC+ Str+4 SInv}
+    It turns projectiles fired from it into bolts of frost.
+    
+    It affects your strength (+4).
+    It protects you from cold.
+    It protects you from poison.
+    It enhances your eyesight.
+(-4, 8, D:8)
+  a +1 flail of protection
+  a +0 leather armour
+(47, 10, D:8)
+  a +0 club
+  a +0 leather armour
+(5, 11, D:8)
+  a +0 hand axe
+(46, 11, D:8)
+  a +0 dagger
+  a +0 chain mail
+(47, 11, D:8)
+  a +0 hand axe
+  a +1 dagger of protection
+(11, 12, D:8)
+  a +0 ring mail
+(-1, 15, D:8)
+  a +0 dagger
+  a +0 robe
+(38, 15, D:8)
+  a +0 great mace
+(16, 23, D:8)
+  a +0 ring mail
+(6, 24, D:8)
+  a +0 club
+(22, 24, D:8)
+  a +0 giant spiked club
+(3, 25, D:8)
+  a +0 quarterstaff
+(20, 26, D:8)
+  a scroll of random uselessness
+(48, 27, D:8)
+  a +0 dagger
+(60, 27, D:8)
+  a +0 battleaxe
+  a cursed +0 robe
+(48, 28, D:8)
+  2 arrows
+(60, 29, D:8)
+  23 stones
+(49, 30, D:8)
+  an arrow
+(50, 31, D:8)
+  an arrow
+(51, 33, D:8)
+  an arrow
+(18, 34, D:8)
+  a stone
+(18, 35, D:8)
+  2 stones
+(52, 35, D:8)
+  a +0 shortbow
+  23 arrows
+(13, 36, D:8)
+  a +0 short sword
+(15, 36, D:8)
+  a stone
+(13, 38, D:8)
+  a cursed -1 short sword
+  a stone
+
+Level 9 of the Dungeon
+(0, 0, D:9)
+  a wand of random effects (16)
+(29, 5, D:9)
+  a troll skeleton
+(30, 5, D:9)
+  a +0 giant spiked club
+  a +0 leather armour
+  a +0 dagger
+  an ogre skeleton
+  a rotting orc corpse
+(29, 7, D:9)
+  a +0 robe
+  a +0 dagger
+  a rotting orc corpse
+  a rotting yak corpse
+  a yak skeleton
+(30, 7, D:9)
+  a +0 plate armour
+  a +0 war axe
+  a rotting orc corpse
+(16, 28, D:9)
+  13 poisoned needles
+
+the Ecumenical Temple
+

@@ -1,0 +1,918 @@
+ Dungeon Crawl Stone Soup version 0.18-a0-8-g0de29c1 (console) character file.
+
+288058 Sanguine the Warrior (level 20, -2/195 HPs)
+             Began as a Demonspawn Abyssal Knight on Nov 1, 2015.
+             Was a High Priest of Lugonu.
+             Slain by an anaconda (11 damage)
+             ... on level 3 of the Snake Pit on Nov 2, 2015.
+             The game lasted 03:16:41 (51905 turns).
+
+Sanguine the Warrior (Demonspawn Abyssal Knight)   Turns: 51905, Time: 03:16:43
+
+Health: -2/195     AC: 29    Str: 25    XL:     20   Next: 23%
+Magic:  27/27      EV: 18    Int: 14    God:    Lugonu [*****.]
+Gold:   4570       SH:  6    Dex: 22    Spells: 0 memorised, 19 levels left
+
+rFire  + + .     SeeInvis .     b - +5 whip (elec)
+rCold  + + .     Clarity  .     Q - +0 plate armour
+rNeg   + + .     SustAt   .     V - +0 buckler {AC+3}
+rPois  +         Gourm    .     S - +1 hat {MR+}
+rElec  +         Spirit   .     Y - +0 cloak of the Burgomaster {Regen+ Slay+3} (curse)
+rCorr  .         Warding  .     D - +1 pair of gloves
+rMut   .         Stasis   .     (boots unavailable)
+MR     +++..                    e - amulet of the Air {Inacc +Fly rElec EV+5 RMsl}
+Stlth  ..........               r - ring of the Octopus King {rN+ AC+1 EV+1 Str+1 Int+1 Dex+1}
+                                T - ring of protection from magic
+
+@: slowed, constricted, repel missiles, very slow, extremely resistant to
+hostile enchantments, extremely unstealthy
+A: hooves 3, thin skeletal structure 3, cold resistance 2, demonic guardian 3,
+fire resistance 2, icemail, mutation resistance 2, negative energy resistance 1,
+poison resistance, robust 1, screaming 1, shaggy fur 1, strong 2, freezing cloud
+immunity
+a: Depart the Abyss, Bend Space, Banish, Corrupt, Enter the Abyss, Renounce
+Religion, Evoke Flight
+}: 1/15 runes: decaying
+
+
+You were on level 3 of the Snake Pit.
+You worshipped Lugonu.
+Lugonu was extremely pleased with you.
+You were not hungry.
+
+You visited 8 branches of the dungeon, and saw 42 of its levels.
+You visited the Abyss 3 times.
+You also visited: Labyrinth, Sewer and Ice Cave.
+
+You collected 4658 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ b - a +5 whip of electrocution (weapon)
+Armour
+ D - a +1 pair of gloves (worn)
+ Q - a +0 plate armour (worn)
+ S - a +1 hat of magic resistance (worn)
+ V - a +0 buckler of protection (worn)
+ Y - the cursed +0 cloak of the Burgomaster (worn) {Regen+ Slay+3}
+   (You found it in a labyrinth)   
+   
+   It affects your accuracy and damage with ranged weapons and melee attacks
+   (+3).
+   It increases your rate of regeneration.
+   It has a curse placed upon it.
+Jewellery
+ e - the amulet of the Air (around neck) {Inacc +Fly rElec EV+5 RMsl}
+   (You found it in an ice cave)   
+   
+   [amulet of inaccuracy]
+   
+   It reduces the accuracy of all your attacks.
+   It affects your evasion (+5).
+   It insulates you from electricity.
+   It lets you fly.
+   It protects you from missiles.
+ r - a ring of the Octopus King (right hand) {rN+ AC+1 EV+1 Str+1 Int+1 Dex+1}
+   (You found it on level 1 of the Snake Pit)   
+   
+   [ring of positive energy]
+   
+   It affects your AC (+1).
+   It affects your evasion (+1).
+   It affects your strength (+1).
+   It affects your intelligence (+1).
+   It affects your dexterity (+1).
+   It protects you from negative energy.
+ F - an uncursed ring of invisibility
+ O - an uncursed amulet of regeneration
+ T - a ring of protection from magic (left hand)
+Wands
+ m - a wand of polymorph (20)
+ u - a wand of disintegration (9)
+ L - a wand of digging (11)
+ U - a wand of enslavement (22)
+Scrolls
+ d - 4 scrolls of magic mapping
+ k - 14 scrolls of identify
+ s - a scroll of silence
+ t - 12 scrolls of teleportation
+ y - 3 scrolls of enchant armour
+ A - 10 scrolls of remove curse
+ H - 5 scrolls of fear
+ K - 2 scrolls of blinking
+ N - 2 scrolls of acquirement
+ P - 2 scrolls of recharging
+ R - 2 scrolls of enchant weapon
+Potions
+ f - 7 potions of curing
+ q - 3 potions of cancellation
+ v - 3 potions of lignification
+ w - 3 potions of agility
+ z - 9 potions of heal wounds
+ B - 2 potions of berserk rage
+ I - 3 potions of might
+Miscellaneous
+ a - a plain deck of wonders {the Alchemist, drawn: 1}
+ n - a plain deck of defence {the Helm}
+ o - a disc of storms
+ C - a phantom mirror
+ G - a sack of spiders
+Comestibles
+ c - 24 bread rations
+ i - 12 beef jerkies
+ j - 15 meat rations
+
+
+   Skills:
+ - Level 20.7 Fighting
+ - Level 12.0 Maces & Flails
+ - Level 19.7 Armour
+ + Level 9.2 Dodging
+ - Level 5.9 Shields
+ - Level 8.0 Invocations
+ - Level 10.0 Evocations
+
+
+You had 19 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (15/15)            Temple (0/1) D:4            Lair (8/8) D:8
+  Swamp (4/4) Lair:4        Snake (3/4) Lair:3        Slime (0/6) Lair:6
+    Orc (4/4) D:11            Elf (3/3) Orc:3        Vaults (4/5) D:14
+  Crypt (0/3) Vaults:2     Depths (1/5) D:15        
+
+Altars:
+Ashenzari
+Elyvilon
+Ru
+Sif Muna
+Vehumet
+Yredelemnul
+Zin
+The Shining One
+Beogh
+
+Shops:
+D:10 %   Orc:4 :*![   Elf:2 !*!}
+
+Annotations:
+Snake:3 corrupted
+Elf:3 corrupted
+Vaults:1 corrupted
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have hooves in place of feet.
+You have an unnaturally thin skeletal structure (Dex +6, Stealth++).
+Your flesh is very cold resistant.
+A powerful demonic guardian rushes to your aid.
+A meltable icy envelope protects you from harm (AC +0).
+You resist negative energy.
+You are immune to freezing clouds.
+Your flesh is very heat resistant.
+You are somewhat resistant to both further mutation and mutation removal.
+Your system is resistant to poisons.
+You are robust (+10% HP).
+You occasionally shout uncontrollably at your foes.
+You are covered in fur (AC +1).
+Your muscles are very strong. (Str +4)
+
+
+Message History
+
+The bolt is repelled. The naga is engulfed in dark miasma. The naga seems to slow down.
+The naga hits you but does no damage. The naga grabs you. You stop ascending the stairs.
+The naga constricts you.
+The salamander is engulfed in dark miasma.
+The salamander looks even sicker.
+The salamander hits you but does no damage.
+The small abomination hits your balrug!
+Your balrug dies!
+The death drake bites the salamander! Something misses the naga sharpshooter.
+A tentacle flies out from the starspawn's body!
+The anaconda hisses angrily. You hear an angry hiss. You hear a shout!
+A mana viper comes into view.
+Drink which item? (? for menu, Esc to quit)
+You feel better. You are engulfed in dark miasma. You feel yourself slow down.
+* * * LOW HITPOINT WARNING * * *
+The sixfirhy hits the salamander. The sixfirhy shocks the salamander! The sixfirhy hits the salamander.
+The sixfirhy shocks the salamander! The sixfirhy hits the salamander! The sixfirhy shocks the salamander!
+The salamander dies!
+The anaconda bites you!
+You die...
+
+               #####
+  ........ ### #...# .#
+   ... ......  #...#.#
+    .....55.   #.....#
+##   ....#N#   #<...#
+#..   .#.wX   #..2..#
+#... ##...   .NN....#
+#..#.#...#  ##N.....#
+#...#..S@#   ...>N..#
+......§§Nk.........##
+......4§N#...#%.....
+#####.5x#G3..#.......
+   #.......#.##
+  N..#....##5#
+ ).##..#.... .
+ S. ##.##.#.. #
+           ..#
+
+
+You could see a naga sharpshooter, a salamander, an anaconda, a mana viper, a
+naga mage, a naga, a neutral tentacled starspawn, a neutral death drake, a
+neutral eye of draining, a neutral sixfirhy, a neutral ynoxinul, a neutral small
+abomination, a neutral starspawn tentacle, 2 neutral crimson imps, a neutral
+white imp and a neutral ufetubus.
+
+Vanquished Creatures
+  Norris (Vaults:1)
+  A lich (Vaults:4)
+  2 sphinxes
+  An ancient champion (Vaults:2)
+  Gastronok (Lair:1)
+  Kirke (Swamp:1)
+  A tengu reaver (Vaults:4)
+  2 storm dragons (Vaults:4)
+  Wiglaf (Vaults:2)
+  3 deep elf sorcerers
+  4 vault wardens
+  2 fire giants
+  Donald (Elf:1)
+  Aizul (Elf:1)
+  A very ugly thing (Vaults:1)
+  12 ironheart preservers
+  A stone giant (Vaults:2)
+  Nessos (Lair:6)
+  The ghost of Sanguine the Fighter, a journeyman DsAK of Lugonu (Orc:4)
+  A salamander stormcaller (Vaults:4)
+  2 deep elf death magi
+  A fire dragon (Vaults:1)
+  A vault guard (Vaults:3)
+  A crystal guardian (Vaults:4)
+  A minotaur (Lab)
+  2 great orbs of eyes (Vaults:2)
+  5 ettins
+  Josephine (Lair:8)
+  A large abomination (D:15)
+  A deep elf high priest (Elf:2)
+  Fannar (Lair:2)
+  15 hydras
+  2 ice dragons (IceCv)
+  A ghost crab (Swamp:2)
+  3 anacondas
+  8 yaktaur captains
+  3 naga warriors
+  10 centaur warriors
+  5 alligators
+  A death knight (Vaults:2)
+  Erica (D:9)
+  12 ogre magi
+  16 dancing weapons (Elf:2)
+  An anaconda (shapeshifter) (Vaults:2)
+  8 death yaks
+  2 deep troll shamans (Vaults:4)
+  A queen ant (shapeshifter) (Vaults:1)
+  A tengu warrior (D:15)
+  10 naga sharpshooters
+  2 shock serpents (Snake:2)
+  Urug (D:15)
+  Sonja (D:15)
+  2 storm dragon zombies (Vaults:3)
+  4 deep trolls
+  A sun demon (D:13)
+  A salamander mystic (Snake:2)
+  A fire crab (Vaults:2)
+  14 deep elf knights
+  A skeletal warrior (D:14)
+  A giant orange brain (Vaults:4)
+  A fire crab (shapeshifter) (D:14)
+  2 shadow wraiths
+  2 flayed ghosts
+  2 shambling mangroves (Swamp:4)
+  4 deep elf summoners
+  A naga ritualist (Snake:2)
+  5 hill giants
+  An obsidian statue (D:13)
+  10 swamp dragons
+  An anaconda skeleton (Abyss:1)
+  10 orc knights
+  10 ironbrand convokers
+  3 unseen horrors
+  3 hornets
+  5 deep elf conjurers
+  3 harpies (Vaults:2)
+  3 wizards
+  An oklob plant (Lair:5)
+  A stone giant zombie (Vaults:4)
+  A wolf spider (Vaults:3)
+  4 salamanders
+  5 orc sorcerers
+  2 necromancers
+  11 ugly things
+  5 griffons
+  A tengu skeleton (Vaults:2)
+  A fire giant zombie (Vaults:3)
+  A cyclops (shapeshifter) (Elf:2)
+  4 cyclopes
+  19 black mambas
+  9 mana vipers
+  An octopode (shapeshifter) (Vaults:1)
+  A stone giant skeleton (Vaults:2)
+  Maurice (D:13)
+  13 elephants
+  6 naga magi
+  15 vault sentinels
+  2 ice statues (IceCv)
+  2 smoke demons
+  18 spiny frogs
+  An orange demon (D:13)
+  7 komodo dragons
+  4 centaur skeletons
+  A kobold demonologist (Vaults:3)
+  8 gargoyles (D:14)
+  10 freezing wraiths
+  A komodo dragon (shapeshifter) (Vaults:1)
+  29 yaktaurs
+  4 spriggan druids
+  2 efreet (D:13)
+  4 trolls
+  3 fire drakes
+  An ancient zyme (Abyss:1)
+  12 deep elf priests
+  A red devil (D:13)
+  A tengu conjurer (D:15)
+  8 polar bears
+  13 blink frogs
+  3 giant leeches
+  6 boulder beetles
+  9 bog bodies
+  2 small abominations
+  23 two-headed ogres
+  35 slime creatures
+  27 deep elf magi
+  11 spriggans
+  A centaur simulacrum (D:15)
+  Sigmund (D:6)
+  29 deep elf fighters
+  8 redbacks
+  A tarantella (shapeshifter) (Vaults:3)
+  A tarantella (Vaults:4)
+  2 wyverns
+  3 shadows
+  A hog (shapeshifter) (Vaults:2)
+  2 trapdoor spiders
+  3 steam dragons
+  5 basilisks
+  33 yaks
+  A chaos spawn (D:13)
+  8 hungry ghosts
+  2 wargs
+  5 wraiths
+  2 humans
+  16 hippogriffs
+  33 wolves
+  4 hogs
+  13 insubstantial wisps
+  16 water moccasins
+  A naga (shapeshifter) (Vaults:2)
+  26 swamp worms
+  13 porcupines
+  31 vampire mosquitoes
+  18 nagas
+  A mottled dragon (D:11)
+  2 phantoms
+  4 swamp drakes
+  21 ice beasts
+  3 sky beasts
+  A black bear (shapeshifter) (Vaults:2)
+  2 boggarts (Elf:1)
+  4 black bears
+  27 orc warriors
+  A slave (D:9)
+  A tengu (shapeshifter) (Vaults:4)
+  6 wasps
+  An elf skeleton (Vaults:4)
+  A necrophage (D:8)
+  49 ogres
+  22 centaurs
+  22 giant frogs
+  12 crocodiles
+  A human zombie (Vaults:4)
+  A wyvern zombie (D:13)
+  16 big kobolds
+  A scorpion (D:9)
+  An elf zombie (Vaults:4)
+  2 wyvern skeletons
+  3 water moccasin skeletons
+  5 killer bees (D:10)
+  An electric eel (Lair:4)
+  A lava snake (D:14)
+  2 human simulacra
+  A giant frog zombie (D:12)
+  2 centaur zombies
+  12 crimson imps
+  A gnoll shaman (D:4)
+  A jelly (D:11)
+  3 quasits (D:13)
+  25 orc priests
+  Crazy Yiuf (D:2)
+  5 hounds
+  5 giant frog skeletons
+  33 orc wizards
+  7 iguanas
+  5 sheep (Lair:5)
+  10 worker ants
+  A killer bee zombie (D:5)
+  12 gnolls
+  20 adders
+  3 shadow imps
+  3 white imps
+  A worker ant simulacrum (D:9)
+  21 river rats
+  2 ufetubi (D:13)
+  5 oozes
+  An adder zombie (D:7)
+  An adder skeleton (D:5)
+  9 worms
+  9 giant geckos
+  205 orcs
+  4 ball pythons
+  5 giant cockroaches
+  12 goblins
+  8 hobgoblins
+  42 kobolds
+  5 quokkas
+  8 bats
+  A giant gecko skeleton (D:8)
+  A giant gecko zombie (D:7)
+  12 giant newts
+  6 jackals
+  A quokka skeleton (D:5)
+  2 quokka zombies
+  14 rats
+  6 fungi
+  2 plants (Lair:5)
+1627 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  Vashnia (Snake:2)
+  An ancient champion (Vaults:2)
+  A thorn hunter (Swamp:4)
+  Roxanne (Swamp:2)
+  A frost giant (Vaults:4)
+  A deep elf sorcerer (Vaults:3)
+  6 vault wardens
+  An ironheart preserver (Vaults:4)
+  2 stone giants
+  A war gargoyle (D:14)
+  A deep elf annihilator (Vaults:2)
+  A vault guard (Vaults:3)
+  Harold (Lair:1)
+  A rakshasa (Vaults:1)
+  A naga warrior (Snake:2)
+  An anaconda (Snake:3)
+  3 hydras
+  An alligator (Swamp:2)
+  2 death yaks (Lair:8)
+  2 ogre magi
+  2 centaur warriors
+  4 naga sharpshooters
+  An unseen horror (D:11)
+  2 naga ritualists
+  Pikel (D:9)
+  4 swamp dragons (Swamp:4)
+  An ugly thing (D:11)
+  2 harpies (Vaults:2)
+  A hill giant (D:10)
+  2 deep elf conjurers (Vaults:3)
+  2 orc knights
+  4 ironbrand convokers
+  A hornet (Vaults:2)
+  A griffon (Vaults:3)
+  3 slime creatures
+  An orc sorcerer (Vaults:1)
+  A cyclops (D:12)
+  An octopode (shapeshifter) (Vaults:1)
+  An elephant (Lair:4)
+  2 naga magi
+  4 black mambas
+  2 vault sentinels
+  A gargoyle (D:14)
+  A centaur skeleton (D:14)
+  10 yaktaurs
+  2 komodo dragons
+  4 two-headed ogres
+  A deep elf priest (Elf:2)
+  A wyvern (D:12)
+  A polar bear (D:9)
+  Prince Ribbit (D:6)
+  A bog body (Swamp:4)
+  6 blink frogs
+  A redback (Lair:8)
+  7 yaks
+  A deep elf mage (Elf:2)
+  A spriggan (Lair:8)
+  2 deep elf fighters
+  An insubstantial wisp (Swamp:3)
+  3 nagas
+  Edmund (D:6)
+  3 wolves (Lair:8)
+  3 vampire mosquitoes
+  2 swamp drakes (Swamp:4)
+  2 orc warriors
+  A phantom (D:4)
+  A black bear (Lair:8)
+  4 ogres
+  2 big kobolds (D:11)
+  3 giant frogs
+  2 orc priests (Orc:4)
+  4 orc wizards
+  A worker ant (D:6)
+  2 river rats (Lair:3)
+  An ufetubus (D:9)
+  17 orcs
+  A kobold (D:11)
+  4 fungi
+  A plant (Lair:2)
+173 creatures vanquished.
+
+Vanquished Creatures (others)
+  A shadow dragon (Vaults:4)
+  A frost giant (Vaults:4)
+  A yaktaur captain (Vaults:1)
+  A deep elf summoner (Elf:3)
+  An ironbrand convoker (Vaults:1)
+  A necromancer (Vaults:3)
+  A salamander (Snake:3)
+  A vault sentinel (Vaults:2)
+  5 yaktaurs (Vaults:1)
+  A raiju (shapeshifter) (Elf:3)
+  A two-headed ogre (Vaults:1)
+  A spriggan (Swamp:4)
+  2 deep elf fighters (Elf:2)
+  A large abomination (D:13)
+  3 yaks (D:12)
+  A deep elf mage (Elf:3)
+  2 wargs
+  A vampire mosquito (Vaults:3)
+  A porcupine (Lair:1)
+  A black bear (D:6)
+  An orc warrior (Vaults:4)
+  A deep troll skeleton (Vaults:4)
+  2 slaves
+  A wasp (Swamp:4)
+  A big kobold (Snake:1)
+  A white imp (D:13)
+  An ufetubus (D:9)
+  2 briar patches (Swamp:4)
+  2 fungi
+  A plant (Lair:8)
+  2 starspawn tentacles (Elf:3)
+43 creatures vanquished.
+
+Grand Total: 1843 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | Abyss:1  | Sanguine the Demonspawn Abyssal Knight began the quest for the Orb.
+     0 | Abyss:1  | Reached XP level 1. HP: 18/18 MP: 2/2
+     3 | Abyss:1  | Found a corrupted altar of Lugonu.
+    19 | D:1      | Escaped the Abyss
+   206 | D:1      | Gained mutation: Your flesh is cold resistant. [demonic ancestry]
+   206 | D:1      | Reached XP level 2. HP: 16/24 MP: 3/3
+   557 | D:1      | Reached ** piety under Lugonu
+  1136 | D:3      | Gained mutation: You have large cloven feet. [demonic ancestry]
+  1136 | D:3      | Reached XP level 3. HP: 24/29 MP: 4/4
+  1142 | D:3      | HP: 1/29 [orc/club (6)]
+  1402 | D:2      | Found a radiant altar of Vehumet.
+  1439 | D:2      | Gained mutation: You are immune to freezing clouds. [demonic ancestry]
+  1439 | D:2      | Reached XP level 4. HP: 20/37 MP: 5/5
+  2044 | D:2      | Reached skill level 4 in Fighting
+  2063 | D:2      | Found a basalt altar of Yredelemnul.
+  2113 | D:2      | Reached *** piety under Lugonu
+  2250 | D:2      | Noticed Crazy Yiuf
+  2254 | D:2      | Killed Crazy Yiuf
+  2254 | D:2      | Reached XP level 5. HP: 37/42 MP: 6/6
+  3300 | D:3      | Reached **** piety under Lugonu
+  3354 | D:3      | Gained mutation: A weak demonic guardian rushes to your aid. [demonic ancestry]
+  3354 | D:3      | Reached XP level 6. HP: 14/48 MP: 7/7
+  3581 | D:3      | Gained mutation: Your system is resistant to poisons. [potion of mutation]
+  3581 | D:3      | Gained mutation: Your flesh is very cold resistant. [potion of mutation]
+  3581 | D:3      | Gained mutation: You occasionally shout uncontrollably at your foes. [potion of mutation]
+  3847 | D:3      | Noticed an ice beast
+  3863 | D:3      | Killed an ice beast
+  3933 | D:3      | Reached skill level 5 in Maces & Flails
+  4081 | D:3      | Found a deep blue altar of Sif Muna.
+  4173 | D:3      | Gained mutation: A demonic guardian rushes to your aid. [demonic ancestry]
+  4173 | D:3      | Reached XP level 7. HP: 42/54 MP: 8/8
+  4366 | D:4      | Found a glowing silver altar of Zin.
+  4370 | D:4      | Found a shattered altar of Ashenzari.
+  4416 | D:4      | Found a glowing golden altar of the Shining One.
+  4422 | D:4      | Reached skill level 6 in Maces & Flails
+  4511 | D:4      | Found a staircase to the Ecumenical Temple.
+  4884 | D:4      | Found a glowing drain.
+  4895 | Sewer    | Entered a sewer
+  5241 | Sewer    | Reached ***** piety under Lugonu
+  5650 | Sewer    | Reached XP level 8. HP: 56/61 MP: 9/9
+  5849 | D:5      | Entered Level 5 of the Dungeon
+  6163 | D:5      | Found a white marble altar of Elyvilon.
+  6407 | D:5      | Reached skill level 5 in Invocations
+  6711 | D:6      | HP: 3/61 [black bear (3)]
+  6712 | D:6      | HP: 1/61 [black bear (1)]
+  6713 | D:6      | Reached skill level 5 in Fighting
+  6713 | D:6      | Reached skill level 5 in Armour
+  7108 | D:6      | Noticed Prince Ribbit
+  7112 | D:6      | Killed Prince Ribbit
+  7301 | D:6      | Noticed Edmund
+  7309 | D:6      | Killed Edmund
+  7309 | D:6      | Gained mutation: You have a somewhat thin skeletal structure (Dex +2, Stealth). [demonic ancestry]
+  7309 | D:6      | Reached XP level 9. HP: 64/69 MP: 14/14
+  7402 | D:6      | Noticed Sigmund
+  7410 | D:6      | Killed Sigmund
+  8081 | D:3      | Identified Sif Muna's Reference Book on Creation
+  8463 | D:7      | Reached skill level 7 in Fighting
+  8537 | D:7      | Gained mutation: Your flesh is heat resistant. [mutagenic meat]
+  8538 | D:7      | Gained mutation: You are somewhat resistant to further mutation. [mutagenic meat]
+  8541 | D:7      | Gained mutation: Your muscles are strong. (Str +2) [mutagenic meat]
+  8542 | D:7      | Gained mutation: Your muscles are very strong. (Str +4) [mutagenic meat]
+  9003 | D:8      | Reached skill level 8 in Fighting
+  9007 | D:8      | Found a staircase to the Lair.
+  9284 | D:9      | Noticed Pikel
+  9291 | D:9      | Killed Pikel
+  9291 | D:9      | Gained mutation: You have hoof-like feet. [demonic ancestry]
+  9291 | D:9      | Reached XP level 10. HP: 57/82 MP: 15/15
+  9708 | D:9      | Noticed Erica
+  9714 | D:9      | Killed Erica
+  9714 | D:9      | Reached skill level 9 in Fighting
+  9785 | D:9      | Found a sacrificial altar of Ru.
+ 10326 | D:10     | Entered Level 10 of the Dungeon
+ 10388 | D:9      | Reached ****** piety under Lugonu
+ 10552 | D:10     | Noticed a hill giant
+ 10557 | D:10     | Killed a hill giant
+ 10698 | D:10     | Noticed a hill giant
+ 10706 | D:10     | Killed a hill giant
+ 10748 | D:10     | Noticed a centaur warrior
+ 10752 | D:10     | Killed a centaur warrior
+ 10781 | D:10     | Reached XP level 11. HP: 75/89 MP: 16/16
+ 10928 | D:10     | Found Plog's Food Emporium.
+ 11787 | D:11     | Reached skill level 10 in Maces & Flails
+ 12034 | Lair:1   | Entered Level 1 of the Lair of Beasts
+ 12068 | Lair:1   | Noticed Gastronok
+ 12099 | Lair:1   | Killed Gastronok
+ 12127 | Lair:1   | Noticed a six-headed hydra
+ 12135 | Lair:1   | Killed a six-headed hydra
+ 12135 | Lair:1   | Reached skill level 11 in Maces & Flails
+ 12333 | Lair:1   | Noticed Harold
+ 12358 | Lair:1   | Killed Harold
+ 12913 | Lair:1   | Reached skill level 12 in Maces & Flails
+ 14127 | Lair:2   | Reached skill level 10 in Fighting
+ 14167 | Lair:2   | Noticed a five-headed hydra
+ 14178 | Lair:2   | Killed a five-headed hydra
+ 14178 | Lair:2   | Reached XP level 12. HP: 54/97 MP: 17/17
+ 14179 | Lair:2   | Noticed a five-headed hydra
+ 14185 | Lair:2   | Killed a five-headed hydra
+ 14311 | Lair:2   | Noticed Fannar
+ 14357 | Lair:2   | Killed Fannar
+ 15026 | Lair:3   | Found a labyrinth entrance.
+ 15039 | Lab      | Entered a labyrinth
+ 15063 | Lab      | Reached skill level 10 in Armour
+ 15435 | Lab      | Noticed a minotaur
+ 15439 | Lab      | Killed a minotaur
+ 15446 | Lab      | Got a faintly glowing cloak
+ 15457 | Lab      | Identified the cursed +0 cloak of the Burgomaster {Regen+ Slay+3} (You found it in a labyrinth)
+ 15462 | Lab      | Identified a +1 pair of boots of running (You found it in a labyrinth)
+ 15496 | Lair:2   | Identified a scroll of acquirement
+ 15592 | Lair:3   | Found a staircase to the Snake Pit.
+ 16930 | D:11     | Killed an unseen horror
+ 17019 | D:11     | Gained mutation: You are covered in fur (AC +1). [mutagenic meat]
+ 17023 | D:11     | Gained mutation: Your flesh is very heat resistant. [mutagenic meat]
+ 17067 | D:11     | Found a staircase to the Orcish Mines.
+ 17547 | D:11     | Noticed a hill giant
+ 17554 | D:11     | Killed a hill giant
+ 17695 | D:12     | Gained mutation: A powerful demonic guardian rushes to your aid. [demonic ancestry]
+ 17695 | D:12     | Reached XP level 13. HP: 79/108 MP: 18/18
+ 17734 | D:12     | Reached skill level 1 in Shields
+ 17830 | D:12     | Noticed a seven-headed hydra
+ 17838 | D:12     | Killed a seven-headed hydra
+ 18104 | D:12     | Noticed a six-headed hydra
+ 18121 | D:12     | Killed a six-headed hydra
+ 18504 | Orc:1    | Entered Level 1 of the Orcish Mines
+ 19446 | Orc:3    | Found a staircase to the Elven Halls.
+ 19687 | Orc:3    | Found a roughly hewn altar of Beogh.
+ 20498 | Orc:1    | Found a roughly hewn altar of Beogh.
+ 20708 | Orc:4    | Entered Level 4 of the Orcish Mines
+ 20721 | Elf:1    | Entered Level 1 of the Elven Halls
+ 20777 | Orc:4    | Noticed Sanguine's ghost (journeyman DsAK)
+ 20794 | Orc:4    | Killed Sanguine's ghost
+ 21493 | Orc:4    | Reached skill level 13 in Fighting
+ 21585 | Orc:4    | Found Yguisek's Antique Armour Emporium.
+ 21585 | Orc:4    | Found Unyamiruomm's Distillery.
+ 21586 | Orc:4    | Found Hahal's General Store.
+ 21586 | Orc:4    | Found Toubb's Book Shoppe.
+ 22328 | Lair:4   | Found a staircase to the Swamp.
+ 22712 | Lair:4   | Reached XP level 14. HP: 102/118 MP: 20/20
+ 23308 | Swamp:1  | Entered Level 1 of the Swamp
+ 23308 | Swamp:1  | Noticed Kirke
+ 23541 | Lair:5   | Reached skill level 5 in Shields
+ 23779 | Lair:5   | Hired Plog the big kobold for 88 gold.
+ 23894 | Lair:4   | Reached skill level 1 in Evocations
+ 24646 | Lair:6   | Found a staircase to the Slime Pits.
+ 25121 | Lair:6   | Reached skill level 5 in Evocations
+ 25172 | Lair:6   | Noticed Nessos
+ 25189 | Lair:6   | Killed Nessos
+ 25526 | Snake:1  | Entered Level 1 of the Snake Pit
+ 25716 | Snake:1  | Your ally Plog died
+ 25998 | Snake:1  | Got a ring of the Octopus King
+ 26000 | Snake:1  | Identified a ring of the Octopus King {rN+ AC+1 EV+1 Str+1 Int+1 Dex+1} (You found it on level 1 of the Snake Pit)
+ 26258 | Snake:1  | Reached skill level 14 in Fighting
+ 27389 | Lair:7   | Gained mutation: You have hooves in place of feet. [demonic ancestry]
+ 27389 | Lair:7   | Reached XP level 15. HP: 127/127 MP: 21/21
+ 27852 | Lair:8   | Entered Level 8 of the Lair of Beasts
+ 28535 | Lair:8   | Reached skill level 15 in Fighting
+ 28630 | Lair:8   | Noticed Josephine
+ 28649 | Lair:8   | Killed Josephine
+ 29782 | D:13     | Gained mutation: You are somewhat resistant to both further mutation and mutation removal. [mutagenic meat]
+ 30420 | D:13     | Noticed Maurice
+ 30442 | D:13     | Killed Maurice
+ 31505 | D:14     | Found a gate to the Vaults.
+ 31512 | D:14     | Reached skill level 15 in Armour
+ 31881 | D:14     | Reached skill level 16 in Fighting
+ 31901 | D:15     | Entered Level 15 of the Dungeon
+ 31905 | D:15     | Noticed Sonja
+ 31932 | D:15     | Killed Sonja
+ 31932 | D:15     | Gained mutation: You have a moderately thin skeletal structure (Dex +4, Stealth+). [demonic ancestry]
+ 31932 | D:15     | Reached XP level 16. HP: 108/138 MP: 22/22
+ 32052 | D:15     | Found a frozen archway.
+ 32058 | IceCv    | Entered an ice cave
+ 32628 | D:15     | Noticed Urug
+ 32644 | D:15     | Killed Urug
+ 32852 | D:15     | Found a staircase to the Depths.
+ 33301 | Depths:1 | Entered Level 1 of the Depths
+ 34060 | Snake:2  | Noticed Vashnia
+ 34134 | Snake:2  | HP: 7/140 [Vashnia/bolt (28)]
+ 34413 | Snake:2  | Killed Vashnia
+ 34465 | Snake:2  | Reached skill level 17 in Fighting
+ 35400 | Swamp:1  | Killed Kirke
+ 36223 | Swamp:2  | Noticed Roxanne
+ 36245 | Swamp:2  | Killed Roxanne
+ 37071 | Swamp:3  | Reached XP level 17. HP: 148/148 MP: 23/23
+ 37554 | Swamp:4  | Entered Level 4 of the Swamp
+ 38448 | Swamp:4  | Got a decaying rune of Zot
+ 39177 | Vaults:1 | Entered Level 1 of the Vaults
+ 39333 | Vaults:1 | Corrupted Vaults:1
+ 39429 | Vaults:1 | Noticed a lich
+ 40133 | Vaults:1 | Reached skill level 10 in Evocations
+ 40404 | Vaults:1 | Reached skill level 18 in Fighting
+ 40873 | Vaults:1 | Escaped the Abyss
+ 41266 | Vaults:1 | Noticed Norris
+ 41296 | Vaults:1 | Killed Norris
+ 41982 | Vaults:1 | Gained mutation: You resist negative energy. [demonic ancestry]
+ 41982 | Vaults:1 | Reached XP level 18. HP: 148/158 MP: 25/25
+ 42507 | Vaults:2 | Found Ustrar's Armour Emporium.
+ 42873 | Elf:1    | Found a radiant altar of Vehumet.
+ 42935 | Elf:1    | Noticed Aizul
+ 42955 | Elf:1    | Killed Aizul
+ 43048 | Elf:1    | Reached skill level 19 in Fighting
+ 43074 | Elf:1    | Noticed Donald
+ 43137 | Elf:1    | Killed Donald
+ 43610 | Elf:1    | Noticed a deep elf sorcerer
+ 43624 | Elf:1    | Killed a deep elf sorcerer
+ 43776 | Elf:2    | Found Temu's Gadget Shop.
+ 43841 | Elf:2    | Found a radiant altar of Vehumet.
+ 43844 | Elf:2    | Found Bizaw's Distillery.
+ 44152 | Elf:2    | Found Dedaef's Assorted Antiques.
+ 44156 | Elf:2    | Found Byuheemp's Distillery.
+ 44339 | Elf:2    | Found a runed gate.
+ 44339 | Elf:2    | Found a runed gate.
+ 44340 | Elf:2    | Found a runed gate.
+ 44443 | Elf:2    | Reached skill level 1 in Dodging
+ 45242 | Elf:2    | Reached skill level 5 in Dodging
+ 45749 | Elf:3    | Entered Level 3 of the Elven Halls
+ 45783 | Elf:3    | Corrupted Elf:3
+ 45783 | Elf:3    | Noticed a lich
+ 45783 | Elf:3    | Noticed a bone dragon
+ 46399 | Vaults:2 | Reached XP level 19. HP: 167/167 MP: 26/26
+ 46759 | Vaults:2 | Found a staircase to the Crypt.
+ 46813 | Vaults:2 | Noticed Wiglaf
+ 46842 | Vaults:2 | Killed Wiglaf
+ 47256 | Vaults:2 | Gained mutation: You are robust (+10% HP). [mutagenic meat]
+ 47263 | Vaults:2 | Gained mutation: You have an unnaturally thin skeletal structure (Dex +6, Stealth++). [mutagenic meat]
+ 47861 | Vaults:3 | Reached skill level 20 in Fighting
+ 50163 | Abyss:1  | Found a corrupted altar of Lugonu.
+ 50294 | Vaults:4 | Escaped the Abyss
+ 50563 | Vaults:4 | Gained mutation: A meltable icy envelope protects you from harm (AC +0). [demonic ancestry]
+ 50563 | Vaults:4 | Reached XP level 20. HP: 181/195 MP: 27/27
+ 51900 | Snake:3  | Corrupted Snake:3
+ 51904 | Snake:3  | HP: 9/195 [death drake][Lugonu's corruption] (8)]
+ 51905 | Snake:3  | Slain by an anaconda
+
+Vault maps used:
+D:1:      roderic_chinese_lattice_arrival, minmay_lizard_king
+D:2:      lemuel_doored_altar, vehumet_crystals, bh_chokoban,
+          uniq_crazy_yiuf_cottage
+D:3:      first_bread, serial_bayou_ford_a, led_sif_book
+D:4:      grunt_temple_overflow_open, nicolae_tso_swordbearing_angel,
+          temple_statues, gup_sewer_entry_bowl
+D:5:      overflow_temple_1_default
+D:6:      roderic_cross_of_infinity, uniq_edmund, uniq_sigmund,
+          uniq_prince_ribbit1
+D:7:      the_bakery, amalloy_card_club
+D:8:      dpeg_oklobed_lair
+D:9:      nicolae_ru_great_annihilating_truth, serial_ice, serial_ice_c,
+          serial_ice_m, serial_ice_o, serial_ice_d, uniq_erica, uniq_pikel
+D:10:     serial_shops, nicolae_shop_trees
+D:11:     erik_orc_4, special_room
+D:12:     hangedman_abyss_or_decor_stagger, lemuel_nasty_fountain
+D:13:     serial_corexii_hall, corexii_hall_statues_u, corexii_hall_statues_i,
+          hangedman_devilish_allure, uniq_maurice
+D:14:     gargoyle_guard, hangedman_vaults_entry_quadrant_bands,
+          serial_park_tiny_2, nicolae_lava_and_water, kennysheep_generic_room_3
+D:15:     hangedman_depths_entry_civil_slaughter, minmay_misc_feat_enclosed,
+          portal_ice_cave_entry_horrid_things, dispersion_dpeg, uniq_urug,
+          uniq_sonja
+Lair:1:   forest_paths, uniq_gastronok, uniq_harold
+Lair:2:   uniq_fannar
+Lair:3:   minmay_snake_entry_guardpost_small, lab_entry_generic,
+          grunt_megastairs_2
+Lair:4:   swamp_mist_pool, nicolae_quartered_pool_super, beast_lair_carwin_3,
+          serial_bayou_shore_b
+Lair:5:   minmay_lair_oklob_chamber, minivault_24, lemuel_fruit_tree
+Lair:6:   slime_dummy, uniq_nessos
+Lair:8:   minmay_lair_end_enchanted_forest, patterned_corridor,
+          infiniplex_staircase_pool_2, uniq_josephine
+Swamp:1:  evilmike_swamp_ruin_house_5, uniq_kirke
+Swamp:2:  evilmike_swamp_ruin_house_6, uniq_roxanne
+Swamp:3:  evilmike_swamp_ruin_house_3, swamp_pool3
+Swamp:4:  swamp_basic_johnstein, infiniplex_staircase_pool
+Snake:1:  grunt_ministairs_11
+Snake:2:  grunt_ministairs_14, uniq_vashnia
+Snake:3:  serial_bayou, serial_bayou_crossing, serial_bayou_shore_b,
+          serial_bayou_lagoon_a, serial_bayou_shore_a
+Orc:1:    mines2_david
+Orc:3:    nicolae_orc_accident_2, nicolae_orc_pool_cavern
+Orc:4:    st_orc_ogre_mass
+Elf:1:    eino_elf_arrival_altar, hangedman_elf_disciples, uniq_donald,
+          uniq_aizul
+Elf:2:    basic_altar, serial_shops, shop, shop, nicolae_shop_stone,
+          nicolae_shop_crystal
+Elf:3:    grunt_elf_hall_diamonds, lemuel_statue_altar, uniq_louise
+Vaults:1: vaults_dpeg_spiral, ontoclasm_vaults_shout, hangedman_vaults_hat,
+          vaults_room_grunt_arrival_ludios, ontoclasm_vaults_ring_square,
+          uniq_norris
+Vaults:2: nicolae_vaults_stairing_the_circle, v_misc_11,
+          nicolae_vaults_what_the_h, ontoclasm_vaults_fault,
+          hangedman_vaults_river_flow, v_rooms_4, hangedman_vaults_locks,
+          vaults_dpeg_diagonal, minmay_crypt_entry_simple_statues,
+          nicolae_vaults_murderbox, hangedman_vaults_stretched_pinwheel,
+          serial_shops, shop, uniq_wiglaf
+Vaults:3: grunt_vaults_diagonal, v_rooms_1, nicolae_vaults_ninety_degrees,
+          nicolae_vaults_little_squares_6, v_misc_8, v_alt_pattern_4, v_misc_2,
+          v_pattern_3
+Vaults:4: nicolae_vaults_sealed_display, hangedman_vaults_nails,
+          nicolae_vaults_puzzle_piece, vaults_room_pool,
+          nicolae_vaults_good_morning_starshine, dpeg_vaults_monster_row,
+          dpeg_vaults_monster_box, hangedman_vaults_corner_blocks,
+          hangedman_vaults_restitches, ontoclasm_vaults_ring_large,
+          nicolae_vaults_hallways_thing, nicolae_vaults_theta,
+          ontoclasm_vaults_gateway
+Depths:1: hell_entry, minmay_misc_feat_five, nicolae_for_you_no_charge,
+          grunt_megastairs_3
+Lab:      nicolae_lab_x, nicolae_lab_quarters, labyrinth_skeletal_remains,
+          nicolae_lab_hexagon, labyrinth_fake_exit
+Sewer:    sewer_co_tree
+IceCv:    ice_cave_small_dragons
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 | 19-21 || total
+-------------------------+-------+-------+-------+-------+-------+-------+-------++-------
+Melee: Mace              |    34 |       |       |       |       |       |       ||    34
+       Whip              |    68 |   272 |   573 |  1045 |  2606 |  2832 |  1324 ||  8720
+Invok: Bend Space        |     1 |       |       |       |     1 |     8 |     1 ||    11
+       Banish            |       |       |     1 |       |       |     2 |     1 ||     4
+       Corrupt           |       |       |       |       |       |     2 |     1 ||     3
+       Enter the Abyss   |       |       |       |       |       |     1 |     1 ||     2
+       Depart the Abyss  |       |       |       |       |       |     1 |       ||     1
+ Abil: Evoke Flight      |       |       |     2 |       |       |       |       ||     2
+       Evoke Invisibilit |       |       |       |       |     1 |     2 |       ||     3
+Evoke: Wand              |       |     2 |       |       |     7 |    14 |       ||    23
+       Deck              |       |       |       |       |     1 |       |       ||     1
+  Use: Scroll            |     4 |     4 |     4 |     8 |    10 |     7 |     3 ||    40
+       Potion            |     1 |     3 |     3 |    12 |       |     4 |     7 ||    30
+ Stab: Invisible         |       |       |       |     3 |       |     4 |       ||     7
+       Paralysed         |       |       |       |     1 |       |       |       ||     1
+       Distracted        |       |       |       |     2 |     2 |     9 |     4 ||    17
+       Confused          |       |       |       |       |     2 |     4 |       ||     6
+  Eat: Chunk             |     1 |     9 |    25 |    32 |    81 |    36 |    18 ||   202
+       Fruit             |       |       |       |    13 |     1 |     9 |    10 ||    33
+       Pizza             |       |       |       |       |     4 |     2 |     1 ||     7
+       Royal jelly       |       |       |       |       |     2 |     1 |       ||     3
+       Bread ration      |       |       |       |       |       |     1 |       ||     1
+       Meat ration       |       |       |       |       |       |       |     1 ||     1
+

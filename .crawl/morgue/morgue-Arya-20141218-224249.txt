@@ -1,0 +1,259 @@
+ Dungeon Crawl Stone Soup version 0.15.2 (console) character file.
+
+739 Arya the Covert (level 7, 0/32 HPs)
+             Began as a Spriggan Enchanter on Dec 18, 2014.
+             Killed by divine providence
+             ... invoked by an orc priest
+              (11 damage)
+             ... on Level 5 of the Dungeon.
+             The game lasted 00:14:45 (4058 turns).
+
+Arya the Covert (Spriggan Enchanter)                Turns: 4058, Time: 00:14:45
+
+HP   0/32        AC  6     Str  4      XL: 7   Next: 46%
+MP  22/22        EV 20     Int 18      God: 
+Gold 238         SH  0     Dex 17      Spells:  2 memorised, 13 levels left
+
+rFire  . . .     SeeInvis +     w - +0 dagger (speed)
+rCold  + . .     Clarity  .     b - +1 robe
+rNeg   . . .     rCorr    .     (shield restricted)
+rPois  .         rRot     .     (helmet restricted)
+rElec  .         Spirit   .     x - +0 cloak
+SustAb .         Warding  .     (gloves unavailable)
+rMut   .         Stasis   .     (boots unavailable)
+Gourm  .                        (no amulet)
+MR     +....                    m - +2 ring of protection
+                                g - ring of protection from cold
+
+@: very quick, somewhat resistant to hostile enchantments, quite stealthy
+A: unfitting armour, repulsion field 1, see invisible, breathe flames 1,
+herbivore 3, speed 3, slow metabolism 2
+a: Breathe Fire
+
+
+You were on level 5 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 5 of its levels.
+
+You collected 238 gold pieces.
+
+Inventory:
+
+Hand weapons
+ a - a +1 dagger
+ w - a +0 dagger of speed (weapon)
+Armour
+ b - a +1 robe (worn)
+ x - a +0 cloak (worn)
+Magical devices
+ u - a wand of teleportation (5)
+Comestibles
+ f - 2 fruits
+ p - 2 bread rations
+ B - a slice of pizza
+Scrolls
+ e - 4 scrolls of teleportation {unknown}
+ i - 3 scrolls of remove curse {unknown}
+ n - 2 scrolls of identify {unknown}
+ o - 2 scrolls of recharging
+ q - a scroll of random uselessness {unknown}
+ r - a scroll of enchant weapon {unknown}
+ y - a scroll of noise {unknown}
+Jewellery
+ g - a ring of protection from cold (left hand)
+ m - a +2 ring of protection (right hand)
+ s - an uncursed ring of protection from cold
+ A - a cursed -4 ring of protection
+ C - a +6 ring of protection
+Potions
+ d - a potion of porridge
+ h - a potion of agility {unknown}
+ j - 3 potions of heal wounds {unknown}
+ k - a potion of haste {unknown}
+ l - a potion of brilliance {unknown}
+ v - a potion of invisibility {unknown}
+ z - a potion of curing {unknown}
+ D - 2 potions of flight {unknown}
+Books
+ c - a book of Maledictions   
+   
+   Spells                             Type                      Level
+   *Corona                            Hexes                        1
+   Sure Blade                         Hexes/Charms                 2
+   *Ensorcelled Hibernation           Hexes/Ice                    2
+   Confuse                            Hexes                        3
+   Dazzling Spray                     Conjuration/Hexes            3
+   Enslavement                        Hexes                        4
+ t - a book of Minor Magic   
+   
+   Spells                             Type                      Level
+   Magic Dart                         Conjuration                  1
+   Blink                              Translocation                2
+   Call Imp                           Summoning                    2
+   Repel Missiles                     Charms/Air                   2
+   Slow                               Hexes                        2
+   Conjure Flame                      Conjuration/Fire             3
+   Mephitic Cloud                     Conjuration/Poison/Air       3
+
+
+   Skills:
+ * Level 5.5 Short Blades
+ - Level 3.0 Dodging
+ * Level 9.2 Stealth
+ - Level 5.0 Spellcasting
+ + Level 4.1 Hexes
+
+
+You had 13 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Ensorcelled Hibernat  Hex/Ice        ##....       12%         2    #......
+b - Corona                Hex            ###....      2%          1    None
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (5/15)             Temple (0/1) D:5         
+
+Altars:
+Cheibriados
+Kikubaaqudgha
+Zin
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are tiny and cannot use many weapons and most armour.
+You have supernaturally acute eyesight.
+You are a herbivore.
+You cover ground extremely quickly.
+You need consume almost no food.
+You are surrounded by a mild repulsion field (EV +2).
+You can breathe flames.
+
+
+Message History
+
+There is a staircase to the Ecumenical Temple here.
+You open the door.
+An orc priest comes into view. It is wielding a dagger.
+3 orcs and an orc priest come into view.
+Found a scroll labeled NIROUSHEDDO and a sharpened lead wand.
+There is an open door here.
+The orc priest shouts! x2
+The orc priest calls down the wrath of Beogh upon you.
+Something smites you!
+Found a stone staircase leading up.
+Found a metal-bound book.
+The orc priest mumbles some strange prayers to Beogh.
+You feel a wave of unholy energy pass over you.
+There is an open door here.
+The orc priest's eyes start to glow.
+The orc priest mumbles some strange prayers to Beogh against you.
+Something smites you!
+The orc priest mumbles some strange prayers to Beogh against you.
+Something smites you!
+You die...
+
+.[......###########          ##....######.#
+........#            ##########....#....#.#
+#########            #.............#..###.#
+                     #....................#
+                     #...).........########
+                     +...........>.#
+                     #...........>.#
+                     #..........%..#
+                     #######....#..#
+                           ####.#..#
+                              #.#.#######
+                              #.........#
+                              #########@#
+                              ../..####.#
+                             .........#.#
+                             .?.......#o#
+                             .........'.#
+                            ..........###
+                             #........#
+                             #........#
+                             #.....o..#
+                             #........#
+                             #....oo...
+                              :.......##
+                               .......<
+
+
+You could see an orc priest.
+
+Vanquished Creatures
+  Edmund (D:5)
+  2 ogres
+  2 hounds (D:4)
+  Crazy Yiuf (D:2)
+  3 iguanas (D:4)
+  4 worker ants (D:4)
+  6 adders
+  A giant mite (D:2)
+  9 worms
+  3 giant geckos
+  An ooze (D:4)
+  6 orcs
+  6 ball pythons
+  8 bats
+  7 giant cockroaches
+  6 goblins
+  9 hobgoblins
+  2 jackals (D:2)
+  8 kobolds
+  11 rats
+96 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | D:1      | Arya, the Spriggan Enchanter, began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 9/9 MP: 4/4
+   284 | D:1      | Reached XP level 2. HP: 10/13 MP: 6/8
+   873 | D:2      | Learned a level 2 spell: Ensorcelled Hibernation
+   976 | D:2      | Reached skill level 5 in Stealth
+  1022 | D:2      | Reached XP level 3. HP: 13/16 MP: 4/11
+  1047 | D:2      | Noticed Crazy Yiuf
+  1093 | D:2      | Killed Crazy Yiuf
+  1192 | D:2      | Reached XP level 4. HP: 21/21 MP: 6/14
+  1290 | D:2      | Reached skill level 6 in Stealth
+  2216 | D:3      | Reached XP level 5. HP: 21/24 MP: 10/18
+  2746 | D:4      | Gained mutation: You can breathe flames. [potion of mutation]
+  2746 | D:4      | Gained mutation: You are surrounded by a mild repulsion field (EV +2). [potion of mutation]
+  2865 | D:4      | Reached skill level 7 in Stealth
+  2889 | D:4      | Noticed an ogre
+  2898 | D:4      | Killed an ogre
+  2898 | D:4      | Reached XP level 6. HP: 28/28 MP: 8/20
+  3152 | D:4      | Found an ancient bone altar of Kikubaaqudgha.
+  3163 | D:4      | Reached skill level 8 in Stealth
+  3504 | D:4      | Found a snail-covered altar of Cheibriados.
+  3504 | D:4      | Found a glowing silver altar of Zin.
+  3559 | D:4      | Reached skill level 5 in Spellcasting
+  3623 | D:4      | Reached XP level 7. HP: 32/32 MP: 22/22
+  3654 | D:5      | Entered Level 5 of the Dungeon
+  3733 | D:5      | Noticed Edmund
+  3743 | D:5      | Killed Edmund
+  3743 | D:5      | Reached skill level 5 in Short Blades
+  3860 | D:5      | Reached skill level 9 in Stealth
+  3962 | D:5      | Found a staircase to the Ecumenical Temple.
+  4058 | D:5      | Killed from afar by an orc priest
+
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Dagger            |    53 |   117 |    10 ||   180
+ Cast: Ensorcelled Hiber |    11 |    52 |     9 ||    72
+ Abil: Breathe Fire      |       |     1 |       ||     1
+Evoke: Wand              |       |     2 |       ||     2
+  Use: Potion            |       |     1 |       ||     1
+       Scroll            |       |     1 |       ||     1
+ Stab: Sleeping          |    12 |    54 |     8 ||    74
+       Distracted        |     1 |       |       ||     1
+  Eat: Royal jelly       |       |     1 |       ||     1
+

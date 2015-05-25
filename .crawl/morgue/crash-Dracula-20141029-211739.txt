@@ -1,0 +1,251 @@
+ERROR in 'libutil.cc' at line 668: screen write out of bounds: (-1,-1) into (80,22)
+
+Version: Dungeon Crawl Stone Soup 0.15.1
+Platform: unix
+Bits: 64
+Game mode: normal
+Tiles: no
+
+Command line: crawl
+
+RC options:
+restart_after_game = false
+
+
+Crash caused by signal #6: Aborted
+
+Obtained 23 stack frames.
+crawl() [0x5245e3]
+crawl() [0x52c90e]
+crawl() [0x524879]
+/lib64/libc.so.6(+0x38830) [0x7f2b1aec8830]: 
+/lib64/libpthread.so.0(raise+0x2b) [0x7f2b1b2480fb]: 
+crawl() [0x52c039]
+crawl() [0x52c445]
+crawl() [0x6f0cca]
+crawl() [0x9f201e]
+crawl() [0x9b07f6]
+crawl() [0x864429]
+/lib64/libc.so.6(+0x38830) [0x7f2b1aec8830]: 
+/lib64/libpthread.so.0(read+0x2b) [0x7f2b1b2473db]: 
+/lib64/libncursesw.so.5(_nc_wgetch+0x5e5) [0x7f2b1bc94145]: 
+/lib64/libncursesw.so.5(wget_wch+0x42) [0x7f2b1bca8ba2]: 
+crawl() [0x9f128d]
+crawl() [0x9f12cd]
+crawl() [0x6fc547]
+crawl() [0x6fd30c]
+crawl() [0x70ce8b]
+crawl() [0x41eab5]
+/lib64/libc.so.6(__libc_start_main+0xf5) [0x7f2b1aeb4db5]: 
+crawl() [0x4880cd]
+
+Trying to run gdb.
+GNU gdb (Gentoo 7.8 vanilla) 7.8
+Copyright (C) 2014 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.  Type "show copying"
+and "show warranty" for details.
+This GDB was configured as "x86_64-pc-linux-gnu".
+Type "show configuration" for configuration details.
+For bug reporting instructions, please see:
+<http://bugs.gentoo.org/>.
+Find the GDB manual and other documentation resources online at:
+<http://www.gnu.org/software/gdb/documentation/>.
+For help, type "help".
+Type "apropos word" to search for commands related to "word".
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library "/lib64/libthread_db.so.1".
+0x00007f2b1b247e17 in waitpid () from /lib64/libpthread.so.0
+#0  0x00007f2b1b247e17 in waitpid () from /lib64/libpthread.so.0
+No symbol table info available.
+#1  0x0000000000524ccb in call_gdb(_IO_FILE*) ()
+No symbol table info available.
+#2  0x000000000052c923 in do_crash_dump() ()
+No symbol table info available.
+#3  0x0000000000524879 in crash_signal_handler(int) ()
+No symbol table info available.
+#4  <signal handler called>
+No symbol table info available.
+#5  0x00007f2b1b2480fb in raise () from /lib64/libpthread.so.0
+No symbol table info available.
+#6  0x000000000052c039 in _BreakStrToDebugger(char const*, bool) [clone .isra.3] ()
+No symbol table info available.
+#7  0x000000000052c445 in die(char const*, int, char const*, ...) ()
+No symbol table info available.
+#8  0x00000000006f0cca in cgotoxy(int, int, GotoRegion) ()
+No symbol table info available.
+#9  0x00000000009f201e in puttext(int, int, crawl_view_buffer const&) ()
+No symbol table info available.
+#10 0x00000000009b07f6 in viewwindow(bool, bool) ()
+No symbol table info available.
+#11 0x0000000000864429 in redraw_screen() ()
+No symbol table info available.
+#12 <signal handler called>
+No symbol table info available.
+#13 0x00007f2b1b2473db in read () from /lib64/libpthread.so.0
+No symbol table info available.
+#14 0x00007f2b1bc94145 in _nc_wgetch () from /lib64/libncursesw.so.5
+No symbol table info available.
+#15 0x00007f2b1bca8ba2 in wget_wch () from /lib64/libncursesw.so.5
+No symbol table info available.
+#16 0x00000000009f128d in getchk() ()
+No symbol table info available.
+#17 0x00000000009f12cd in m_getch() ()
+No symbol table info available.
+#18 0x00000000006fc547 in _getch_mul(int (*)()) ()
+No symbol table info available.
+#19 0x00000000006fd30c in getch_with_command_macros() ()
+No symbol table info available.
+#20 0x000000000070ce8b in _input() ()
+No symbol table info available.
+#21 0x000000000041eab5 in main ()
+No symbol table info available.
+
+Compilation info:
+<<<<<<<<<<<
+Compiled with GCC 4.8.3 on Oct 14 2014 at 00:06:14
+Build platform: x86_64-pc-linux-gnu
+Platform: x86_64-pc-linux-gnu
+CFLAGS: -march=native -O2 -pipe -Wall -Wformat-security -Wmissing-declarations -Wredundant-decls -Wundef -Wno-array-bounds -Wno-format-zero-length -Wno-parentheses -Wno-unused-parameter -Wwrite-strings -Wshadow -Wuninitialized -Iutil -I. -Irltiles -isystem /usr/include/ncursesw -isystem contrib/install/x86_64-pc-linux-gnu/include -DWIZARD -DASSERTS -DCLUA_BINDINGS -DSAVE_DIR_PATH="~/.crawl" -DDATA_DIR_PATH="/usr/share/games/stone-soup/"
+LDFLAGS: -Wl,-O1 -Wl,--as-needed
+>>>>>>>>>>>
+
+Place info:
+branch = 0, depth = 1
+
+Level id: D:1
+Level build method = random_map_for_place, level layout type  = corridors, absdepth0 = 0
+Level vaults:
+    lightli_arrival_statue_moat
+    layout_loops_corners
+
+Markers:
+<<<<<<<<<<<<<<<<<<<<<<
+Marker 0 at (10, 7): feature (stone_stairs_up_i)
+>>>>>>>>>>>>>>>>>>>>>>
+
+Messages:
+<<<<<<<<<<<<<<<<<<<<<<
+Welcome, Dracula the Vampire Assassin.
+The bosom of this dungeon contains the most powerful artefact, the Orb of Zot.
+Press ? for a list of commands and other information.
+Found a staircase leading out of the dungeon.
+Drink which item? (? for menu, Esc to quit)
+Okay, then.
+Clearing level map.
+(m)acro, (M)acro raw, keymap [(k) default, (x) level-map, (t)argeting, (c)onfirm, m(e)nu], (s)ave? 
+Aborting.
+Welcome back, Dracula the Vampire Assassin.
+Press ? for a list of commands and other information.
+Enter note: 
+Welcome back, Dracula the Vampire Assassin.
+Press ? for a list of commands and other information.
+
+>>>>>>>>>>>>>>>>>>>>>>
+
+Game state:
+
+mouse_enabled: 0, waiting_for_command: 1, terminal_resized: 0
+io_inited: 1, need_save: 1, saving_game: 0, updating_scores: 0:
+seen_hups: 0, map_stat_gen: 0, type: 1, arena_suspended: 0
+Last resize was 0 seconds ago.
+
+prev_cmd = CMD_NO_CMD
+repeat_cmd = CMD_NO_CMD
+
+Player:
+{{{{{{{{{{{
+Name:       [Dracula]
+Species:    Vampire
+Job:        Assassin
+
+class_name: Assassin
+
+HP: 16/16; mods: 0/0
+MP: 1/1; mod: 0
+Stats: 10 (10) 13 (13) 15 (15)
+Position: (10, 7), god: No God (0), turn_is_over: 0, banished: 0
+Standing on/in/over feature: staircase leading out of the dungeon
+
+Skills (mode: auto)
+Name            | can_train | train | training | level | points | progress
+Fighting        |     X     |   1   |     9    |    1  |    151 | 92/119
+Short Blades    |     X     |   1   |     9    |    2  |    151 | 25/126
+Long Blades     |           |   1   |     0    |    0  |      0 | 0/50
+Axes            |           |   1   |     0    |    0  |      0 | 0/59
+Maces & Flails  |           |   1   |     0    |    0  |      0 | 0/70
+Polearms        |           |   1   |     0    |    0  |      0 | 0/59
+Staves          |           |   1   |     0    |    0  |      0 | 0/70
+Slings          |           |   1   |     0    |    0  |      0 | 0/70
+Bows            |           |   1   |     0    |    0  |      0 | 0/70
+Crossbows       |           |   1   |     0    |    0  |      0 | 0/70
+Throwing        |     X     |   1   |     9    |    1  |    151 | 81/142
+Armour          |     X     |   1   |     0    |    0  |      0 | 0/70
+Dodging         |     X     |   1   |     2    |    1  |     51 | 9/84
+Stealth         |     X     |   1   |    71    |    5  |    421 | 106/126
+Stabbing        |           |   1   |     0    |    0  |      0 | 0/1410790144
+Shields         |           |   1   |     0    |    0  |      0 | 0/59
+Traps           |           |   1   |     0    |    0  |      0 | 0/1410790144
+Unarmed Combat  |     X     |   1   |     0    |    0  |      0 | 0/42
+Spellcasting    |     X     |   1   |     0    |    0  |      0 | 0/59
+Conjurations    |           |   1   |     0    |    0  |      0 | 0/84
+Hexes           |           |   1   |     0    |    0  |      0 | 0/25
+Charms          |           |   1   |     0    |    0  |      0 | 0/42
+Summonings      |           |   1   |     0    |    0  |      0 | 0/50
+Necromancy      |           |   1   |     0    |    0  |      0 | 0/42
+Translocations  |           |   1   |     0    |    0  |      0 | 0/70
+Transmutations  |           |   1   |     0    |    0  |      0 | 0/42
+Fire Magic      |           |   1   |     0    |    0  |      0 | 0/70
+Ice Magic       |           |   1   |     0    |    0  |      0 | 0/50
+Air Magic       |           |   1   |     0    |    0  |      0 | 0/50
+Earth Magic     |           |   1   |     0    |    0  |      0 | 0/50
+Poison Magic    |           |   1   |     0    |    0  |      0 | 0/59
+Invocations     |           |   1   |     0    |    0  |      0 | 0/59
+Evocations      |           |   1   |     0    |    0  |      0 | 0/50
+
+Spell bugs:
+
+Durations:
+
+Attributes:
+    #49: 43
+
+Mutations:
+    fangs: 3 (innate)
+    see invisible: 1 (innate)
+    unbreathing: 1 (innate)
+
+Inventory bugs:
+
+Equipment:
+    eq slot #0, inv slot #0: +2 dagger
+    eq slot #1, inv slot #3: +0 cloak
+    eq slot #6, inv slot #2: +0 robe
+
+}}}}}}}}}}}
+
+
+Screenshot:
+  #####
+  #.@.#
+ #.....#
+#.#8≈8#.#
+# #≈≈≈# #
+  #8≈8#
+  #≈≈≈#
+  #8≈8#
+
+clua stack:
+
+
+dlua stack:
+
+
+Lua persistent data:
+<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>
+
+Lua marker contents:
+<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>

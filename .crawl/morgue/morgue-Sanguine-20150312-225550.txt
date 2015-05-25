@@ -1,0 +1,236 @@
+ Dungeon Crawl Stone Soup version 0.16-a0-4088-g7c8221e (console) character file.
+
+213 Sanguine the Covered (level 5, -1/63 HPs)
+             Began as a Demonspawn Abyssal Knight on Mar 9, 2015.
+             Was a Priest of Lugonu.
+             Slain by a slave (2 damage)
+             ... led by Pikel
+             ... on level 4 of the Dungeon on Mar 12, 2015.
+             The game lasted 00:11:58 (3449 turns).
+
+Sanguine the Covered (Demonspawn Abyssal Knight)    Turns: 3449, Time: 00:11:58
+
+Health: -1/63      AC: 22    Str: 13    XL:     5   Next: 59%
+Magic:  5/5        EV:  2    Int: 14    God:    Lugonu [***...]
+Gold:   140        SH:  0    Dex: 10    Spells: 0 memorised, 4 levels left
+
+rFire  . . .     SeeInvis .     a - +1 falchion
+rCold  . . .     Rnd*Rage +     e - melded +0 ring mail
+rNeg   + + +     SustAb   .     (no shield)
+rPois  +         Gourm    .     (helmet currently unavailable)
+rElec  .         Spirit   .     (cloak currently unavailable)
+rCorr  .         Warding  .     (gloves currently unavailable)
+rMut   .         NoTele   +     (boots currently unavailable)
+MR     .....                    (no amulet)
+Stlth  +.........               (no ring)
+                                (no ring)
+
+@: lethally poisoned (-1 -> -3), tree-form, not resistant to hostile
+enchantments, very unstealthy
+A: (horns 0), (molten scales 0), berserk 1, clumsy 1, low mp 1
+a: Depart the Abyss, Bend Space, Banish, Renounce Religion
+
+
+You were on level 4 of the Dungeon.
+You worshipped Lugonu.
+Lugonu was most pleased with you.
+You were hungry.
+
+You were a tree.
+
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+You visited the Abyss 1 time.
+
+You collected 140 gold pieces.
+
+Inventory:
+
+Hand weapons
+ a - a +1 falchion (weapon)
+Armour
+ e - a +0 ring mail (melded)
+Jewellery
+ l - an uncursed amulet of resist corrosion {unknown}
+Magical devices
+ f - a wand of digging (2)
+ t - a wand of invisibility (3)
+ u - a wand of random effects (24)
+Scrolls
+ b - a scroll of recharging {unknown}
+ h - a scroll of amnesia
+ i - a scroll of enchant armour {unknown}
+ j - 2 scrolls of magic mapping
+ k - a scroll of immolation {unknown}
+ o - 4 scrolls of identify
+ p - a scroll of remove curse {unknown}
+ v - 2 scrolls of teleportation
+Potions
+ d - a potion of lignification
+Books
+ n - a Necronomicon {highlevel, unknown}   
+   This book is beyond your current level of understanding.
+   
+    Spells                             Type                      Level
+    a - Haunt                        Necromancy/Summoning          7
+    b - Borgnjor's Revivification    Necromancy                    8
+    c - Death's Door                 Charms/Necromancy             8
+    d - Necromutation                Transmutation/Necromancy      8
+Comestibles
+ c - 2 bread rations
+ m - a beef jerky
+ r - 2 meat rations
+
+
+   Skills:
+ + Level 3.8 Fighting
+ - Level 3.4 Long Blades
+ * Level 3.9 Armour
+ - Level 0.8 Dodging
+ - Level 2.4 Invocations
+
+
+You had 4 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)            
+Temple: D:4-7       
+
+Altars:
+Nemelex Xobeh
+
+Annotations:
+D:4 Pikel
+
+
+Innate Abilities, Weirdness & Mutations
+
+((You have a pair of small horns on your head.))
+((You are mostly covered in molten scales (AC +3, EV -1).))
+You tend to lose your temper in combat.
+You are clumsy. (Dex -2)
+Your magical capacity is low (-10% MP).
+
+
+Message History
+
+Pikel hits you but does no damage.
+You closely miss Pikel.
+Pikel is lightly wounded.
+You feel sick. The goblin hits you but does no damage. The slave hits you but does no damage.
+The slave hits you but does no damage. Pikel hits you but does no damage.
+You slash Pikel!
+Pikel is moderately wounded.
+The goblin hits you but does no damage. The slave completely misses you. The slave hits you.
+* * * LOW HITPOINT WARNING * * *
+Pikel hits you but does no damage.
+You hit Pikel but do no damage.
+Pikel is moderately wounded.
+You feel sick. The slave hits you but does no damage. The goblin hits you but does no damage.
+The slave hits you.
+* * * LOW HITPOINT WARNING * * *
+Pikel hits you but does no damage. The slave hits you but does no damage. The slave hits you but does no damage.
+You closely miss Pikel.
+Pikel is moderately wounded.
+The goblin hits you but does no damage. Pikel hits you but does no damage. The slave hits you.
+You die...
+
+##*...##......##..##...##...##  *..*   *#......##............
+  *..##..###..#...####.....##   **,*** #...#.................
+  #..#*,##.##.#...#  ##....#    **,,,**#...**,,**##..........
+  #...,,#...#.....##  ##.)##    *,,,,,...#.***,,**#....#.####
+  **.,####.####....##  #..#    *#..,,....*,* **,,*#..###.#
+   *,##..#'#..##....#####.##   #...#*$..#*,*  **,,#...*#.#
+   #,#._.'.')..#........#..#   #...##,..,***   **#.....*.*
+   #.##.##.##.##..#>.......#####.....,,,,,,**** *#......,**
+   #..###.#.###...##.................,,**,,,,,***..#.....,***
+   *#.....#.......##.............#**,,,,****,,,,..######*,,,,
+    ####.###.......##.....pK#....##**,,,*  ***,,,**     **#[.
+       #......##...##....g♣###p...# *,,,**   **,,*        *#.
+    ***#.......#....##...p## ##...# **,,,*    **,*         #.
+    *,,##..^...#....##....#   #...#  *,,,*    **,**       *#.
+    *#...................##   ##.$#  **..******,,,***     *,.
+     ##..................###   #..##*#...,,,,*,,,,,,***  **,,
+      #........#...........### ##..#.<....,,,,,,,,,,,,****,,*
+      ##.....###.............####.....#****,,,,,,,,,,,,,,,,,*
+       ##.............####....p#..?.###   **,,,,,,,,,,,,,,,,,
+        #..............* ####.g.)...#      *,,,,,,,,,,,,,,,,,
+        #...###........#    ###..#..#*    **,,,,,,,,>,,,*****
+       *#..#* **##.....#      #..#...#*  **,,,,,,,****,,*
+       *,,**     *,....**     #..##...# **,,,,,,,**  *,,**
+
+
+You could see Pikel, 2 slaves and a goblin.
+
+Vanquished Creatures
+  2 slaves (D:4)
+  An iguana (D:4)
+  Natasha (thrice) (D:4)
+  A worker ant (D:4)
+  4 adders (D:3)
+  A worm (D:4)
+  A giant gecko (D:4)
+  2 oozes
+  4 orcs
+  6 giant cockroaches
+  5 goblins
+  8 hobgoblins
+  16 jackals
+  7 kobolds
+  2 quokkas
+  6 bats
+  3 giant newts (D:2)
+  8 rats
+80 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | Abyss:1  | Sanguine, the Demonspawn Abyssal Knight, began the quest for the Orb.
+     0 | Abyss:1  | Reached XP level 1. HP: 18/18 MP: 1/1
+     5 | Abyss:1  | Found a corrupted altar of Lugonu.
+    41 | Abyss:1  | Noticed a small abomination
+    53 | D:1      | Escaped the Abyss
+   446 | D:1      | Acquired Lugonu's first power
+   463 | D:1      | Gained mutation: You have a pair of small horns on your head. [demonic ancestry]
+   463 | D:1      | Reached XP level 2. HP: 22/24 MP: 2/2
+  1124 | D:2      | Found a sparkling altar of Nemelex Xobeh.
+  1149 | D:2      | Acquired Lugonu's second power
+  1233 | D:2      | Gained mutation: You are partially covered in molten scales (AC +1). [demonic ancestry]
+  1233 | D:2      | Reached XP level 3. HP: 29/29 MP: 4/4
+  1865 | D:3      | Gained mutation: You are mostly covered in molten scales (AC +3, EV -1). [demonic ancestry]
+  1865 | D:3      | Reached XP level 4. HP: 31/35 MP: 5/5
+  2285 | D:3      | Acquired Lugonu's third power
+  2583 | D:4      | Noticed Pikel
+  2584 | D:4      | Noticed a slave
+  2584 | D:4      | Noticed a slave
+  2584 | D:4      | Noticed a slave
+  2585 | D:4      | Noticed a slave
+  2671 | D:4      | Killed a slave
+  2688 | D:4      | Killed a slave
+  3020 | D:4      | Reached XP level 5. HP: 38/41 MP: 6/6
+  3062 | D:4      | Noticed Natasha
+  3067 | D:4      | Killed Natasha
+  3081 | D:4      | Noticed Natasha
+  3088 | D:4      | Killed Natasha
+  3224 | D:4      | Noticed Natasha
+  3253 | D:4      | Gained mutation: Your magical capacity is low (-10% MP). [potion of mutation]
+  3253 | D:4      | Gained mutation: You are clumsy. (Dex -2) [potion of mutation]
+  3253 | D:4      | Gained mutation: You tend to lose your temper in combat. [potion of mutation]
+  3255 | D:4      | Killed Natasha
+  3370 | D:4      | Found a sparkling altar of Nemelex Xobeh.
+  3448 | D:4      | HP: 1/63 [slave[Pikel] (3)]
+  3449 | D:4      | Slain by a slave
+
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Falchion          |   119 |   182 ||   301
+Invok: Depart the Abyss  |     1 |       ||     1
+       Bend Space        |       |     1 ||     1
+  Use: Potion            |       |    12 ||    12
+       Scroll            |       |     3 ||     3
+  Eat: Chunk             |     3 |     5 ||     8
+

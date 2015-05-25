@@ -1,0 +1,260 @@
+ Dungeon Crawl Stone Soup version 0.15.2 (console) character file.
+
+773 Asterion the Basher (level 7, -4/57 HPs)
+             Began as a Minotaur Berserker on Dec 18, 2014.
+             Was an Elder of Trog.
+             Killed by divine providence
+             ... invoked by an orc priest
+              (12 damage)
+             ... on Level 5 of the Dungeon.
+             The game lasted 00:16:24 (3717 turns).
+
+Asterion the Basher (Minotaur Berserker)            Turns: 3717, Time: 00:16:27
+
+HP  -4/57        AC 15     Str 21      XL: 7   Next: 53%
+MP   3/3         EV 10     Int  6      God: Trog [****..]
+Gold 162         SH  0     Dex 12      Spells:  0 memorised,  6 levels left
+
+rFire  . . .     SeeInvis +     h - +3 mace (protect)
+rCold  . . .     Clarity  .     G - +0 ring mail "Ferghiz" {Int+2 Slay+3}
+rNeg   . . .     rCorr    .     (no shield)
+rPois  .         rRot     .     (helmet restricted)
+rElec  .         Spirit   .     (no cloak)
+SustAb .         Warding  .     H - +0 pair of gloves
+rMut   .         Stasis   .     D - +2 pair of boots
+Gourm  .                        (no amulet)
+MR     .....                    s - ring of see invisible
+                                p - ring of flight
+
+@: exhausted, slowed, very slow, not resistant to hostile enchantments, very
+unstealthy
+A: retaliatory headbutt, horns 2
+a: Burn Spellbooks, Berserk, Trog's Hand, Brothers in Arms, Renounce Religion,
+Evoke Flight
+
+
+You were on level 5 of the Dungeon.
+You worshipped Trog.
+Trog was greatly pleased with you.
+You were very hungry.
+
+You visited 1 branch of the dungeon, and saw 5 of its levels.
+
+You collected 162 gold pieces.
+
+Inventory:
+
+Hand weapons
+ h - a +3 mace of protection (weapon)
+ L - a +1 whip of flaming
+Armour
+ w - a +0 scale mail
+ D - a +2 pair of boots (worn)
+ G - the +0 ring mail "Ferghiz" (worn) {Int+2 Slay+3}
+   (You found it on level 5 of the Dungeon)   
+   
+   It affects your intelligence (+2).
+   It affects your accuracy and damage with ranged weapons and melee attacks
+   (+3).
+ H - a +0 pair of gloves (worn)
+ M - a +1 ring mail of fire resistance
+Magical devices
+ J - a wand of random effects (5) {unknown}
+Comestibles
+ a - 6 fruits
+ c - 7 bread rations
+ g - 4 meat rations
+ v - a beef jerky
+ x - a royal jelly
+ C - a slice of pizza
+ I - a rotting chunk of giant gecko flesh
+ K - 2 rotting chunks of gnoll flesh
+Scrolls
+ d - 7 scrolls of remove curse
+ e - 2 scrolls of teleportation {unknown}
+ f - 4 scrolls of identify
+ i - 4 scrolls of magic mapping {unknown}
+ l - a scroll of blinking {unknown}
+ m - a scroll of fog {unknown}
+ n - a scroll of enchant weapon
+ o - 2 scrolls of recharging {unknown}
+ z - a scroll of random uselessness {unknown}
+ A - a scroll of immolation {unknown}
+Jewellery
+ b - an uncursed amulet of stasis
+ p - a ring of flight (left hand)
+ q - an uncursed ring of teleportation
+ s - a ring of see invisible (right hand)
+Potions
+ j - 2 potions of heal wounds {unknown}
+ k - a potion of magic {unknown}
+ r - a potion of brilliance {unknown}
+ t - a potion of haste {unknown}
+ u - a potion of berserk rage {unknown}
+ E - a potion of resistance {unknown}
+Books
+ B - a book of Hinderance   
+   
+   Spells                             Type                      Level
+   Confusing Touch                    Hexes                        2
+   Confuse                            Hexes                        3
+   Petrify                            Transmutation/Earth          4
+   Leda's Liquefaction                Hexes/Earth                  4
+   Metabolic Englaciation             Hexes/Ice                    5
+   Summon Mana Viper                  Hexes/Summoning              5
+   
+   
+   Trog disapproves of the use of such an item.
+
+
+   Skills:
+ - Level 3.6 Fighting
+ + Level 10.0 Maces & Flails
+ * Level 4.3 Armour
+ - Level 2.1 Dodging
+
+
+You had 6 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (5/15)             Temple (0/1) D:4         
+
+Altars:
+Ashenzari
+Trog
+Xom
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+
+
+Message History
+
+You completely miss the orc priest.
+The orc priest is heavily wounded.
+You are engulfed in roaring flames.
+The orc priest becomes somewhat translucent.
+Use which ability? (? or * to list) 
+A red film seems to cover your vision as you go berserk!
+You feel yourself moving faster! You feel mighty!
+You are feeling hungry.
+You are engulfed in roaring flames.
+* * * LOW HITPOINT WARNING * * *
+The orc priest hits you but does no damage.
+You feel a strong urge to attack something.
+You feel your anger subside.
+You are no longer berserk.
+You are exhausted.
+You feel yourself slow down.
+You are feeling very hungry.
+The orc priest invokes the aid of Beogh against you.
+Something smites you!
+You die...
+
+#####         #......#   #........#
+....#   #######...[..#   #........#######
+....#   #............#####...............(
+....#   #.#####...................#####.##.
+_...#   #.#   #......#####.................
+....#   #.#   ##>...##  ##.#######'#######..
+....#####.#    ##..##   #..#     #.#      .#
+##..##....#     ####    #..#     #.#####  o#
+ ##....####             #..#     +.'...#  .#
+ ##...##                #..#     #.###.#  o#
+ #..#.####             ##..#     #.# #.#  .#
+##.##....####          #...#   ###.###'###.#
+..<#####....##       ###.#.+  .........@§oo#
+.###   ####..#     ###...#.#   ###.###+###.#
+.#        ##.#######...###.#     #.#      .#
+.#         #.........### #.#     #.#      ..
+##         ###.#######   #.#      .       ..#
+          ##...###########.#              ..#
+       ####..#.............#              ..#
+       #....#####..........#######+       ..#
+       #.####    #.>...............       .
+########.############.##.)#######...
+...........................)........
+#####..#####.########.##.####.###...
+# ###.##   #..#######....#    .#
+
+
+You could see an orc priest and an orc.
+
+Vanquished Creatures
+  The ghost of Xor the Skirmisher, an average DsBe of Trog (D:3)
+  A centaur (D:5)
+  A scorpion (D:4)
+  A jelly (D:5)
+  A hound (D:5)
+  A giant frog skeleton (D:5)
+  A gnoll shaman (D:5)
+  3 orc wizards
+  2 worker ants (D:4)
+  A hound zombie (D:4)
+  9 adders
+  4 gnolls (D:5)
+  A giant mite (D:2)
+  4 worms
+  An ooze (D:1)
+  13 orcs
+  3 giant cockroaches
+  16 goblins
+  4 hobgoblins
+  5 jackals
+  5 kobolds
+  4 quokkas
+  A ball python (D:1)
+  6 bats
+  3 giant geckos
+  4 giant newts
+  11 rats
+  2 butterflies (D:5)
+109 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | D:1      | Asterion, the Minotaur Berserker, began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
+   175 | D:1      | Reached skill level 4 in Maces & Flails
+   224 | D:1      | Reached XP level 2. HP: 15/26 MP: 1/1
+   657 | D:2      | Reached skill level 5 in Maces & Flails
+   709 | D:2      | Reached XP level 3. HP: 28/31 MP: 2/2
+   824 | D:2      | Found a bloodstained altar of Trog.
+   895 | D:2      | Acquired Trog's second power
+   956 | D:2      | Reached XP level 4. HP: 39/39 MP: 2/2
+  1058 | D:2      | Reached skill level 6 in Maces & Flails
+  1758 | D:3      | Reached XP level 5. HP: 45/45 MP: 2/2
+  1763 | D:3      | Reached skill level 7 in Maces & Flails
+  1963 | D:3      | Noticed Xor's ghost (average DsBe)
+  1975 | D:3      | Killed Xor's ghost
+  1975 | D:3      | Reached skill level 8 in Maces & Flails
+  1975 | D:3      | Reached XP level 6. HP: 41/51 MP: 3/3
+  2693 | D:4      | Found a staircase to the Ecumenical Temple.
+  2716 | D:4      | Reached skill level 9 in Maces & Flails
+  3194 | D:5      | Entered Level 5 of the Dungeon
+  3267 | D:5      | Reached XP level 7. HP: 55/57 MP: 3/3
+  3284 | D:5      | Got a shimmering ring mail
+  3295 | D:5      | Identified the +0 ring mail "Ferghiz" {Int+2 Slay+3} (You found it on level 5 of the Dungeon)
+  3376 | D:5      | Found a shimmering altar of Xom.
+  3461 | D:5      | Acquired Trog's third power
+  3547 | D:5      | Reached skill level 10 in Maces & Flails
+  3587 | D:5      | Found a shattered altar of Ashenzari.
+  3717 | D:5      | Killed from afar by an orc priest
+
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Mace              |    58 |   129 |    44 ||   231
+Invok: Berserk           |       |     1 |     2 ||     3
+       Burn Spellbooks   |       |       |     1 ||     1
+  Use: Scroll            |       |     3 |       ||     3
+  Eat: Chunk             |       |     7 |     3 ||    10
+       Fruit             |       |     1 |       ||     1
+

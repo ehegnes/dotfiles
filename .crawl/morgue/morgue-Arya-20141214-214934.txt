@@ -1,0 +1,505 @@
+ Dungeon Crawl Stone Soup version 0.15.2 (console) character file.
+
+45633 Arya the Imperceptible (level 14, -8/69 HPs)
+             Began as a Spriggan Enchanter on Dec 14, 2014.
+             Was the Champion of Okawaru.
+             Killed from afar by an acid blob (11 damage)
+             ... with a splash of acid
+             ... on Level 1 of the Pits of Slime.
+             The game lasted 03:50:40 (27074 turns).
+
+Arya the Imperceptible (Spriggan Enchanter)        Turns: 27074, Time: 03:50:40
+
+HP  -8/69        AC -6     Str  4      XL: 14   Next:  1%
+MP   0/40        EV 32     Int 20      God: Okawaru [******]
+Gold 1223        SH  9     Dex 20      Spells:  3 memorised, 17 levels left
+
+rFire  . . .     SeeInvis +     k - +9 quick blade
+rCold  . . .     Clarity  .     b - +2 robe
+rNeg   . . .     rCorr    .     C - +1 buckler of Indomitability {Dex+2}
+rPois  +         rRot     .     y - +2 hat
+rElec  .         Spirit   +     T - +2 cloak {rPois}
+SustAb .         Warding  .     (gloves unavailable)
+rMut   .         Stasis   .     (boots unavailable)
+Gourm  .                        U - amulet of guardian spirit
+MR     ++...                    h - ring of magical power
+                                w - ring of stealth
+
+@: corroded equipment, very quick, very resistant to hostile enchantments,
+uncannily stealthy
+A: unfitting armour, see invisible, herbivore 3, speed 3, slow metabolism 2
+a: Heroism, Finesse, Renounce Religion
+
+
+You were on level 1 of the Pits of Slime.
+You worshipped Okawaru.
+Okawaru was exalted by your worship.
+You were not hungry.
+
+You visited 4 branches of the dungeon, and saw 21 of its levels.
+You also visited: Labyrinth, Sewer, Ossuary and Volcano.
+
+You collected 1223 gold pieces.
+
+Inventory:
+
+Hand weapons
+ f - a +2 short sword of speed
+ k - a +9 quick blade (weapon)
+ v - a +3 dagger of flaming
+Armour
+ b - a +2 robe (worn)
+ e - a +2 cloak of magic resistance
+ y - a +2 hat (worn)
+ C - the +1 buckler of Indomitability (worn) {Dex+2}
+   (You found it on level 6 of the Dungeon)   
+   
+   It affects your dexterity (+2).
+ T - a +2 cloak of poison resistance (worn)
+Magical devices
+ d - a wand of enslavement (6)
+ o - a wand of teleportation (8)
+ J - a wand of digging (0)
+ K - a wand of paralysis (9)
+ P - a wand of disintegration (9)
+Comestibles
+ l - 10 bread rations
+ u - 13 fruits
+ E - a royal jelly
+Scrolls
+ a - 2 scrolls of magic mapping
+ g - a scroll of enchant weapon
+ i - 5 scrolls of teleportation
+ j - 3 scrolls of recharging
+ n - 5 scrolls of remove curse
+ p - 4 scrolls of enchant armour
+ r - 9 scrolls of identify
+ s - 2 scrolls of fear
+ x - a scroll of fog
+ D - a scroll of blinking
+ F - 2 scrolls of silence
+Jewellery
+ h - a ring of magical power (right hand)
+ t - an uncursed ring of flight
+ w - a ring of stealth (left hand)
+ U - an amulet of guardian spirit (around neck)
+ X - an uncursed ring of regeneration
+Potions
+ q - a potion of brilliance
+ A - 5 potions of restore abilities
+ B - 5 potions of heal wounds
+ H - 7 potions of curing
+ I - 3 potions of invisibility
+ L - a potion of might
+ N - a potion of resistance
+ Q - a potion of porridge
+ V - a potion of cancellation
+Books
+ c - a book of Maledictions   
+   
+   Spells                             Type                      Level
+   Corona                             Hexes                        1
+   Sure Blade                         Hexes/Charms                 2
+   *Ensorcelled Hibernation           Hexes/Ice                    2
+   *Confuse                           Hexes                        3
+   *Dazzling Spray                    Conjuration/Hexes            3
+   Enslavement                        Hexes                        4
+ m - a book of Spatial Translocations   
+   
+   Spells                             Type                      Level
+   Apportation                        Translocation                1
+   Blink                              Translocation                2
+   Shroud of Golubria                 Charms/Translocation         2
+   Portal Projectile                  Translocation                3
+   Teleport Other                     Translocation                3
+   Passage of Golubria                Translocation                4
+ z - a book of Annihilations {highlevel, unknown}   
+   This book is beyond your current level of understanding.
+   
+   Spells                             Type                      Level
+   Poison Arrow                       Conjuration/Poison           6
+   Chain Lightning                    Conjuration/Air              8
+   Lehudib's Crystal Spear            Conjuration/Earth            8
+   Glaciate                           Conjuration/Ice              9
+   Fire Storm                         Conjuration/Fire             9
+ W - a book of Enchantments   
+   
+   Spells                             Type                      Level
+   Tukima's Dance                     Hexes                        3
+   Cause Fear                         Hexes                        4
+   Silence                            Hexes/Air                    5
+   Deflect Missiles                   Charms/Air                   6
+   Haste                              Charms                       6
+   Discord                            Hexes                        8
+Miscellaneous
+ G - a legendary deck of wonders
+ R - a disc of storms
+
+
+   Skills:
+ - Level 5.7 Fighting
+ - Level 10.1 Short Blades
+ - Level 15.0 Dodging
+ * Level 22.7 Stealth
+ - Level 5.4 Shields
+ - Level 6.0 Spellcasting
+ + Level 6.5 Hexes
+
+
+You had 17 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+c - Confuse               Hex            ####....     1%          3    ##.....
+d - Dazzling Spray        Conj/Hex       ###.....     10%         3    ##.....
+e - Ensorcelled Hibernat  Hex/Ice        ###...       4%          2    None
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (11/15)            Temple (0/1) D:7            Lair (8/8) D:10
+  Swamp (0/5) Lair:6       Spider (1/5) Lair:4        Slime (1/6) Lair:8
+   Orc: D:9-12      
+
+Altars:
+Ashenzari
+Fedhas
+Nemelex Xobeh
+Okawaru
+Vehumet
+Zin
+
+Shops:
+D:6 }   D:8 [   D:11 *
+
+Annotations:
+Lair:2 exclusion: 4 oklob plants
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are tiny and cannot use many weapons and most armour.
+You have supernaturally acute eyesight.
+You are a herbivore.
+You cover ground extremely quickly.
+You need consume almost no food.
+
+
+Message History
+
+Aim: a slime creature
+The slime creature easily resists.
+The acid blob spits acid at you.
+The splash of acid hits you! The acid corrodes your equipment! The acid burns! The slime creature hits you!
+The acid blob spits acid at you.
+The splash of acid hits you! The acid burns!
+There is a stone staircase leading down here.
+You found a teleport trap!
+The acid blob spits acid at you.
+The splash of acid hits you! The acid corrodes your equipment! The acid burns!
+* * * LOW HITPOINT WARNING * * *
+The acid blob spits acid at you.
+The splash of acid hits you!
+* * * LOW HITPOINT WARNING * * *
+The acid corrodes your equipment! The acid burns!
+* * * LOW HITPOINT WARNING * * *
+There is a staircase back to the Lair here.
+The acid blob spits acid at you.
+The splash of acid hits you!
+You die...
+
+       ##.#    .
+        ...####..
+        #..#.#....
+       ##...^......
+     ###.........##
+    ##............##
+    #.........#..#.#
+   ##..##..@.#.......
+   #...#.........#...
+   #.................
+ ..G#........^.......
+ #..##........#...#.#
+ #........JJJ.....##
+#....#...............
+ ...##.......J....#..
+ .  #................
+   #................#
+#..................#
+....................
+...................#
+
+
+You could see an acid blob and 3 slime creatures.
+
+Vanquished Creatures
+  Kirke (Spider:1)
+  A minotaur (Lab)
+  3 hydras
+  An ogre mage (D:11)
+  A fire crab (Lair:7)
+  A hill giant (D:10)
+  2 lindwurms (Lair:8)
+  Erolcha (D:8)
+  Pikel (D:8)
+  3 griffons
+  An ugly thing (D:11)
+  A cyclops (D:11)
+  4 elephants (Lair:4)
+  A queen ant (D:11)
+  A gargoyle (D:10)
+  9 spiny frogs
+  6 komodo dragons
+  A black mamba (Lair:4)
+  10 fire drakes
+  Grinder (D:5)
+  A two-headed ogre (D:5)
+  3 giant leeches (Lair:8)
+  7 slime creatures
+  A spriggan (D:11)
+  A boulder beetle (Lair:8)
+  6 blink frogs (Lair:8)
+  2 basilisks
+  A deep elf mage (D:11)
+  A hog (Spider:1)
+  A wyvern (Lair:5)
+  5 hippogriffs
+  46 yaks
+  2 fire bats (Volcano)
+  6 swamp worms (Lair:6)
+  5 hungry ghosts
+  10 wolves
+  20 soldier ants (D:11)
+  12 water moccasins
+  7 porcupines
+  An orc warrior (D:11)
+  A sky beast (D:6)
+  2 black bears
+  4 ogres
+  3 yellow wasps
+  An ice beast (D:9)
+  4 centaurs
+  17 crocodiles
+  A big kobold (Sewer)
+  4 brain worms (Lair:8)
+  13 giant frogs
+  2 gnoll sergeants
+  A water moccasin zombie (Ossuary)
+  A scorpion (D:11)
+  A troll skeleton (Lab)
+  4 wights (D:11)
+  5 killer bees (D:9)
+  A spriggan skeleton (Lab)
+  An electric eel (Lair:6)
+  A goliath beetle (D:7)
+  4 crimson imps
+  9 hounds
+  2 gnoll shamans
+  4 jellies
+  4 orc priests
+  A giant frog zombie (D:5)
+  3 orange rats (Lair:8)
+  2 centaur skeletons (Lab)
+  29 worker ants
+  4 orc wizards
+  9 iguanas
+  38 sheep
+  4 big kobold zombies
+  Ijyb (D:5)
+  2 mummies (Ossuary)
+  27 green rats
+  27 adders
+  21 gnolls
+  An orc skeleton (D:11)
+  5 giant mites
+  2 shadow imps (D:5)
+  20 worms
+  4 adder zombies (Ossuary)
+  6 giant geckos
+  30 orcs
+  8 bats
+  A bat skeleton (D:7)
+  4 giant cockroaches
+  2 gnoll zombies (Ossuary)
+  23 hobgoblins
+  10 jackals
+  13 quokkas
+  A giant mite zombie (D:5)
+  6 giant newts
+  10 goblins
+  A goblin skeleton (D:5)
+  7 hobgoblin zombies (Ossuary)
+  17 kobolds
+  5 kobold zombies (Ossuary)
+  10 orc zombies
+  A quokka skeleton (D:7)
+  23 rats
+  7 ballistomycetes (D:5)
+  A plant (Lair:8)
+664 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A soldier ant (D:11)
+  A worker ant (D:11)
+2 creatures vanquished.
+
+Vanquished Creatures (others)
+  4 humans (Spider:1)
+  An orange rat (Lair:8)
+  2 giant spores (D:5)
+  A rat (D:8)
+  A ballistomycete (D:5)
+  2 fungi
+  3 plants (Lair:8)
+14 creatures vanquished.
+
+Grand Total: 680 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | D:1      | Arya, the Spriggan Enchanter, began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 9/9 MP: 4/4
+   348 | D:1      | Reached skill level 5 in Stealth
+   348 | D:1      | Reached XP level 2. HP: 13/13 MP: 7/7
+   361 | D:1      | Learned a level 2 spell: Ensorcelled Hibernation
+  1126 | D:2      | Reached XP level 3. HP: 16/16 MP: 9/9
+  1362 | D:2      | Found a shattered altar of Ashenzari.
+  1398 | D:2      | Reached skill level 6 in Stealth
+  1528 | D:2      | Reached XP level 4. HP: 21/21 MP: 11/12
+  2410 | D:4      | Learned a level 3 spell: Dazzling Spray
+  2555 | D:4      | Reached skill level 7 in Stealth
+  2582 | D:4      | Reached XP level 5. HP: 18/24 MP: 14/14
+  2592 | D:4      | Noticed an ogre
+  2625 | D:5      | Entered Level 5 of the Dungeon
+  3446 | D:5      | Noticed Grinder
+  3807 | D:5      | Reached XP level 6. HP: 25/28 MP: 4/17
+  4011 | D:5      | Reached skill level 8 in Stealth
+  4199 | D:5      | Paralysed by Grinder for 7 turns
+  4216 | D:5      | Killed Grinder
+  4216 | D:5      | Reached skill level 5 in Short Blades
+  4216 | D:5      | Reached XP level 7. HP: 32/32 MP: 19/19
+  4262 | D:5      | Noticed Ijyb
+  4270 | D:5      | Killed Ijyb
+  4310 | D:5      | Reached skill level 9 in Stealth
+  4322 | D:5      | Noticed a yak
+  4324 | D:5      | Noticed a yak
+  4324 | D:5      | Noticed a yak
+  4331 | D:5      | Killed a yak
+  4331 | D:5      | Reached skill level 5 in Hexes
+  4334 | D:5      | Noticed a yak
+  4537 | D:4      | Killed an ogre
+  4565 | D:5      | Noticed a two-headed ogre
+  4573 | D:5      | Killed a two-headed ogre
+  4573 | D:5      | Reached skill level 10 in Stealth
+  4573 | D:5      | Reached XP level 8. HP: 24/36 MP: 20/20
+  4730 | D:5      | Reached skill level 5 in Dodging
+  4779 | D:5      | Killed a yak
+  4783 | D:5      | Killed a yak
+  4790 | D:5      | Killed a yak
+  5639 | D:6      | Found a glowing drain.
+  5662 | Sewer    | Entered a sewer
+  5831 | Sewer    | Found a white marble altar of Elyvilon.
+  5990 | D:6      | Reached skill level 11 in Stealth
+  6126 | D:6      | Found Saam's Gadget Shop.
+  6127 | D:6      | Found an iron altar of Okawaru.
+  6128 | D:6      | Found a blossoming altar of Fedhas.
+  6129 | D:6      | Found a radiant altar of Vehumet.
+  6131 | D:6      | Found a sparkling altar of Nemelex Xobeh.
+  6167 | D:6      | Became a worshipper of Warmaster Okawaru
+  6270 | D:6      | Reached XP level 9. HP: 23/39 MP: 22/22
+  6421 | D:6      | Found an iron altar of Okawaru.
+  6803 | D:6      | Got a polished buckler
+  6809 | D:6      | Identified the +1 buckler of Indomitability {Dex+2} (You found it on level 6 of the Dungeon)
+  7110 | D:7      | Found a staircase to the Ecumenical Temple.
+  7727 | D:8      | Noticed Pikel
+  7730 | D:8      | Killed Pikel
+  7730 | D:8      | Reached skill level 12 in Stealth
+  7730 | D:8      | Reached skill level 1 in Shields
+  7734 | D:8      | Acquired Okawaru's first power
+  7994 | D:8      | Found a sand-covered staircase.
+  7994 | D:8      | Noticed Erolcha
+  7996 | D:8      | Killed Erolcha
+  7996 | D:8      | Reached skill level 10 in Dodging
+  7996 | D:8      | Reached skill level 13 in Stealth
+  8004 | Ossuary  | Entered an ossuary
+  8269 | D:8      | Found Ynudubb's Armour Emporium.
+  8664 | D:9      | Reached XP level 10. HP: 44/44 MP: 23/23
+  9337 | D:9      | Reached skill level 14 in Stealth
+  9725 | D:10     | Entered Level 10 of the Dungeon
+ 10334 | D:10     | Noticed a hill giant
+ 10337 | D:10     | Killed a hill giant
+ 10337 | D:10     | Reached skill level 1 in Fighting
+ 10337 | D:10     | Reached skill level 15 in Stealth
+ 10448 | D:10     | Found a staircase to the Lair.
+ 10631 | D:10     | Reached XP level 11. HP: 49/49 MP: 14/24
+ 11268 | D:11     | Identified Sif Muna's Incunabulum of the Exiled Blessings
+ 11273 | D:11     | Learned a level 3 spell: Confuse
+ 11390 | D:11     | Noticed an ogre mage
+ 11393 | D:11     | Killed an ogre mage
+ 11615 | D:11     | Reached skill level 10 in Short Blades
+ 11839 | D:11     | Acquired Okawaru's second power
+ 12016 | D:11     | Reached skill level 16 in Stealth
+ 12372 | D:11     | Received a gift from Okawaru
+ 12511 | D:11     | Found Zuaruawn's Assorted Antiques.
+ 13507 | Lair:1   | Entered Level 1 of the Lair of Beasts
+ 15059 | Lair:2   | Found a labyrinth entrance.
+ 15064 | Lab      | Entered a labyrinth
+ 19001 | Lab      | Noticed a minotaur
+ 19006 | Lab      | Killed a minotaur
+ 19006 | Lab      | Reached skill level 17 in Stealth
+ 19006 | Lab      | Reached XP level 12. HP: 56/58 MP: 25/25
+ 19566 | Lair:3   | Reached skill level 15 in Dodging
+ 19648 | Lair:3   | Received a gift from Okawaru
+ 19902 | Lair:3   | Found a dark tunnel.
+ 19909 | Volcano  | Entered a volcano
+ 19929 | Volcano  | Reached skill level 5 in Fighting
+ 20672 | Lair:4   | Reached skill level 18 in Stealth
+ 21880 | Lair:5   | Reached skill level 19 in Stealth
+ 22465 | Lair:4   | Found a hole to the Spider Nest.
+ 22486 | Spider:1 | Entered Level 1 of the Spider Nest
+ 22486 | Spider:1 | Noticed Kirke
+ 22491 | Spider:1 | Killed Kirke
+ 22491 | Spider:1 | Received a gift from Okawaru
+ 22491 | Spider:1 | Reached skill level 5 in Shields
+ 22515 | Lair:4   | Reached XP level 13. HP: 20/65 MP: 18/26
+ 23042 | Lair:4   | Reached skill level 20 in Stealth
+ 23515 | Lair:6   | Received a gift from Okawaru
+ 23903 | Lair:6   | Found a staircase to the Swamp.
+ 24674 | Lair:7   | Reached skill level 21 in Stealth
+ 25741 | Lair:8   | Entered Level 8 of the Lair of Beasts
+ 25784 | Lair:8   | Received a gift from Okawaru
+ 25870 | Lair:8   | Found a staircase to the Slime Pits.
+ 25926 | Lair:8   | Reached skill level 5 in Spellcasting
+ 26066 | Lair:8   | Found a glowing silver altar of Zin.
+ 26212 | Lair:8   | Reached skill level 22 in Stealth
+ 26477 | Lair:8   | Received a gift from Okawaru
+ 27029 | Slime:1  | Entered Level 1 of the Pits of Slime
+ 27050 | Slime:1  | Reached XP level 14. HP: 69/69 MP: 31/31
+ 27056 | Slime:1  | Noticed an acid blob
+ 27070 | Slime:1  | HP: 2/69 [acid (5)]
+ 27074 | Slime:1  | Killed from afar by an acid blob
+
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 || total
+-------------------------+-------+-------+-------+-------+-------++-------
+Melee: Dagger            |    87 |   145 |   503 |   912 |   231 ||  1878
+       Quick blade       |       |       |       |       |    85 ||    85
+       Short sword       |       |       |       |       |    28 ||    28
+ Cast: Ensorcelled Hiber |    28 |    64 |    85 |   269 |   155 ||   601
+       Dazzling Spray    |       |     8 |    11 |    19 |       ||    38
+       Confuse           |       |       |       |    73 |    27 ||   100
+Evoke: Wand              |       |     1 |       |    10 |     6 ||    17
+  Use: Potion            |       |     3 |       |    10 |     7 ||    20
+       Scroll            |       |     3 |    11 |    10 |     2 ||    26
+ Stab: Sleeping          |    23 |    44 |    97 |   177 |   104 ||   445
+       Invisible         |       |     1 |       |     2 |     3 ||     6
+       Distracted        |       |       |     5 |     2 |     1 ||     8
+       Paralysed         |       |       |       |     1 |       ||     1
+       Confused          |       |       |       |    22 |    13 ||    35
+  Eat: Royal jelly       |       |     1 |       |     2 |     1 ||     4
+       Bread ration      |       |     1 |     2 |     3 |     1 ||     7
+       Pizza             |       |       |     1 |     2 |     2 ||     5
+       Fruit             |       |       |     1 |     3 |       ||     4
+

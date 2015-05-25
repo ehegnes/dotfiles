@@ -1,0 +1,268 @@
+ Dungeon Crawl Stone Soup version 0.14.1 (console) character file.
+
+1141 Dracula the Covert (level 7, -1/49 HPs)
+             Began as a Vampire Assassin on July 25, 2014.
+             Slain by an ice beast (7 damage)
+             ... on Level 5 of the Dungeon.
+             The game lasted 00:22:49 (7778 turns).
+
+Dracula the Covert (Vampire Assassin)               Turns: 7778, Time: 00:22:49
+
+HP  -1/49        AC  6     Str 10      XL: 7   Next: 85%
+MP   7/7         EV 12     Int 15      God: 
+Gold 213         SH  0     Dex 17      Spells:  1 memorised,  0 levels left
+
+rFire  . . .     SeeInvis +     a - +4,-4 dagger
+rCold  + . .     Clarity  .     o - +3 robe "Skacisup" {Int+2 Acc+4}
+rNeg   + + .     Conserve .     (no shield)
+rPois  +         rCorr    .     (no helmet)
+rElec  .         rRot     +     m - +0 cloak
+SustAb . .       Spirit   .     (no gloves)
+rMut   .         Warding  .     (no boots)
+Saprov . . .     Stasis   .     (no amulet)
+MR     .....                    (no ring)
+                                (no ring)
+
+@: regenerating slowly, not resistant to hostile enchantments, extremely
+stealthy
+A: bottle blood, fangs 3, see invisible, unbreathing
+a: Bat Form, Bottle Blood
+
+
+You were on level 5 of the Dungeon.
+You were very thirsty.
+
+You visited 1 branch of the dungeon, and saw 5 of its levels.
+
+You collected 213 gold pieces.
+
+Inventory:
+
+Hand weapons
+ a - a +4,-4 dagger (weapon)
+ b - a +0 blowgun
+Missiles
+ e - 31 poisoned needles
+ f - 2 curare-tipped needles
+Armour
+ d - a +0 cloak
+ m - a +0 cloak (worn)
+ n - a +0 robe
+ o - the +3 robe "Skacisup" (worn) {Int+2 Acc+4}
+   (You found it on level 4 of the Dungeon)   
+   
+   It affects your intelligence (+2).
+   It affects your accuracy with ranged weapons and melee attacks (+4).
+Magical devices
+ p - a wand of random effects (12)
+Scrolls
+ g - a scroll of identify
+ l - a scroll of amnesia
+ q - 2 scrolls of teleportation
+Potions
+ c - 2 potions of poison
+Books
+ r - a book of Wizardry   
+   
+   Spells                             Type                      Level
+   Summon Elemental                   Summoning                    4
+   Agony                              Necromancy                   5
+   Force Lance                        Conjuration                  5
+   Haste                              Charms                       6
+   *Invisibility                      Hexes                        6
+   Spellforged Servitor               Conjuration/Summoning        7
+
+
+   Skills:
+ - Level 1.7 Fighting
+ + Level 6.0 Short Blades
+ - Level 1.5 Throwing
+ - Level 1.1 Dodging
+ * Level 12.4 Stealth
+
+
+You couldn't memorise any spells.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Invisibility          Hex            #.......     100%        6    #######
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (5/15)             Temple (0/1) D:4         
+
+Altars:
+Elyvilon
+
+Shops:
+D:4 *
+
+Annotations:
+D:3 Sanguine's ghost, weakling DsAK
+
+
+Innate Abilities, Weirdness & Mutations
+
+You heal slowly.
+You can bottle blood from corpses.
+You have razor-sharp teeth.*
+You have supernaturally acute eyesight.
+You can survive without breathing.*
+
+
+Message History
+
+Your potion of heal wounds freezes and shatters!
+Your potion of curing freezes and shatters!
+You hit the ice beast.
+The ice beast is lightly wounded.
+The ice beast hits you. The ice beast freezes you! You resist.
+You barely miss the ice beast. Your bite misses the ice beast.
+The ice beast is lightly wounded.
+The ice beast hits you. The ice beast freezes you! You resist.
+You hit the ice beast but do no damage.
+The ice beast is lightly wounded.
+You hit the ice beast but do no damage.
+The ice beast is lightly wounded.
+The ice beast hits you. The ice beast freezes you. You resist.
+The ice beast hits you. The ice beast freezes you! You resist.
+* * * LOW HITPOINT WARNING * * *
+There is a stone staircase leading up here.
+The ice beast hits you.
+* * * LOW HITPOINT WARNING * * *
+The ice beast freezes you! You resist.
+You die...
+
+       #I.##    #.#...####...##   #.#....#  #.#
+      ##...######.##.##  ##.##    #.##.#.#  #.#
+ ######...........##.######.#######.##.#.#  #.#
+ z...........#######.............##.##.#.#  #.#
+ ######.....## #####..####..####.##.##.#.#  #.#########
+      #....##  #....[........# #  #....#.## #.........#
+      #.#..#####.###..####.#.# #.##.###...###.#######.#
+      #..........# #..####....#  ..#.............## #.#
+      ###..#.....###........#.### #.###....##.#...###.#
+        #.............###...#...###.............#......
+       ##.............###.#####.....#.#....####...#####
+       #.......).#........<.#...#####.###.##  #####
+       #.......@...>........#.###   #.# #.#
+       #..#...I.##....#..#....#     #.# #.#
+       #..##............###..##     #.# #.#
+       #..###.(####.#.#).#..##      #.# #.#
+       #%.##........#.##...##       #.# #.#
+       #..##.###.####.###.##        #.# #.#
+       #..##.# #...##.# #.#         #.#  .
+       ##.##.###.#.##.# #.#
+#########.##.....#.##.# #.#
+#.........########.##.# #.#
+#.#######.#      #.##.# #..
+#.#     #.########.##.# #.#
+#.#     #.##..........# #.#
+
+
+You could see an ice beast.
+
+Vanquished Creatures
+  Pikel (D:4)
+  A giant frog (D:5)
+  A hound (D:4)
+  2 jellies
+  An orc priest (D:4)
+  A giant frog skeleton (D:5)
+  Natasha (thrice) (D:5)
+  An iguana (D:5)
+  2 gnolls (D:5)
+  7 adders
+  A worm (D:4)
+  An adder skeleton (D:5)
+  A giant eyeball (D:5)
+  An ooze (D:5)
+  8 orcs
+  11 bats
+  4 giant cockroaches
+  11 hobgoblins
+  A jackal (D:4)
+  5 kobolds
+  2 quokkas
+  A giant cockroach zombie (D:5)
+  6 giant geckos
+  6 giant newts
+  13 goblins
+  7 rats
+  2 plants (D:2)
+101 creatures vanquished.
+
+Vanquished Creatures (others)
+  2 slaves (D:4)
+  A giant frog skeleton (D:4)
+  An orc wizard (D:4)
+  2 orc priests (D:4)
+  A gnoll (D:4)
+  A worm (D:4)
+  3 orcs (D:4)
+  A bat (D:4)
+  A goblin (D:4)
+  A jackal (D:4)
+  An orc skeleton (D:4)
+  A rat skeleton (D:4)
+16 creatures vanquished.
+
+Grand Total: 117 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | D:1      | Dracula, the Vampire Assassin, began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 16/16 MP: 1/1
+    68 | D:1      | Reached skill level 6 in Stealth
+   449 | D:1      | Reached XP level 2. HP: 19/22 MP: 2/2
+   974 | D:2      | Reached skill level 7 in Stealth
+   974 | D:2      | Reached XP level 3. HP: 13/27 MP: 3/3
+  1303 | D:2      | Found a white marble altar of Elyvilon.
+  1783 | D:2      | Reached XP level 4. HP: 33/33 MP: 4/4
+  1904 | D:3      | Noticed Sanguine's ghost (weakling DsAK)
+  2809 | D:3      | Reached skill level 8 in Stealth
+  3915 | D:4      | Reached XP level 5. HP: 8/38 MP: 5/5
+  4219 | D:4      | Found a staircase to the Ecumenical Temple.
+  4605 | D:4      | Reached skill level 9 in Stealth
+  4632 | D:4      | Found Majia's General Store.
+  4682 | D:4      | Noticed a slave
+  4682 | D:4      | Noticed a slave
+  4682 | D:4      | Noticed a slave
+  4683 | D:4      | Noticed Pikel
+  4683 | D:4      | Noticed a slave
+  4684 | D:4      | Killed Pikel
+  4684 | D:4      | Reached skill level 5 in Short Blades
+  4684 | D:4      | Reached skill level 11 in Stealth
+  4684 | D:4      | Reached XP level 6. HP: 37/44 MP: 6/6
+  4684 | D:4      | Reached XP level 7. HP: 41/49 MP: 7/7
+  4760 | D:4      | Got a colourful robe
+  4766 | D:4      | Identified the +3 robe "Skacisup" {Int+2 Acc+4} (You found it on level 4 of the Dungeon)
+  5164 | D:5      | Entered Level 5 of the Dungeon
+  5253 | D:5      | Noticed Natasha
+  5260 | D:5      | Killed Natasha
+  5307 | D:5      | Noticed Natasha
+  5316 | D:5      | Killed Natasha
+  6298 | D:5      | Reached skill level 12 in Stealth
+  6315 | D:5      | Noticed Natasha
+  6325 | D:5      | Killed Natasha
+  7222 | D:5      | Learned a level 6 spell: Invisibility
+  7598 | D:4      | Killed a freed slave
+  7647 | D:4      | Killed a freed slave
+  7778 | D:5      | Slain by an ice beast
+
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Dagger            |    75 |   330 |   491 ||   896
+ Abil: End Transformatio |       |     3 |     7 ||    10
+       Bat Form          |       |     3 |     7 ||    10
+       Bottle Blood      |       |       |     1 ||     1
+Evoke: Wand              |       |       |     4 ||     4
+  Use: Scroll            |     6 |     4 |     3 ||    13
+       Potion            |       |     4 |     3 ||     7
+ Stab: Sleeping          |     8 |    15 |     9 ||    32
+       Distracted        |     1 |     1 |     3 ||     5
+

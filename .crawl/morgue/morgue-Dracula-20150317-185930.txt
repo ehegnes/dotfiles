@@ -1,0 +1,202 @@
+ Dungeon Crawl Stone Soup version 0.16-a0-4088-g7c8221e (console) character file.
+
+86 Dracula the Covert (level 4, -8/33 HPs)
+             Began as a Vampire Assassin on Mar 17, 2015.
+             Mangled by a raiju (9 damage)
+             ... on level 1 of the Abyss.
+             The game lasted 00:09:00 (2409 turns).
+
+Dracula the Covert (Vampire Assassin)               Turns: 2409, Time: 00:09:00
+
+Health: -8/33      AC: 10    Str: 10    XL:     4   Next: 27%
+Magic:  4/4        EV: 12    Int: 13    God:    
+Gold:   220        SH:  0    Dex: 16    Spells: 0 memorised, 3 levels left
+
+rFire  . . .     SeeInvis +     m - +0 dagger (protect)
+rCold  . . .     Clarity  .     c - +0 robe
+rNeg   + + .     SustAb   .     (no shield)
+rPois  .         Gourm    .     l - +1 hat
+rElec  .         Spirit   .     d - +0 cloak
+rCorr  .         Warding  .     n - +0 pair of gloves
+rMut   .         Stasis   +     (no boots)
+MR     .....                    o - amulet of stasis
+Stlth  ++++......               (no ring)
+                                u - ring of positive energy
+
+@: not resistant to hostile enchantments, stealthy
+A: bottle blood, fangs 3, see invisible, unbreathing
+a: Bat Form
+
+
+You were on level 1 of the Abyss.
+You were not thirsty.
+
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+You visited the Abyss 1 time.
+
+You collected 220 gold pieces.
+
+Inventory:
+
+Hand weapons
+ b - a +0 blowgun
+ m - a +0 dagger of protection (weapon)
+Missiles
+ e - 8 poisoned needles
+ f - 2 curare-tipped needles
+Armour
+ c - a +0 robe (worn)
+ d - a +0 cloak (worn)
+ l - a +1 hat (worn)
+ n - a +0 pair of gloves (worn)
+ t - a +0 plate armour
+Jewellery
+ o - an amulet of stasis (around neck)
+ u - a ring of positive energy (left hand)
+Scrolls
+ a - a scroll of blinking {unknown}
+ i - a scroll of enchant weapon {unknown}
+ j - 3 scrolls of remove curse {unknown}
+ k - 2 scrolls of identify {unknown}
+ p - a scroll of noise {unknown}
+ q - a scroll of teleportation {unknown}
+ r - a scroll of random uselessness {unknown}
+ s - 2 scrolls of immolation {unknown}
+Potions
+ g - 14 potions of blood
+ h - a potion of curing
+
+
+   Skills:
+ - Level 1.7 Fighting
+ - Level 2.9 Short Blades
+ - Level 1.5 Throwing
+ - Level 1.1 Dodging
+ + Level 8.3 Stealth
+
+
+You had 3 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+The Shining One
+
+Annotations:
+D:2 Sigmund
+
+
+Innate Abilities, Weirdness & Mutations
+
+You can bottle blood from corpses.
+You have razor-sharp teeth.
+You have supernaturally acute eyesight.
+You can survive without breathing.
+
+
+Message History
+
+Drink which item? (? for menu, Esc to quit)
+It was a potion of heal wounds. You feel much better. The raiju bites you. The raiju shocks you!
+You completely miss the raiju.
+The raiju bursts into living lightning!
+The living lightning misses you. The living lightning hits the raiju. The raiju completely resists.
+The raiju blinks! x3
+The raiju closely misses you.
+The raiju barks!
+You hit the raiju but do no damage. The raiju closely misses you. The raiju barely misses you.
+You hit the raiju but do no damage. The raiju closely misses you. The raiju barely misses you.
+You completely miss the raiju. The raiju barely misses you.
+The raiju bursts into living lightning!
+The living lightning hits you!
+Ouch! That really hurt!
+* * * LOW HITPOINT WARNING * * *
+The living lightning hits the raiju. The raiju completely resists. The raiju blinks!
+The raiju bites you.
+* * * LOW HITPOINT WARNING * * *
+The raiju shocks you!
+You die...
+
+           #     ..# ..##...
+               ##.. #..##.....
+        .       .......... . ..
+             .  .....  .........
+         .   .. #.. #..#.........
+            #..##   #..#..........
+       .     ... .................
+       .  .. ....  ...............
+             ..##  ##..# ..........
+       # . # ..# ..## .###..##..##
+  .    .   .#. .. .##..####X##
+        .   ..## ..# . ##.#@##
+          ..# .  . .###...##h#
+           .#. ######  .####.#
+    .   ## .  .       ###  )#.
+           # ###          ## .#
+     #       #               #.
+          . . #              .#.
+             #               #..
+                              . .
+.        #
+
+
+You could see a large abomination and a raiju.
+
+Vanquished Creatures
+  Ijyb (D:2)
+  An adder (D:2)
+  4 giant geckos
+  An ooze (D:1)
+  3 bats
+  6 goblins
+  10 hobgoblins
+  5 jackals
+  7 kobolds (D:1)
+  A quokka (D:2)
+  A ball python (D:1)
+  3 giant cockroaches
+  5 giant newts
+  6 rats
+54 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | D:1      | Dracula, the Vampire Assassin, began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 16/16 MP: 1/1
+     8 | D:1      | Reached skill level 6 in Stealth
+   183 | D:1      | Reached XP level 2. HP: 20/22 MP: 2/2
+   740 | D:1      | Reached skill level 7 in Stealth
+  1027 | D:1      | Reached XP level 3. HP: 19/27 MP: 3/3
+  1281 | D:2      | Found a glowing golden altar of the Shining One.
+  1410 | D:2      | Noticed Sigmund
+  1450 | D:2      | Noticed Ijyb
+  1488 | D:2      | Killed Ijyb
+  1628 | D:2      | Reached XP level 4. HP: 33/33 MP: 4/4
+  1665 | D:2      | Reached skill level 8 in Stealth
+  2174 | D:2      | Cast into the Abyss (Sigmund)
+  2259 | Abyss:1  | Noticed a small abomination
+  2285 | Abyss:1  | Noticed a large abomination
+  2299 | Abyss:1  | Noticed a large abomination
+  2299 | Abyss:1  | Noticed a worldbinder
+  2320 | Abyss:1  | Noticed an ancient zyme
+  2324 | Abyss:1  | Noticed a giant orange brain
+  2328 | Abyss:1  | Noticed a large abomination
+  2379 | Abyss:1  | Noticed a large abomination
+  2402 | Abyss:1  | Noticed a raiju
+  2402 | Abyss:1  | Noticed a raiju
+  2403 | Abyss:1  | Noticed a raiju
+  2409 | Abyss:1  | HP: 1/33 [raiju (1)]
+  2409 | Abyss:1  | Mangled by a raiju
+
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Dagger            |   154 |    91 ||   245
+  Use: Potion            |     9 |     1 ||    10
+ Stab: Sleeping          |     7 |     2 ||     9
+

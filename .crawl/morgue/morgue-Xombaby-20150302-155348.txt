@@ -1,0 +1,240 @@
+ Dungeon Crawl Stone Soup version 0.16-a0-4088-g7c8221e (console) character file.
+
+416 Xombaby the Slasher (level 6, -7/51 HPs)
+             Began as a Demonspawn Chaos Knight on Feb 27, 2015.
+             
+             Killed by divine providence
+             ... invoked by an orc priest
+              (11 damage)
+             ... on level 4 of the Dungeon on Mar 2, 2015.
+             The game lasted 00:10:42 (2384 turns).
+
+Xombaby the Slasher (Demonspawn Chaos Knight)       Turns: 2384, Time: 00:10:42
+
+Health: -7/51      AC:  5    Str: 13    XL:     6   Next: 60%
+Magic:  6/6        EV: 11    Int: 13    God:    Xom [..*...]
+Gold:   155        SH:  0    Dex: 12    Spells: 0 memorised, 5 levels left
+
+rFire  + . .     SeeInvis .     a - +0 falchion (chaos)
+rCold  + . .     Clarity  .     b - +2 leather armour
+rNeg   . . .     SustAb   .     (no shield)
+rPois  .         Gourm    .     (helmet restricted)
+rElec  .         Spirit   .     (no cloak)
+rCorr  .         Warding  .     (no gloves)
+rMut   .         Stasis   .     (no boots)
+MR     .....                    (no amulet)
+Stlth  +.........               (no ring)
+                                l - ring of protection from cold
+
+@: about to teleport, not resistant to hostile enchantments, very unstealthy
+A: claws 2, horns 2, fire resistance 1, weak 1
+a: Renounce Religion
+
+
+You were on level 4 of the Dungeon.
+You worshipped Xom.
+You were a toy of Xom.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+
+You collected 155 gold pieces.
+
+Inventory:
+
+Hand weapons
+ a - a +0 falchion of chaos (weapon)
+Missiles
+ k - 11 poisoned needles
+Armour
+ b - a +2 leather armour (worn)
+Jewellery
+ l - a ring of protection from cold (left claw)
+ o - an uncursed ring of protection from magic {unknown}
+Magical devices
+ i - a wand of fireball (4)
+Scrolls
+ f - 4 scrolls of identify {unknown}
+ g - a scroll of blinking {unknown}
+ j - 2 scrolls of remove curse {unknown}
+ q - 5 scrolls of enchant weapon {unknown}
+ r - a scroll of random uselessness {unknown}
+ u - a scroll of immolation {unknown}
+Comestibles
+ c - 2 bread rations
+ h - 2 meat rations
+ n - 3 fruits
+
+
+   Skills:
+ - Level 5.1 Fighting
+ * Level 5.3 Long Blades
+ + Level 2.4 Armour
+ - Level 0.8 Dodging
+
+
+You had 5 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)            
+Temple: D:4-7       
+
+Altars:
+Fedhas
+Makhleb
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have very sharp fingernails.
+You have a pair of horns on your head.
+Your flesh is heat resistant.
+You are weak. (Str -2)
+
+
+Message History
+
+You start resting.
+You are now a toy of Xom.
+A worker ant comes into view.
+The worker ant twitches its antennae in your direction.
+The orc priest mumbles some strange prayers to Beogh against you.
+Pain shoots through your body!
+The orc priest calls down the wrath of Beogh upon you.
+Something smites you!
+* * * LOW HITPOINT WARNING * * *
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You aren't carrying any potions.
+Unknown command.
+Read which item? (? for menu, Esc to quit)
+As you read the scroll of teleportation, it crumbles to dust.
+You feel strangely unstable.
+The orc priest mumbles some strange prayers to Beogh against you.
+Something smites you!
+You die...
+Xom cackles wildly!
+
+   ##...##......#..≈_≈..##
+  ##...###......##≈≈≈≈..#
+ ##...###........#≈..≈≈.#       ##.
+ #....##................#    ###....
+ #...................####   ##.......
+ ##..................###   ##.........
+  #...............)....#####..........
+  ##..............####................
+ ##..............##   ###..............
+.................##       #........a...
+..................#       #..##########
+.....####.....##..##      #@.#
+ ...)####....####..##     #..#
+ ...........##  ###.##    #o##
+ .o.........########.##   #.#
+ ...######.......# ##.#####.##
+         #.#.)...#  #...##...##
+         #.#..##.## ##...#....#
+        ##..#.##.o#  ##...##.....#
+        #...####..#  ##.[## ###...
+        #.....##..####.).#     ###
+        #................#
+        #..#.............#
+
+
+You could see an orc priest.
+
+Vanquished Creatures
+  The ghost of Asterion the Basher, an average MiBe of Trog (D:4)
+  An ogre (D:4)
+  A water moccasin zombie (D:4)
+  A hound (D:4)
+  An iguana (D:4)
+  2 orc wizards
+  2 worker ants (D:4)
+  5 adders
+  A worm (D:3)
+  2 oozes
+  4 orcs
+  9 bats
+  6 giant cockroaches
+  2 goblins (D:2)
+  9 hobgoblins
+  5 kobolds
+  2 quokkas (D:2)
+  3 giant newts
+  8 rats
+  A plant (D:1)
+66 creatures vanquished.
+
+Vanquished Creatures (others)
+  A fire vortex (D:1)
+  A kobold (D:4)
+  A plant (D:1)
+3 creatures vanquished.
+
+Grand Total: 69 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | D:1      | Xombaby, the Demonspawn Chaos Knight, began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 18/18 MP: 1/1
+    20 | D:1      | XOM: harmless Erth miscast
+   193 | D:1      | Gained mutation: You have a pair of small horns on your head. [demonic ancestry]
+   193 | D:1      | Reached XP level 2. HP: 14/24 MP: 2/2
+   232 | D:1      | XOM: harmless Conj miscast
+   241 | D:1      | XOM: divination: detect items
+   336 | D:1      | XOM: mild Fire miscast
+   337 | D:1      | Noticed a fire vortex
+   337 | D:1      | Noticed a fire vortex
+   347 | D:1      | Killed a fire vortex
+   417 | D:1      | XOM: harmless Air miscast
+   572 | D:1      | XOM: harmless Pois miscast
+   656 | D:2      | XOM: potion effect (haste)
+   682 | D:2      | Gained mutation: Your flesh is heat resistant. [demonic ancestry]
+   682 | D:2      | Reached XP level 3. HP: 19/29 MP: 3/3
+   685 | D:2      | XOM: divination: magic mapping
+  1135 | D:2      | XOM: give mutations
+  1135 | D:2      | Gained mutation: You are weak. (Str -2) [Xom's mischief]
+  1135 | D:2      | Gained mutation: You have a pair of horns on your head. [Xom's mischief]
+  1135 | D:2      | Gained mutation: You have sharp fingernails. [Xom's mischief]
+  1328 | D:2      | Reached XP level 4. HP: 32/37 MP: 4/4
+  1338 | D:2      | Reached skill level 4 in Fighting
+  1521 | D:3      | XOM: smoke on damage
+  1598 | D:3      | Found a burning altar of Makhleb.
+  1910 | D:3      | XOM is BORED!
+  1910 | D:3      | XOM: summons 5 hostile shadow creatures
+  1970 | D:4      | Noticed Asterion's ghost (average MiBe)
+  1974 | D:4      | XOM: divine lightning (protected)
+  1975 | D:4      | Killed Asterion's ghost
+  1976 | D:4      | XOM: enchant monster (bad)
+  1977 | D:4      | XOM: 3-stop teleportation journey
+  1985 | D:4      | Gained mutation: You have very sharp fingernails. [demonic ancestry]
+  1985 | D:4      | Reached XP level 5. HP: 24/43 MP: 5/5
+  1988 | D:4      | XOM: harmless Summ miscast
+  1997 | D:4      | Reached skill level 5 in Fighting
+  2011 | D:4      | Found a blossoming altar of Fedhas.
+  2169 | D:4      | Noticed an ogre
+  2174 | D:4      | XOM: enchant monster (bad)
+  2194 | D:4      | Killed an ogre
+  2194 | D:4      | Reached skill level 5 in Long Blades
+  2194 | D:4      | Reached XP level 6. HP: 49/51 MP: 6/6
+  2225 | D:4      | XOM: potion effect (haste)
+  2230 | D:4      | XOM: god gift: scroll labeled NICLICYANG
+  2384 | D:4      | Killed from afar by an orc priest
+
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Falchion          |   201 |   119 ||   320
+  Use: Potion            |       |     6 ||     6
+       Scroll            |       |     2 ||     2
+ Stab: Petrifying        |     2 |       ||     2
+       Petrified         |     1 |       ||     1
+       Paralysed         |       |     4 ||     4
+       Invisible         |       |     1 ||     1
+  Eat: Chunk             |     2 |     3 ||     5
+       Fruit             |       |     1 ||     1
+

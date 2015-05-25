@@ -1,0 +1,183 @@
+ERROR in 'libutil.cc' at line 1029: screen write out of bounds: (-1,-1) into (84,23)
+
+Version: Dungeon Crawl Stone Soup 0.14.1
+Platform: unix
+Bits: 64
+Game mode: normal
+Tiles: no
+
+Command line: crawl
+
+RC options:
+restart_after_game = false
+
+
+Crash caused by signal #6: Aborted
+
+Obtained 23 stack frames.
+crawl() [0x506863]
+crawl() [0x50cf9a]
+crawl() [0x506ac1]
+/lib64/libc.so.6(+0x385b0) [0x7f466ebb65b0]: 
+/lib64/libpthread.so.0(raise+0x2b) [0x7f466ef399bb]: 
+crawl() [0x50c7b9]
+crawl() [0x50cb87]
+crawl() [0x69d9f5]
+crawl() [0x975c46]
+crawl() [0x93a45e]
+crawl() [0x8e9ea9]
+/lib64/libc.so.6(+0x385b0) [0x7f466ebb65b0]: 
+/lib64/libpthread.so.0(read+0x2b) [0x7f466ef38c9b]: 
+/lib64/libncursesw.so.5(_nc_wgetch+0x5b1) [0x7f466f980001]: 
+/lib64/libncursesw.so.5(wget_wch+0x42) [0x7f466f994502]: 
+crawl() [0x974e6d]
+crawl() [0x974ea9]
+crawl() [0x6a8892]
+crawl() [0x6ab579]
+crawl() [0x6bd303]
+crawl() [0x41f7c5]
+/lib64/libc.so.6(__libc_start_main+0xf5) [0x7f466eba2bf5]: 
+crawl() [0x4810b5]
+
+GDB not installed.
+
+Compilation info:
+<<<<<<<<<<<
+Compiled with GCC 4.7.3 on Jul 19 2014 at 10:39:30
+Build platform: x86_64-pc-linux-gnu
+Platform: x86_64-pc-linux-gnu
+CFLAGS: -march=native -O2 -pipe -Wall -Wformat-security -Wmissing-declarations -Wredundant-decls -Wundef -Wno-array-bounds -Wno-format-zero-length -Wno-parentheses -Wno-unused-parameter -Wwrite-strings -Wshadow -Wuninitialized -isystem contrib/install/x86_64-pc-linux-gnu/include -Iutil -I. -Irltiles -isystem /usr/include/ncursesw -DWIZARD -DASSERTS -DCLUA_BINDINGS -DSAVE_DIR_PATH="~/.crawl" -DDATA_DIR_PATH="/usr/share/games/stone-soup/"
+LDFLAGS: -Wl,-O1 -Wl,--as-needed
+>>>>>>>>>>>
+
+Place info:
+branch = 0, depth = 1
+
+Level id: D:1
+Level build method = random_map_for_place, level layout type  = rooms, absdepth0 = 0
+Level vaults:
+    lightli_arrival_boilingwater
+    layout_rooms
+
+Markers:
+<<<<<<<<<<<<<<<<<<<<<<
+Marker 0 at (58, 47): feature (stone_stairs_up_i)
+>>>>>>>>>>>>>>>>>>>>>>
+
+Messages:
+<<<<<<<<<<<<<<<<<<<<<<
+Welcome, Dracula the Vampire Assassin.
+Will you be the one to retrieve the fabulous Orb of Zot from the depths?
+Press ? for a list of commands and other information.
+Found a staircase leading out of the dungeon.
+
+>>>>>>>>>>>>>>>>>>>>>>
+
+Game state:
+
+mouse_enabled: 0, waiting_for_command: 1, terminal_resized: 0
+io_inited: 1, need_save: 1, saving_game: 0, updating_scores: 0:
+seen_hups: 0, map_stat_gen: 0, type: 1, arena_suspended: 0
+Last resize was 0 seconds ago.
+
+prev_cmd = CMD_NO_CMD
+repeat_cmd = CMD_NO_CMD
+
+Player:
+{{{{{{{{{{{
+Name:       [Dracula]
+Species:    Vampire
+Job:        Assassin
+
+class_name: Assassin
+
+HP: 16/16; mods: 0/0
+MP: 1/1; mods: 0/0
+Stats: 10 (10) 13 (13) 15 (15)
+Position: (58, 47), god: No God (0), turn_is_over: 0, banished: 0
+Standing on/in/over feature: staircase leading out of the dungeon
+
+Skills (mode: auto)
+Name            | can_train | train | training | level | points | progress
+Fighting        |     X     |   1   |     9    |    1  |    151 | 92/119
+Short Blades    |     X     |   1   |     9    |    2  |    151 | 25/126
+Long Blades     |           |   1   |     0    |    0  |      0 | 0/50
+Axes            |           |   1   |     0    |    0  |      0 | 0/59
+Maces & Flails  |           |   1   |     0    |    0  |      0 | 0/70
+Polearms        |           |   1   |     0    |    0  |      0 | 0/59
+Staves          |           |   1   |     0    |    0  |      0 | 0/70
+Slings          |           |   1   |     0    |    0  |      0 | 0/70
+Bows            |           |   1   |     0    |    0  |      0 | 0/70
+Crossbows       |           |   1   |     0    |    0  |      0 | 0/70
+Throwing        |     X     |   1   |     9    |    1  |    151 | 81/142
+Armour          |     X     |   1   |     0    |    0  |      0 | 0/70
+Dodging         |     X     |   1   |     2    |    1  |     51 | 9/84
+Stealth         |     X     |   1   |    71    |    5  |    421 | 106/126
+Stabbing        |           |   1   |     0    |    0  |      0 | 0/1410790144
+Shields         |           |   1   |     0    |    0  |      0 | 0/59
+Traps           |           |   1   |     0    |    0  |      0 | 0/1410790144
+Unarmed Combat  |     X     |   1   |     0    |    0  |      0 | 0/42
+Spellcasting    |     X     |   1   |     0    |    0  |      0 | 0/59
+Conjurations    |           |   1   |     0    |    0  |      0 | 0/84
+Hexes           |           |   1   |     0    |    0  |      0 | 0/25
+Charms          |           |   1   |     0    |    0  |      0 | 0/42
+Summonings      |           |   1   |     0    |    0  |      0 | 0/50
+Necromancy      |           |   1   |     0    |    0  |      0 | 0/42
+Translocations  |           |   1   |     0    |    0  |      0 | 0/70
+Transmutations  |           |   1   |     0    |    0  |      0 | 0/42
+Fire Magic      |           |   1   |     0    |    0  |      0 | 0/70
+Ice Magic       |           |   1   |     0    |    0  |      0 | 0/50
+Air Magic       |           |   1   |     0    |    0  |      0 | 0/50
+Earth Magic     |           |   1   |     0    |    0  |      0 | 0/50
+Poison Magic    |           |   1   |     0    |    0  |      0 | 0/59
+Invocations     |           |   1   |     0    |    0  |      0 | 0/59
+Evocations      |           |   1   |     0    |    0  |      0 | 0/50
+
+Spell bugs:
+
+Durations:
+
+Attributes:
+
+Mutations:
+    fangs: 3 (innate)
+    acute vision: 1 (innate)
+    unbreathing: 1 (innate)
+
+Inventory bugs:
+
+Equipment:
+    eq slot #0, inv slot #0: +2,+2 dagger
+    eq slot #1, inv slot #3: +0 cloak
+    eq slot #6, inv slot #2: +0 robe
+
+}}}}}}}}}}}
+
+
+Screenshot:
+ .##########
+..≈≈≈≈≈≈≈≈≈ #
+  ≈8≈≈≈≈≈≈ ≈#
+ #≈ 8≈≈≈≈ ≈≈#
+ #≈≈≈####≈≈≈#
+ #≈≈≈#.@#≈≈≈#
+ #≈≈≈#..#≈≈≈#
+..≈≈≈#++#≈≈≈#
+..≈≈     8≈≈#
+..≈       8≈#
+ .        ≈≈#
+           ##
+
+clua stack:
+
+
+dlua stack:
+
+
+Lua persistent data:
+<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>
+
+Lua marker contents:
+<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>

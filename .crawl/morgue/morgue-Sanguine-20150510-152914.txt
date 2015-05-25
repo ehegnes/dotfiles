@@ -1,0 +1,169 @@
+ Dungeon Crawl Stone Soup version 0.16-a0-4088-g7c8221e (console) character file.
+
+21 Sanguine the Skirmisher (level 2, -1/24 HPs)
+             Began as a Demonspawn Abyssal Knight on May 10, 2015.
+             Was a Believer of Lugonu.
+             Succumbed to an adder's poison
+             ... on level 2 of the Dungeon.
+             The game lasted 00:03:09 (1135 turns).
+
+Sanguine the Skirmisher (Demonspawn Abyssal Knight) Turns: 1135, Time: 00:03:09
+
+Health: -1/24      AC: 10    Str: 17    XL:     2   Next: 65%
+Magic:  1/2        EV:  5    Int: 13    God:    Lugonu [**....]
+Gold:   63         SH:  0    Dex: 12    Spells: 0 memorised, 1 level left
+
+rFire  . . .     SeeInvis .     a - +1 falchion
+rCold  . . .     Clarity  .     b - +0 plate armour
+rNeg   . . .     SustAb   .     (no shield)
+rPois  .         Gourm    .     (no helmet)
+rElec  .         Spirit   +     (no cloak)
+rCorr  .         Warding  .     (no gloves)
+rMut   .         Stasis   .     (no boots)
+MR     .....                    (no amulet)
+Stlth  ..........               (no ring)
+                                (no ring)
+
+@: mighty, lethally poisoned (-1 -> -19), very slightly contaminated, hasted,
+very quick, not resistant to hostile enchantments, extremely unstealthy
+A: magic shield
+a: Depart the Abyss, Bend Space, Renounce Religion
+
+
+You were on level 2 of the Dungeon.
+You worshipped Lugonu.
+Lugonu was pleased with you.
+You were hungry.
+
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+You visited the Abyss 1 time.
+
+You collected 63 gold pieces.
+
+Inventory:
+
+Hand weapons
+ a - a +1 falchion (weapon)
+Armour
+ b - a +0 plate armour (worn)
+Jewellery
+ k - an uncursed amulet of resist mutation
+Scrolls
+ f - a scroll of teleportation {unknown}
+ g - a scroll of recharging {unknown}
+ i - a scroll of amnesia {unknown}
+ j - 2 scrolls of random uselessness {unknown}
+Potions
+ d - a potion of haste
+Books
+ l - a book of Annihilations {highlevel, unknown}   
+   This book is beyond your current level of understanding.
+   
+    Spells                             Type                      Level
+    a - Poison Arrow                 Conjuration/Poison            6
+    b - Chain Lightning              Conjuration/Air               8
+    c - Lehudib's Crystal Spear      Conjuration/Earth             8
+    d - Glaciate                     Conjuration/Ice               9
+    e - Fire Storm                   Conjuration/Fire              9
+Comestibles
+ c - 3 bread rations
+
+
+   Skills:
+ - Level 3.0 Fighting
+ + Level 3.0 Long Blades
+ - Level 1.7 Armour
+ - Level 0.8 Dodging
+ - Level 2.4 Invocations
+
+
+You had one spell level left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+When hurt, damage is shared between your health and your magic reserves.
+
+
+Message History
+
+Read which item? (? for menu, Esc to quit)
+You can't read that!
+Unknown command.
+You closely miss the adder.
+The adder is heavily wounded.
+The adder bites you.
+* * * LOW HITPOINT WARNING * * *
+You are more poisoned.
+The adder poisons you!
+You barely miss the adder.
+The adder is heavily wounded.
+* * * LOW HITPOINT WARNING * * *
+You feel sick. The adder barely misses you.
+You barely miss the adder.
+The adder is heavily wounded.
+* * * LOW HITPOINT WARNING * * *
+You feel sick. The adder completely misses you.
+You miss the adder.
+The adder is heavily wounded.
+You die...
+
+   ### #####
+  ##<.  ...#
+ ##....  ..#
+ #.....# #.#  #######
+#......S##.####.....#
+ #......@.......###.#        #####
+ ##...####.###### #.#        #...#      ..
+  ##    )..#      #.#        #...#    .#..##
+      .....#      #.#        #...#    .....  .
+    #.######    ###.##       #...#  ###.#.###.##
+                #....#       #...#  #...........
+        ####### #.#..#       #...#  #...........
+        #.....# #.#..#########...####...#.#...#.
+        #.....###.#..##...(...).........#.#.....
+        #.........#..................#..#.#..# .
+        ###########.###.....<..........)#.#..#
+                  #.# ########...####........###
+                  #.#        #...# ##.###.##....
+
+
+You could see an adder.
+
+Vanquished Creatures
+  An ooze (D:1)
+  2 bats (D:1)
+  A giant cockroach (D:1)
+  2 goblins
+  5 hobgoblins (D:1)
+  2 kobolds
+  2 giant newts (D:1)
+  3 rats (D:1)
+18 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | Abyss:1  | Sanguine, the Demonspawn Abyssal Knight, began the quest for the Orb.
+     0 | Abyss:1  | Reached XP level 1. HP: 18/18 MP: 1/1
+    28 | D:1      | Escaped the Abyss
+   298 | D:1      | Gained mutation: When hurt, damage is shared between your health and your magic reserves. [demonic ancestry]
+   298 | D:1      | Reached XP level 2. HP: 22/24 MP: 2/2
+   362 | D:1      | Acquired Lugonu's second power
+  1134 | D:2      | HP: 1/24 [poisoned by an adder]
+  1135 | D:2      | Succumbed to an adder's poison
+
+
+Action                   || total
+-------------------------++-------
+Melee: Falchion          ||    66
+  Use: Potion            ||     3
+

@@ -1,0 +1,180 @@
+ Dungeon Crawl Stone Soup version 0.16-a0-4088-g7c8221e (console) character file.
+
+47 Sanguine the Slasher (level 3, 0/29 HPs)
+             Began as a Demonspawn Abyssal Knight on May 10, 2015.
+             Was a Believer of Lugonu.
+             Succumbed to a kobold's poison
+             ... on level 2 of the Dungeon.
+             The game lasted 00:03:07 (1632 turns).
+
+Sanguine the Slasher (Demonspawn Abyssal Knight)    Turns: 1632, Time: 00:03:07
+
+Health: 0/29       AC: 13    Str: 16    XL:     3   Next: 48%
+Magic:  4/4        EV:  4    Int: 13    God:    Lugonu [**....]
+Gold:   105        SH:  0    Dex: 12    Spells: 0 memorised, 2 levels left
+
+rFire  x . .     SeeInvis .     a - +1 falchion
+rCold  + . .     Clarity  .     k - +0 plate armour (curse)
+rNeg   . . .     SustAb   .     (no shield)
+rPois  .         Gourm    .     (no helmet)
+rElec  .         Spirit   .     (no cloak)
+rCorr  .         Warding  .     b - +0 pair of gloves
+rMut   .         Stasis   .     (no boots)
+MR     .....                    e - amulet of rage
+Stlth  ..........               f - ring of ice
+                                h - +3 ring of strength
+
+@: lethally poisoned (0 -> -31), not resistant to hostile enchantments,
+extremely unstealthy
+A: slimy green scales 1, powered by pain 1
+a: Depart the Abyss, Bend Space, Renounce Religion, Evoke Berserk Rage
+
+
+You were on level 2 of the Dungeon.
+You worshipped Lugonu.
+Lugonu was pleased with you.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 3 of its levels.
+You visited the Abyss 1 time.
+
+You collected 105 gold pieces.
+
+Inventory:
+
+Hand weapons
+ a - a +1 falchion (weapon)
+Armour
+ b - a +0 pair of gloves (worn)
+ k - a cursed +0 plate armour (worn)
+Jewellery
+ e - an amulet of rage (around neck)
+ f - a ring of ice (right hand)
+ h - a +3 ring of strength (left hand)
+Comestibles
+ c - 2 bread rations
+ d - a chunk of flesh
+ i - a slice of pizza
+ j - a meat ration
+
+
+   Skills:
+ - Level 3.0 Fighting
+ + Level 3.5 Long Blades
+ - Level 1.7 Armour
+ - Level 0.8 Dodging
+ - Level 2.4 Invocations
+
+
+You had 2 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/15)            
+
+Altars:
+Zin
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are partially covered in slimy green scales (AC +2).
+You sometimes gain a little power by taking damage.
+
+
+Message History
+
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You slash the kobold!
+You kill the kobold!
+Lugonu accepts your kill.
+* * * LOW HITPOINT WARNING * * *
+You feel very sick.
+The giant newt bites you but does no damage.
+* * * LOW HITPOINT WARNING * * *
+You feel sick.
+Things that are here:
+a dagger of venom; a kobold corpse
+Your plate armour prevents you from hitting the giant newt.
+* * * LOW HITPOINT WARNING * * *
+You feel very sick.
+The giant newt bites you but does no damage.
+You slash the giant newt!
+You kill the giant newt!
+Lugonu accepts your kill.
+You die...
+
+                #.
+                 .###################
+                 ...........>..[....#
+                 #.#######.#.######.#
+              #  #.#     #.#.#
+          .##.#.##.#########.#
+          ...................#
+           ##...##.###########
+            # #.##..........
+          .##.#...........##
+         ..........†)........
+          .#.......#†####.#.
+           #..#....#.@..#
+           #. #....####.#
+           #  #.#...    ..
+              #.#..#     .#
+              #.#..#      #
+                #..#
+                 ..#
+
+#.########
+#........#
+#.######.#
+#.######.###
+#..........#
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  An adder (D:2)
+  2 giant geckos
+  An ooze (D:3)
+  3 bats (D:1)
+  A giant cockroach (D:2)
+  5 hobgoblins
+  5 jackals (D:1)
+  A ball python (D:1)
+  3 giant newts
+  6 goblins (D:1)
+  3 kobolds
+  A quokka (D:2)
+  3 rats (D:1)
+35 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | Abyss:1  | Sanguine, the Demonspawn Abyssal Knight, began the quest for the Orb.
+     0 | Abyss:1  | Reached XP level 1. HP: 18/18 MP: 1/1
+     0 | Abyss:1  | Found a corrupted altar of Lugonu.
+     7 | Abyss:1  | Found a corrupted altar of Lugonu.
+    20 | Abyss:1  | Found a corrupted altar of Lugonu.
+    22 | Abyss:1  | Found a corrupted altar of Lugonu.
+    34 | D:1      | Escaped the Abyss
+   261 | D:1      | Gained mutation: You sometimes gain a little power by taking damage. [demonic ancestry]
+   261 | D:1      | Reached XP level 2. HP: 17/24 MP: 2/2
+   393 | D:1      | Acquired Lugonu's second power
+  1136 | D:2      | Gained mutation: You are partially covered in slimy green scales (AC +2). [demonic ancestry]
+  1136 | D:2      | Reached XP level 3. HP: 26/29 MP: 4/4
+  1489 | D:2      | Found a glowing silver altar of Zin.
+  1543 | D:2      | You fall through a shaft!
+  1632 | D:2      | Succumbed to a kobold's poison
+
+
+Action                   || total
+-------------------------++-------
+Melee: Falchion          ||   101
+  Use: Scroll            ||     2
+  Eat: Chunk             ||     2
+

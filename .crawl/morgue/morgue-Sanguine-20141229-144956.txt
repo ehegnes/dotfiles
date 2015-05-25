@@ -1,0 +1,126 @@
+ Dungeon Crawl Stone Soup version 0.15.2 (console) character file.
+
+0 Sanguine the Skirmisher (level 1, -3/18 HPs)
+             Began as a Demonspawn Abyssal Knight on Dec 29, 2014.
+             Was a Follower of Lugonu.
+             Killed by divine providence
+             ... invoked by a deep elf priest
+             ... summoned by a worldbinder
+              (15 damage)
+             ... on Level 1 of the Abyss.
+             The game lasted 00:00:20 (92 turns).
+
+Sanguine the Skirmisher (Demonspawn Abyssal Knight)   Turns: 92, Time: 00:00:20
+
+HP  -3/18        AC  3     Str 12      XL: 1   Next:  0%
+MP   1/1         EV 10     Int 13      God: Lugonu [*.....]
+Gold 0           SH  0     Dex 12      Spells:  0 memorised,  0 levels left
+
+rFire  . . .     SeeInvis .     a - +1 mace
+rCold  . . .     Clarity  .     b - +0 leather armour
+rNeg   . . .     rCorr    .     (no shield)
+rPois  .         rRot     .     (no helmet)
+rElec  .         Spirit   .     (no cloak)
+SustAb .         Warding  .     (no gloves)
+rMut   .         Stasis   .     (no boots)
+Gourm  .                        (no amulet)
+MR     .....                    (no ring)
+                                (no ring)
+
+@: not resistant to hostile enchantments, very unstealthy
+A: no striking features
+a: Depart the Abyss, Renounce Religion
+
+
+You were on level 1 of the Abyss.
+You worshipped Lugonu.
+Lugonu was aware of your devotion.
+You were not hungry.
+
+You visited 0 branches of the dungeon, and saw 0 of its levels.
+You visited the Abyss 1 time.
+
+Inventory:
+
+Hand weapons
+ a - a +1 mace (weapon)
+Armour
+ b - a +0 leather armour (worn)
+Comestibles
+ c - a bread ration
+
+
+   Skills:
+ - Level 3.0 Fighting
+ + Level 1.7 Maces & Flails
+ - Level 1.7 Armour
+ - Level 0.8 Dodging
+ - Level 2.4 Invocations
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (0/15)            
+
+Altars:
+
+Message History
+
+Welcome, Sanguine the Demonspawn Abyssal Knight.
+Will you prevail where others failed? Will you get the Orb of Zot?
+Lugonu says: Depart the Abyss and spread corruption, my servant!
+(use the ability menu to exit the Abyss)
+Press ? for a list of commands and other information.
+Found a mace. Found a corrupted altar of Lugonu.
+Found a glowing ring mail.
+A worldbinder comes into view.
+The worldbinder calls forth creatures from the Elven Halls!
+The worldbinder barely misses you. The worldbinder hits you.
+The deep elf priest invokes the aid of its god against you.
+Something smites you!
+Ouch! That really hurt!
+You die...
+
+           .
+          ..##        ##
+        . . ..     ##  .
+      ..    #. ####.#
+      .  #.# ..#. # .#.
+      .....## .. . . .#
+      . ..  . .. #.#
+       .#   ..###. ## ##.
+      . ##  ..#. ##..#....
+      .. ...###.#.. ##.#..#
+      .....#...#.##......#
+     ... ...##...@##...#
+     ...........#x...#...
+     ........#....#..# .#
+ . .  .....#.##e###.#..#
+ ....#  #...##.e ....###
+.. ....##...##.##.#...#
+.. .. ......x...###..#.#
+...........#.##.# #...##
+ .. . .....#..#..##.#.#
+ . ........## .#....##.
+ . .. .. ..# .#..#### ##
+  .......... .##..
+
+
+You could see a worldbinder and 2 deep elf priests.
+
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | Abyss:1  | Sanguine, the Demonspawn Abyssal Knight, began the quest for the Orb.
+     0 | Abyss:1  | Reached XP level 1. HP: 18/18 MP: 1/1
+    79 | Abyss:1  | Noticed a worldbinder
+    90 | Abyss:1  | Noticed a deep elf fighter
+    90 | Abyss:1  | Noticed a deep elf priest
+    90 | Abyss:1  | Noticed a deep elf priest
+    92 | Abyss:1  | Killed from afar by a deep elf priest
+

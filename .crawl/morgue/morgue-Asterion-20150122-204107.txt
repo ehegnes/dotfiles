@@ -1,0 +1,222 @@
+ Dungeon Crawl Stone Soup version 0.15.2 (console) character file.
+
+539 Asterion the Basher (level 7, -2/90 HPs)
+             Began as a Minotaur Berserker on Jan 18, 2015.
+             Was an Elder of Trog.
+             Slain by a gnoll
+             ... wielding a +0 spear
+              (3 damage)
+             ... on Level 4 of the Dungeon on Jan 22, 2015.
+             The game lasted 00:09:58 (3182 turns).
+
+Asterion the Basher (Minotaur Berserker)            Turns: 3182, Time: 00:09:58
+
+HP  -2/90        AC  5     Str 26      XL: 7   Next:  5%
+MP   3/3         EV 10     Int  4      God: Trog [****..]
+Gold 203         SH  0     Dex 12      Spells:  0 memorised,  6 levels left
+
+rFire  . . .     SeeInvis .     b - +0 morningstar
+rCold  . . .     Clarity  .     r - +0 ring mail
+rNeg   . . .     rCorr    .     (no shield)
+rPois  .         rRot     .     (helmet restricted)
+rElec  .         Spirit   .     (no cloak)
+SustAb .         Warding  .     (no gloves)
+rMut   .         Stasis   .     (no boots)
+Gourm  .                        (no amulet)
+MR     .....                    (no ring)
+                                (no ring)
+
+@: berserking, glowing, very quick, not resistant to hostile enchantments,
+extremely unstealthy
+A: retaliatory headbutt, horns 2
+a: Burn Spellbooks, Berserk, Trog's Hand, Brothers in Arms, Renounce Religion
+
+
+You were on level 4 of the Dungeon.
+You worshipped Trog.
+Trog was greatly pleased with you.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+
+You collected 203 gold pieces.
+
+Inventory:
+
+Hand weapons
+ b - a +0 morningstar (weapon)
+Armour
+ r - a +0 ring mail (worn)
+Comestibles
+ c - a bread ration
+ g - 2 meat rations
+Scrolls
+ a - a scroll of blinking {unknown}
+ d - 2 scrolls of teleportation {unknown}
+ f - a scroll of recharging {unknown}
+ h - 2 scrolls of noise {unknown}
+ j - a scroll of enchant armour {unknown}
+ p - a scroll of magic mapping {unknown}
+ q - 2 scrolls of identify {unknown}
+Jewellery
+ m - an uncursed ring of protection from fire {unknown}
+Potions
+ e - a potion of magic {unknown}
+ i - a potion of cancellation {unknown}
+ k - a potion of agility {unknown}
+ l - a potion of lignification {unknown}
+ o - a potion of curing
+ t - 2 potions of might {unknown}
+Books
+ s - a book of the Tempests   
+   
+   Spells                             Type                      Level
+   Static Discharge                   Conjuration/Air              3
+   Lightning Bolt                     Conjuration/Air              5
+   Fireball                           Conjuration/Fire             5
+   Tornado                            Air                          9
+   Shatter                            Earth                        9
+   
+   
+   Trog disapproves of the use of such an item.
+
+
+   Skills:
+ + Level 4.9 Fighting
+ * Level 8.5 Maces & Flails
+ + Level 3.9 Armour
+ - Level 2.1 Dodging
+
+
+You had 6 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)             Temple (0/1) D:4         
+
+Altars:
+
+Annotations:
+D:1 !digging for butterflies
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+
+
+Message History
+
+The gnoll shaman mumbles some strange prayers to its god against you.
+You are outlined in light. The gnoll completely misses you.
+You sock the gnoll!
+The gnoll is severely wounded.
+The gnoll hits you but does no damage. The gnoll closely misses you. You furiously retaliate! You headbutt the gnoll.
+The gnoll shaman hits you with a club.
+* * * LOW HITPOINT WARNING * * *
+You bludgeon the gnoll!!
+You feel the power of Trog in you as your rage grows.
+You kill the gnoll!
+Trog accepts your kill.
+The gnoll hits you from afar with a spear.
+* * * LOW HITPOINT WARNING * * *
+You puncture the gnoll shaman! You headbutt the gnoll shaman.
+You kill the gnoll shaman!
+Trog accepts your kill.
+You have reached level 7!
+The gnoll closely misses you.
+The gnoll hits you from afar with a spear.
+You die...
+
+      #.#      #.#
+      #.#      #.#
+      #.#      #.#
+      #.#      #.#
+      #.##     #.#
+#######..#     #.#                    .
+.........#     #.#                   #)#
+##.#####.## ####.#                   ..#
+#.........###....#                  ##.###
+##..####.........#                   .<..
+ #..#  #).###....#                   #..#
+ #..#  #..# ##..##                   #..#
+ #..## #..#  #..#              #######..##
+##8>8###..#  #..###            #.........##
+..........#  #....#            #.####.....##
+......###.#  ##.#.#        #####.###....@%.#.
+.#.##.# #.#   #.#.#   #.####...#)##.....))g..#
+.#.##.#  .#   #.#.#   #......#.#.##..........#
+.#.##.#  .#####.#.#        #...#.().............
+ #.##..  .........#        ##.##.(##.......#.###
+ #.####  .......<.###########.##.............#
+  .      #.#####.............#.(..####...#..##
+         #.    ##.###########.###.#  #####..#
+         #.     #.###########.###.#
+         #.######..%...............
+         #........#.#############.##
+   #######....[....#.#          #.#
+   .........#######.##          #..
+   ##########     ###            #
+
+
+You could see a gnoll.
+
+Vanquished Creatures
+  The ghost of Asterion the Cudgeler, an average MiBe of Trog (D:3)
+  2 hounds
+  A gnoll shaman (D:4)
+  2 orc wizards (D:3)
+  9 gnolls
+  7 adders
+  4 worms
+  9 orcs (D:3)
+  A giant cockroach (D:3)
+  7 goblins
+  8 hobgoblins
+  8 jackals
+  2 quokkas
+  2 bats (D:1)
+  6 giant newts
+  12 kobolds
+  A kobold skeleton (D:4)
+  6 rats
+88 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | D:1      | Asterion, the Minotaur Berserker, began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
+    49 | D:1      | Reached skill level 4 in Maces & Flails
+   231 | D:1      | Reached XP level 2. HP: 26/26 MP: 1/1
+   263 | D:1      | Acquired Trog's second power
+   679 | D:2      | Reached skill level 5 in Maces & Flails
+   679 | D:2      | Reached XP level 3. HP: 21/31 MP: 2/2
+  1078 | D:2      | Reached XP level 4. HP: 39/39 MP: 2/2
+  1093 | D:2      | Reached skill level 6 in Maces & Flails
+  1796 | D:3      | Reached XP level 5. HP: 24/46 MP: 2/2
+  1798 | D:3      | Reached skill level 7 in Maces & Flails
+  2148 | D:3      | Acquired Trog's third power
+  2483 | D:3      | Reached XP level 6. HP: 48/53 MP: 3/3
+  2509 | D:3      | Noticed Asterion's ghost (average MiBe)
+  2539 | D:3      | Killed Asterion's ghost
+  2539 | D:3      | Reached skill level 8 in Maces & Flails
+  3016 | D:4      | Found a staircase to the Ecumenical Temple.
+  3180 | D:4      | HP: 3/82 [gnoll shaman/club (4)]
+  3181 | D:4      | HP: 1/82 [gnoll/spear (2)]
+  3182 | D:4      | Reached XP level 7. HP: 1/60 MP: 3/3
+  3182 | D:4      | Slain by a gnoll
+
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Mace              |    61 |    53 |       ||   114
+       Morningstar       |       |    60 |       ||    60
+Invok: Berserk           |     1 |     6 |       ||     7
+  Use: Potion            |       |     2 |       ||     2
+  Eat: Chunk             |     1 |     8 |       ||     9
+       Bread ration      |       |     1 |       ||     1
+

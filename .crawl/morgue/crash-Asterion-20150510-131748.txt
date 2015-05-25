@@ -1,0 +1,1251 @@
+ERROR in 'output.cc' at line 1049: misaligned HUD (is 39, should be -1)
+
+Version: Dungeon Crawl Stone Soup 0.16-a0-4088-g7c8221e
+Platform: unix
+Bits: 64
+Game mode: normal
+Tiles: no
+
+Command line: crawl
+
+RC options:
+restart_after_game = false
+
+
+Crash caused by signal #6: Aborted
+
+Obtained 21 stack frames.
+crawl(_Z17write_stack_traceP8_IO_FILEi+0x23) [0x6296f3]: write_stack_trace(_IO_FILE*, int)
+crawl(_Z13do_crash_dumpv+0x362) [0x632bc2]: do_crash_dump()
+crawl(_Z20crash_signal_handleri+0x89) [0x629989]: crash_signal_handler(int)
+/lib64/libc.so.6(+0x34ef0) [0x7f63f12e2ef0]: 
+/lib64/libpthread.so.0(raise+0x2b) [0x7f63f1655beb]: 
+crawl() [0x632319]
+crawl() [0x632718]
+crawl(_Z11print_statsv+0x2094) [0x99c8d4]: print_stats()
+crawl(_Z13redraw_screenv+0x7d) [0x99cafd]: redraw_screen()
+/lib64/libc.so.6(+0x34ef0) [0x7f63f12e2ef0]: 
+/lib64/libpthread.so.0(read+0x2b) [0x7f63f1654f2b]: 
+/lib64/libncursesw.so.5(_nc_wgetch+0x581) [0x7f63f20a3d61]: 
+/lib64/libncursesw.so.5(wget_wch+0xcb) [0x7f63f20bdefb]: 
+crawl(_Z6getchkv+0x2d) [0xb6806d]: getchk()
+crawl(_Z7m_getchv+0xd) [0xb680ad]: m_getch()
+crawl() [0x81dd57]
+crawl(_Z25getch_with_command_macrosv+0x221) [0x822401]: getch_with_command_macros()
+crawl() [0x8302aa]
+crawl(main+0x535) [0x508f45]: 
+/lib64/libc.so.6(__libc_start_main+0xf5) [0x7f63f12cfaa5]: 
+crawl() [0x58b0eb]
+
+Trying to run gdb.
+GNU gdb (Gentoo 7.9 vanilla) 7.9
+Copyright (C) 2015 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.  Type "show copying"
+and "show warranty" for details.
+This GDB was configured as "x86_64-pc-linux-gnu".
+Type "show configuration" for configuration details.
+For bug reporting instructions, please see:
+<http://bugs.gentoo.org/>.
+Find the GDB manual and other documentation resources online at:
+<http://www.gnu.org/software/gdb/documentation/>.
+For help, type "help".
+Type "apropos word" to search for commands related to "word".
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library "/lib64/libthread_db.so.1".
+0x00007f63f1655919 in waitpid () from /lib64/libpthread.so.0
+#0  0x00007f63f1655919 in waitpid () from /lib64/libpthread.so.0
+No symbol table info available.
+#1  0x0000000000629ddb in call_gdb(_IO_FILE*) ()
+No symbol table info available.
+#2  0x0000000000632bde in do_crash_dump() ()
+No symbol table info available.
+#3  0x0000000000629989 in crash_signal_handler(int) ()
+No symbol table info available.
+#4  <signal handler called>
+No symbol table info available.
+#5  0x00007f63f1655beb in raise () from /lib64/libpthread.so.0
+No symbol table info available.
+#6  0x0000000000632319 in ?? ()
+No symbol table info available.
+#7  0x0000000000632718 in die(char const*, int, char const*, ...) ()
+No symbol table info available.
+#8  0x000000000099c8d4 in print_stats() ()
+No symbol table info available.
+#9  0x000000000099cafd in redraw_screen() ()
+No symbol table info available.
+#10 <signal handler called>
+No symbol table info available.
+#11 0x00007f63f1654f2b in read () from /lib64/libpthread.so.0
+No symbol table info available.
+#12 0x00007f63f20a3d61 in _nc_wgetch () from /lib64/libncursesw.so.5
+No symbol table info available.
+#13 0x00007f63f20bdefb in wget_wch () from /lib64/libncursesw.so.5
+No symbol table info available.
+#14 0x0000000000b6806d in getchk() ()
+No symbol table info available.
+#15 0x0000000000b680ad in m_getch() ()
+No symbol table info available.
+#16 0x000000000081dd57 in ?? ()
+No symbol table info available.
+#17 0x0000000000822401 in getch_with_command_macros() ()
+No symbol table info available.
+#18 0x00000000008302aa in ?? ()
+No symbol table info available.
+#19 0x0000000000508f45 in main ()
+No symbol table info available.
+
+Compilation info:
+<<<<<<<<<<<
+Compiled with GCC 4.8.4 on Feb 24 2015 at 09:27:55
+Build platform: x86_64-pc-linux-gnu
+Platform: x86_64-pc-linux-gnu
+CFLAGS: -O2 -pipe -Wall -Wformat-security -Wundef -Wno-array-bounds -Wno-format-zero-length -Wmissing-declarations -Wredundant-decls -Wno-parentheses -Wwrite-strings -Wshadow -pedantic -Wuninitialized -Iutil -I. -Irltiles -isystem /usr/include/ncursesw -DWIZARD -DASSERTS -DCLUA_BINDINGS -DSAVE_DIR_PATH="~/.crawl"
+LDFLAGS: -rdynamic -fuse-ld=gold -O2 
+>>>>>>>>>>>
+
+Place info:
+branch = 0, depth = 10
+
+Level id: D:10
+Level build method = , level layout type  = passages, absdepth0 = 9
+Level vaults:
+    layout_gridville
+    dpeg_oklobed_lair
+    grunt_decor_arrowhead
+    grunt_ministairs_9
+
+Markers:
+<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>
+
+Messages:
+<<<<<<<<<<<<<<<<<<<<<<
+An orc comes into view. It is wielding a hand axe.
+The orc shouts!
+An orc comes into view. It is wielding a dagger.
+Things that are here:
+a club; a leather armour
+You feel a strong urge to attack something.
+The orc shouts!
+You feel your anger subside.
+You sock the orc!
+You kill the orc!
+Trog accepts your kill.
+The orc priest barely misses you. You furiously retaliate! You headbutt the orc priest!
+You see here a hand axe.
+You sock the orc priest!
+You kill the orc priest!
+Trog accepts your kill.
+You bludgeon the orc!!
+You kill the orc!
+Trog accepts your kill.
+You are no longer berserk.
+You are exhausted.
+You feel yourself slow down. The orc hits you but does no damage.
+You barely miss the orc. You headbutt the orc.
+You kill the orc!
+Trog accepts your kill.
+No target in view!
+You see here a hand axe.
+You see here a dagger.
+Eat which item? (? for menu, Esc to quit)
+Okay, then.
+There isn't anything here!
+Eat which item? (? for menu, Esc to quit)
+You can't eat that!
+You see here an orc corpse.
+Eat which item? (? for menu, Esc to quit)
+Okay, then.
+There isn't anything here!
+You see here an orc corpse.
+You butcher the orc corpse.
+D - 3 chunks of flesh
+You see here an orc skeleton.
+Eat one of 3 chunks of flesh? (ye/n/q/i?)
+This raw flesh tastes great.
+You continue eating. x2
+Eat one of 2 chunks of flesh? (ye/n/q/i?)
+This raw flesh tastes great.
+You continue eating. x2
+Eat a chunk of flesh? (ye/n/q/i?)
+This raw flesh tastes great.
+You continue eating. x2
+You see here a hand axe.
+Things that are here:
+a club; a leather armour
+You offer a prayer to Trog.
+Trog only cares about fresh corpses!
+Trog is extremely pleased with you.
+D - a chunk of flesh
+Items here: ) [ ÷ †
+a mace of holy wrath; a chain mail; an orc corpse; an orc skeleton
+You offer a prayer to Trog.
+The orc corpse is slowly consumed by flames.
+Trog is extremely pleased with you.
+You feel yourself speed up.
+Things that are here:
+a whip; a scale mail; an orc corpse
+You offer a prayer to Trog.
+The orc corpse is slowly consumed by flames.
+Trog is extremely pleased with you.
+Things that are here:
+a club; a leather armour; an orc corpse
+You offer a prayer to Trog.
+The orc corpse is slowly consumed by flames.
+Trog is extremely pleased with you.
+Things that are here:
+a mace of holy wrath; a chain mail; an orc skeleton
+You now have 522 gold pieces (gained 15).
+You feel less exhausted.
+An orc comes into view. It is wielding a mace.
+The orc shouts!
+You sock the orc!
+You kill the orc!
+Trog accepts your kill.
+No target in view!
+Found 13 gold pieces.
+Things that are here:
+a mace; a leather armour
+You offer a prayer to Trog.
+Trog only cares about fresh corpses!
+Trog is extremely pleased with you.
+You now have 535 gold pieces (gained 13).
+An orc wizard comes into view. It is wielding a dagger.
+The orc wizard shouts!
+An orc wizard is nearby!
+The orc wizard casts a spell.
+The orc wizard flickers and vanishes!
+Deactivating autopickup; reactivate with Ctrl-A.
+No target in view!
+No target in view!
+No target in view!
+Found 14 gold pieces.
+Something hits you but does no damage.
+A red film seems to cover your vision as you go berserk!
+You feel yourself moving faster! You feel mighty! You bludgeon something!!
+Trog accepts your kill.
+Trog appreciates your killing of a magic user.
+Reactivating autopickup.
+You feel a bit more experienced.
+Things that are here:
+a dagger; a robe
+You feel a strong urge to attack something.
+You feel your anger subside.
+You are no longer berserk.
+You are exhausted.
+You feel yourself slow down.
+Things that are here:
+a dagger; a robe
+Things that are here:
+a dagger; a robe
+You offer a prayer to Trog.
+Trog only cares about fresh corpses!
+Trog is extremely pleased with you.
+You now have 550 gold pieces (gained 15).
+An orc comes into view. It is wielding a club.
+The orc shouts!
+Found 15 gold pieces.
+You offer a prayer to Trog.
+Trog is extremely pleased with you.
+An orc is nearby!
+You sock the orc!
+You kill the orc!
+Trog accepts your kill.
+No target in view!
+No target in view!
+No target in view!
+No target in view!
+You now have 564 gold pieces (gained 14).
+You now have 579 gold pieces (gained 15).
+A goblin comes into view. It is wielding a club.
+The goblin shouts!
+You feel yourself speed up.
+The goblin hits you but does no damage.
+You hit the goblin. Your headbutt misses the goblin.
+The goblin is moderately wounded.
+You hit the goblin.
+You kill the goblin!
+Trog accepts your kill.
+No target in view!
+No target in view!
+No target in view!
+You now have 609 gold pieces (gained 30).
+Things that are here:
+a club; a goblin corpse
+You offer a prayer to Trog.
+The goblin corpse is consumed in a column of flame.
+Trog is extremely pleased with you.
+Found two stone staircases leading down.
+You feel less exhausted.
+You now have 613 gold pieces (gained 4).
+An orc comes into view. It is wielding a hand axe.
+An orc is nearby!
+You completely miss the orc. Your headbutt misses the orc.
+You bludgeon the orc!!
+You kill the orc!
+Trog accepts your kill.
+No target in view!
+Things that are here:
+a hand axe; an orc corpse
+You now have 628 gold pieces (gained 15).
+Key pressed, stopping explore.
+You offer a prayer to Trog.
+Trog is extremely pleased with you.
+You now have 640 gold pieces (gained 12).
+An orc comes into view. It is wielding a mace.
+The orc shouts!
+The orc throws a tomahawk.
+The tomahawk hits you but does no damage.
+You see here a tomahawk.
+Unknown command.
+Things that are here:
+a hand axe; an orc corpse
+You offer a prayer to Trog.
+The orc corpse is slowly consumed by flames.
+Trog is extremely pleased with you.
+The orc throws a tomahawk.
+The tomahawk hits you but does no damage.
+You see here a tomahawk.
+The orc throws a tomahawk.
+The tomahawk hits you but does no damage.
+You see here a tomahawk.
+A red film seems to cover your vision as you go berserk!
+You feel yourself moving faster! You feel mighty! You sock the orc!
+You kill the orc!
+Trog accepts your kill.
+No target in view!
+No target in view!
+Calm down first, please.
+You offer a prayer to Trog.
+Trog is exalted by your worship.
+Calm down first, please.
+Things that are here:
+a mace; a chain mail; an orc corpse
+You feel a strong urge to attack something.
+You feel your anger subside.
+You are no longer berserk.
+You are exhausted.
+You feel yourself slow down.
+All of the chunks of flesh in your inventory have rotted away.
+Things that are here:
+a mace; a chain mail; an orc corpse
+You feel yourself speed up.
+Key pressed, stopping explore.
+Unknown command.
+Things that are here:
+a mace; a chain mail; an orc corpse
+You offer a prayer to Trog.
+The orc corpse is consumed in a column of flame.
+Trog is exalted by your worship.
+You feel less exhausted.
+Found an escape hatch in the floor.
+You now have 656 gold pieces (gained 16).
+There is an escape hatch in the floor here.
+Key pressed, stopping explore.
+What do you say?
+ t - Shout!
+Orders for allies: a - Attack new target.
+                   r - Retreat!             s - Stop attacking.
+                   w - Wait here.           f - Follow me.
+ Anything else - Stay silent.
+You shout for attention!
+You see here a club.
+Key pressed, stopping explore.
+What do you say?
+ t - Shout!
+Orders for allies: a - Attack new target.
+                   r - Retreat!             s - Stop attacking.
+                   w - Wait here.           f - Follow me.
+ Anything else - Stay silent.
+You shout for attention!
+You now have 667 gold pieces (gained 11).
+Done exploring.
+Done exploring.
+Done exploring.
+Done exploring.
+There is a stone staircase leading down here.
+You climb downwards.
+Found 55 gold pieces. Found a stone staircase leading down.
+There is a stone staircase leading up here.
+You now have 676 gold pieces (gained 9).
+You now have 689 gold pieces (gained 13).
+You now have 706 gold pieces (gained 17).
+You now have 722 gold pieces (gained 16).
+You now have 739 gold pieces (gained 17).
+You now have 755 gold pieces (gained 16).
+You now have 768 gold pieces (gained 13).
+An orc comes into view.
+The orc moves out of view.
+Found 12 gold pieces.
+An orc is nearby!
+An orc priest comes into view. It is wielding a dagger.
+The orc priest shouts!
+Found a stone staircase leading down.
+An orc comes into view. It is wielding a hand axe.
+You found a shadow trap!
+The orc shouts!
+An orc comes into view. It is wielding a short sword.
+The orc shouts!
+You hit the orc. You headbutt the orc.
+You kill the orc!
+Trog accepts your kill.
+An orc comes into view. It is wielding a short sword.
+Found Koosyowo's Antique Armour Shoppe.
+A hobgoblin comes into view. It is wielding a club.
+The hobgoblin shouts!
+Found 10 gold pieces.
+You barely miss the orc priest. Your headbutt misses the orc priest.
+You hit the orc priest.
+The orc priest is moderately wounded.
+The orc priest hits you but does no damage.
+You hit the orc priest.
+The orc priest is severely wounded.
+The orc barely misses you.
+The orc priest hits you but does no damage.
+You sock the orc priest!
+You kill the orc priest!
+Trog accepts your kill.
+Something appears at your feet!
+Trog grants you a gift!
+You bludgeon the orc!!
+You kill the orc!
+Trog accepts your kill.
+You closely miss the orc. You headbutt the orc, but do no damage. The orc hits you but does no damage.
+You hit the orc.
+You kill the orc!
+Trog accepts your kill.
+You hit the orc.
+The orc is moderately wounded.
+You bludgeon the orc!!
+You kill the orc!
+Trog accepts your kill.
+A red film seems to cover your vision as you go berserk!
+You feel yourself moving faster! You feel mighty! You hit the hobgoblin.
+You feel the power of Trog in you as your rage grows.
+You kill the hobgoblin!
+Trog accepts your kill.
+No target in view!
+No target in view!
+You start waiting.
+You feel a strong urge to attack something.
+You start waiting.
+You feel your anger subside.
+You start waiting.
+Your blood rage is quickly leaving you.
+You are no longer berserk.
+You are exhausted.
+You feel yourself slow down.
+D - a glowing rapier {god gift}
+Drop what? 31/52 slots (_ for help) (? for menu, Esc to quit)
+Okay, then.
+Unknown command.
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+You feel magic leave you.
+D - a +2 antimagic rapier (weapon)
+Drop what? 31/52 slots (_ for help) (? for menu, Esc to quit)
+You feel magic returning to you. You are now empty-handed. You drop a +2 antimagic rapier.
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+Your hands tingle!
+n - the +6 flail of Quick Death (weapon) {speed, *Rage +Rage rC- rN+ Str+7}
+Things that are here:
+a club; a dagger
+Things that are here:
+a short sword; an orc corpse
+You offer a prayer to Trog.
+The orc corpse is consumed in a column of flame.
+Trog is exalted by your worship.
+Things that are here:
+a club; a dagger
+You offer a prayer to Trog.
+Trog only cares about fresh corpses!
+Trog is exalted by your worship.
+Things that are here:
+a hand axe; a chain mail
+There isn't anything to butcher here.
+Eat which item? (? for menu, Esc to quit)
+You can't eat that!
+Things that are here:
+a short sword; a leather armour; an orc corpse
+You butcher the orc corpse.
+D - a chunk of flesh
+Things that are here:
+a short sword; a leather armour
+Eat a chunk of flesh? (ye/n/q/i?)
+This raw flesh tastes like chicken!
+You continue eating. x2
+Eat which item? (? for menu, Esc to quit)
+You can't eat that!
+You offer a prayer to Trog.
+Trog only cares about fresh corpses!
+Trog is exalted by your worship.
+Things that are here:
+a hand axe; a chain mail
+You offer a prayer to Trog.
+Trog only cares about fresh corpses!
+Trog is exalted by your worship.
+Things that are here:
+a club; a dagger
+You offer a prayer to Trog.
+Trog only cares about fresh corpses!
+Trog is exalted by your worship.
+You see here a short sword.
+You offer a prayer to Trog.
+Trog only cares about fresh corpses!
+Trog is exalted by your worship.
+You now have 779 gold pieces (gained 11).
+You feel yourself speed up.
+There is an entrance to Koosyowo's Antique Armour Shoppe here.
+Magic restored.
+You feel less exhausted.
+You now have 789 gold pieces (gained 10).
+You now have 801 gold pieces (gained 12).
+You now have 821 gold pieces (gained 20).
+You now have 838 gold pieces (gained 17).
+An orc warrior comes into view. It is wielding a flail.
+The orc warrior shouts!
+An orc warrior is nearby!
+An orc comes into view. It is wielding a whip.
+The orc shouts!
+An orc and an orc knight come into view.
+An orc comes into view.
+The orc knight shouts! The orc shouts! The orc shouts!
+The orc knight roars a battlecry!
+The orcs go into a battle-frenzy!
+An orc comes into view.
+A goblin comes into view. It is wielding a dagger.
+The orc warrior barely misses you.
+The orc shouts!
+You hit the orc warrior.
+The orc warrior is moderately wounded.
+You hit the orc warrior.
+The orc warrior is heavily wounded.
+The orc knight unwields an uncursed glaive.
+The orc knight wields an arbalest. The orc knight shoots a bolt. The bolt hits you! The orc warrior barely misses you.
+You sock the orc warrior!
+You kill the orc warrior!
+Trog accepts your kill.
+You barely miss the orc. You headbutt the orc!
+You kill the orc!
+Trog accepts your kill.
+A red film seems to cover your vision as you go berserk!
+You feel yourself moving faster! You feel mighty! You bludgeon the orc!!
+You kill the orc!
+Trog accepts your kill.
+You closely miss the orc knight. Your headbutt misses the orc knight.
+The orc knight unwields an uncursed arbalest.
+The orc knight wields an uncursed glaive.
+The orc knight hits you with an uncursed glaive!!
+You bludgeon the orc knight!! You headbutt the orc knight.
+The orc knight is heavily wounded.
+You thump the orc knight! Your headbutt misses the orc knight.
+The orc knight is severely wounded.
+You hit the orc knight.
+The orc knight is severely wounded.
+You barely miss the orc knight. You headbutt the orc knight.
+The orc knight is severely wounded.
+You thump the orc knight!
+The orc knight is almost dead.
+The orc knight misses you.
+You hit the orc knight. You headbutt the orc knight.
+The orc knight is almost dead.
+The goblin hits you but does no damage.
+You hit the orc knight. You headbutt the orc knight!
+You kill the orc knight!
+Trog accepts your kill.
+Your Armour skill increases to level 11!
+You sock the goblin!
+You kill the goblin!
+Trog accepts your kill.
+The orc throws a tomahawk.
+The tomahawk hits you but does no damage.
+You sock the orc!
+You kill the orc!
+Trog accepts your kill.
+The orc closely misses you.
+Items here: ))) [ ††
+a dagger x2
+a flail; a chain mail; an orc corpse; an orc corpse
+You sock the orc!
+You feel the power of Trog in you as your rage grows.
+You kill the orc!
+Trog accepts your kill.
+No target in view!
+You start resting.
+You feel a strong urge to attack something.
+You start resting.
+You feel your anger subside.
+You are no longer berserk.
+You are exhausted.
+You feel yourself slow down.
+You see here a tomahawk.
+Items here: ))) [ ††
+a dagger x2
+a flail; a chain mail; an orc corpse; an orc corpse
+You offer a prayer to Trog.
+The orc corpse is consumed in a column of flame.
+The orc corpse is slowly consumed by flames.
+Trog is exalted by your worship.
+Things that are here:
+a whip; a leather armour
+You offer a prayer to Trog.
+Trog only cares about fresh corpses!
+Trog is exalted by your worship.
+You see here a tomahawk.
+Items here: ( )) [[ †
+a leather armour; an uncursed glaive; an uncursed arbalest; 15 bolts; a chain mail; an orc corpse
+You butcher the orc corpse.
+D - 2 chunks of flesh
+Items here: ( )) [[
+a leather armour; an uncursed glaive; an uncursed arbalest; 15 bolts; a chain mail
+Eat one of 2 chunks of flesh? (ye/n/q/i?)
+This raw flesh tastes great.
+You continue eating. x2
+Eat a chunk of flesh? (ye/n/q/i?)
+This raw flesh tastes great.
+You continue eating. x2
+Eat which item? (? for menu, Esc to quit)
+Okay, then.
+You see here a tomahawk.
+Items here: ( )) [[
+a leather armour; an uncursed glaive; an uncursed arbalest; 15 bolts; a chain mail
+Items here: ))) [
+a dagger x2
+a flail; a chain mail
+Things that are here:
+a whip; a leather armour
+You see here a tomahawk.
+You feel yourself speed up.
+You now have 847 gold pieces (gained 9).
+You feel less exhausted.
+Found a stone staircase leading down.
+You now have 865 gold pieces (gained 18).
+An orc comes into view. It is wielding a dagger.
+The orc shouts!
+The orc moves out of view.
+Found 10 gold pieces.
+An orc and an orc priest come into view.
+An orc comes into view. It is wielding a whip.
+The orc shouts! The orc priest shouts! The orc shouts!
+Found 12 gold pieces.
+An orc and an orc priest come into view.
+The orc shouts! The orc priest shouts!
+The orc hits you but does no damage.
+The orc priest invokes the aid of Beogh against you.
+Something smites you!
+Found 12 gold pieces.
+You see here 14 gold pieces.
+You bludgeon the orc!!
+You kill the orc!
+Trog accepts your kill.
+You see here a dagger.
+You sock the orc!
+You kill the orc!
+Trog accepts your kill.
+The orc priest invokes the aid of Beogh against you.
+Something smites you!
+You see here a mace of protection.
+You hit the orc priest. Your headbutt misses the orc priest.
+The orc priest is moderately wounded.
+The orc priest closely misses you.
+You hit the orc priest.
+You headbutt the orc priest, but do no damage.
+The orc priest is heavily wounded.
+The orc priest hits you but does no damage.
+You sock the orc priest!
+You kill the orc priest!
+Trog accepts your kill.
+The orc hits you with a whip. The orc priest barely misses you. The orc hits you but does no damage.
+You bludgeon the orc priest!!
+You kill the orc priest!
+Trog accepts your kill.
+You bludgeon the orc!!
+You kill the orc!
+Trog accepts your kill.
+The orc hits you but does no damage.
+You hit the orc but do no damage. Your headbutt misses the orc.
+You bludgeon the orc!!
+You kill the orc!
+Trog accepts your kill.
+No target in view!
+Things that are here:
+a hand axe; an orc corpse
+You offer a prayer to Trog.
+The orc corpse is slowly consumed by flames.
+Trog is exalted by your worship.
+You now have 882 gold pieces (gained 17).
+Things that are here:
+a mace; an orc corpse
+You offer a prayer to Trog.
+The orc corpse is consumed in a column of flame.
+Trog is exalted by your worship.
+Things that are here:
+a whip; a scale mail
+You offer a prayer to Trog.
+Trog only cares about fresh corpses!
+Trog is exalted by your worship.
+You now have 896 gold pieces (gained 14).
+You now have 918 gold pieces (gained 22).
+Items here: )) [ †
+a hand axe; a ring mail; a dagger; an orc corpse
+You offer a prayer to Trog.
+The orc corpse is slowly consumed by flames.
+Trog is exalted by your worship.
+You now have 928 gold pieces (gained 10).
+You now have 940 gold pieces (gained 12).
+An orc comes into view.
+The orc shouts!
+An orc is nearby!
+2 orcs come into view.
+The orc shouts! x2
+You hit the orc.
+The orc is almost dead.
+The orc hits you.
+You bludgeon the orc!!
+You kill the orc!
+Trog accepts your kill.
+You see here an orc corpse.
+The orc hits you but does no damage. The orc barely misses you.
+You barely miss the orc. The orc hits you with a trident. The orc hits you but does no damage.
+You sock the orc! You headbutt the orc.
+You kill the orc!
+Trog accepts your kill.
+You thump the orc!
+You kill the orc!
+Trog accepts your kill.
+No target in view!
+No target in view!
+You see here an orc corpse.
+You butcher the orc corpse.
+D - a chunk of flesh
+You see here an orc skeleton.
+Eat a chunk of flesh? (ye/n/q/i?)
+This raw flesh tastes great.
+You continue eating. x2
+You now have 948 gold pieces (gained 8).
+Things that are here:
+a dagger of freezing; an orc corpse
+You offer a prayer to Trog.
+The orc corpse is consumed in a column of flame.
+Trog is exalted by your worship.
+You see here an orc skeleton.
+You now have 960 gold pieces (gained 12).
+Key pressed, stopping explore.
+Found a stone staircase leading up.
+Found a stone staircase leading up.
+A goblin comes into view. It is wielding a club.
+The goblin shouts!
+A goblin is nearby!
+A red film seems to cover your vision as you go berserk!
+You feel yourself moving faster! You feel mighty! You sock the goblin!
+You kill the goblin!
+Trog accepts your kill.
+No target in view!
+No target in view!
+Calm down first, please.
+You start resting.
+You feel a strong urge to attack something.
+You start resting.
+You feel your anger subside.
+You start resting. You are no longer berserk.
+You are exhausted.
+You feel yourself slow down.
+Eat which item? (? for menu, Esc to quit)
+Okay, then.
+Things that are here:
+a club; a goblin corpse
+There is a stone staircase leading up here.
+You feel yourself speed up.
+Key pressed, stopping explore.
+What do you say?
+ t - Shout!
+Orders for allies: a - Attack new target.
+                   r - Retreat!             s - Stop attacking.
+                   w - Wait here.           f - Follow me.
+ Anything else - Stay silent.
+You shout for attention!
+You found a teleport trap!
+You feel less exhausted.
+You see here a tomahawk.
+Items here: ))) [
+a dagger x2
+a flail; a chain mail
+You see here a tomahawk.
+HP restored.
+An orc wizard comes into view. It is wielding a dagger.
+What do you say?
+ t - Shout!
+Orders for allies: a - Attack new target.
+                   r - Retreat!             s - Stop attacking.
+                   w - Wait here.           f - Follow me.
+ Anything else - Stay silent.
+You shout for attention! The orc wizard shouts!
+An orc priest comes into view. It is wielding a short sword.
+What do you say?
+ t - Shout!
+Orders for allies: a - Attack new target.
+                   r - Retreat!             s - Stop attacking.
+                   w - Wait here.           f - Follow me.
+ Anything else - Stay silent.
+Okay, then.
+An orc warrior comes into view. It is wielding a glaive.
+The orc warrior shouts! The orc priest shouts!
+The orc wizard gestures at you while chanting.
+You easily resist.
+The orc wizard casts a spell.
+The orc wizard flickers and vanishes!
+Deactivating autopickup; reactivate with Ctrl-A.
+The orc priest's eyes start to glow.
+The orc warrior hits you with a glaive!
+You bludgeon the orc warrior!!
+You headbutt the orc warrior, but do no damage.
+The orc warrior is severely wounded.
+You hear some strange, mumbled words.
+The puff of flame misses you. The orc priest misses you.
+You closely miss the orc warrior.
+The orc warrior is severely wounded.
+The orc warrior closely misses you.
+You thump the orc warrior!
+You kill the orc warrior!
+Trog accepts your kill.
+Something hits you.
+The orc priest hits you with a short sword.
+You hit the orc priest.
+You headbutt the orc priest, but do no damage.
+The orc priest is lightly wounded.
+You hit the orc priest.
+The orc priest is heavily wounded.
+You hear some strange, mumbled words.
+Something tries to affect you, but you resist.
+The orc priest barely misses you.
+You hit the orc priest but do no damage.
+The orc priest is heavily wounded.
+Something hits you but does no damage.
+You hit the orc priest but do no damage.
+You headbutt the orc priest.
+You kill the orc priest!
+Trog accepts your kill.
+No target in view!
+No target in view!
+You miss something. Your headbutt misses something. Something hits you but does no damage.
+You miss something. Your headbutt misses something.
+You barely miss something. You headbutt something. Something completely misses you.
+You sock something!
+Trog accepts your kill.
+Trog appreciates your killing of a magic user.
+Reactivating autopickup.
+You feel a bit more experienced.
+Things that are here:
+a dagger; a robe; an orc corpse
+You offer a prayer to Trog.
+Trog is exalted by your worship.
+Things that are here:
+a dagger; a robe; an orc corpse
+You offer a prayer to Trog.
+The orc corpse is slowly consumed by flames.
+Trog is exalted by your worship.
+Things that are here:
+a short sword; an orc corpse
+Eat which item? (? for menu, Esc to quit)
+Okay, then.
+You butcher the orc corpse.
+D - 2 chunks of flesh
+Things that are here:
+a short sword; an orc skeleton
+Things that are here:
+a short sword; an orc skeleton
+There isn't anything to butcher here.
+Eat one of 2 chunks of flesh? (ye/n/q/i?)
+This raw flesh tastes great.
+You continue eating. x2
+Things that are here:
+a glaive; a chain mail
+You offer a prayer to Trog.
+Trog only cares about fresh corpses!
+Trog is exalted by your worship.
+Things that are here:
+a short sword; an orc skeleton
+You offer a prayer to Trog.
+Trog only cares about fresh corpses!
+Trog is exalted by your worship.
+Things that are here:
+a dagger; a robe
+You offer a prayer to Trog.
+Trog only cares about fresh corpses!
+Trog is exalted by your worship.
+Things that are here:
+a short sword; an orc skeleton
+Things that are here:
+a glaive; a chain mail
+Key pressed, stopping explore.
+Eat a chunk of flesh? (ye/n/q/i?)
+This raw flesh tastes great.
+You continue eating. x2
+HP restored.
+Things that are here:
+a whip; a leather armour
+You see here a tomahawk.
+Done exploring.
+You're too full to eat anything.
+Done exploring.
+Done exploring.
+Done exploring.
+Drop what? 30/52 slots (_ for help) (? for menu, Esc to quit)
+Okay, then.
+Unknown command.
+You drop a +4 antimagic dire flail.
+Unknown command.
+Unknown command.
+Drop what? 29/52 slots (_ for help) (? for menu, Esc to quit)
+Okay, then.
+Unknown command.
+Read which item? (? for menu, Esc to quit)
+You aren't carrying any weapons that can be enchanted.
+Unknown command.
+d - a +4 antimagic dire flail
+Done exploring.
+Done exploring.
+Done exploring.
+Items here: ( )) [[
+a leather armour; an uncursed glaive; an uncursed arbalest; 15 bolts; a chain mail
+Things that are here:
+a dagger; a robe
+There is a stone staircase leading up here.
+You climb upwards.
+There is a stone staircase leading down here.
+There is a staircase back to the Dungeon here.
+You climb upwards. Welcome back to the Dungeon!
+There is a staircase to the Orcish Mines here.
+There is a stone staircase leading down here.
+You climb downwards.
+There is a stone staircase leading up here.
+Unknown command.
+No target in view!
+You open the door.
+Found a stone staircase leading down.
+A hobgoblin comes into view. It is wielding a club.
+The hobgoblin shouts!
+A troll comes into view.
+There is an open door here.
+The troll shouts!
+The hobgoblin misses you.
+You hit the troll.
+The troll is lightly wounded.
+You closely miss the troll. You headbutt the troll!
+The troll is severely wounded.
+The hobgoblin hits you but does no damage.
+You thump the troll!
+You kill the troll!
+Trog accepts your kill.
+You sock the hobgoblin!
+You kill the hobgoblin!
+Trog accepts your kill.
+Things that are here:
+a club; a hobgoblin corpse
+You offer a prayer to Trog.
+The hobgoblin corpse is slowly consumed by flames.
+Trog is extremely pleased with you.
+Found an escape hatch in the floor.
+Found a staircase to the Lair.
+Marking area around the oklob plant as unsafe for travelling.
+An oklob plant comes into view.
+Drink which item? (? for menu, Esc to quit)
+Okay, then.
+Use which ability? (? or * to list) 
+Your skin crawls.
+You feel resistant to hostile enchantments.
+You feel slightly less full.
+The oklob plant spits acid at you.
+The splash of acid hits you! The acid corrodes your equipment! The acid burns!
+The oklob plant spits acid at you.
+The splash of acid misses you.
+A hound comes into view.
+The hound barks!
+The oklob plant spits acid at you.
+The splash of acid hits you! The acid burns!
+A red film seems to cover your vision as you go berserk!
+You feel yourself moving faster! You feel mighty! You bludgeon the oklob plant!!
+The oklob plant is severely damaged.
+A giant gecko comes into view.
+You bludgeon the oklob plant!!
+You destroy the oklob plant!
+Your Fighting skill increases to level 12!
+You feel a strong urge to attack something.
+The hound bites you.
+You sock the hound! You headbutt the hound.
+The hound is almost dead.
+You bludgeon the hound!!
+You kill the hound!
+Trog accepts your kill.
+The giant gecko bites you but does no damage.
+You barely miss the giant gecko.
+You bludgeon the giant gecko!!
+You kill the giant gecko!
+Trog accepts your kill.
+You feel a strong urge to attack something.
+You start resting. You are no longer berserk.
+You are exhausted.
+You feel yourself slow down.
+You start resting.
+A rat comes into view.
+The rat barely misses you. You furiously retaliate! You headbutt the rat.
+You kill the rat!
+Trog accepts your kill.
+No target in view!
+No target in view!
+Eat which item? (? for menu, Esc to quit)
+Okay, then.
+You repair your equipment.
+You feel the effects of Trog's Hand fading.
+D - a tiny emerald amulet
+Your skin stops crawling.
+You feel less resistant to hostile enchantments.
+You open the door.
+There is an open door here.
+You feel yourself speed up.
+You open the door.
+There is an open door here.
+A centaur comes into view.
+The centaur shouts!
+The centaur wields a shortbow. The centaur shoots an arrow. The arrow barely misses you.
+Found a stone staircase leading down.
+You see here an arrow.
+The centaur shoots an arrow. The arrow hits you.
+You see here an arrow.
+The centaur shoots an arrow. The arrow hits you but does no damage.
+You see here an arrow.
+The centaur shoots an arrow. The arrow closely misses you.
+The centaur unwields an uncursed shortbow.
+The centaur barely misses you.
+The centaur hits you but does no damage.
+You hit the centaur.
+You headbutt the centaur, but do no damage.
+The centaur is lightly wounded.
+The centaur barely misses you. You furiously retaliate!
+You headbutt the centaur, but do no damage.
+You hit the centaur.
+The centaur is lightly wounded.
+The centaur hits you but does no damage.
+You bludgeon the centaur!!
+You kill the centaur!
+Trog accepts your kill.
+You feel less exhausted.
+No target in view!
+Things that are here:
+an uncursed shortbow; 3 arrows; a centaur corpse
+You butcher the centaur corpse.
+E - 3 chunks of flesh
+Things that are here:
+an uncursed shortbow; 3 arrows
+Eat one of 3 chunks of flesh? (ye/n/q/i?)
+This raw flesh tastes great.
+You continue eating. x2
+You're too full to eat anything.
+Things that are here:
+an uncursed shortbow; 3 arrows
+You offer a prayer to Trog.
+Trog only cares about fresh corpses!
+Trog is extremely pleased with you.
+HP restored.
+You open the door.
+There is an open door here.
+There is a stone staircase leading down here.
+You open the door.
+There is an open door here.
+You open the door.
+There is an open door here.
+You now have 975 gold pieces (gained 15).
+You open the door.
+There is an open door here.
+You open the door.
+Found an escape hatch in the ceiling.
+There is an open door here.
+Found a stone staircase leading down.
+You now have 987 gold pieces (gained 12).
+A crimson imp comes into view.
+The crimson imp shouts!
+A crimson imp is nearby!
+The crimson imp hits you but does no damage.
+You miss the crimson imp.
+You hit the crimson imp. You headbutt the crimson imp!
+The crimson imp is severely wounded.
+You sock the crimson imp!
+You kill the crimson imp!
+Trog accepts your kill.
+No target in view!
+Found a dagger.
+You open the door.
+There is an open door here.
+You open the door.
+There is an open door here.
+You open the door.
+Found a dagger.
+You open the door.
+There is an open door here.
+A hippogriff comes into view.
+The hippogriff screeches!
+You barely miss the hippogriff. You headbutt the hippogriff!
+The hippogriff is moderately wounded.
+You barely miss the hippogriff. You headbutt the hippogriff.
+The hippogriff is heavily wounded.
+You thump the hippogriff! You headbutt the hippogriff.
+The hippogriff is severely wounded.
+The hippogriff bites you but does no damage.
+The hippogriff pecks you but does no damage.
+The hippogriff barely misses you.
+You sock the hippogriff!
+You kill the hippogriff!
+Trog accepts your kill.
+No target in view!
+Eat one of 2 chunks of flesh? (ye/n/q/i?)
+This raw flesh tastes great.
+You continue eating. x2
+You see here a hippogriff corpse.
+You offer a prayer to Trog.
+The hippogriff corpse is consumed in a column of flame.
+Trog is extremely pleased with you.
+Unknown command.
+You're too full to eat anything.
+Unknown command.
+That item cannot be evoked!
+Unknown command.
+Evoke which item? (* to show all) (? for menu, Esc to quit)
+Okay, then.
+Put on which piece of jewellery? (? for menu, Esc to quit)
+You remove your amulet of the gourmand.
+You feel strangely static.
+D - an amulet of stasis (around neck)
+Put on which piece of jewellery? (? for menu, Esc to quit)
+Okay, then.
+Put on which piece of jewellery? (? for menu, Esc to quit)
+You remove your amulet of stasis.
+You feel a craving for the dungeon's cuisine.
+u - an amulet of the gourmand (around neck)
+
+>>>>>>>>>>>>>>>>>>>>>>
+
+Game state:
+
+mouse_enabled: 0, waiting_for_command: 1, terminal_resized: 0
+io_inited: 1, need_save: 1, saving_game: 0, updating_scores: 0:
+seen_hups: 0, map_stat_gen: 0, type: 1, arena_suspended: 0
+Last resize was 0 seconds ago.
+
+prev_cmd = CMD_MOVE_LEFT
+repeat_cmd = CMD_NO_CMD
+
+Player:
+{{{{{{{{{{{
+Name:       [Asterion]
+Species:    Minotaur
+Job:        Berserker
+
+class_name: Berserker
+
+HP: 97/97; mods: 0/0
+MP: 4/4; mod: 0
+Stats: 36 (36) 4 (4) 17 (17)
+Position: (52, 37), god: Trog (10), turn_is_over: 0, banished: 0
+Standing on/in/over feature: floor
+
+Skills (mode: manual)
+Name            | can_train | train | training | level | points | progress
+Fighting        |     X     |   1   |    50    |   12  |   3091 | 122/601
+Short Blades    |           |   0   |     0    |    0  |      0 | 0/42
+Long Blades     |           |   0   |     0    |    0  |      0 | 0/35
+Axes            |           |   0   |     0    |    0  |      0 | 0/35
+Maces & Flails  |     X     |   0   |     0    |   11  |   2751 | 312/530
+Polearms        |           |   0   |     0    |    0  |      0 | 0/35
+Staves          |           |   0   |     0    |    0  |      0 | 0/35
+Slings          |           |   0   |     0    |    0  |      0 | 0/42
+Bows            |           |   0   |     0    |    0  |      0 | 0/42
+Crossbows       |           |   0   |     0    |    0  |      0 | 0/42
+Throwing        |     X     |   0   |     0    |    0  |      0 | 0/50
+Armour          |     X     |   1   |    50    |   11  |   2861 | 422/530
+Dodging         |     X     |   0   |     0    |    2  |    151 | 25/126
+Stealth         |     X     |   0   |     0    |    0  |      0 | 0/59
+Shields         |           |   0   |     0    |    0  |      0 | 0/35
+Unarmed Combat  |     X     |   0   |     0    |    0  |      0 | 0/42
+Spellcasting    |     X     |   0   |     0    |    0  |      0 | 0/100
+Conjurations    |           |   0   |     0    |    0  |      0 | 0/84
+Hexes           |           |   0   |     0    |    0  |      0 | 0/100
+Charms          |           |   0   |     0    |    0  |      0 | 0/100
+Summonings      |           |   0   |     0    |    0  |      0 | 0/84
+Necromancy      |           |   0   |     0    |    0  |      0 | 0/84
+Translocations  |           |   0   |     0    |    0  |      0 | 0/84
+Transmutations  |           |   0   |     0    |    0  |      0 | 0/70
+Fire Magic      |           |   0   |     0    |    0  |      0 | 0/84
+Ice Magic       |           |   0   |     0    |    0  |      0 | 0/84
+Air Magic       |           |   0   |     0    |    0  |      0 | 0/84
+Earth Magic     |           |   0   |     0    |    0  |      0 | 0/70
+Poison Magic    |           |   0   |     0    |    0  |      0 | 0/84
+Invocations     |           |   0   |     0    |    0  |      0 | 0/50
+Evocations      |     X     |   0   |     0    |    0  |      0 | 0/50
+
+Spell bugs:
+
+Durations:
+    #44: 15
+
+Attributes:
+    #12: 987
+    #23: 9958
+    #24: -1303844018
+    #27: 10454
+    #49: 1115
+    #59: 1
+
+Mutations:
+    horns: 2 (innate)
+    agile: 1
+    sense surroundings: 1
+    spit poison: 1
+    weak: 2
+    MP-powered wands: 1
+
+Inventory bugs:
+
+Equipment:
+    eq slot #0, inv slot #13: +6 flail of Quick Death {speed, *Rage +Rage rC- rN+ Str+7}
+    eq slot #1, inv slot #1: +2 cloak
+    eq slot #6, inv slot #25: +0 plate armour "Ofurum" {rC+ rN+ Str+4}
+    eq slot #7, inv slot #5: +4 ring of strength
+    eq slot #8, inv slot #24: +5 ring of dexterity
+    eq slot #9, inv slot #20: amulet of the gourmand
+
+}}}}}}}}}}}
+
+
+Screenshot:
+     #.##.#
+ .#.##.##.#*    ,
+..+..+..+.#* *
+..#.##.##.. , ..
+.)#.##)##.##+#...
+..#.##.##.#......
+..#.##.##.+......
+..#.##'##.#.....,
+..#.##....#...# *
+..'....##'#...+
+..#.##'#..@...#
+..#.##.#......#
+..#+##.+...#+##
+.....#+#...# ,
+...........+  *
+...........#  *,,
+...........#
+
+clua stack:
+
+
+dlua stack:
+
+
+Lua persistent data:
+<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>
+
+Lua marker contents:
+<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>

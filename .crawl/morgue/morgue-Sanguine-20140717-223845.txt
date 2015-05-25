@@ -1,0 +1,126 @@
+ Dungeon Crawl Stone Soup version 0.13.1 (console) character file.
+
+20 Sanguine the Skirmisher (level 1, 0/16 HPs)
+             Began as a Demonspawn Abyssal Knight on July 17, 2014.
+             Was a Follower of Lugonu.
+             Slain by a sun demon (16 damage)
+             ... on Level 1 of the Abyss.
+             The game lasted 00:00:26 (55 turns).
+
+Sanguine the Skirmisher (Demonspawn Abyssal Knight)   Turns: 55, Time: 00:00:26
+
+HP   0/16        AC  3     Str 12      XL: 1   Next:  0%
+MP   1/1         EV 10     Int 13      God: Lugonu [*.....]
+Gold 20          SH  0     Dex 12      Spells:  0 memorised,  0 levels left
+
+Res.Fire  : . . .   See Invis. : .   a - +2 mace
+Res.Cold  : . . .   Warding    : .   b - +0 leather armour
+Life Prot.: . . .   Conserve   : .   (no shield)
+Res.Poison: .       Res.Corr.  : .   (no helmet)
+Res.Elec. : .       Clarity    : .   (no cloak)
+Sust.Abil.: . .     Spirit.Shd : .   (no gloves)
+Res.Mut.  : .       Stasis     : .   (no boots)
+Res.Rott. : .       Flight     : .   (no amulet)
+Saprovore : . . .                    (no ring)
+                                     (no ring)
+
+@: not resistant to hostile enchantments, very unstealthy
+A: no striking features
+a: Depart the Abyss, Renounce Religion
+
+
+You were on level 1 of the Abyss.
+You worshipped Lugonu.
+Lugonu was aware of your devotion.
+You were not hungry.
+
+You visited 0 branches of the dungeon, and saw 0 of its levels.
+You visited the Abyss 1 time.
+
+Inventory:
+
+Hand weapons
+ a - a +2,+2 mace (weapon)
+Armour
+ b - a +0 leather armour (worn)
+Comestibles
+ c - a bread ration
+
+
+   Skills:
+ + Level 3.0 Fighting
+ + Level 1.7 Maces & Flails
+ + Level 1.7 Armour
+ + Level 0.8 Dodging
+ + Level 2.4 Invocations
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (0/27)            
+
+Altars:
+
+Message History
+
+Welcome, Sanguine the Demonspawn Abyssal Knight.
+The destiny of this world depends on the Orb of Zot. Go down and get it!
+Lugonu says: Take this gate or call upon me to unleash you onto the world, my servant!
+Press ? for a list of commands and other information.
+Found a corrupted altar of Lugonu.
+There is a corrupted altar of Lugonu here.
+Found a gateway leading out of the Abyss.
+An iron imp comes into view.
+The iron imp shouts, "Leave, thou foppish pigeon-egg baggage!"
+A sun demon comes into view.
+The sun demon shouts!
+You barely miss the sun demon. The sun demon hits you!
+Ouch! That really hurt!
+You die...
+
+. #. ..... ..
+..#.# ≈≈#..#..
+ #...#≈≈≈≈##...
+#.#.5. ≈≈≈≈≈≈...
+#.#.#.#≈≈≈≈♣≈≈≈..
+  ..#..#..≈≈≈≈≈≈
+  # ..#...#.≈≈≈≈≈
+####.#.§.#...# ≈≈
+#....#..#.##. #..
+ .#.#.##...# #.#
+. ###.....###..#
+  #..##.#......#
+  ### #..#@.#.#.#.#
+      ####3......#
+    # #.....#....#
+    #...#.#.###.##
+ #  # ##.# ...  #
+ .## .###..##. .
+. # . .#.##. ..##
+.#  #..  .#..##.
+   ..#. .#....
+   #.#.#...##.
+ ##.... #..
+
+
+You could see a sun demon.
+
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | Abyss:1  | Sanguine, the Demonspawn Abyssal Knight, began the quest for the Orb.
+     0 | Abyss:1  | Reached XP level 1. HP: 16/16 MP: 1/1
+    47 | Abyss:1  | Noticed an iron imp
+    54 | Abyss:1  | Noticed a sun demon
+    55 | Abyss:1  | Slain by a sun demon
+
+
+Action                   || total
+-------------------------++-------
+Melee: Mace              ||     1
+

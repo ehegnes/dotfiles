@@ -1,0 +1,258 @@
+ Dungeon Crawl Stone Soup version 0.15.2 (console) character file.
+
+2139 Asterion the Basher (level 9, -2/118 HPs)
+             Began as a Minotaur Berserker on Jan 2, 2015.
+             Was a High Priest of Trog.
+             Slain by a sky beast (6 damage)
+             ... on Level 7 of the Dungeon on Jan 3, 2015.
+             The game lasted 00:12:01 (4636 turns).
+
+Asterion the Basher (Minotaur Berserker)            Turns: 4636, Time: 00:12:01
+
+HP  -2/118       AC 16     Str 26      XL: 9   Next:  9%
+MP   4/4         EV  9     Int  4      God: Trog [*****.]
+Gold 272         SH  0     Dex 14      Spells:  0 memorised,  8 levels left
+
+rFire  . . .     SeeInvis .     x - +2 mace (protect)
+rCold  . . .     Clarity  .     i - +0 scale mail
+rNeg   + . .     rCorr    .     (no shield)
+rPois  .         rRot     .     (helmet restricted)
+rElec  .         Spirit   .     (no cloak)
+SustAb .         Warding  +     g - +2 pair of gloves {archery}
+rMut   .         Stasis   .     (no boots)
+Gourm  .                        s - amulet of warding
+MR     .....                    (no ring)
+                                (no ring)
+
+@: berserking, very quick, not resistant to hostile enchantments, extremely
+unstealthy
+A: retaliatory headbutt, horns 2
+a: Burn Spellbooks, Berserk, Trog's Hand, Brothers in Arms, Renounce Religion
+
+
+You were on level 7 of the Dungeon.
+You worshipped Trog.
+Trog was extremely pleased with you.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 7 of its levels.
+
+You collected 272 gold pieces.
+
+Inventory:
+
+Hand weapons
+ x - a +2 mace of protection (weapon)
+Armour
+ g - a +2 pair of gloves of archery (worn)
+ i - a +0 scale mail (worn)
+Magical devices
+ v - a wand of draining (9)
+Comestibles
+ c - 5 bread rations
+ h - 4 meat rations
+ k - 2 beef jerkies
+ l - 2 chunks of black bear flesh
+ n - 10 fruits
+Scrolls
+ f - a scroll of recharging
+ j - 7 scrolls of identify
+ o - a scroll of remove curse
+ p - a scroll of enchant armour
+Jewellery
+ s - an amulet of warding (around neck)
+Potions
+ b - 4 potions of curing
+ d - a potion of heal wounds
+ e - a potion of restore abilities
+Books
+ t - a book of Spatial Translocations   
+   
+   Spells                             Type                      Level
+   Apportation                        Translocation                1
+   Blink                              Translocation                2
+   Shroud of Golubria                 Charms/Translocation         2
+   Portal Projectile                  Translocation                3
+   Teleport Other                     Translocation                3
+   Passage of Golubria                Translocation                4
+   
+   
+   Trog disapproves of the use of such an item.
+
+
+   Skills:
+ + Level 7.6 Fighting
+ * Level 10.7 Maces & Flails
+ + Level 8.0 Armour
+ - Level 2.1 Dodging
+
+
+You had 8 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (7/15)             Temple (0/1) D:6         
+
+Altars:
+Elyvilon
+Nemelex Xobeh
+Trog
+Xom
+The Shining One
+
+Shops:
+D:7 (
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+
+
+Message History
+
+You sock something! Your headbutt misses something. Something hits you but does no damage.
+The kobold hits you but does no damage.
+You hit something. Something hits you.
+* * * LOW HITPOINT WARNING * * *
+Something shocks you.
+* * * LOW HITPOINT WARNING * * *
+The kobold hits you with a dagger.
+* * * LOW HITPOINT WARNING * * *
+You closely miss something. Something hits you but does no damage. The kobold hits you but does no damage.
+You hit something. Your headbutt misses something. Something hits you but does no damage.
+You sock something! Your headbutt misses something. The kobold hits you but does no damage.
+Use which ability? (? or * to list) 
+A red film seems to cover your vision as you go berserk!
+You feel yourself moving faster! You feel mighty! You feel somewhat more hungry.
+A sky beast appears from thin air!
+Reactivating autopickup.
+The sky beast hits you.
+* * * LOW HITPOINT WARNING * * *
+The sky beast shocks you.
+You die...
+
+............#        ####<.......##.#
+............#        ............##.#
+....#......          ####........##.#
+.#)?#.......         ##############.#
+..#(.........         §§§§§.§§$$$$#.#
+....#.#..##.##        #############.#
+....#.........        §....§§§....#.#
+..............   #     ########8+8#.#
+.........##.##[  ...    ###.#Y##.##.#####
+...#..)......... ..       #.#.##........#
+..##....###.###  ..         #..........!#
+........# #.#  ##.          ##....@.....#
+.##.....# #.#  #..           ##.!K%Y....#
+....#...# #.#  #.#            ##........#
+#..###..###.#  #.#             #........#
+..........#.####.#####...      #........#
+............<..........#       #......>.#
+######...#..####.#######       #%.......
+     #...#...#.....####        #.......
+     #####..............         ###
+         #.........####
+         #...#.....#
+         ##.##.....#
+
+
+You could see a sky beast and a kobold.
+
+Vanquished Creatures
+  Edmund (D:5)
+  A water moccasin (D:5)
+  2 black bears (D:7)
+  An orc warrior (D:6)
+  A centaur (D:6)
+  3 ogres
+  2 big kobolds (D:7)
+  Blork the orc (D:5)
+  3 scorpions
+  6 killer bees (D:7)
+  3 wights (D:7)
+  A crimson imp (D:7)
+  2 iguanas (D:4)
+  2 orc priests
+  3 jellies
+  3 orc wizards
+  2 big kobold zombies
+  2 worker ant zombies (D:5)
+  7 adders
+  An inept item mimic (D:5)
+  2 worms
+  An iguana zombie (D:7)
+  5 giant geckos
+  An ooze (D:4)
+  14 orcs
+  A ball python (D:4)
+  6 goblins
+  12 hobgoblins
+  12 jackals
+  2 quokkas
+  13 bats
+  6 giant cockroaches
+  2 giant gecko skeletons (D:4)
+  6 giant newts
+  13 kobolds
+  An orc skeleton (D:6)
+  5 rats
+149 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | D:1      | Asterion, the Minotaur Berserker, began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
+   228 | D:1      | Reached skill level 4 in Maces & Flails
+   323 | D:1      | Reached XP level 2. HP: 27/27 MP: 1/1
+   573 | D:2      | Found a shimmering altar of Xom.
+   693 | D:2      | Acquired Trog's second power
+   806 | D:2      | Reached XP level 3. HP: 26/33 MP: 2/2
+  1466 | D:3      | Reached XP level 4. HP: 36/40 MP: 2/2
+  1565 | D:3      | Reached skill level 5 in Maces & Flails
+  1909 | D:4      | Noticed an ogre
+  1917 | D:4      | Killed an ogre
+  1917 | D:4      | Reached XP level 5. HP: 8/47 MP: 2/2
+  2217 | D:4      | Reached skill level 6 in Maces & Flails
+  2475 | D:4      | Reached XP level 6. HP: 53/53 MP: 3/3
+  2485 | D:4      | Found a glowing golden altar of the Shining One.
+  2557 | D:5      | Entered Level 5 of the Dungeon
+  2579 | D:5      | Found a sparkling altar of Nemelex Xobeh.
+  2589 | D:5      | Found a white marble altar of Elyvilon.
+  2618 | D:5      | Noticed Blork the orc
+  2631 | D:5      | Killed Blork the orc
+  2631 | D:5      | Reached skill level 5 in Fighting
+  2631 | D:5      | Reached skill level 5 in Armour
+  2937 | D:5      | Noticed Edmund
+  2953 | D:5      | Killed Edmund
+  2953 | D:5      | Reached skill level 7 in Maces & Flails
+  2957 | D:5      | Reached XP level 7. HP: 30/61 MP: 3/3
+  3132 | D:5      | Noticed a water moccasin
+  3148 | D:5      | Killed a water moccasin
+  3432 | D:5      | Reached skill level 8 in Maces & Flails
+  3649 | D:6      | Acquired Trog's third power
+  3719 | D:6      | Found a staircase to the Ecumenical Temple.
+  3796 | D:6      | Reached XP level 8. HP: 28/70 MP: 3/3
+  3973 | D:6      | Reached skill level 9 in Maces & Flails
+  4357 | D:7      | Found Cyahaxyr's Weapon Shoppe.
+  4437 | D:7      | Found a bloodstained altar of Trog.
+  4446 | D:7      | Reached skill level 10 in Maces & Flails
+  4508 | D:7      | Reached XP level 9. HP: 54/79 MP: 4/4
+  4632 | D:7      | HP: 3/79 [kobold/dagger (2)]
+  4636 | D:7      | Slain by a sky beast
+
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Mace              |   105 |    98 |   205 ||   408
+Invok: Berserk           |       |     3 |     3 ||     6
+Evoke: Wand              |       |       |     1 ||     1
+  Use: Potion            |       |       |     9 ||     9
+       Scroll            |       |       |     7 ||     7
+  Eat: Chunk             |     2 |     5 |     5 ||    12
+       Meat ration       |       |     1 |       ||     1
+

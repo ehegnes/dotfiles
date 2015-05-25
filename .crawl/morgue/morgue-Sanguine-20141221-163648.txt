@@ -1,0 +1,163 @@
+ Dungeon Crawl Stone Soup version 0.15.2 (console) character file.
+
+9 Sanguine the Skirmisher (level 2, -4/24 HPs)
+             Began as a Demonspawn Abyssal Knight on Dec 21, 2014.
+             Was a Follower of Lugonu.
+             Slain by a hobgoblin
+             ... wielding a +0 club
+              (5 damage)
+             ... on Level 1 of the Dungeon.
+             The game lasted 00:01:26 (523 turns).
+
+Sanguine the Skirmisher (Demonspawn Abyssal Knight)  Turns: 523, Time: 00:01:26
+
+HP  -4/24        AC  3     Str 12      XL: 2   Next:  3%
+MP   2/2         EV 10     Int 13      God: Lugonu [*.....]
+Gold 24          SH  0     Dex 11 (12) Spells:  0 memorised,  1 level left
+
+rFire  . . .     SeeInvis .     a - +1 falchion
+rCold  . . .     Clarity  .     b - +0 leather armour
+rNeg   . . .     rCorr    .     (no shield)
+rPois  .         rRot     .     (no helmet)
+rElec  .         Spirit   .     (no cloak)
+SustAb .         Warding  .     (no gloves)
+rMut   .         Stasis   .     (no boots)
+Gourm  .                        (no amulet)
+MR     .....                    (no ring)
+                                (no ring)
+
+@: confused, not resistant to hostile enchantments, very unstealthy
+A: powered by death 1
+a: Depart the Abyss, Renounce Religion
+
+
+You were on level 1 of the Dungeon.
+You worshipped Lugonu.
+Lugonu was aware of your devotion.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+You visited the Abyss 1 time.
+
+You collected 24 gold pieces.
+
+Inventory:
+
+Hand weapons
+ a - a +1 falchion (weapon)
+Armour
+ b - a +0 leather armour (worn)
+Comestibles
+ c - a bread ration
+ g - a beef jerky
+Scrolls
+ h - a scroll of remove curse {unknown}
+Jewellery
+ d - a cursed ring of loudness {unknown}
+
+
+   Skills:
+ - Level 3.0 Fighting
+ + Level 2.5 Long Blades
+ - Level 1.7 Armour
+ - Level 0.8 Dodging
+ - Level 2.4 Invocations
+
+
+You had one spell level left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You can steal the life force of nearby defeated enemies.
+
+
+Message History
+
+You are too injured to fight recklessly!
+You barely miss the hobgoblin.
+The hobgoblin is severely wounded.
+The hobgoblin hits you with a club.
+* * * LOW HITPOINT WARNING * * *
+Read which item? (? for menu, Esc to quit)
+As you read the scroll labeled EDUUQO GI MIUG, it crumbles to dust.
+The creatures around you are filled with an inner flame!
+It was a scroll of immolation. The hobgoblin closely misses you.
+Unknown command.
+Drink which item? (? for menu, Esc to quit)
+You are confused.
+It was a potion of confusion. The hobgoblin hits you with a club.
+* * * LOW HITPOINT WARNING * * *
+Unknown command.
+Drink which item? (? for menu, Esc to quit)
+There was something very wrong with that liquid!
+You feel clumsy.
+It was a potion of degeneration. The hobgoblin hits you with a club.
+You die...
+
+ #.#.##.##########.......#.#.## ...
+ #.#.##........................ ...
+##+#.##.##########.###.#.#.#.#  ..
+.....##....................#.#  .##
+.....#..################.....###..#   ........
+.....#..#..............#.##.....#.#  #.#.#.#.#
+.#.#.#..#..............#.###.##...###.............
+ #.#....#..............#.# #.........#.#.#.#.#.#.#.
+ #......#..##...#####..#.# #####...................
+ ######.#..##...#   #..#.#######...#.#.#.#.#.#.#.#
+.######.#.......#   #..#.........................
+........#...)...#   #..#.#########.#.#.#.#.#.#.#.#.##
+.######.#.......#   #..#.#       #.#...@g............
+........#..###..#   #..#.#       #...#.#.#.#.#.#.#.#.
+.######.#..# #..#####..#       ####+.............
+........#..# #.........#       #...(.#.#.#.#.#.#.#
+........#..###.........#       #...................
+........#..............#   #####.......#.#.#.#.#.#.
+#######.#........####..#   #.........(.......+....
+      #.#........#  #..#   #................#.
+      #.#..####..#  #..#   #...#.#.#.#)#.#....
+      #.#..#  #..#  #..#   ................##
+      #....#  #..####..#   #..#.#.#.#.#.#.#.#
+      ###..#  #........#    . ..............
+        #..####........#     #.#.#.#.#.#.# #..
+
+
+You could see a hobgoblin (inner flame).
+
+Vanquished Creatures
+  A giant gecko (D:1)
+  4 kobolds (D:1)
+  3 bats (D:1)
+  A giant newt (D:1)
+9 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | Abyss:1  | Sanguine, the Demonspawn Abyssal Knight, began the quest for the Orb.
+     0 | Abyss:1  | Reached XP level 1. HP: 18/18 MP: 1/1
+    33 | Abyss:1  | Found a corrupted altar of Lugonu.
+   265 | Abyss:1  | Noticed a large abomination
+   309 | D:1      | Escaped the Abyss
+   465 | D:1      | Acquired Lugonu's first power
+   505 | D:1      | Gained mutation: You can steal the life force of nearby defeated enemies. [demonic ancestry]
+   505 | D:1      | Reached XP level 2. HP: 14/24 MP: 2/2
+   522 | D:1      | HP: 1/24 [hobgoblin/club (2)]
+   523 | D:1      | Slain by a hobgoblin
+
+
+Action                   || total
+-------------------------++-------
+Melee: Falchion          ||    31
+Invok: Depart the Abyss  ||     1
+  Use: Potion            ||     2
+       Scroll            ||     1
+

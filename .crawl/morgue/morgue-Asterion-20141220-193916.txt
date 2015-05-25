@@ -1,0 +1,232 @@
+ Dungeon Crawl Stone Soup version 0.15.2 (console) character file.
+
+986 Asterion the Basher (level 7, -7/60 HPs)
+             Began as a Minotaur Berserker on Dec 20, 2014.
+             Was a Priest of Trog.
+             Killed by divine providence
+             ... invoked by an orc priest
+              (15 damage)
+             ... on Level 5 of the Dungeon.
+             The game lasted 00:14:02 (4248 turns).
+
+Asterion the Basher (Minotaur Berserker)            Turns: 4248, Time: 00:14:02
+
+HP  -7/60        AC 12     Str 23 (24) XL: 7   Next: 97%
+MP   3/3         EV  6     Int  4      God: Trog [***...]
+Gold 156         SH  0     Dex 12      Spells:  0 memorised,  6 levels left
+
+rFire  . . .     SeeInvis .     t - +1 whip (freeze)
+rCold  . . .     Clarity  .     e - +0 plate armour
+rNeg   . . .     rCorr    .     (no shield)
+rPois  .         rRot     .     (helmet restricted)
+rElec  .         Spirit   .     p - +0 cloak (curse)
+SustAb .         Warding  .     (no gloves)
+rMut   .         Stasis   .     (no boots)
+Gourm  +                        q - amulet of the gourmand
+MR     ++...                    (no ring)
+                                g - +3 ring of strength
+
+@: very resistant to hostile enchantments, extremely unstealthy
+A: retaliatory headbutt, horns 2, deterioration 1, magic resistance 2
+a: Burn Spellbooks, Berserk, Trog's Hand, Renounce Religion
+
+
+You were on level 5 of the Dungeon.
+You worshipped Trog.
+Trog was most pleased with you.
+You were very full.
+
+You visited 1 branch of the dungeon, and saw 5 of its levels.
+
+You collected 156 gold pieces.
+
+Inventory:
+
+Hand weapons
+ a - a +1 mace
+ n - a +0 flail
+ s - a +0 whip of venom
+ t - a +1 whip of freezing (weapon)
+Armour
+ e - a +0 plate armour (worn)
+ p - a cursed +0 cloak (worn)
+Comestibles
+ c - 6 bread rations
+ j - 6 fruits
+ l - a beef jerky
+ r - a slice of pizza
+Scrolls
+ b - 4 scrolls of remove curse
+ f - 5 scrolls of identify
+ h - a scroll of magic mapping
+ i - a scroll of amnesia {unknown}
+ m - 2 scrolls of fear
+ o - a scroll of enchant weapon
+Jewellery
+ g - a +3 ring of strength (left hand)
+ q - an amulet of the gourmand (around neck)
+Potions
+ d - a potion of brilliance
+ k - 2 potions of cure mutation
+
+
+   Skills:
+ + Level 4.8 Fighting
+ + Level 10.1 Maces & Flails
+ + Level 3.9 Armour
+ + Level 3.6 Dodging
+
+
+You had 6 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (5/15)            
+Temple: D:4-7       
+
+Altars:
+Nemelex Xobeh
+
+Shops:
+D:4 (
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+Your body is slowly deteriorating.
+You are highly resistant to hostile enchantments.
+
+
+Message History
+
+The orc priest mumbles some strange prayers to Beogh against you.
+Something smites you!
+* * * LOW HITPOINT WARNING * * *
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You hit the orc priest but do no damage.
+The goblin hits you with a dagger.
+* * * LOW HITPOINT WARNING * * *
+You completely miss the orc priest.
+You hear the quick hiss of a distant avalanche of sand.
+The orc priest hits you with a hand axe.
+* * * LOW HITPOINT WARNING * * *
+You barely miss the orc priest. The goblin hits you but does no damage.
+You hit the orc priest. You freeze the orc priest. Your headbutt misses the orc priest.
+The orc priest is moderately wounded.
+The orc priest invokes the aid of Beogh against you.
+Something smites you!
+You die...
+
+                            ##
+                          ###.
+                          .....  ######
+                           #.♣.♣.♣.♣.♣.♣ ##
+        .                   ♣...♣...♣...♣.
+       ...                   ♣.♣o♣.♣.♣.♣.♣#  ##
+       #..                  . ♣g@.♣...♣...##..
+       #..                 ♣.♣.♣)♣.♣.♣.♣.♣p.
+       #.#                ..♣...♣...♣..[♣.#
+ #######.####             #♣.♣.♣.♣.♣.♣.♣[♣#
+##..........#             #...♣...♣...♣...#
+#.....##.##.#             #♣.♣.♣.♣.♣.♣(♣.♣#
+#........##.#             #.♣...♣...♣...♣.#
+#<....##.##.#             #♣.♣.♣.♣.♣.♣.♣.♣#
+#....###.##.##            #...♣...♣...♣(..#
+#.#.## #.#...##            ♣.♣.♣.♣.♣.♣.♣.♣#
+#.#.#  #......#####.#       ♣...♣..p♣...♣.#
+#.#.#  ###..>.......#  ##  #.♣.♣.♣.♣.♣.♣.##
+
+
+You could see an orc priest and a goblin.
+
+Vanquished Creatures
+  Pikel (D:5)
+  An ogre (D:5)
+  A slave (D:5)
+  The ghost of Iskenderun the Ruinous, an average DECj (D:3)
+  A crimson imp (D:5)
+  Crazy Yiuf (D:4)
+  A centaur skeleton (D:4)
+  An iguana (D:4)
+  8 gnolls
+  6 adders
+  A giant mite (D:3)
+  4 worms
+  An orc skeleton (D:4)
+  3 giant geckos
+  An ooze (D:2)
+  4 orcs (D:5)
+  A bat skeleton (D:5)
+  6 giant cockroaches
+  2 hobgoblins (D:3)
+  11 jackals (D:1)
+  3 quokkas
+  A ball python (D:2)
+  9 bats
+  A giant newt (D:5)
+  12 goblins
+  A hobgoblin skeleton (D:5)
+  11 kobolds
+  6 rats
+  2 fungi (D:4)
+102 creatures vanquished.
+
+Vanquished Creatures (others)
+  An orc (D:5)
+  An orc skeleton (D:5)
+2 creatures vanquished.
+
+Grand Total: 104 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | D:1      | Asterion, the Minotaur Berserker, began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
+   166 | D:1      | Reached skill level 4 in Maces & Flails
+   250 | D:1      | Reached XP level 2. HP: 8/26 MP: 1/1
+   880 | D:2      | Reached skill level 5 in Maces & Flails
+   880 | D:2      | Reached XP level 3. HP: 31/31 MP: 2/2
+  1024 | D:2      | Acquired Trog's second power
+  1262 | D:2      | Reached XP level 4. HP: 36/39 MP: 2/2
+  1266 | D:2      | Reached skill level 6 in Maces & Flails
+  2292 | D:3      | Noticed Iskenderun's ghost (average DECj)
+  2299 | D:3      | Killed Iskenderun's ghost
+  2299 | D:3      | Reached skill level 7 in Maces & Flails
+  2299 | D:3      | Reached XP level 5. HP: 45/45 MP: 2/2
+  2647 | D:3      | Gained mutation: Your body is slowly deteriorating. [potion of mutation]
+  2647 | D:3      | Gained mutation: You are resistant to hostile enchantments. [potion of mutation]
+  2647 | D:3      | Gained mutation: You are highly resistant to hostile enchantments. [potion of mutation]
+  2756 | D:4      | Reached skill level 8 in Maces & Flails
+  2756 | D:4      | Reached XP level 6. HP: 51/51 MP: 3/3
+  2809 | D:4      | Found a sparkling altar of Nemelex Xobeh.
+  3320 | D:4      | Noticed Crazy Yiuf
+  3325 | D:4      | Killed Crazy Yiuf
+  3618 | D:4      | Found Qiawemm's Antique Weapon Boutique.
+  3698 | D:5      | Entered Level 5 of the Dungeon
+  3943 | D:5      | Reached skill level 9 in Maces & Flails
+  4105 | D:5      | Reached XP level 7. HP: 22/57 MP: 3/3
+  4107 | D:5      | Received a gift from Trog
+  4125 | D:5      | Noticed Pikel
+  4158 | D:5      | Killed Pikel
+  4158 | D:5      | Reached skill level 10 in Maces & Flails
+  4248 | D:5      | Killed from afar by an orc priest
+
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Mace              |    76 |    70 |       ||   146
+       Flail             |       |    91 |       ||    91
+       Whip              |       |     5 |    20 ||    25
+Invok: Berserk           |     2 |     3 |     1 ||     6
+  Use: Scroll            |     3 |     5 |       ||     8
+       Potion            |       |     8 |       ||     8
+  Eat: Chunk             |     2 |    23 |     2 ||    27
+

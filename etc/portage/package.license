@@ -4,8 +4,6 @@
 # required by games-util/steam-meta-0-r20131107::steam-overlay
 # required by steam-meta (argument)
 >=www-plugins/adobe-flash-11.2.202.394 AdobeFlash-11.x
-# required by virtualbox-extpack-oracle (argument)
-=app-emulation/virtualbox-extpack-oracle-4.2.24 PUEL
 # required by skype (argument)
 >=net-im/skype-4.3.0.37 skype-4.0.0.7-copyright
 # required by google-talkplugin (argument)

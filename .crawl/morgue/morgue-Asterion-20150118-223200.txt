@@ -1,0 +1,166 @@
+ Dungeon Crawl Stone Soup version 0.15.2 (console) character file.
+
+54 Asterion the Cudgeler (level 3, 19/33 HPs)
+             Began as a Minotaur Berserker on Jan 3, 2015.
+             Was a Believer of Trog.
+             Got out of the dungeon alive.
+             The game lasted 00:04:06 (681 turns).
+
+Asterion the Cudgeler (Minotaur Berserker)           Turns: 681, Time: 00:04:06
+
+HP  19/33        AC  2     Str 21      XL: 3   Next: 66%
+MP   2/2         EV 12     Int  4      God: Trog [**....]
+Gold 24          SH  0     Dex 10      Spells:  0 memorised,  2 levels left
+
+rFire  . . .     SeeInvis .     a - +0 mace
+rCold  . . .     Clarity  .     b - +0 animal skin
+rNeg   . . .     rCorr    .     (no shield)
+rPois  .         rRot     .     (helmet restricted)
+rElec  .         Spirit   .     (no cloak)
+SustAb .         Warding  .     (no gloves)
+rMut   .         Stasis   .     (no boots)
+Gourm  .                        (no amulet)
+MR     .....                    (no ring)
+                                e - cursed ring of loudness
+
+@: not resistant to hostile enchantments, extremely unstealthy
+A: retaliatory headbutt, horns 2
+a: Burn Spellbooks, Berserk, Trog's Hand, Renounce Religion
+
+
+You escaped.
+You worshipped Trog.
+Trog was pleased with you.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+
+You collected 24 gold pieces.
+
+Inventory:
+
+Hand weapons
+ a - a +0 mace (weapon)
+Armour
+ b - a +0 animal skin (worn)
+Magical devices
+ k - a wand of enslavement (11) {unknown}
+Comestibles
+ c - 3 bread rations
+ d - 2 fruits
+ f - a meat ration
+ i - a beef jerky
+Scrolls
+ g - a scroll of enchant weapon {unknown}
+ j - a scroll of identify {unknown}
+Jewellery
+ e - a cursed ring of loudness (left hand)
+Potions
+ h - a potion of curing {unknown}
+
+
+   Skills:
+ - Level 3.7 Fighting
+ + Level 5.6 Maces & Flails
+ - Level 2.4 Armour
+ - Level 2.1 Dodging
+
+
+You had 2 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+
+
+Message History
+
+You feel a strong urge to attack something.
+You are no longer berserk.
+You are exhausted.
+You feel yourself slow down.
+Things that are here:
+a glowing club; a scale mail
+c - 3 bread rations (gained 1)
+Things that are here:
+a glowing club; a scale mail
+You feel yourself speed up.
+You see here a club.
+You feel less exhausted.
+There is a stone staircase leading up here.
+You climb upwards.
+There is a stone staircase leading down here.
+There is a staircase leading out of the dungeon here.
+Are you sure you want to leave the Dungeon? This will make you lose the game! 
+[Y]es or [N]o only, please.
+Are you sure you want to leave the Dungeon? This will make you lose the game! 
+You have escaped!
+
+..#  #..........#  #######%....##.#...#.#
+..#  #..........#     ####...####.##..#.#
+..####..........#     #...........##..#.#
+................#   ###.###%.#####....#.#
+..........#######   #...#..........#..#.#
+..........#         #.###.#..###......#.#
+..........#         #.#.......).........#
+..........#        ##.###..##.####.##.###
+..........#        #........#..#.......#
+..........#        #.............P.P...#
+..........#        #........##.........#
+###########        #..).....##....@....#
+                   #........##.........#
+                   #........##...P.P..##
+                   #........##.......##
+                   #........###....###
+                   #........# ######
+                   ##########
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  Ijyb (D:2)
+  An adder (D:2)
+  A giant gecko (D:1)
+  4 bats
+  3 hobgoblins
+  2 jackals (D:1)
+  A quokka (D:2)
+  2 ball pythons (D:1)
+  A giant newt (D:1)
+  5 goblins
+  4 kobolds
+  2 rats
+27 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | D:1      | Asterion, the Minotaur Berserker, began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
+    82 | D:1      | Reached skill level 4 in Maces & Flails
+   222 | D:1      | Reached XP level 2. HP: 18/27 MP: 1/1
+   378 | D:1      | Acquired Trog's second power
+   517 | D:2      | Reached skill level 5 in Maces & Flails
+   517 | D:2      | Reached XP level 3. HP: 26/33 MP: 2/2
+   564 | D:2      | Noticed Ijyb
+   578 | D:2      | Killed Ijyb
+   681 | D:$      | Got out of the dungeon alive.
+             
+
+
+Action                   || total
+-------------------------++-------
+Melee: Mace              ||    65
+Invok: Berserk           ||     1
+

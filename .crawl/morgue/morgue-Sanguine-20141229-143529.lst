@@ -1,0 +1,82 @@
+Sanguine
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  18 bolts
+(-47, 3, D:1)
+  a +2 dagger of draining
+(-54, 8, D:1)
+  a +0 dagger
+(-27, 19, D:1)
+  a +0 chain mail
+(-45, 31, D:1)
+  a +0 hand axe
+(-31, 35, D:1)
+  a +0 dagger
+(-25, 42, D:1)
+  15 bolts of flame
+
+Level 2 of the Dungeon
+(-3, 10, D:2)
+  a +0 club
+(-12, 20, D:2)
+  a +0 club
+(-16, 27, D:2)
+  a stone
+(-18, 29, D:2)
+  a +0 whip
+  3 stones
+(-28, 32, D:2)
+  3 stones
+(-34, 34, D:2)
+  a stone
+(1, 34, D:2)
+  a +0 ring mail
+(-32, 35, D:2)
+  a +0 whip
+  a stone
+(-4, 43, D:2)
+  a +0 plate armour
+(-6, 45, D:2)
+  a +0 leather armour
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +1 mace
+(6, 4, D:3)
+  a +0 dagger
+(1, 5, D:3)
+  a stone
+(21, 7, D:3)
+  a +0 dagger
+  a +0 robe
+  a +0 dagger
+(22, 7, D:3)
+  a +0 mace
+  a +0 dagger
+  a +0 robe
+(1, 10, D:3)
+  a bat corpse (skeletalised by now)
+(27, 14, D:3)
+  a +0 club
+  a +0 club
+(11, 15, D:3)
+  a +0 mace
+(27, 16, D:3)
+  a +0 whip
+  a +0 leather armour
+(4, 20, D:3)
+  a cursed -2 club
+(10, 24, D:3)
+  a +0 war axe
+
+a sewer
+(6, 0, Sewer)
+  10 bolts
+(9, 2, Sewer)
+  a +0 short sword
+(-6, 10, Sewer)
+  a +0 war axe
+(3, 10, Sewer)
+  a +0 spear
+

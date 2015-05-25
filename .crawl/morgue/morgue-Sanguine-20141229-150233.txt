@@ -1,0 +1,194 @@
+ Dungeon Crawl Stone Soup version 0.15.2 (console) character file.
+
+100 Sanguine the Cudgeler (level 4, 0/35 HPs)
+             Began as a Demonspawn Abyssal Knight on Dec 29, 2014.
+             Was a Believer of Lugonu.
+             Slain by Sanguine's ghost (8 damage)
+             ... on Level 3 of the Dungeon.
+             The game lasted 00:06:23 (2679 turns).
+
+Sanguine the Cudgeler (Demonspawn Abyssal Knight)   Turns: 2679, Time: 00:06:23
+
+HP   0/35        AC  6     Str 12      XL: 4   Next: 47%
+MP   5/5         EV 13     Int 13      God: Lugonu [**....]
+Gold 77          SH  0     Dex 14      Spells:  0 memorised,  3 levels left
+
+rFire  . . .     SeeInvis +     a - +1 mace
+rCold  . . .     Clarity  .     g - +0 ring mail
+rNeg   . . .     rCorr    .     (no shield)
+rPois  .         rRot     .     o - +0 helmet
+rElec  .         Spirit   .     (no cloak)
+SustAb .         Warding  .     (no gloves)
+rMut   .         Stasis   .     (no boots)
+Gourm  .                        (no amulet)
+MR     .....                    p - +4 ring of evasion
+                                m - ring of see invisible
+
+@: not resistant to hostile enchantments, very unstealthy
+A: spiny 2
+a: Depart the Abyss, Bend Space, Renounce Religion
+
+
+You were on level 3 of the Dungeon.
+You worshipped Lugonu.
+Lugonu was pleased with you.
+You were very hungry.
+
+You visited 1 branch of the dungeon, and saw 3 of its levels.
+You visited the Abyss 1 time.
+
+You collected 77 gold pieces.
+
+Inventory:
+
+Hand weapons
+ a - a +1 mace (weapon)
+Armour
+ g - a +0 ring mail (worn)
+ o - a +0 helmet (worn)
+Comestibles
+ c - 3 bread rations
+ d - 3 fruits
+ h - a royal jelly
+ j - a meat ration
+ l - a beef jerky
+Scrolls
+ e - 3 scrolls of identify
+ f - a scroll of noise {unknown}
+ i - a scroll of fear {unknown}
+ k - a scroll of random uselessness {unknown}
+ n - a scroll of immolation {unknown}
+Jewellery
+ m - a ring of see invisible (left hand)
+ p - a +4 ring of evasion (right hand)
+Potions
+ b - 2 potions of curing
+
+
+   Skills:
+ - Level 3.0 Fighting
+ + Level 4.3 Maces & Flails
+ - Level 1.7 Armour
+ - Level 0.8 Dodging
+ - Level 2.4 Invocations
+
+
+You had 3 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/15)            
+
+Altars:
+Nemelex Xobeh
+
+Annotations:
+D:3 Sanguine's ghost, average DsAK
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are mostly covered in sharp spines.
+
+
+Message History
+
+You barely miss Sanguine's ghost.
+Sanguine's ghost is lightly damaged.
+The giant cockroach misses you. Sanguine's ghost closely misses you. The giant cockroach closely misses you.
+You closely miss Sanguine's ghost.
+Sanguine's ghost is lightly damaged.
+The giant cockroach bites you but does no damage.
+Sanguine's ghost barely misses you.
+You hit Sanguine's ghost.
+Sanguine's ghost is lightly damaged.
+The giant cockroach closely misses you. Sanguine's ghost hits you! The giant cockroach misses you.
+You closely miss Sanguine's ghost.
+Sanguine's ghost is lightly damaged.
+Sanguine's ghost hits you!
+* * * LOW HITPOINT WARNING * * *
+The giant cockroach closely misses you.
+Sanguine's ghost hits you but does no damage.
+You barely miss the giant cockroach.
+The giant cockroach bites you but does no damage.
+Sanguine's ghost hits you!
+You die...
+
+                   ####.######
+                   #....(....#
+          ##+##    #.##.#.##.#
+         ##...##   #.##.#<##.#
+        ##.....##  #.##....#.#
+   ##  ##.......## #.#..#..#.#
+   ...##.........###....#..#.#
+  .....'.........'.......[)#.#
+   .#.##.........###.......).#
+ #.##  ##.......## #.#....#.##
+ #....####.....##  #...###.##
+  #...W@s.#...##   ##.## ###
+  #...###.##+##     #.#
+.....   #.#         #.#
+###.    #.#         #.#
+  #     #.#         #.#
+        #s#         #.#
+        #..         #.#
+        ...         ..#
+        ..#         ###
+
+
+You could see Sanguine's ghost and a giant cockroach.
+
+Vanquished Creatures
+  Jessica (D:2)
+  Terence (D:1)
+  2 adders (D:2)
+  A giant mite (D:2)
+  3 orcs (D:3)
+  4 bats
+  2 giant cockroaches
+  5 hobgoblins
+  3 jackals (D:1)
+  4 giant newts
+  3 goblins
+  9 kobolds
+  5 rats
+43 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | Abyss:1  | Sanguine, the Demonspawn Abyssal Knight, began the quest for the Orb.
+     0 | Abyss:1  | Reached XP level 1. HP: 18/18 MP: 1/1
+   133 | Abyss:1  | Found a corrupted altar of Lugonu.
+   251 | Abyss:1  | Noticed an efreet
+   314 | Abyss:1  | Noticed a small abomination
+   321 | D:1      | Escaped the Abyss
+   511 | D:1      | Acquired Lugonu's first power
+   512 | D:1      | Gained mutation: You are partially covered in sharp spines. [demonic ancestry]
+   512 | D:1      | Reached XP level 2. HP: 14/24 MP: 2/2
+  1321 | D:2      | Noticed Terence
+  1325 | D:2      | Reached XP level 3. HP: 19/29 MP: 4/4
+  1670 | D:1      | Killed Terence
+  1786 | D:2      | Noticed Jessica
+  1998 | D:2      | Killed Jessica
+  1998 | D:2      | Gained mutation: You are mostly covered in sharp spines. [demonic ancestry]
+  1998 | D:2      | Reached XP level 4. HP: 35/35 MP: 5/5
+  2064 | D:2      | Found a sparkling altar of Nemelex Xobeh.
+  2079 | D:2      | Reached skill level 4 in Maces & Flails
+  2225 | D:2      | Acquired Lugonu's second power
+  2663 | D:3      | Noticed Sanguine's ghost (average DsAK)
+  2679 | D:3      | Slain by Sanguine's ghost
+
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Mace              |    94 |    45 ||   139
+       Unarmed           |    69 |       ||    69
+Invok: Depart the Abyss  |     1 |       ||     1
+  Use: Potion            |     4 |       ||     4
+       Scroll            |     3 |       ||     3
+ Stab: Invisible         |     2 |       ||     2
+  Eat: Chunk             |     4 |     1 ||     5
+

@@ -1,0 +1,214 @@
+ Dungeon Crawl Stone Soup version 0.16-a0-4088-g7c8221e (console) character file.
+
+190 Sanguine the Skirmisher (level 5, 0/43 HPs)
+             Began as a Demonspawn Abyssal Knight on Mar 9, 2015.
+             Was a Priest of Lugonu.
+             Slain by an orc
+             ... wielding a +0 short sword
+              (5 damage)
+             ... on level 3 of the Dungeon.
+             The game lasted 00:07:58 (3989 turns).
+
+Sanguine the Skirmisher (Demonspawn Abyssal Knight) Turns: 3989, Time: 00:07:59
+
+Health: 0/43       AC: 17    Str: 13    XL:     5   Next: 41%
+Magic:  6/6        EV:  6    Int: 14    God:    Lugonu [***...]
+Gold:   147        SH:  0    Dex: 13    Spells: 0 memorised, 4 levels left
+
+rFire  + . .     SeeInvis .     a - +1 falchion
+rCold  + . .     Clarity  .     g - +2 chain mail {rF+}
+rNeg   . . .     SustAb   .     (no shield)
+rPois  .         Gourm    .     (no helmet)
+rElec  .         Spirit   .     (no cloak)
+rCorr  .         Warding  .     (no gloves)
+rMut   .         Stasis   .     r - +1 pair of boots
+MR     .....                    (no amulet)
+Stlth  ..........               (no ring)
+                                p - +2 ring of dexterity
+
+@: not resistant to hostile enchantments, extremely unstealthy
+A: rough black scales 1, cold resistance 1, powered by pain 1
+a: Depart the Abyss, Bend Space, Banish, Renounce Religion
+
+
+You were on level 3 of the Dungeon.
+You worshipped Lugonu.
+Lugonu was most pleased with you.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+You visited the Abyss 1 time.
+
+You collected 147 gold pieces.
+
+Inventory:
+
+Hand weapons
+ a - a +1 falchion (weapon)
+Armour
+ b - a +0 leather armour
+ g - a +2 chain mail of fire resistance (worn)
+ r - a +1 pair of boots (worn)
+Jewellery
+ p - a +2 ring of dexterity (left hand)
+Scrolls
+ e - 2 scrolls of amnesia {unknown}
+ f - a scroll of enchant armour {unknown}
+ i - a scroll of random uselessness {unknown}
+ k - 5 scrolls of identify {unknown}
+ l - a scroll of blinking {unknown}
+ m - 3 scrolls of remove curse {unknown}
+ q - a scroll of magic mapping {unknown}
+ s - a scroll of teleportation {unknown}
+Potions
+ t - a potion of ambrosia {unknown}
+Comestibles
+ c - 4 bread rations
+ d - 3 fruits
+ h - 3 beef jerkies
+ j - a slice of pizza
+ n - a meat ration
+ u - 2 chunks of flesh
+
+
+   Skills:
+ + Level 4.4 Fighting
+ - Level 3.0 Long Blades
+ + Level 3.3 Armour
+ - Level 0.8 Dodging
+ - Level 2.4 Invocations
+
+
+You had 4 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)            
+Temple: D:4-7       
+
+Altars:
+Okawaru
+Ru
+Trog
+Yredelemnul
+Zin
+
+Annotations:
+D:3 digging for gold
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are partially covered in rough black scales (AC +4, Dex -1).
+Your flesh is cold resistant.
+You sometimes gain a little power by taking damage.
+
+
+Message History
+
+Your chain mail prevents you from hitting the orc priest.
+The orc priest is heavily wounded.
+The orc priest hits you but does no damage.
+The orc hits you with a short sword.
+* * * LOW HITPOINT WARNING * * *
+The orc priest hits you with a dagger.
+* * * LOW HITPOINT WARNING * * *
+You closely miss the orc priest.
+The orc priest is heavily wounded.
+The orc barely misses you. The orc priest hits you with a dagger.
+* * * LOW HITPOINT WARNING * * *
+You hit the orc priest.
+The orc priest is heavily wounded.
+The orc hits you but does no damage.
+The orc priest mumbles some strange prayers to Beogh against you.
+You barely resist.
+You hit the orc priest.
+The orc priest is heavily wounded.
+The orc hits you with a short sword.
+You die...
+
+............#....#............................#..#
+............##..############...##..#.............#
+.......####.##''##....#    #.#.##..#.########.#.##
+............##..#####.#    #.#.##..#.#      #.#.#
+.........#..##__### #.#    #.#.##..#.########.#.#
+.........#...#⌠⌠#.# #.#    #...##..#........#.#.#
+.........#...####.###.######...##..#..#####.#.#.#
+.........#....##...............##.........#.#.#.#
+.........#..[......##.########.##.##..##..#.#.#.#
+.........#..........#........#..#.##........#.#.#
+.........#........#.########.#....oo.###.####.#.#
+..................................@...........#.#
+..................#.########.#.#.#######.######.#
+.........#........#.#    ###.............#    #.#
+.........#........#.#    #........#####..#    #.#
+.........(...##..##.#    #......#........#    #.#
+.........##..##..##.#    #......#..###...######.##
+.........##...#.....#### #.......................#
+..........#.#..........###......##.#####.#########
+..........#.#................#####.......#
+.........................###.#####..######
+.........#.#.#...........# #.##..........#
+...........#.#.........[.# #.##.###..###.#
+
+
+You could see an orc priest and an orc.
+
+Vanquished Creatures
+  An orc priest (D:3)
+  7 adders
+  4 worms
+  3 giant geckos
+  5 orcs
+  3 ball pythons (D:2)
+  3 giant cockroaches
+  4 goblins
+  7 hobgoblins
+  7 jackals
+  3 quokkas
+  11 bats
+  3 giant newts (D:1)
+  6 kobolds
+  7 rats
+  A plant (D:2)
+75 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | Abyss:1  | Sanguine, the Demonspawn Abyssal Knight, began the quest for the Orb.
+     0 | Abyss:1  | Reached XP level 1. HP: 18/18 MP: 1/1
+    80 | Abyss:1  | Noticed a small abomination
+    86 | D:1      | Escaped the Abyss
+   104 | D:1      | Acquired Lugonu's first power
+   661 | D:1      | Gained mutation: Your flesh is cold resistant. [demonic ancestry]
+   661 | D:1      | Reached XP level 2. HP: 12/24 MP: 2/2
+  1168 | D:2      | Acquired Lugonu's second power
+  1309 | D:2      | Gained mutation: You are partially covered in rough black scales (AC +4, Dex -1). [demonic ancestry]
+  1309 | D:2      | Reached XP level 3. HP: 21/29 MP: 4/4
+  1335 | D:2      | Found an iron altar of Okawaru.
+  1466 | D:2      | Found a basalt altar of Yredelemnul.
+  1855 | D:2      | Reached XP level 4. HP: 28/37 MP: 5/5
+  2342 | D:3      | Acquired Lugonu's third power
+  2413 | D:3      | Reached skill level 4 in Fighting
+  2520 | D:3      | Found a sacrificial altar of Ru.
+  2520 | D:3      | Found a bloodstained altar of Trog.
+  2763 | D:3      | Gained mutation: You sometimes gain a little power by taking damage. [demonic ancestry]
+  2763 | D:3      | Reached XP level 5. HP: 15/42 MP: 6/6
+  3496 | D:3      | Found a sacrificial altar of Ru.
+  3748 | D:3      | Found a glowing silver altar of Zin.
+  3983 | D:3      | HP: 2/43 [orc priest/nerve-wracking pain (1)]
+  3989 | D:3      | Slain by an orc
+
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Falchion          |   158 |   250 ||   408
+Invok: Depart the Abyss  |     1 |       ||     1
+  Use: Potion            |       |     3 ||     3
+ Stab: Sleeping          |     1 |       ||     1
+  Eat: Chunk             |     3 |     7 ||    10
+       Fruit             |       |     1 ||     1
+

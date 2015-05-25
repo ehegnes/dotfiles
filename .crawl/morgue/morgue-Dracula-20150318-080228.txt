@@ -1,0 +1,150 @@
+ Dungeon Crawl Stone Soup version 0.16-a0-4088-g7c8221e (console) character file.
+
+7 Dracula the Sneak (level 1, -1/16 HPs)
+             Began as a Vampire Assassin on Mar 18, 2015.
+             Slain by a jackal (2 damage)
+             ... on level 1 of the Dungeon.
+             The game lasted 00:01:11 (240 turns).
+
+Dracula the Sneak (Vampire Assassin)                 Turns: 240, Time: 00:01:11
+
+Health: -1/16      AC:  3    Str: 10    XL:     1   Next: 83%
+Magic:  1/1        EV: 12    Int: 13    God:    
+Gold:   11         SH:  0    Dex: 15    Spells: 0 memorised, 0 levels left
+
+rFire  . . .     SeeInvis +     a - +2 dagger
+rCold  . . .     Clarity  .     c - +0 robe
+rNeg   + . .     SustAb   .     (no shield)
+rPois  .         Gourm    .     (no helmet)
+rElec  .         Spirit   .     d - +0 cloak
+rCorr  .         Warding  .     (no gloves)
+rMut   .         Stasis   .     (no boots)
+MR     .....                    (no amulet)
+Stlth  ++++......               (no ring)
+                                (no ring)
+
+@: not resistant to hostile enchantments, stealthy
+A: bottle blood, fangs 3, see invisible, unbreathing
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not thirsty.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+You collected 11 gold pieces.
+
+Inventory:
+
+Hand weapons
+ a - a +2 dagger (weapon)
+ b - a +0 blowgun
+Missiles
+ e - 8 poisoned needles
+ f - 2 curare-tipped needles
+Armour
+ c - a +0 robe (worn)
+ d - a +0 cloak (worn)
+Scrolls
+ h - a scroll of recharging {unknown}
+ i - a scroll of immolation {unknown}
+Potions
+ g - 3 potions of blood
+
+
+   Skills:
+ - Level 1.7 Fighting
+ + Level 2.5 Short Blades
+ - Level 1.5 Throwing
+ - Level 1.1 Dodging
+ + Level 6.2 Stealth
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You can bottle blood from corpses.
+You have razor-sharp teeth.
+You have supernaturally acute eyesight.
+You can survive without breathing.
+
+
+Message History
+
+The jackal barely misses you.
+The jackal barely misses you.
+The jackal bites you.
+The jackal bites you but does no damage.
+The jackal bites you.
+* * * LOW HITPOINT WARNING * * *
+The jackal bites you.
+* * * LOW HITPOINT WARNING * * *
+Sorry, you're not good enough to have a special ability.
+Unknown command.
+Found a stone staircase leading down.
+The jackal misses you.
+Found a hunting sling.
+The jackal bites you.
+* * * LOW HITPOINT WARNING * * *
+The jackal closely misses you.
+There is a stone staircase leading down here.
+You can't go up here!
+The jackal bites you.
+You die...
+
+                ###
+             .....#############
+            ......##..........#
+           #......##..........#
+           #......##..........#
+           #......##.)........#   ##
+           #......##.......h..##.....
+           #......####..g..h@.....##           ##
+           #......##.................          .#
+       #   #.........###############  #########.#
+    ....####......##.##...    #...#   #.......#.#
+   ..............###.##.# #####.#.#####.#####.#.#
+  ........###....÷......# #<#...#...#...#...#...#
+ ....................##.###.#.#####.#.#.#.###.#####
+ ....)....###...g....##...#...# #.....#...#...#...
+ .........# ###..#.#.####.#######.#########.###.#
+..........#   #..#......#.....#.....#.#   #.....#
+.........#### #..###)##.#####.#.###.#.#   ###.###
+..#.((......# ##..##.##.#   #...# #...#     #...#
+
+
+You could see 2 jackals and a goblin.
+
+Vanquished Creatures
+  A goblin (D:1)
+  A hobgoblin (D:1)
+  A jackal (D:1)
+  A kobold (D:1)
+  A giant newt (D:1)
+  A rat (D:1)
+6 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | D:1      | Dracula, the Vampire Assassin, began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 16/16 MP: 1/1
+   127 | D:1      | Reached skill level 6 in Stealth
+   240 | D:1      | Slain by a jackal
+
+
+Action                   || total
+-------------------------++-------
+Melee: Dagger            ||    18
+

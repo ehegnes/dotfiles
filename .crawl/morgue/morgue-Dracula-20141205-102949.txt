@@ -1,0 +1,185 @@
+ Dungeon Crawl Stone Soup version 0.15.2 (console) character file.
+
+55 Dracula the Sneak (level 3, -1/27 HPs)
+             Began as a Vampire Assassin on Oct 24, 2014.
+             Slain by a scorpion (10 damage)
+             ... on Level 4 of the Dungeon on Dec 5, 2014.
+             The game lasted 00:18:05 (1766 turns).
+
+Dracula the Sneak (Vampire Assassin)                Turns: 1766, Time: 00:18:05
+
+HP  -1/27        AC  3     Str 10      XL: 3   Next: 67%
+MP   3/3         EV 12     Int 13      God: 
+Gold 101         SH  0     Dex 16      Spells:  0 memorised,  2 levels left
+
+rFire  . . .     SeeInvis +     a - +2 dagger
+rCold  . . .     Clarity  .     p - +0 robe
+rNeg   + . .     rCorr    .     (no shield)
+rPois  .         rRot     .     (no helmet)
+rElec  .         Spirit   .     d - +0 cloak
+SustAb .         Warding  .     (no gloves)
+rMut   .         Stasis   .     (no boots)
+Gourm  .                        (no amulet)
+MR     .....                    (no ring)
+                                (no ring)
+
+@: lethally poisoned, not resistant to hostile enchantments, stealthy
+A: fangs 3, see invisible, unbreathing
+a: Bat Form
+
+
+You were on level 4 of the Dungeon.
+You were not thirsty.
+
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+
+You collected 101 gold pieces.
+
+Inventory:
+
+Hand weapons
+ a - a +2 dagger (weapon)
+ b - a +0 blowgun
+Missiles
+ e - 8 poisoned needles
+ f - 2 curare-tipped needles
+Armour
+ d - a +0 cloak (worn)
+ p - a +0 robe (worn)
+Scrolls
+ c - a scroll of fog {unknown}
+ h - a scroll of enchant armour {unknown}
+ i - 2 scrolls of identify {unknown}
+ j - 3 scrolls of magic mapping {unknown}
+ k - a scroll of blinking {unknown}
+ l - 3 scrolls of remove curse {unknown}
+ o - a scroll of teleportation {unknown}
+ q - a scroll of noise {unknown}
+Jewellery
+ n - a cursed ring of loudness {unknown}
+Potions
+ g - a potion of blood
+ m - a potion of cure mutation
+
+
+   Skills:
+ - Level 1.7 Fighting
+ + Level 3.1 Short Blades
+ - Level 1.5 Throwing
+ - Level 1.1 Dodging
+ * Level 7.4 Stealth
+
+
+You had 2 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)             Temple (0/1) D:4         
+
+Altars:
+
+Annotations:
+D:3 Natasha
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have razor-sharp teeth.
+You have supernaturally acute eyesight.
+You can survive without breathing.
+
+
+Message History
+
+The floor.
+That item cannot be evoked!
+Unknown command.
+Unknown command.
+A scorpion comes into view.
+The scorpion barely misses you.
+You hit the scorpion.
+The scorpion is lightly wounded.
+The scorpion stings you but does no damage.
+You hit the scorpion.
+The scorpion is lightly wounded.
+You hit the scorpion.
+The scorpion is lightly wounded.
+The scorpion stings you.
+You are lethally poisoned!
+The scorpion poisons you!
+You hit the scorpion but do no damage.
+The scorpion is lightly wounded.
+You feel sick. The scorpion stings you!
+You die...
+
+                            #..
+                            #.#
+                            #.#
+                            #.#
+                     #####  #.#
+                     #...####.#
+                     #.#.<....#
+                     #...######
+                     ##.##
+                      #.#
+        ########      #.#
+..#######...P..##     #.#
+#...............#     #.#
+..######.#..>...#     #.#
+       #.#......#     #.#
+       #.#..P...#     #.#
+       #.######.#######.#
+       #.#    #.........#
+       #.#    ##.########
+       #.#######.#
+       #...@s....#
+       ###########
+
+
+You could see a scorpion.
+
+Vanquished Creatures
+  Jessica (D:3)
+  An adder (D:2)
+  A ball python (D:1)
+  A giant cockroach (D:1)
+  4 goblins
+  3 hobgoblins
+  3 jackals (D:1)
+  4 bats
+  A giant newt (D:1)
+  A kobold (D:3)
+  9 rats
+  A rat skeleton (D:4)
+30 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | D:1      | Dracula, the Vampire Assassin, began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 16/16 MP: 1/1
+    34 | D:1      | Reached skill level 6 in Stealth
+   478 | D:1      | Reached XP level 2. HP: 22/22 MP: 2/2
+   995 | D:2      | Reached XP level 3. HP: 20/27 MP: 3/3
+  1450 | D:3      | Reached skill level 7 in Stealth
+  1471 | D:3      | Noticed Jessica
+  1479 | D:3      | Killed Jessica
+  1665 | D:3      | Noticed Natasha
+  1709 | D:4      | Upgraded the game from 0.15.1 to 0.15.2
+  1742 | D:4      | Found a staircase to the Ecumenical Temple.
+  1759 | D:4      | Noticed a scorpion
+  1766 | D:4      | Slain by a scorpion
+
+
+Action                   || total
+-------------------------++-------
+Melee: Dagger            ||    78
+       Unarmed           ||     5
+ Abil: End Transformatio ||     1
+       Bat Form          ||     1
+  Use: Potion            ||     4
+ Stab: Sleeping          ||     6
+  Eat: Corpse            ||     6
+

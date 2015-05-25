@@ -1,0 +1,298 @@
+Version: Dungeon Crawl Stone Soup 0.17-a0-1769-g54adf96
+Platform: unix
+Bits: 64
+Game mode: normal
+Tiles: yes
+
+Command line: crawl
+
+RC options:
+restart_after_game = true
+
+
+Crash caused by signal #15: Terminated
+
+Obtained 21 stack frames.
+crawl(_Z17write_stack_traceP8_IO_FILEi+0x36) [0x648156]: write_stack_trace(_IO_FILE*, int)
+crawl(_Z13do_crash_dumpv+0x359) [0x652349]: do_crash_dump()
+crawl(_Z20crash_signal_handleri+0x7c) [0x64840c]: crash_signal_handler(int)
+/lib64/libc.so.6(+0x33ab0) [0x7f6255b94ab0]: 
+/lib64/libc.so.6(__poll+0x2d) [0x7f6255c420bd]: 
+/usr/lib64/libxcb.so.1(+0xa9d2) [0x7f62518d99d2]: 
+/usr/lib64/libxcb.so.1(+0xc2df) [0x7f62518db2df]: 
+/usr/lib64/libxcb.so.1(xcb_wait_for_reply+0x61) [0x7f62518db3f1]: 
+/usr/lib64/libX11.so.6(_XReply+0x127) [0x7f625483ac47]: 
+/usr/lib64/libGL.so.1(+0x4c893) [0x7f62564d0893]: 
+/usr/lib64/libGL.so.1(+0x49f99) [0x7f62564cdf99]: 
+/usr/lib64/dri/i965_dri.so(+0x2de1c9) [0x7f624d7a91c9]: 
+/usr/lib64/dri/i965_dri.so(+0x2de6e5) [0x7f624d7a96e5]: 
+/usr/lib64/dri/i965_dri.so(+0x2d30fd) [0x7f624d79e0fd]: 
+crawl(_ZN15OGLStateManager21reset_view_for_redrawEff+0x1a) [0xc1081a]: OGLStateManager::reset_view_for_redraw(float, float)
+crawl(_ZN14TilesFramework6redrawEv+0x42) [0xc0a7c2]: TilesFramework::redraw()
+crawl(_ZN14TilesFramework16update_title_msgESs+0x97) [0xc0a957]: TilesFramework::update_title_msg(std::string)
+crawl(_Z12startup_stepv+0x1ecd) [0xaffe0d]: startup_step()
+crawl(main+0x318) [0x522d38]: 
+/lib64/libc.so.6(__libc_start_main+0xf0) [0x7f6255b80fa0]: 
+crawl() [0x5a6b72]
+
+Trying to run gdb.
+GNU gdb (Gentoo 7.9.1 vanilla) 7.9.1
+Copyright (C) 2015 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.  Type "show copying"
+and "show warranty" for details.
+This GDB was configured as "x86_64-pc-linux-gnu".
+Type "show configuration" for configuration details.
+For bug reporting instructions, please see:
+<http://bugs.gentoo.org/>.
+Find the GDB manual and other documentation resources online at:
+<http://www.gnu.org/software/gdb/documentation/>.
+For help, type "help".
+Type "apropos word" to search for commands related to "word".
+[New LWP 13083]
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library "/lib64/libthread_db.so.1".
+0x00007f62569d9d3b in waitpid () from /lib64/libpthread.so.0
+#0  0x00007f62569d9d3b in waitpid () from /lib64/libpthread.so.0
+No symbol table info available.
+#1  0x000000000064886b in call_gdb(_IO_FILE*) ()
+No symbol table info available.
+#2  0x0000000000652365 in do_crash_dump() ()
+No symbol table info available.
+#3  0x000000000064840c in crash_signal_handler(int) ()
+No symbol table info available.
+#4  <signal handler called>
+No symbol table info available.
+#5  0x00007f6255c420bd in poll () from /lib64/libc.so.6
+No symbol table info available.
+#6  0x00007f62518d99d2 in ?? () from /usr/lib64/libxcb.so.1
+No symbol table info available.
+#7  0x00007f62518db2df in ?? () from /usr/lib64/libxcb.so.1
+No symbol table info available.
+#8  0x00007f62518db3f1 in xcb_wait_for_reply () from /usr/lib64/libxcb.so.1
+No symbol table info available.
+#9  0x00007f625483ac47 in _XReply () from /usr/lib64/libX11.so.6
+No symbol table info available.
+#10 0x00007f62564d0893 in ?? () from /usr/lib64/libGL.so.1
+No symbol table info available.
+#11 0x00007f62564cdf99 in ?? () from /usr/lib64/libGL.so.1
+No symbol table info available.
+#12 0x00007f624d7a91c9 in ?? () from /usr/lib64/dri/i965_dri.so
+No symbol table info available.
+#13 0x00007f624d7a96e5 in ?? () from /usr/lib64/dri/i965_dri.so
+No symbol table info available.
+#14 0x00007f624d79e0fd in ?? () from /usr/lib64/dri/i965_dri.so
+No symbol table info available.
+#15 0x0000000000c1081a in OGLStateManager::reset_view_for_redraw(float, float) ()
+No symbol table info available.
+#16 0x0000000000c0a7c2 in TilesFramework::redraw() ()
+No symbol table info available.
+#17 0x0000000000c0a957 in TilesFramework::update_title_msg(std::string) ()
+No symbol table info available.
+#18 0x0000000000affe0d in startup_step() ()
+No symbol table info available.
+#19 0x0000000000522d38 in main ()
+No symbol table info available.
+
+Compilation info:
+<<<<<<<<<<<
+Compiled with GCC 4.9.3 on Sep  7 2015 at 13:10:04
+Build platform: x86_64-pc-linux-gnu
+Platform: x86_64-pc-linux-gnu
+CFLAGS: -O2 -pipe -DUSE_TILE -DUSE_TILE_LOCAL -DUSE_SDL -DUSE_GL -DUSE_FT -D_REENTRANT -Wall -Wformat-security -Wundef -Wno-array-bounds -Wno-format-zero-length -Wmissing-declarations -Wredundant-decls -Wno-parentheses -Wwrite-strings -Wshadow -pedantic -Wuninitialized -Iutil -I. -Irltiles -isystem /usr/include/freetype2 -isystem /usr/include/SDL2 -isystem /usr/include/ncursesw -DWIZARD -DASSERTS -DPROPORTIONAL_FONT="/usr/share/fonts/dejavu/DejaVuSans.ttf" -DMONOSPACED_FONT="/usr/share/fonts/dejavu/DejaVuSansMono.ttf" -D_REENTRANT -DCLUA_BINDINGS -DSAVE_DIR_PATH="~/.crawl" -DDATA_DIR_PATH="/usr/local/share/crawl/"
+LDFLAGS: -rdynamic -fuse-ld=gold -O2 
+>>>>>>>>>>>
+
+Place info:
+branch = 0, depth = 1
+
+Level id: D:1
+Level build method = ABSENT, level layout type  = ABSENT, absdepth0 = 0
+
+Markers:
+<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>
+
+Messages:
+<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>
+
+Game state:
+
+mouse_enabled: 0, waiting_for_command: 0, terminal_resized: 0
+io_inited: 0, need_save: 0, saving_game: 0, updating_scores: 0:
+seen_hups: 0, map_stat_gen: 0, type: 1, arena_suspended: 0
+
+prev_cmd = CMD_NO_CMD
+repeat_cmd = CMD_NO_CMD
+
+Player:
+{{{{{{{{{{{
+Name:    []
+Species: Yak
+Job:     Unemployed
+
+HP: 0/0; mods: 0/0
+MP: 0/0; mod: 0
+Stats: 0 (0) 0 (0) 0 (0)
+Position: (0, 0) <OoB>, god: No God (0), turn_is_over: 0, banished: 0
+
+Skills (mode: auto)
+Name            | can_train | train | training | level | points | progress
+Fighting        |           |   0   |     0    |    0  |      0 | 0/59
+Short Blades    |           |   0   |     0    |    0  |      0 | 0/1
+Long Blades     |           |   0   |     0    |    0  |      0 | 0/1
+Axes            |           |   0   |     0    |    0  |      0 | 0/50
+Maces & Flails  |           |   0   |     0    |    0  |      0 | 0/1
+Polearms        |           |   0   |     0    |    0  |      0 | 0/1
+Staves          |           |   0   |     0    |    0  |      0 | 0/59
+Slings          |           |   0   |     0    |    0  |      0 | 0/1
+Bows            |           |   0   |     0    |    0  |      0 | 0/1
+Crossbows       |           |   0   |     0    |    0  |      0 | 0/59
+Throwing        |           |   0   |     0    |    0  |      0 | 0/1
+Armour          |           |   0   |     0    |    0  |      0 | 0/1
+Dodging         |           |   0   |     0    |    0  |      0 | 0/50
+Stealth         |           |   0   |     0    |    0  |      0 | 0/1
+Shields         |           |   0   |     0    |    0  |      0 | 0/50
+Unarmed Combat  |           |   0   |     0    |    0  |      0 | 0/0
+Spellcasting    |           |   0   |     0    |    0  |      0 | 0/50
+Conjurations    |           |   0   |     0    |    0  |      0 | 0/1
+Hexes           |           |   0   |     0    |    0  |      0 | 0/0
+Charms          |           |   0   |     0    |    0  |      0 | 0/50
+Summonings      |           |   0   |     0    |    0  |      0 | 0/1
+Necromancy      |           |   0   |     0    |    0  |      0 | 0/0
+Translocations  |           |   0   |     0    |    0  |      0 | 0/50
+Transmutations  |           |   0   |     0    |    0  |      0 | 0/1
+Fire Magic      |           |   0   |     0    |    0  |      0 | 0/0
+Ice Magic       |           |   0   |     0    |    0  |      0 | 0/50
+Air Magic       |           |   0   |     0    |    0  |      0 | 0/1
+Earth Magic     |           |   0   |     0    |    0  |      0 | 0/0
+Poison Magic    |           |   0   |     0    |    0  |      0 | 0/50
+Invocations     |           |   0   |     0    |    0  |      0 | 0/1
+Evocations      |           |   0   |     0    |    0  |      0 | 0/0
+
+Spell bugs:
+
+Durations:
+
+Attributes:
+    #59: 1
+
+Mutations:
+
+Inventory bugs:
+
+Equipment:
+
+}}}}}}}}}}}
+
+
+Screenshot:
+@
+
+clua stack:
+
+
+dlua stack:
+
+
+Lua persistent data:
+<<<<<<<<<<<<<<<<<<<<<<
+grunt_nemelex_gamble_triggered: false
+grunt_iron_hall_animated: false
+aquarium_serial_pool_size: 1
+arena_sprint_boss_set: 
+    1: 
+        1: place:Swamp
+        2: the lernaean hydra / wizard name:witch n_rpl n_des n_noc col:green hp:130 spells:mephitic_cloud.15.wizard;summon_hydra.15.wizard;invisibility.15.wizard;teleport_self.15.wizard.emergency
+        3: decaying rune of zot
+
+    2: 
+        1: place:Shoals
+        2: polyphemus hp:350 / ilsuiw hp:250 / merfolk avatar name:dimme tile:mons_dimme n_rpl n_des n_spe col:lightmagenta hp:300 spells:avatar_song.160.natural;malign_gateway.40.natural
+        3: barnacled rune of zot
+
+    3: 
+        1: place:Forest:$ w:50 / spriggan druid w:2 / spriggan air mage w:5 / spriggan berserker w:5
+        2: agnes hp:335
+        3: mossy rune of zot
+
+    4: 
+        1: place:Slime
+        2: dissolution hp:430 / acid blob name:sulfuric n_adj col:white hp:450 / great orb of eyes name:greater_orb_of_eyes n_rpl n_des n_noc col:green hp:600
+        3: slimy rune of zot
+
+    5: 
+        1: vault guard / place:Vaults
+        2: mennas hp:250 / mara hp:300 / vault guard name:captain n_suf n_noc col:lightcyan hp:800 hd:26
+        3: silver rune of zot
+
+    6: 
+        1: efreet / efreet / orange demon / orange demon / sun demon / sun demon / ynoxinul / ynoxinul / balrug / balrug
+        2: cerebov
+        3: fiery rune of zot
+
+    7: 
+        1: hellwing / smoke demon / smoke demon / sixfirhy / Green Death / blizzard demon / smoke demon / hellwing / Green Death / hellwing
+        2: lom lobon
+        3: magical rune of zot
+
+    8: 
+        1: small abomination / small abomination / large abomination / large abomination / neqoxec / neqoxec / cacodemon / cacodemon / chaos spawn / chaos spawn
+        2: mnoleg
+        3: glowing rune of zot
+
+    9: 
+        1: place:Tar:$
+        2: ereshkigal
+        3: bone rune of zot
+
+    10: 
+        1: pandemonium lord
+        2: ancient lich name:Master_Blaster n_rpl hd:30 hp:1500 col:lightmagenta spells:fire_storm.32.wizard;glaciate.16.wizard;miasma_breath.16.wizard;teleport_self.16.wizard.emergency
+        3: demonic rune of zot
+
+    11: 
+        1: skeleton / skeleton / skeleton / skeleton / soul eater / soul eater / lorocyproca / executioner / executioner / executioner
+        2: gloorx vloq
+        3: dark rune of zot
+
+    12: 
+        1: guardian mummy w:15 / mummy priest w:3 / greater mummy w:2
+        2: khufu hp:500
+        3: golden rune of zot
+
+    13: 
+        1: place:Coc:$
+        2: antaeus
+        3: icy rune of zot
+
+    14: 
+        1: place:Geh:$
+        2: asmodeus
+        3: obsidian rune of zot
+
+
+arena_style_points: 0
+ice_cave_hard: false
+calc_score: 
+    CLASS: FunctionWrapper
+    name: meatsprint_score
+    fn: [type function]
+
+kb_xom_sheep_generated: false
+oka_arena_cages: false
+grunt_orc_gardens_giant_problem: false
+dk_vt_tree_died: false
+grunt_nemelex_gamble_announced: false
+bailey_type: bailey_polearm
+dk_xom_monty_hall_triggered: false
+grunt_gauntlet_trap_triggered: false
+wucad_mu_died: false
+dk_vt_stepped: false
+>>>>>>>>>>>>>>>>>>>>>>
+
+Lua marker contents:
+<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>

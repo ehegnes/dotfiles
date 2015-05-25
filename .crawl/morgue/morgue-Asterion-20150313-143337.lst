@@ -1,0 +1,567 @@
+Asterion
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a cursed -2 club
+(19, 0, D:1)
+  a +0 helmet
+(14, 1, D:1)
+  26 sling bullets
+(16, 2, D:1)
+  a +1 helmet
+(-1, 3, D:1)
+  a +0 leather armour
+(6, 4, D:1)
+  a +0 club
+(39, 8, D:1)
+  a +0 whip
+(39, 9, D:1)
+  21 stones
+(40, 9, D:1)
+  a +0 robe
+(-4, 10, D:1)
+  a stone
+(33, 10, D:1)
+  a cursed -1 leather armour
+(-9, 12, D:1)
+  a +0 robe
+(6, 14, D:1)
+  a +0 dagger
+(10, 14, D:1)
+  a +0 club
+(29, 14, D:1)
+  a +0 dagger
+(34, 16, D:1)
+  a +0 short sword
+(-3, 17, D:1)
+  a +0 dagger
+(25, 24, D:1)
+  a +2 shield of reflection
+(9, 28, D:1)
+  a +0 club
+(21, 28, D:1)
+  a +0 club
+(19, 29, D:1)
+  a +0 club
+(52, 37, D:1)
+  a +0 whip
+(36, 48, D:1)
+  a +0 leather armour
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +0 club
+(-30, 1, D:2)
+  a scroll of identify
+(-29, 1, D:2)
+  5 gold pieces
+(-28, 1, D:2)
+  14 stones
+(-30, 2, D:2)
+  a +0 whip
+(-29, 2, D:2)
+  a +0 quarterstaff
+(-28, 2, D:2)
+  a scroll of amnesia
+(-30, 3, D:2)
+  a +0 dagger
+(-29, 3, D:2)
+  a scroll of remove curse
+(-28, 3, D:2)
+  32 stones
+(-24, 9, D:2)
+  a +0 whip
+(-24, 10, D:2)
+  a -5 ring of strength
+(-19, 16, D:2)
+  a +0 dagger
+(9, 16, D:2)
+  9 arrows
+(11, 17, D:2)
+  a +0 club
+(12, 17, D:2)
+  a +0 dagger
+(0, 18, D:2)
+  18 arrows
+(-5, 25, D:2)
+  a +0 club
+(-19, 35, D:2)
+  a +0 robe
+(0, 39, D:2)
+  a +0 ring mail
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +0 trident
+(3, 0, D:3)
+  24 stones
+(11, 0, D:3)
+  a +0 club
+(34, 1, D:3)
+  a +0 club
+(18, 8, D:3)
+  a +0 blowgun
+  a poisoned needle
+(41, 9, D:3)
+  a +0 club
+(17, 10, D:3)
+  a poisoned needle
+(41, 10, D:3)
+  a +0 flail
+(42, 10, D:3)
+  a +0 dagger
+(43, 11, D:3)
+  a stone
+(44, 13, D:3)
+  10 poisoned needles
+(27, 14, D:3)
+  a +0 scale mail
+(12, 18, D:3)
+  a +0 dagger
+(9, 22, D:3)
+  24 arrows
+(-16, 24, D:3)
+  a +0 hunting sling
+(13, 29, D:3)
+  17 bolts
+(43, 31, D:3)
+  a +0 leather armour
+
+Level 4 of the Dungeon
+[Shop] Wejedie's Book Shoppe
+  a Young Poisoner's Handbook (560 gold)
+  a book of Frost (490 gold)
+  a Fen Folio (1050 gold)
+  a Grand Grimoire (1545 gold)
+  a book of Transfigurations (770 gold)
+  a book of Battle (560 gold)
+  a book of Debilitation (560 gold)
+  a book of Maledictions (350 gold)
+  a book of Changes (350 gold)
+  a book of Cantrips (280 gold)
+  a book of Minor Magic (280 gold)
+[Shop] Costramn's Food Shoppe
+  a slice of pizza (18 gold)
+  a meat ration (60 gold)
+  3 fruits (54 gold)
+  a meat ration (60 gold)
+  a bread ration (60 gold)
+  a slice of pizza (18 gold)
+  a bread ration (60 gold)
+  a meat ration (60 gold)
+  a bread ration (60 gold)
+  a beef jerky (18 gold)
+[Shop] Saukhla's Weapon Shop
+  a +2 whip of venom (195 gold)
+  a +0 quarterstaff (52 gold)
+  a +0 long sword of freezing (107 gold)
+  a +0 short sword (39 gold)
+  a +0 war axe (45 gold)
+  a +0 war axe (45 gold)
+  a +4 shortbow of freezing (356 gold)
+  a +0 trident (45 gold)
+[Shop] Schon's Food Shop
+  a bread ration (55 gold)
+  a bread ration (55 gold)
+  a bread ration (55 gold)
+  a meat ration (55 gold)
+  4 fruits (66 gold)
+  a bread ration (55 gold)
+  a bread ration (55 gold)
+  a slice of pizza (16 gold)
+[Shop] Obapt's Distillery
+  a potion of restore abilities (55 gold)
+  a potion of agility (44 gold)
+  2 potions of might (88 gold)
+  a potion of restore abilities (55 gold)
+  a potion of heal wounds (55 gold)
+  a potion of curing (33 gold)
+  a potion of magic (88 gold)
+(0, 0, D:4)
+  a +0 club
+(3, 0, D:4)
+  4 stones
+(7, 0, D:4)
+  a stone
+(26, 6, D:4)
+  a +0 quarterstaff
+(38, 10, D:4)
+  a cursed -2 dagger
+(37, 17, D:4)
+  a +0 club
+(35, 23, D:4)
+  16 arrows
+(44, 24, D:4)
+  a +0 dagger
+(42, 25, D:4)
+  a +0 robe
+(49, 33, D:4)
+  a +0 scale mail
+  a +0 animal skin
+  a +0 dire flail
+(-6, 36, D:4)
+  a +1 short sword of draining
+  3 stones
+(-4, 36, D:4)
+  a stone
+(-2, 37, D:4)
+  a stone
+(17, 37, D:4)
+  20 stones
+(5, 45, D:4)
+  15 bolts of frost
+(12, 46, D:4)
+  a +0 whip
+
+Level 5 of the Dungeon
+(0, 0, D:5)
+  a +0 short sword
+  a +0 blowgun
+  6 poisoned needles
+(3, 0, D:5)
+  a poisoned needle
+(7, 0, D:5)
+  a poisoned needle
+(8, 0, D:5)
+  2 poisoned needles
+(7, 6, D:5)
+  a +0 club
+  a +0 ring mail
+(6, 7, D:5)
+  a +0 quarterstaff
+(-2, 15, D:5)
+  a +0 robe
+(50, 21, D:5)
+  a +0 trident
+(5, 25, D:5)
+  a +0 club
+(40, 26, D:5)
+  17 stones
+(2, 30, D:5)
+  a +0 falchion
+(29, 33, D:5)
+  24 arrows
+(52, 40, D:5)
+  a +0 giant club
+
+Level 6 of the Dungeon
+(0, 0, D:6)
+  a +0 leather armour
+(-24, 1, D:6)
+  a throwing net
+(-28, 2, D:6)
+  a cursed -1 club
+  a +0 ring mail
+  a +0 trident
+  a +0 short sword
+(9, 2, D:6)
+  19 arrows
+(-36, 3, D:6)
+  7 arrows of dispersal
+  a +0 shortbow
+(-28, 3, D:6)
+  a throwing net
+  a +0 flail
+(-25, 3, D:6)
+  a throwing net
+(-28, 4, D:6)
+  a +0 spear
+(-27, 4, D:6)
+  a +0 club
+  a +4 dagger of pain
+  a +0 robe
+(-26, 4, D:6)
+  a +0 spear
+(-19, 6, D:6)
+  23 stones
+(-41, 11, D:6)
+  a +0 club
+(25, 11, D:6)
+  24 stones
+(-37, 16, D:6)
+  a +0 halberd
+(-34, 16, D:6)
+  a throwing net
+  a +0 club
+  a +0 spear
+(-33, 16, D:6)
+  a +0 whip
+  a +0 robe
+  a +0 spear
+(16, 20, D:6)
+  a +0 war axe
+(-6, 22, D:6)
+  a +0 scale mail
+(-34, 23, D:6)
+  a +1 leather armour of poison resistance
+  a +5 rapier of freezing
+(-18, 27, D:6)
+  a +1 hand axe of freezing
+(-17, 27, D:6)
+  a +2 leather armour of poison resistance
+  a +0 mace
+(-17, 28, D:6)
+  a +0 leather armour
+  a +0 whip
+  a cursed +0 dagger
+  a +0 leather armour
+(23, 36, D:6)
+  the +6 dagger of Rubbish {pierce, MP+9}
+    It inflicts extra damage upon your enemies.
+    
+    It affects your magic capacity (+9).
+(5, 43, D:6)
+  14 stones
+(14, 46, D:6)
+  a +0 club
+(-23, 47, D:6)
+  15 sling bullets
+(14, 49, D:6)
+  a +0 dagger
+(-39, 50, D:6)
+  18 stones
+
+Level 7 of the Dungeon
+(0, 0, D:7)
+  19 stones
+(26, 0, D:7)
+  29 bolts
+(10, 5, D:7)
+  a +0 dagger
+  a +0 robe
+(32, 10, D:7)
+  14 stones
+(0, 13, D:7)
+  a +0 robe
+(16, 16, D:7)
+  a +0 ring mail
+(37, 18, D:7)
+  a +0 trident
+  a +0 leather armour
+(38, 19, D:7)
+  21 stones
+(-5, 20, D:7)
+  a +0 long sword
+(40, 26, D:7)
+  16 stones
+(15, 29, D:7)
+  a +0 leather armour
+  a +0 hand axe
+(-1, 41, D:7)
+  a +0 mace
+(21, 47, D:7)
+  a +0 glaive
+  a +0 robe
+(24, 49, D:7)
+  a cursed +0 flail
+  a +0 dagger
+  a +0 robe
+(25, 49, D:7)
+  a +0 dagger
+  a +0 robe
+
+Level 8 of the Dungeon
+(0, 0, D:8)
+  18 stones
+(-13, 2, D:8)
+  2 scrolls of noise
+  a scroll of random uselessness
+(-7, 3, D:8)
+  a poisoned needle
+(-7, 4, D:8)
+  a poisoned needle
+(28, 4, D:8)
+  23 arrows
+(0, 6, D:8)
+  a cursed -1 club
+(-8, 7, D:8)
+  a poisoned needle
+(-8, 9, D:8)
+  a +0 blowgun
+  21 poisoned needles
+(21, 11, D:8)
+  23 sling bullets
+(14, 14, D:8)
+  a +0 quarterstaff
+  a +0 hunting sling
+  20 sling bullets
+  a +0 ring mail
+(0, 15, D:8)
+  a +0 war axe
+(17, 17, D:8)
+  a sling bullet
+(-6, 26, D:8)
+  a +0 robe
+(52, 32, D:8)
+  a +0 dagger
+  a +0 robe
+(51, 33, D:8)
+  a +0 falchion
+  a +0 long sword
+  a +0 chain mail
+(39, 40, D:8)
+  a throwing net
+(40, 40, D:8)
+  a +0 quarterstaff
+(40, 46, D:8)
+  a +0 whip
+(38, 47, D:8)
+  a +0 halberd
+(39, 47, D:8)
+  a +0 club
+  a +0 spear
+  a +0 scale mail
+
+Level 9 of the Dungeon
+(0, 0, D:9)
+  a +0 helmet
+(-25, 1, D:9)
+  a +3 antimagic dire flail
+  a +0 morningstar
+  a +0 plate armour
+  a +0 dire flail
+  a +0 dagger
+  a +0 robe
+(-26, 2, D:9)
+  a cursed -2 club
+  a +0 scale mail
+(-26, 4, D:9)
+  a +0 leather armour
+(-7, 5, D:9)
+  17 arrows
+(-37, 16, D:9)
+  a +0 flail
+(-10, 17, D:9)
+  a +0 scale mail
+(-39, 18, D:9)
+  a +0 club
+(-15, 18, D:9)
+  a +0 dagger
+(6, 20, D:9)
+  a +0 ring mail
+(-5, 21, D:9)
+  19 sling bullets
+(1, 25, D:9)
+  a +0 club
+(-6, 26, D:9)
+  a +1 animal skin
+  a -2 halberd
+(-1, 26, D:9)
+  a +0 spear
+(-10, 27, D:9)
+  5 poisoned needles
+(-6, 27, D:9)
+  a +0 short sword
+(0, 27, D:9)
+  4 stones
+  a +0 club
+(-22, 37, D:9)
+  a +0 short sword
+  a +0 short sword
+  a +2 dagger of speed
+(-21, 37, D:9)
+  a +0 short sword
+  3 stones
+(-24, 38, D:9)
+  a poisoned needle
+(-23, 38, D:9)
+  2 stones
+  4 poisoned needles
+(-21, 38, D:9)
+  a cursed -3 blowgun
+  11 poisoned needles
+(-20, 38, D:9)
+  an uncursed ring of poison resistance
+(-28, 39, D:9)
+  a poisoned needle
+(0, 43, D:9)
+  31 bolts
+
+Level 10 of the Dungeon
+(0, 0, D:10)
+  9 stones
+(-10, 1, D:10)
+  a +0 shortbow
+  6 arrows of frost
+(-6, 1, D:10)
+  an arrow of frost
+(-5, 1, D:10)
+  an arrow of frost
+(-4, 1, D:10)
+  an arrow of frost
+(-2, 1, D:10)
+  5 arrows of frost
+(2, 3, D:10)
+  a +0 trident of flaming
+(12, 4, D:10)
+  25 bolts
+(-5, 5, D:10)
+  a +0 dagger
+  a cursed +0 robe
+  a +0 dire flail
+  a +0 chain mail
+  a +1 vampiric short sword
+  a +0 club
+(-6, 6, D:10)
+  a +2 dagger of electrocution
+  a +0 robe
+  a +0 hand axe
+  a +0 leather armour
+  a +0 dagger
+(-5, 6, D:10)
+  a +0 hand axe
+  a cursed -1 ring mail
+  a +0 falchion
+  a +0 hand axe
+  a +0 leather armour
+(-4, 6, D:10)
+  a +0 dagger
+  a +0 robe
+(23, 7, D:10)
+  a throwing net
+(23, 8, D:10)
+  a +0 scale mail
+(24, 8, D:10)
+  14 arrows
+(11, 11, D:10)
+  a +0 scimitar
+  a +0 leather armour
+  a +0 buckler
+  a +3 dire flail of protection
+(15, 13, D:10)
+  12 bolts of frost
+(14, 15, D:10)
+  a +0 giant club
+  a +0 robe
+(15, 15, D:10)
+  a +0 leather armour
+(15, 16, D:10)
+  5 tomahawks
+  a +0 mace
+  a +0 plate armour
+(-6, 23, D:10)
+  a +0 broad axe
+(10, 23, D:10)
+  a +0 ring mail
+(4, 32, D:10)
+  an arrow
+(4, 33, D:10)
+  an arrow
+(4, 35, D:10)
+  a +0 shortbow
+  20 arrows
+(5, 36, D:10)
+  2 stones
+(22, 39, D:10)
+  a +0 mace
+(26, 41, D:10)
+  a +0 long sword
+(4, 43, D:10)
+  a +0 leather armour
+(22, 45, D:10)
+  20 arrows
+
+Level 1 of the Lair of Beasts
+(0, 0, Lair:1)
+  13 stones
+

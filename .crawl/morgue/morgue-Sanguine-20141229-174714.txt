@@ -1,0 +1,332 @@
+ Dungeon Crawl Stone Soup version 0.15.2 (console) character file.
+
+4332 Sanguine the Carver (level 10, -6/66 HPs)
+             Began as a Demonspawn Abyssal Knight on Dec 29, 2014.
+             Was the Champion of Lugonu.
+             Mangled by Erolcha
+             ... wielding a +0 giant spiked club
+              (12 damage)
+             ... on Level 8 of the Dungeon.
+             The game lasted 00:36:30 (11322 turns).
+
+Sanguine the Carver (Demonspawn Abyssal Knight)    Turns: 11322, Time: 00:36:30
+
+HP  -6/66        AC 16     Str 12      XL: 10   Next: 12%
+MP   0/21        EV  9     Int 13      God: Lugonu [******]
+Gold 460         SH  0     Dex 15      Spells:  0 memorised,  9 levels left
+
+rFire  + . .     SeeInvis +     z - +3 scimitar
+rCold  . . .     Clarity  .     g - +1 ring mail
+rNeg   . . .     rCorr    .     (no shield)
+rPois  .         rRot     +     (helmet restricted)
+rElec  .         Spirit   +     C - +2 cloak
+SustAb +         Warding  .     (no gloves)
+rMut   .         Stasis   .     (no boots)
+Gourm  .                        (no amulet)
+MR     .....                    w - ring of sustain abilities
+                                n - ring of see invisible
+
+@: confused, very slightly contaminated, hasted, very quick, not resistant to
+hostile enchantments, extremely unstealthy
+A: antennae 1, rough black scales 2, blink 1, fire resistance 1, frail 1, magic
+shield, rot immunity
+a: Blink, Depart the Abyss, Bend Space, Banish, Corrupt, Enter the Abyss,
+Renounce Religion
+
+
+You were on level 8 of the Dungeon.
+You worshipped Lugonu.
+Lugonu was exalted by your worship.
+You were hungry.
+
+You visited 1 branch of the dungeon, and saw 8 of its levels.
+You visited the Abyss 1 time.
+You also visited: Ossuary.
+
+You collected 460 gold pieces.
+
+Inventory:
+
+Hand weapons
+ z - a +3 scimitar (weapon)
+Armour
+ g - a +1 ring mail (worn)
+ C - a +2 cloak (worn)
+Magical devices
+ i - a wand of lightning (0)
+ k - a wand of confusion (10)
+ o - a wand of draining (2)
+ t - a wand of frost (5)
+ x - a wand of enslavement (10)
+Comestibles
+ a - 2 chunks of giant frog flesh
+ b - 4 meat rations
+ c - 7 bread rations
+ h - 3 slices of pizza
+ j - a beef jerky
+ l - 3 fruits
+Scrolls
+ d - 2 scrolls of teleportation
+ f - 3 scrolls of remove curse
+ p - a scroll of amnesia
+ q - 12 scrolls of identify
+ y - a scroll of recharging
+Jewellery
+ n - a ring of see invisible (left hand)
+ r - an uncursed ring of protection from fire
+ s - an uncursed ring of protection from cold
+ w - a ring of sustain abilities (right hand)
+Potions
+ e - 2 potions of brilliance
+ u - a potion of cancellation
+ B - 2 potions of curing
+Books
+ m - a book of Changes   
+   
+   Spells                             Type                      Level
+   Beastly Appendage                  Transmutation                1
+   Sticks to Snakes                   Transmutation                2
+   Spider Form                        Transmutation/Poison         3
+   Ice Form                           Ice/Transmutation            4
+   Blade Hands                        Transmutation                5
+
+
+   Skills:
+ - Level 5.1 Fighting
+ + Level 11.2 Long Blades
+ - Level 1.7 Armour
+ - Level 3.5 Dodging
+ - Level 8.2 Invocations
+
+
+You had 9 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (8/15)             Temple (0/1) D:7         
+  Lair: D:8-11      
+
+Altars:
+Cheibriados
+Elyvilon
+Fedhas
+Kikubaaqudgha
+Okawaru
+Qazlal
+Sif Muna
+Trog
+
+Annotations:
+D:6 Asterion's ghost, experienced MiBe
+D:8 Erolcha
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a pair of small antennae on your head.
+You are mostly covered in rough black scales (AC +7, Dex -2).
+When hurt, damage is shared between your health and your magic reserves.
+You are immune to rotting.
+You can translocate small distances at will.
+Your flesh is heat resistant.
+You are frail (-10% HP).
+
+
+Message History
+
+Erolcha casts a spell at you.
+The magic dart hits you!
+You slash Erolcha!
+Erolcha is almost dead.
+Erolcha closely misses you.
+You closely miss Erolcha.
+Erolcha is almost dead.
+You hit Erolcha but do no damage.
+Erolcha is almost dead.
+Erolcha hits you with a giant spiked club!
+You hit Erolcha but do no damage.
+Erolcha is almost dead.
+Erolcha points at you and mumbles some strange words.
+You are confused.
+You are too confused!
+Erolcha casts a spell at you.
+The bolt of lightning hits you!
+* * * LOW HITPOINT WARNING * * *
+Erolcha hits you with a giant spiked club!
+You die...
+
+                 ###########
+                 #.........#
+                 #.........#
+  ################.........#
+  .O..............O@.......#
+  ################.........#####
+            #...................
+           ##.####...(.....#####
+           #..#  #######.###
+          ##.##        #.#
+     ######..#         #.#
+  ####......##         #.#
+  #.)..######          #.#
+  #.####                .#
+  #)#                   .#
+###.######        #######
+
+
+You could see Erolcha.
+
+Vanquished Creatures
+  A hippogriff (D:7)
+  2 hungry ghosts
+  A water moccasin (D:5)
+  2 orc warriors
+  3 phantoms
+  A black bear (D:4)
+  An ice beast (D:6)
+  A big kobold (D:7)
+  6 sky beasts
+  A necrophage (D:7)
+  2 ogres
+  A centaur (D:6)
+  3 elf zombies (Ossuary)
+  7 giant frogs
+  A hippogriff zombie (D:6)
+  3 wights (D:8)
+  A giant frog zombie (D:5)
+  2 crimson imps
+  2 goliath beetles
+  A jelly (D:5)
+  A centaur zombie (Ossuary)
+  6 orc priests
+  2 hounds
+  A quasit (D:5)
+  4 iguanas
+  8 worker ants
+  6 orc wizards
+  2 big kobold zombies (Ossuary)
+  A sky beast zombie (D:7)
+  2 ogre skeletons (D:5)
+  2 mummies (Ossuary)
+  3 gnolls
+  10 adders
+  4 worms
+  3 adder zombies
+  An iguana skeleton (D:5)
+  2 giant geckos
+  An ooze (D:3)
+  31 orcs
+  14 bats
+  9 giant cockroaches
+  15 hobgoblins
+  24 kobolds
+  5 quokkas
+  A ball python (D:1)
+  A giant cockroach zombie (D:6)
+  5 giant newts
+  A giant newt zombie (D:5)
+  17 goblins
+  2 goblin zombies (Ossuary)
+  6 hobgoblin zombies (Ossuary)
+  15 kobold zombies
+  8 orc zombies (Ossuary)
+  A quokka zombie (D:4)
+  22 rats
+  A rat skeleton (D:5)
+  A rat zombie (D:4)
+  5 ballistomycetes (D:6)
+285 creatures vanquished.
+
+Vanquished Creatures (others)
+  2 giant spores (D:6)
+  2 ballistomycetes (D:6)
+4 creatures vanquished.
+
+Grand Total: 289 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | Abyss:1  | Sanguine, the Demonspawn Abyssal Knight, began the quest for the Orb.
+     0 | Abyss:1  | Reached XP level 1. HP: 18/18 MP: 1/1
+   202 | Abyss:1  | Noticed a small abomination
+   203 | D:1      | Escaped the Abyss
+   504 | D:1      | Acquired Lugonu's first power
+   519 | D:1      | Gained mutation: You are immune to rotting. [demonic ancestry]
+   519 | D:1      | Reached XP level 2. HP: 24/24 MP: 2/2
+  1220 | D:2      | Gained mutation: When hurt, damage is shared between your health and your magic reserves. [demonic ancestry]
+  1220 | D:2      | Reached XP level 3. HP: 15/29 MP: 4/4
+  1531 | D:2      | Acquired Lugonu's second power
+  2119 | D:2      | Reached skill level 4 in Long Blades
+  2119 | D:2      | Reached XP level 4. HP: 13/35 MP: 2/5
+  3029 | D:3      | Reached XP level 5. HP: 41/41 MP: 6/6
+  3046 | D:3      | Acquired Lugonu's third power
+  3189 | D:3      | Gained mutation: You are agile. (Dex +2) [potion of mutation]
+  3189 | D:3      | Gained mutation: You have a pair of small horns on your head. [potion of mutation]
+  3189 | D:3      | Gained mutation: You can spit poison. [potion of mutation]
+  3193 | D:3      | Reached skill level 5 in Long Blades
+  3428 | D:3      | Lost mutation: You can spit poison. [potion of mutation]
+  3428 | D:3      | Gained mutation: You are somewhat resistant to further mutation. [potion of mutation]
+  3445 | D:3      | Found a white marble altar of Elyvilon.
+  4094 | D:3      | Reached XP level 6. HP: 40/47 MP: 8/8
+  4391 | D:4      | Reached skill level 6 in Long Blades
+  4399 | D:4      | Acquired Lugonu's fourth power
+  4830 | D:4      | Reached skill level 7 in Long Blades
+  4830 | D:4      | Lost mutation: You have a pair of small horns on your head. [demonic ancestry]
+  4830 | D:4      | Gained mutation: You have a pair of small antennae on your head. [demonic ancestry]
+  4830 | D:4      | Reached XP level 7. HP: 37/52 MP: 9/9
+  4953 | D:4      | Found a bloodstained altar of Trog.
+  5001 | D:4      | Reached skill level 1 in Dodging
+  5176 | D:4      | Found a sand-covered staircase.
+  5183 | Ossuary  | Entered an ossuary
+  5565 | Ossuary  | Lost mutation: You are agile. (Dex +2) [potion of mutation]
+  5565 | Ossuary  | Gained mutation: Your muscles are strong. (Str +2) [potion of mutation]
+  5565 | Ossuary  | Gained mutation: Your body is slowly deteriorating. [potion of mutation]
+  5658 | Ossuary  | Lost mutation: Your body is slowly deteriorating. [potion of cure mutation]
+  5658 | Ossuary  | Lost mutation: Your muscles are strong. (Str +2) [potion of cure mutation]
+  5658 | Ossuary  | Lost mutation: You are somewhat resistant to further mutation. [potion of cure mutation]
+  5660 | Ossuary  | Acquired Lugonu's fifth power
+  5976 | Ossuary  | Gained mutation: You are partially covered in rough black scales (AC +4, Dex -1). [demonic ancestry]
+  5976 | Ossuary  | Reached XP level 8. HP: 61/61 MP: 10/10
+  6039 | D:5      | Entered Level 5 of the Dungeon
+  6215 | D:5      | Reached skill level 5 in Fighting
+  6399 | D:5      | Found a snail-covered altar of Cheibriados.
+  6792 | D:5      | Reached skill level 5 in Invocations
+  7284 | D:5      | Found a deep blue altar of Sif Muna.
+  7389 | D:5      | Found an ancient bone altar of Kikubaaqudgha.
+  7389 | D:5      | Found a blossoming altar of Fedhas.
+  7390 | D:5      | Found a stormy altar of Qazlal.
+  7539 | D:6      | Reached skill level 8 in Invocations
+  7852 | D:6      | Reached XP level 9. HP: 57/68 MP: 17/20
+  8292 | D:6      | Noticed Asterion's ghost (experienced MiBe)
+  8826 | D:6      | Reached skill level 9 in Long Blades
+  9085 | D:6      | HP: 1/68 [Asterion's ghost (10)]
+  9942 | D:7      | Reached skill level 10 in Long Blades
+ 10059 | D:7      | Found a staircase to the Ecumenical Temple.
+ 10456 | D:7      | Found an iron altar of Okawaru.
+ 10850 | D:7      | Gained mutation: You are mostly covered in rough black scales (AC +7, Dex -2). [demonic ancestry]
+ 10850 | D:7      | Reached XP level 10. HP: 50/74 MP: 15/21
+ 11068 | D:8      | Reached skill level 11 in Long Blades
+ 11283 | D:8      | Gained mutation: Your flesh is heat resistant. [potion of mutation]
+ 11283 | D:8      | Gained mutation: You can translocate small distances at will. [potion of mutation]
+ 11283 | D:8      | Gained mutation: You are frail (-10% HP). [potion of mutation]
+ 11285 | D:8      | Noticed Erolcha
+ 11322 | D:8      | Mangled by Erolcha
+
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Falchion          |   129 |   270 |   966 |    64 ||  1429
+       Scimitar          |       |       |       |    32 ||    32
+Invok: Depart the Abyss  |     1 |       |       |       ||     1
+Evoke: Wand              |       |     1 |    24 |     1 ||    26
+  Use: Potion            |     2 |     7 |    14 |     2 ||    25
+       Scroll            |       |     6 |    13 |     2 ||    21
+ Stab: Invisible         |       |       |     4 |       ||     4
+       Confused          |       |       |     6 |       ||     6
+  Eat: Chunk             |     4 |     8 |    12 |     2 ||    26
+       Royal jelly       |       |       |     2 |       ||     2
+       Fruit             |       |       |     2 |       ||     2
+       Meat ration       |       |       |     1 |       ||     1
+

@@ -107,9 +107,9 @@ URxvt*scrollBar:                      false
 ! URxvt*borderColor:                    color
 ! URxvt*iconFile:                       file
 URxvt*font:                           xft:DejaVu Sans Mono-12
-! URxvt*boldFont:                       fontname
-! URxvt*italicFont:                     fontname
-! URxvt*boldItalicFont:                 fontname
+URxvt*boldFont:                       xft:DejaVu Sans Mono-12:bold
+URxvt*italicFont:                     xft:DejaVu Sans Mono-12:italic
+URxvt*boldItalicFont:                 xft:DejaVu Sans Mono-12:bold:italic
 ! URxvt*intensityStyles:                boolean
 ! URxvt*inputMethod:                    name
 ! URxvt*preeditType:                    style
@@ -117,7 +117,7 @@ URxvt*font:                           xft:DejaVu Sans Mono-12
 ! URxvt*imFont:                         fontname
 ! URxvt*title:                          string
 ! URxvt*iconName:                       string
-URxvt*saveLines:                      12000
+URxvt*saveLines:                      5000
 ! URxvt*buffered:                       boolean
 URxvt*depth:                          32
 ! URxvt*visual:                         number

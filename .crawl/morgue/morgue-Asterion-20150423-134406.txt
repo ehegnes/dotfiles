@@ -1,0 +1,323 @@
+ Dungeon Crawl Stone Soup version 0.16-a0-4088-g7c8221e (console) character file.
+
+3971 Asterion the Basher (level 10, -3/94 HPs)
+             Began as a Minotaur Berserker on Apr 18, 2015.
+             Was a High Priest of Trog.
+             Slain by a raiju (7 damage)
+             ... on level 1 of the Abyss on Apr 23, 2015.
+             The game lasted 00:21:53 (6489 turns).
+
+Asterion the Basher (Minotaur Berserker)            Turns: 6489, Time: 00:21:53
+
+Health: -3/94      AC: 16    Str: 30    XL:     10   Next: 2%
+Magic:  13/13      EV: 11    Int:  4    God:    Trog [*****.]
+Gold:   320        SH:  0    Dex: 10    Spells: 0 memorised, 9 levels left
+
+rFire  . . .     SeeInvis .     a - +1 mace
+rCold  . . .     Clarity  .     E - +2 ring mail {MR+}
+rNeg   . . .     SustAb   .     (no shield)
+rPois  .         Gourm    .     (helmet restricted)
+rElec  .         Spirit   .     u - +0 cloak
+rCorr  .         Warding  .     t - +2 pair of gloves
+rMut   .         Stasis   .     w - +1 pair of boots
+MR     +....                    (no amulet)
+Stlth  ..........               (no ring)
+                                r - ring of magical power
+
+@: mighty, somewhat resistant to hostile enchantments, extremely unstealthy
+A: retaliatory headbutt, horns 2
+a: Burn Spellbooks, Berserk, Trog's Hand, Brothers in Arms, Renounce Religion
+
+
+You were on level 1 of the Abyss.
+You worshipped Trog.
+Trog was extremely pleased with you.
+You were not hungry.
+
+You visited 2 branches of the dungeon, and saw 9 of its levels.
+You visited the Abyss 1 time.
+You also visited: Sewer.
+
+You collected 320 gold pieces.
+
+Inventory:
+
+Hand weapons
+ a - a +1 mace (weapon)
+Armour
+ t - a +2 pair of gloves (worn)
+ u - a +0 cloak (worn)
+ w - a +1 pair of boots (worn)
+ E - a +2 ring mail of magic resistance (worn)
+Jewellery
+ r - a ring of magical power (left hand)
+Magical devices
+ d - a wand of digging (6)
+ e - a wand of flame (27)
+ g - a wand of fireball (3)
+ C - a wand of teleportation (4)
+ G - a wand of enslavement (0)
+ J - a wand of confusion (27)
+Scrolls
+ i - 2 scrolls of magic mapping
+ n - a scroll of teleportation
+ o - 4 scrolls of remove curse
+ p - 4 scrolls of recharging
+ q - a scroll of enchant weapon
+ v - a scroll of fear
+ y - 7 scrolls of identify
+ z - 2 scrolls of enchant armour {unknown}
+ I - a scroll of brand weapon {unknown}
+Potions
+ l - 2 potions of flight
+ x - 2 potions of agility
+Books
+ H - a book of Fire   
+   
+    Spells                             Type                      Level
+    a - Ignite Poison                Fire/Transmutation            5
+    b - Fireball                     Conjuration/Fire              5
+    c - Bolt of Fire                 Conjuration/Fire              6
+    d - Delayed Fireball             Conjuration/Fire              7
+    e - Ring of Flames               Charms/Fire                   7
+   
+   
+   Trog disapproves of the use of such an item.
+Comestibles
+ b - 2 beef jerkies
+ c - 3 bread rations
+ f - 2 meat rations
+ A - 2 fruits
+
+
+   Skills:
+ - Level 10.5 Fighting
+ + Level 10.7 Maces & Flails
+ - Level 10.1 Armour
+ - Level 2.1 Dodging
+
+
+You had 9 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (8/15)             Temple (1/1) D:6         
+  Lair: D:8-11      
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Kikubaaqudgha
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Vehumet
+Xom
+Yredelemnul
+The Shining One
+
+Annotations:
+D:5 partly explored?
+D:8 Psyche
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+
+
+Message History
+
+You feel less invigorated.
+You feel less confused.
+The raiju bites you but does no damage.
+Drink which item? (? for menu, Esc to quit)
+It was a potion of might.
+You feel very mighty all of a sudden. You feel less woody.
+Your +0 cloak unmelds from your body.
+Your +2 pair of gloves unmelds from your body.
+Your +1 pair of boots unmelds from your body.
+Your +2 ring mail of magic resistance unmelds from your body.
+You feel resistant to hostile enchantments.
+The raiju bursts into living lightning!
+The living lightning hits you!
+* * * LOW HITPOINT WARNING * * *
+The raiju blinks! The raiju barely misses you.
+Eat which item? (? for menu, Esc to quit)
+The raiju bites you.
+* * * LOW HITPOINT WARNING * * *
+The raiju shocks you!
+You die...
+
+            ..
+       #..   .
+    .  ..#  #.#
+   #.###.#.# ..
+    .......   .  #
+   ##..#.#...#   .# #
+ .##...... ..#.## .# ###
+ #..#...h###.##.###.# .
+#....#.#.#....#..Z#..# #   #    .
+.........#.#..#...#. ...
+......#h.§.#.#.. ...#!#..  #    .
+ #..  ##@.##.# ...#. #..   .  .
+ .# ..#h..#  .... #.  # .#  .#
+ . ........# ....#...# .  .#.
+  ..##..##.####... . #.. .  ..
+    .... ###  ##.# #.   .      .
+   #....      # .    ..  ...
+   .#.#.       ### #   #       )
+    ...#          # .   .
+                       ..# . .
+                       #
+                        .
+
+
+You could see 3 raiju.
+
+Vanquished Creatures
+  The ghost of Sanguine the Slasher, an experienced DsAK of Lugonu (D:6)
+  Joseph (D:7)
+  Grinder (D:5)
+  Prince Ribbit (D:6)
+  3 vampire mosquitoes (D:7)
+  Grum (D:8)
+  4 wolves
+  3 ogres
+  2 ice beasts (D:5)
+  A sky beast (D:7)
+  A necrophage (D:7)
+  Sigmund (D:6)
+  Duvessa (D:4)
+  A giant frog (D:7)
+  4 scorpions
+  An electric eel (D:7)
+  Dowan (D:4)
+  2 goliath beetles
+  A giant frog skeleton (D:5)
+  A jelly (D:7)
+  An orc wizard (D:7)
+  A centaur skeleton (D:6)
+  A gnoll shaman (D:7)
+  An iron imp (D:4)
+  2 worker ants
+  Natasha (thrice) (D:4)
+  An orc priest (D:7)
+  4 iguanas
+  Ijyb (D:4)
+  Robin (D:4)
+  11 gnolls
+  8 adders
+  2 river rats (Sewer)
+  2 worms (D:3)
+  6 giant geckos
+  2 oozes
+  11 orcs
+  4 ball pythons
+  5 giant cockroaches
+  19 goblins
+  9 hobgoblins
+  12 kobolds
+  A quokka (D:3)
+  14 bats
+  7 giant newts (Sewer)
+  A jackal zombie (D:3)
+  21 rats
+183 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | D:1      | Asterion, the Minotaur Berserker, began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
+    89 | D:1      | Reached skill level 4 in Maces & Flails
+   153 | D:1      | Reached XP level 2. HP: 17/26 MP: 1/1
+   344 | D:1      | Acquired Trog's second power
+   587 | D:1      | Reached skill level 5 in Maces & Flails
+   599 | D:1      | Found a glowing golden altar of the Shining One.
+   717 | D:2      | Reached XP level 3. HP: 31/31 MP: 2/2
+  1077 | D:2      | Reached XP level 4. HP: 39/39 MP: 2/2
+  1084 | D:2      | Reached skill level 6 in Maces & Flails
+  1911 | D:4      | Noticed an ogre
+  1919 | D:4      | Killed an ogre
+  1919 | D:4      | Reached skill level 7 in Maces & Flails
+  1919 | D:4      | Reached XP level 5. HP: 11/45 MP: 2/2
+  2125 | D:4      | Noticed an ogre
+  2132 | D:4      | Killed an ogre
+  2132 | D:4      | Reached skill level 8 in Maces & Flails
+  2132 | D:4      | Reached XP level 6. HP: 28/51 MP: 3/3
+  2352 | D:4      | Noticed Ijyb
+  2360 | D:4      | Killed Ijyb
+  2362 | D:4      | Noticed Robin
+  2372 | D:4      | Killed Robin
+  2379 | D:4      | Acquired Trog's third power
+  2488 | D:4      | Noticed Natasha
+  2497 | D:4      | Killed Natasha
+  2497 | D:4      | Reached skill level 9 in Maces & Flails
+  2523 | D:4      | Noticed Dowan
+  2524 | D:4      | Noticed Duvessa
+  2539 | D:4      | Killed Duvessa
+  2543 | D:4      | Killed Dowan
+  2611 | D:4      | Noticed Natasha
+  2614 | D:4      | Killed Natasha
+  2614 | D:4      | Reached XP level 7. HP: 57/57 MP: 3/3
+  2690 | D:4      | Noticed Natasha
+  2698 | D:4      | Killed Natasha
+  2877 | D:5      | Entered Level 5 of the Dungeon
+  3138 | D:5      | Reached skill level 5 in Fighting
+  3304 | D:5      | Noticed Grinder
+  3304 | D:5      | Paralysed by Grinder for 7 turns
+  3340 | D:5      | Killed Grinder
+  3340 | D:5      | Reached skill level 5 in Armour
+  3340 | D:5      | Reached XP level 8. HP: 55/70 MP: 3/3
+  3489 | D:6      | Found a staircase to the Ecumenical Temple.
+  3607 | D:6      | Noticed Prince Ribbit
+  3637 | D:6      | HP: 3/105 [Prince Ribbit (8)]
+  3640 | D:6      | Killed Prince Ribbit
+  3956 | D:6      | Found a glowing drain.
+  3981 | Sewer    | Entered a sewer
+  4331 | D:6      | Noticed Sanguine's ghost (experienced DsAK)
+  4365 | D:6      | Killed Sanguine's ghost
+  4596 | D:6      | Noticed Sigmund
+  4613 | D:6      | Killed Sigmund
+  4714 | Temple   | Entered the Ecumenical Temple
+  4959 | D:7      | Reached XP level 9. HP: 50/82 MP: 4/4
+  5130 | D:7      | Received a gift from Trog
+  5333 | D:7      | Noticed Joseph
+  5353 | D:7      | Killed Joseph
+  5493 | D:7      | Reached skill level 10 in Fighting
+  5788 | D:7      | Reached skill level 10 in Armour
+  6190 | D:8      | Noticed Grum
+  6198 | D:8      | Reached skill level 10 in Maces & Flails
+  6344 | D:8      | Killed Grum
+  6344 | D:8      | Reached XP level 10. HP: 43/94 MP: 4/4
+  6355 | D:8      | Noticed Psyche
+  6370 | D:8      | Cast into the Abyss (Psyche)
+  6370 | Abyss:1  | Found a corrupted altar of Lugonu.
+  6430 | Abyss:1  | Noticed a bone dragon
+  6489 | Abyss:1  | HP: 4/94 [raiju (2)]
+  6489 | Abyss:1  | Slain by a raiju
+
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Mace              |    62 |   127 |   341 |     5 ||   535
+Invok: Berserk           |     1 |     3 |     8 |       ||    12
+  Use: Scroll            |       |     3 |     8 |     2 ||    13
+       Potion            |       |       |     6 |     8 ||    14
+ Stab: Sleeping          |     1 |       |       |       ||     1
+  Eat: Chunk             |     1 |     4 |    14 |       ||    19
+       Bread ration      |       |     1 |       |       ||     1
+       Meat ration       |       |       |     1 |       ||     1
+       Fruit             |       |       |     1 |     1 ||     2
+

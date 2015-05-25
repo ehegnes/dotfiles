@@ -1,0 +1,176 @@
+ Dungeon Crawl Stone Soup version 0.16-a0-4088-g7c8221e (console) character file.
+
+91 Asterion the Slasher (level 4, 0/39 HPs)
+             Began as a Minotaur Berserker on May 22, 2015.
+             Was a Believer of Trog.
+             Shot with a stone by a goblin (4 damage)
+             ... led by Robin
+             ... while paralysed
+             ... on level 2 of the Dungeon.
+             The game lasted 00:05:08 (1163 turns).
+
+Asterion the Slasher (Minotaur Berserker)           Turns: 1163, Time: 00:05:08
+
+Health: 0/39       AC:  5    Str: 22    XL:     4   Next: 33%
+Magic:  2/2        EV:  2    Int:  4    God:    Trog [**....]
+Gold:   69         SH:  0    Dex: 10    Spells: 0 memorised, 3 levels left
+
+rFire  . . .     SeeInvis .     a - +0 falchion
+rCold  . . .     Clarity  .     j - +0 ring mail
+rNeg   . . .     SustAb   .     (no shield)
+rPois  .         Gourm    .     (helmet restricted)
+rElec  .         Spirit   .     (no cloak)
+rCorr  .         Warding  .     (no gloves)
+rMut   .         Stasis   .     (no boots)
+MR     .....                    (no amulet)
+Stlth  ..........               (no ring)
+                                (no ring)
+
+@: paralysed, exhausted, slowed, not resistant to hostile enchantments,
+extremely unstealthy
+A: retaliatory headbutt, horns 2
+a: Burn Spellbooks, Berserk, Trog's Hand, Renounce Religion
+
+
+You were on level 2 of the Dungeon.
+You worshipped Trog.
+Trog was pleased with you.
+You were near starving.
+
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+
+You collected 69 gold pieces.
+
+Inventory:
+
+Hand weapons
+ a - a +0 falchion (weapon)
+Armour
+ j - a +0 ring mail (worn)
+Scrolls
+ b - a scroll of amnesia {unknown}
+ d - 3 scrolls of immolation {unknown}
+ e - 5 scrolls of identify {unknown}
+ f - 2 scrolls of remove curse {unknown}
+ k - a scroll of enchant armour {unknown}
+Potions
+ i - a potion of restore abilities {unknown}
+Comestibles
+ c - a bread ration
+ g - a beef jerky
+ h - a meat ration
+
+
+   Skills:
+ - Level 3.6 Fighting
+ + Level 6.2 Long Blades
+ - Level 2.4 Armour
+ - Level 2.1 Dodging
+
+
+You had 3 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+
+
+Message History
+
+You kill the goblin!
+Trog accepts your kill.
+The adder barely misses you.
+The goblin wields an uncursed hunting sling.
+The goblin shoots a stone. The stone closely misses you.
+You barely miss the goblin. Your headbutt misses the goblin. The adder barely misses you. You furiously retaliate!
+You headbutt the adder!!
+You kill the adder!
+Trog accepts your kill.
+The goblin barely misses you.
+You slash the goblin!
+You kill the goblin!
+Trog accepts your kill.
+The goblin shoots a stone. The stone barely misses you.
+You are no longer berserk.
+You pass out from exhaustion.
+You feel yourself slow down.
+You are near starving!
+The goblin shoots a stone. The stone hits you.
+You die...
+
+            ...
+        .   #.....
+       #.   #.....#
+    .. #.   #.......
+   ...##.   #..#..#
+  .......  ##.....##
+  ..#....   .......
+ ........  ##...#
+ ....#...###...## ##
+ #..#....@#..#..# .#
+.#....#w#(#(##..##.#
+.......)).†.##...#.#
+....$...g)).###..#.##
+ ...%.....#.# #....>##
+ .).....#.#!#####.#..#
+ .......#.....# #.#..#
+  .#######.##.# #.#..#
+         #.##.# #....#
+          ..#.####...#####
+          #.#..###.#.....#
+          #.#.<......#...#
+     ######.....(........#
+
+
+You could see a worm and a goblin.
+
+Vanquished Creatures
+  Jessica (D:2)
+  Robin (D:2)
+  An adder (D:2)
+  A gnoll (D:1)
+  3 bats
+  A giant cockroach (D:1)
+  17 goblins
+  3 hobgoblins
+  4 jackals (D:1)
+  A kobold (D:1)
+  2 giant geckos (D:1)
+  A giant newt (D:2)
+  5 rats (D:1)
+41 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | D:1      | Asterion, the Minotaur Berserker, began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
+    87 | D:1      | Reached skill level 4 in Long Blades
+    87 | D:1      | Reached XP level 2. HP: 26/26 MP: 1/1
+   344 | D:1      | Reached skill level 5 in Long Blades
+   490 | D:1      | Reached XP level 3. HP: 31/31 MP: 2/2
+   543 | D:1      | Acquired Trog's second power
+  1142 | D:2      | Noticed Jessica
+  1142 | D:2      | Noticed Robin
+  1148 | D:2      | Killed Jessica
+  1153 | D:2      | Killed Robin
+  1153 | D:2      | Reached skill level 6 in Long Blades
+  1153 | D:2      | Reached XP level 4. HP: 11/39 MP: 2/2
+  1163 | D:2      | Shot with a stone by a goblin
+
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Falchion          |    75 |     7 ||    82
+Invok: Berserk           |     1 |       ||     1
+

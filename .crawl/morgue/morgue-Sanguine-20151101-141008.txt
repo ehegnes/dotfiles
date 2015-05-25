@@ -1,0 +1,237 @@
+ Dungeon Crawl Stone Soup version 0.18-a0-8-g0de29c1 (console) character file.
+
+802 Sanguine the Cudgeler (level 7, 0/54 HPs)
+             Began as a Demonspawn Abyssal Knight on Nov 1, 2015.
+             Was a Believer of Lugonu.
+             Slain by a centaur (5 damage)
+             ... on level 5 of the Dungeon.
+             The game lasted 00:07:58 (3897 turns).
+
+Sanguine the Cudgeler (Demonspawn Abyssal Knight)   Turns: 3897, Time: 00:07:58
+
+Health: 0/54       AC: 10    Str: 14    XL:     7   Next: 59%
+Magic:  8/8        EV:  9    Int: 13    God:    Lugonu [**....]
+Gold:   195        SH:  0    Dex: 17    Spells: 0 memorised, 6 levels left
+
+rFire  . . .     SeeInvis .     a - +1 mace
+rCold  . . .     Clarity  .     q - +0 scale mail
+rNeg   . . .     SustAt   .     (no shield)
+rPois  .         Gourm    .     B - +1 helmet
+rElec  .         Spirit   .     (no cloak)
+rCorr  .         Warding  .     (no gloves)
+rMut   .         Stasis   .     m - +0 pair of boots
+MR     .....                    e - amulet of rage
+Stlth  +.........               (no ring)
+                                (no ring)
+
+@: not resistant to hostile enchantments, very unstealthy
+A: hooves 1, thin skeletal structure 2, demonic guardian 1
+a: Depart the Abyss, Bend Space, Renounce Religion, Evoke Berserk Rage
+
+
+You were on level 5 of the Dungeon.
+You worshipped Lugonu.
+Lugonu was pleased with you.
+You were near starving.
+
+You visited 1 branch of the dungeon, and saw 5 of its levels.
+You visited the Abyss 1 time.
+
+You collected 195 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +1 mace (weapon)
+Armour
+ m - a +0 pair of boots (worn)
+ q - a +0 scale mail (worn)
+ B - a +1 helmet (worn)
+Jewellery
+ e - an amulet of rage (around neck)
+Scrolls
+ b - a scroll of fear {unknown}
+ d - a scroll of enchant weapon {unknown}
+ f - a scroll of immolation {unknown}
+ i - a scroll of enchant armour {unknown}
+ k - 4 scrolls of recharging {unknown}
+ l - 2 scrolls of remove curse
+ o - a scroll of identify {unknown}
+ s - 4 scrolls of magic mapping {unknown}
+ t - a scroll of fog {unknown}
+ u - 2 scrolls of random uselessness {unknown}
+ x - 2 scrolls of teleportation {unknown}
+Potions
+ g - a potion of agility
+ h - a potion of lignification
+ n - a potion of cure mutation {unknown}
+ p - a potion of brilliance
+ r - a potion of haste {unknown}
+ w - a potion of mutation {unknown}
+ A - 3 potions of curing
+Books
+ y - a book of Clouds   
+   
+    Spells                             Type                      Level
+    a - Mephitic Cloud               Conjuration/Poison/Air        3
+    b - Conjure Flame                Conjuration/Fire              3
+    c - Poisonous Cloud              Conjuration/Poison/Air        6
+    d - Freezing Cloud               Conjuration/Ice/Air           6
+    e - Ring of Flames               Charms/Fire                   7
+Comestibles
+ c - 6 bread rations
+ j - 3 meat rations
+ v - a royal jelly
+
+
+   Skills:
+ + Level 4.0 Fighting
+ - Level 6.7 Maces & Flails
+ * Level 3.9 Armour
+ - Level 0.8 Dodging
+ - Level 2.4 Invocations
+
+
+You had 6 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (5/15)            
+Temple: D:4-7       
+
+Altars:
+Zin
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have large cloven feet.
+You have a moderately thin skeletal structure (Dex +4, Stealth+).
+A weak demonic guardian rushes to your aid.
+
+
+Message History
+
+The centaur shoots an arrow of frost. The arrow of frost barely misses you.
+The centaur unwields an uncursed shortbow.
+The centaur hits you but does no damage.
+You see here 2 arrows of frost.
+You hit the centaur.
+The centaur is almost dead.
+The centaur barely misses you.
+You hit the centaur but do no damage.
+The centaur is almost dead.
+The centaur hits you but does no damage.
+The centaur hits you.
+* * * LOW HITPOINT WARNING * * *
+You barely miss the centaur.
+The centaur is almost dead.
+The centaur hits you but does no damage.
+You hit the centaur but do no damage.
+The centaur is severely wounded.
+The centaur hits you but does no damage.
+The centaur hits you.
+You die...
+
+      #
+#####.####.
+#(l@c......
+#.###.####.
+#.#   .#
+#.#    #
+#.#
+#l#
+#.#
+#.#
+
+
+You could see a centaur and a giant gecko.
+
+Vanquished Creatures
+  The ghost of Asterion the Basher, an amateur MiBe of Trog (D:4)
+  Sigmund (D:2)
+  An ogre (D:4)
+  2 hounds (D:4)
+  A worker ant (D:5)
+  Terence (D:2)
+  5 adders
+  An ooze (D:4)
+  3 worms
+  3 giant geckos
+  2 orcs (D:3)
+  9 bats
+  2 giant cockroaches
+  4 goblins
+  4 hobgoblins
+  6 jackals
+  6 kobolds
+  2 quokkas
+  A ball python (D:1)
+  4 giant newts
+  A jackal skeleton (D:4)
+  10 rats
+70 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  Grinder (D:3)
+  A worker ant (D:4)
+2 creatures vanquished.
+
+Grand Total: 72 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | Abyss:1  | Sanguine the Demonspawn Abyssal Knight began the quest for the Orb.
+     0 | Abyss:1  | Reached XP level 1. HP: 18/18 MP: 2/2
+    82 | Abyss:1  | Found a corrupted altar of Lugonu.
+   108 | Abyss:1  | Noticed a quasit
+   109 | Abyss:1  | Noticed a small abomination
+   120 | D:1      | Escaped the Abyss
+   456 | D:1      | Gained mutation: You have a somewhat thin skeletal structure (Dex +2, Stealth). [demonic ancestry]
+   456 | D:1      | Reached XP level 2. HP: 20/24 MP: 3/3
+   504 | D:1      | Reached * piety under Lugonu
+  1153 | D:2      | Noticed Sigmund
+  1162 | D:2      | Killed Sigmund
+  1162 | D:2      | Reached skill level 5 in Maces & Flails
+  1162 | D:2      | Gained mutation: You have a moderately thin skeletal structure (Dex +4, Stealth+). [demonic ancestry]
+  1162 | D:2      | Reached XP level 3. HP: 10/29 MP: 4/4
+  1162 | D:2      | Gained mutation: A weak demonic guardian rushes to your aid. [demonic ancestry]
+  1162 | D:2      | Reached XP level 4. HP: 12/35 MP: 5/5
+  1162 | D:2      | Reached XP level 5. HP: 14/41 MP: 6/6
+  1308 | D:2      | Found a glowing silver altar of Zin.
+  1454 | D:2      | Found a faded altar to an unknown god.
+  1528 | D:2      | Noticed Terence
+  1543 | D:2      | Killed Terence
+  1793 | D:3      | Noticed Grinder
+  1804 | D:3      | Paralysed by Grinder for 3 turns
+  1815 | D:3      | Killed Grinder
+  1815 | D:3      | Reached skill level 6 in Maces & Flails
+  1815 | D:3      | Reached XP level 6. HP: 11/47 MP: 7/7
+  2091 | D:3      | Reached ** piety under Lugonu
+  2618 | D:4      | Noticed Asterion's ghost (amateur MiBe)
+  2633 | D:4      | Killed Asterion's ghost
+  2633 | D:4      | Gained mutation: You have large cloven feet. [demonic ancestry]
+  2633 | D:4      | Reached XP level 7. HP: 52/52 MP: 8/8
+  3828 | D:5      | Entered Level 5 of the Dungeon
+  3897 | D:5      | Slain by a centaur
+
+Vault maps used:
+D:1:      saegor_arrival_miasma, serial_park_tiny_1
+D:2:      zin_statuary, ecumenical_altar_2, uniq_sigmund, uniq_terence
+D:3:      eino_tiny_chamber, uniq_grinder
+D:4:      first_bread
+D:5:      nemelex_xobeh_ov_fountains_minmay, temple_statues, serial_shops,
+          shop_fountains
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Mace              |    78 |   133 |    64 ||   275
+Invok: Depart the Abyss  |     1 |       |       ||     1
+  Use: Potion            |     2 |     3 |       ||     5
+       Scroll            |       |     2 |       ||     2
+ Stab: Distracted        |       |     1 |       ||     1
+  Eat: Chunk             |       |     6 |     2 ||     8
+

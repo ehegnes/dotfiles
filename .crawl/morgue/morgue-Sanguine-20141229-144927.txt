@@ -1,0 +1,128 @@
+ Dungeon Crawl Stone Soup version 0.15.2 (console) character file.
+
+0 Sanguine the Skirmisher (level 1, -6/18 HPs)
+             Began as a Demonspawn Abyssal Knight on Dec 29, 2014.
+             Was a Follower of Lugonu.
+             Mangled by an orange demon (7 damage)
+             ... led by a cacodemon
+             ... on Level 1 of the Abyss.
+             The game lasted 00:00:24 (126 turns).
+
+Sanguine the Skirmisher (Demonspawn Abyssal Knight)  Turns: 126, Time: 00:00:24
+
+HP  -6/18        AC  3     Str 12      XL: 1   Next:  0%
+MP   1/1         EV 10     Int 13      God: Lugonu [*.....]
+Gold 0           SH  0     Dex 12      Spells:  0 memorised,  0 levels left
+
+rFire  . . .     SeeInvis .     a - +1 mace
+rCold  . . .     Clarity  .     b - +0 leather armour
+rNeg   . . .     rCorr    .     (no shield)
+rPois  .         rRot     .     (no helmet)
+rElec  .         Spirit   .     (no cloak)
+SustAb .         Warding  .     (no gloves)
+rMut   .         Stasis   .     (no boots)
+Gourm  .                        (no amulet)
+MR     .....                    (no ring)
+                                (no ring)
+
+@: not resistant to hostile enchantments, very unstealthy
+A: no striking features
+a: Depart the Abyss, Renounce Religion
+
+
+You were on level 1 of the Abyss.
+You worshipped Lugonu.
+Lugonu was aware of your devotion.
+You were not hungry.
+
+You visited 0 branches of the dungeon, and saw 0 of its levels.
+You visited the Abyss 1 time.
+
+Inventory:
+
+Hand weapons
+ a - a +1 mace (weapon)
+Armour
+ b - a +0 leather armour (worn)
+Comestibles
+ c - a bread ration
+Potions
+ d - a potion of brilliance {unknown}
+
+
+   Skills:
+ - Level 3.0 Fighting
+ + Level 1.7 Maces & Flails
+ - Level 1.7 Armour
+ - Level 0.8 Dodging
+ - Level 2.4 Invocations
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (0/15)            
+
+Altars:
+
+Message History
+
+The orange demon screeches!
+A cacodemon comes into view.
+The cacodemon shouts!
+The orange demon stings you from afar!
+The cacodemon gestures at you.
+You are confused.
+You're too confused!
+You're too confused!
+Unknown command.
+Ouch! The orange demon closely misses you.
+The orange demon barely misses you. The orange demon hits you.
+Ouch!
+The orange demon stings you but does no damage.
+The orange demon completely misses you.
+You feel less confused.
+The orange demon misses you.
+The orange demon stings you from afar.
+* * * LOW HITPOINT WARNING * * *
+The orange demon stings you from afar!
+You die...
+
+    4#.#...... .#..  .
+  ...##....  .#.#.# # . #
+ .# ..##4#    .. ##.  ###
+ . .  #...##..#. .  .
+  #......#.#.. ###.  #
+    #.2...........#.##
+  #####..#.#....# .#
+  #.#....#.##... .###
+  #....#.##....#..     #..#
+  ##..24....##≈≈≈≈..
+#.##....##.≈.≈♣≈≈#_.
+ #....@.###.≈≈≈≈.. .
+ #....#..≈≈≈≈≈≈.#.#.  #
+ #...####♣≈≈≈...# .
+ #.#. ≈  ≈≈≈.#....  .     #
+§. .   . ♣≈.#..#.       .
+. .#      . ..#.   #
+ #.        .#..
+           .      #
+
+
+You could see a cacodemon and an orange demon.
+
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | Abyss:1  | Sanguine, the Demonspawn Abyssal Knight, began the quest for the Orb.
+     0 | Abyss:1  | Reached XP level 1. HP: 18/18 MP: 1/1
+   107 | Abyss:1  | Noticed a sixfirhy
+   111 | Abyss:1  | Found a corrupted altar of Lugonu.
+   113 | Abyss:1  | Noticed an orange demon
+   118 | Abyss:1  | Noticed a cacodemon
+   126 | Abyss:1  | Mangled by an orange demon
+

@@ -1,0 +1,142 @@
+ Dungeon Crawl Stone Soup version 0.16-a0-4088-g7c8221e (console) character file.
+
+0 Sanguine the Skirmisher (level 1, -15/16 HPs)
+             Began as a Demonspawn Abyssal Knight on Apr 23, 2015.
+             Was a Follower of Lugonu.
+             Killed from afar by a wretched star (31 damage)
+             ... with an orb of energy
+             ... on level 1 of the Abyss.
+             The game lasted 00:00:28 (69 turns).
+
+Sanguine the Skirmisher (Demonspawn Abyssal Knight)   Turns: 69, Time: 00:00:28
+
+Health: -15/16     AC:  3    Str: 12    XL:     1   Next: 0%
+Magic:  1/1        EV: 11    Int: 13    God:    Lugonu [*.....]
+Gold:   0          SH:  0    Dex: 10    Spells: 0 memorised, 0 levels left
+
+rFire  . . .     SeeInvis .     a - +1 falchion
+rCold  . . .     Clarity  .     b - +0 leather armour
+rNeg   . . .     SustAb   .     (no shield)
+rPois  .         Gourm    .     (no helmet)
+rElec  .         Spirit   .     (no cloak)
+rCorr  .         Warding  .     (no gloves)
+rMut   .         Rnd*Tele +     (no boots)
+MR     .....                    (no amulet)
+Stlth  +.........               (no ring)
+                                (no ring)
+
+@: not resistant to hostile enchantments, very unstealthy
+A: clumsy 1, frail 1, screaming 1, slow healing 1, teleportitis 1, placid magic
+1, MP-powered wands 1
+a: Depart the Abyss, Renounce Religion
+
+
+You were on level 1 of the Abyss.
+You worshipped Lugonu.
+Lugonu was aware of your devotion.
+You were not hungry.
+
+You visited 0 branches of the dungeon, and saw 0 of its levels.
+You visited the Abyss 1 time.
+
+Inventory:
+
+Hand weapons
+ a - a +1 falchion (weapon)
+Armour
+ b - a +0 leather armour (worn)
+Comestibles
+ c - a bread ration
+
+
+   Skills:
+ - Level 3.0 Fighting
+ + Level 1.7 Long Blades
+ - Level 1.7 Armour
+ - Level 0.8 Dodging
+ - Level 2.4 Invocations
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (0/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+[You are clumsy. (Dex -2)]
+[You are frail (-10% HP).]
+[You occasionally shout uncontrollably at your foes.]
+[You heal slowly when monsters are visible.]
+[Space occasionally distorts in your vicinity.]
+[Your spells are a little easier to cast, but a little less powerful.]
+[You expend magic power (3 MP) to slightly strengthen your wands.]
+
+
+Message History
+
+Found a scroll labeled SKUNIPP XILIC.
+Found a gateway leading out of the Abyss.
+There are no items here.
+You see here a scroll labeled SKUNIPP XILIC.
+The small abomination barely misses you.
+A wretched star comes into view.
+The wretched star pulses with an eldritch light!
+You feel the urge to shout. You feel frail. Your connection to magic feels subdued.
+The wretched star glows turbulently.
+The orb of energy misses you.
+The wretched star glows turbulently.
+The orb of energy misses you. The orb of energy explodes!
+You closely miss the wretched star.
+The wretched star pulses with an eldritch light!
+You feel less able to contain your magic power.
+You feel weirdly uncertain. Your natural healing is weakened. You feel clumsy.
+The wretched star glows turbulently.
+The orb of energy hits you!
+Ouch! That really hurt!
+You die...
+
+ .  #    #  ... ..x .# .
+        ## ##...x.#..#. #
+    # ...  ###...##...#.
+       .. #..##.##. ...#
+   . ..  x . #...####.# #
+        .§#.#.....#.##..# #
+.   #  . ###.......######.#
+         #  #..(..#X .#..
+     #.. #  ##... # ##x#
+ .      .   .##.# #....####..#
+            ##... ###......#
+           .∩.....#*.......#
+           #.......@#....#.#
+           .#.....#.###...#.
+            ##... ###  ##.#
+             ##.         ...
+             #.           ##
+             .
+
+
+You could see a wretched star and a small abomination.
+
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | Abyss:1  | Sanguine, the Demonspawn Abyssal Knight, began the quest for the Orb.
+     0 | Abyss:1  | Reached XP level 1. HP: 18/18 MP: 1/1
+    24 | Abyss:1  | Noticed a small abomination
+    26 | Abyss:1  | Noticed a large abomination
+    65 | Abyss:1  | Noticed a wretched star
+    69 | Abyss:1  | Killed from afar by a wretched star
+
+
+Action                   || total
+-------------------------++-------
+Melee: Falchion          ||     1
+

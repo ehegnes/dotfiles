@@ -1,0 +1,406 @@
+ Dungeon Crawl Stone Soup version 0.15.2 (console) character file.
+
+20381 Asterion the Bludgeoner (level 12, -8/169 HPs)
+             Began as a Minotaur Berserker on Jan 3, 2015.
+             Was a High Priest of Trog.
+             Mangled by an orc warlord
+             ... wielding a +1 battleaxe of venom
+              (29 damage)
+             ... on Level 2 of the Orcish Mines.
+             The game lasted 00:41:04 (13420 turns).
+
+Asterion the Bludgeoner (Minotaur Berserker)       Turns: 13420, Time: 00:41:04
+
+HP  -8/169       AC 23     Str 28      XL: 12   Next: 44%
+MP   1/1         EV  8     Int  4      God: Trog [*****.]
+Gold 1070        SH  0     Dex 14      Spells:  0 memorised, 11 levels left
+
+rFire  + + .     SeeInvis .     O - +2 great mace (antimagic)
+rCold  + . .     Clarity  .     d - +2 plate armour
+rNeg   . . .     rCorr    +     (no shield)
+rPois  +         rRot     .     B - +2 hat
+rElec  .         Spirit   .     (no cloak)
+SustAb .         Warding  .     (no gloves)
+rMut   .         Stasis   .     J - +0 pair of boots
+Gourm  .                        x - amulet of resist corrosion
+MR     .....                    (no ring)
+                                a - ring of protection from cold
+
+@: berserking, very quick, not resistant to hostile enchantments, extremely
+unstealthy
+A: retaliatory headbutt, horns 2, icy blue scales 1, molten scales 1, fire
+resistance 2, poison resistance
+a: Burn Spellbooks, Berserk, Trog's Hand, Brothers in Arms, Renounce Religion
+
+
+You were on level 2 of the Orcish Mines.
+You worshipped Trog.
+Trog was extremely pleased with you.
+You were not hungry.
+
+You visited 3 branches of the dungeon, and saw 16 of its levels.
+
+You collected 1070 gold pieces.
+
+Inventory:
+
+Hand weapons
+ r - a +4 flail of protection
+ O - a +2 antimagic great mace (weapon)
+Armour
+ d - a +2 plate armour (worn)
+ B - a +2 hat (worn)
+ J - a +0 pair of boots (worn)
+Magical devices
+ k - a wand of fire (7)
+ q - a wand of draining (2)
+ E - a wand of magic darts (20)
+ H - a wand of slowing (24)
+ K - a wand of random effects (10)
+ M - a wand of disintegration (4)
+ N - a wand of fire (10)
+Comestibles
+ c - 6 bread rations
+ o - 9 fruits
+ p - a royal jelly
+ t - 3 meat rations
+ z - 2 beef jerkies
+ A - 2 chunks of human flesh
+ D - 11 slices of pizza
+Scrolls
+ b - 6 scrolls of remove curse
+ g - 7 scrolls of recharging
+ n - a scroll of fog
+ v - 5 scrolls of identify
+ F - a scroll of vulnerability
+Jewellery
+ a - a ring of protection from cold (left hand)
+ w - an uncursed amulet of warding
+ x - an amulet of resist corrosion (around neck)
+Potions
+ e - a potion of haste
+ f - a potion of invisibility
+ i - a potion of heal wounds
+ j - 4 potions of restore abilities
+ l - a potion of agility
+ m - 3 potions of curing
+ s - 2 potions of mutation
+ u - 2 potions of might
+ G - a potion of magic
+ I - a potion of cancellation
+ L - a potion of resistance
+Books
+ C - a book of Cantrips   
+   
+   Spells                             Type                      Level
+   Corona                             Hexes                        1
+   Animate Skeleton                   Necromancy                   1
+   Summon Small Mammal                Summoning                    1
+   Apportation                        Translocation                1
+   
+   
+   Trog disapproves of the use of such an item.
+Miscellaneous
+ h - a sack of spiders {used: 1}
+
+
+   Skills:
+ + Level 12.9 Fighting
+ + Level 16.4 Maces & Flails
+ + Level 12.8 Armour
+ - Level 2.1 Dodging
+
+
+You had 11 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (12/15)            Temple (0/1) D:4             Orc (2/4) D:10
+   Lair (2/8) D:9         
+
+Altars:
+Ashenzari
+Makhleb
+Okawaru
+Sif Muna
+Trog
+
+Shops:
+D:10 (
+
+Annotations:
+D:11 blink past fire field
+Lair:2 Gastronok
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+You are partially covered in icy blue scales (AC +1).
+You are partially covered in molten scales (AC +1).
+Your flesh is very heat resistant.
+Your system is resistant to poisons.
+
+
+Message History
+
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You bludgeon the orc!!
+You kill the orc!
+Trog accepts your kill.
+The orc warrior hits you with a short sword!
+* * * LOW HITPOINT WARNING * * *
+You closely miss the orc warrior. Your headbutt misses the orc warrior. The orc warlord misses you.
+The hobgoblin closely misses you.
+The orc warrior hits you but does no damage.
+You sock the orc warrior! Your headbutt misses the orc warrior.
+The orc warrior is moderately wounded.
+You bludgeon the orc warrior!!
+You kill the orc warrior!
+Trog accepts your kill.
+The orc warlord hits you with a glowing battleaxe!!
+You die...
+
+     ...
+     ....
+ ### .....
+##.##......
+#......#...
+#..........
+##.oo...>...
+#.)@).......
+#.)$g.......
+##..........
+ #..........
+ #.........
+##.........
+#<...#.##..
+##.#####
+ ###
+
+
+You could see an orc warlord, an orc (frenzied) and a hobgoblin.
+
+Vanquished Creatures
+  A hydra (D:12)
+  The ghost of Asterion the Basher, an experienced MiBe of Trog (D:10)
+  The ghost of Asterion the Basher, an experienced MiBe of Trog (D:9)
+  The ghost of Asterion the Basher, an experienced MiBe of Trog (D:8)
+  4 hill giants
+  2 ugly things
+  2 cyclopes (D:12)
+  Joseph (Orc:1)
+  A centaur skeleton (D:11)
+  2 komodo dragons (Lair:1)
+  3 trolls
+  3 wyverns (D:12)
+  2 hungry ghosts
+  16 yaks
+  5 blink frogs (Lair:2)
+  A hog (D:10)
+  3 hippogriffs
+  A hill giant skeleton (D:12)
+  A warg (Orc:2)
+  A human (D:10)
+  Edmund (D:9)
+  A soldier ant (D:12)
+  Menkaure (D:7)
+  A porcupine (Lair:1)
+  4 water moccasins
+  7 orc warriors
+  4 ice beasts
+  A phantom (D:10)
+  2 yellow wasps
+  2 sky beasts
+  A necrophage (D:9)
+  A black bear (D:10)
+  6 ogres
+  3 centaurs
+  3 crocodiles
+  Sigmund (D:7)
+  A big kobold (D:11)
+  7 giant frogs
+  Blork the orc (D:7)
+  13 wights
+  3 eyes of draining
+  3 goliath beetles
+  6 crimson imps
+  4 killer bees (D:9)
+  3 hounds
+  2 jellies
+  11 orc priests
+  8 orc wizards
+  A two-headed ogre skeleton (D:9)
+  A giant frog skeleton (D:5)
+  Natasha (twice) (D:5)
+  4 iguanas
+  6 sheep
+  An ogre zombie (D:6)
+  11 worker ants
+  Ijyb (D:6)
+  A sky beast zombie (D:9)
+  A hound skeleton (D:11)
+  21 adders
+  8 gnolls
+  9 green rats (Lair:1)
+  2 shadow imps
+  3 giant mites
+  A worm (D:5)
+  An adder skeleton (D:4)
+  An adder zombie (D:6)
+  2 orc skeletons
+  3 giant geckos
+  2 oozes
+  59 orcs
+  22 bats
+  16 giant cockroaches
+  12 goblins
+  10 hobgoblins
+  6 quokkas
+  A ball python (D:7)
+  A ball python skeleton (D:4)
+  4 giant newts
+  A hobgoblin zombie (D:9)
+  5 jackals
+  13 kobolds
+  A kobold skeleton (D:5)
+  2 orc zombies
+  21 rats
+409 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  Fannar (Lair:2)
+  An ice beast (Lair:2)
+  An electric eel (Lair:2)
+3 creatures vanquished.
+
+Vanquished Creatures (others)
+  A mummy (D:12)
+  2 giant mites (Lair:2)
+  A plant (Lair:2)
+4 creatures vanquished.
+
+Grand Total: 416 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | D:1      | Asterion, the Minotaur Berserker, began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
+   117 | D:1      | Reached skill level 4 in Maces & Flails
+   231 | D:1      | Reached XP level 2. HP: 26/26 MP: 1/1
+   326 | D:1      | Acquired Trog's second power
+   607 | D:2      | Reached skill level 5 in Maces & Flails
+   620 | D:2      | Reached XP level 3. HP: 21/31 MP: 2/2
+   957 | D:2      | Reached XP level 4. HP: 18/39 MP: 2/2
+  1202 | D:2      | Reached skill level 6 in Maces & Flails
+  1338 | D:2      | Found a deep blue altar of Sif Muna.
+  1762 | D:3      | Reached XP level 5. HP: 45/45 MP: 2/2
+  1790 | D:3      | Received a gift from Trog
+  1795 | D:3      | Reached skill level 7 in Maces & Flails
+  1964 | D:3      | Found a bloodstained altar of Trog.
+  1980 | D:3      | Reached skill level 8 in Maces & Flails
+  1980 | D:3      | Reached XP level 6. HP: 47/51 MP: 1/3
+  2249 | D:4      | Found a staircase to the Ecumenical Temple.
+  2432 | D:4      | Found a shattered altar of Ashenzari.
+  2664 | D:4      | Found a burning altar of Makhleb.
+  2687 | D:4      | Acquired Trog's third power
+  2967 | D:5      | Entered Level 5 of the Dungeon
+  3004 | D:5      | Reached XP level 7. HP: 37/60 MP: 3/3
+  3097 | D:5      | Noticed Natasha
+  3103 | D:5      | Killed Natasha
+  3125 | D:5      | Reached skill level 5 in Armour
+  3222 | D:5      | Reached skill level 5 in Fighting
+  3244 | D:5      | Reached skill level 9 in Maces & Flails
+  3471 | D:5      | Received a gift from Trog
+  3543 | D:5      | Reached XP level 8. HP: 59/68 MP: 3/3
+  3812 | D:5      | Noticed Natasha
+  3818 | D:5      | Killed Natasha
+  4091 | D:6      | Noticed Ijyb
+  4100 | D:6      | Killed Ijyb
+  4571 | D:6      | Received a gift from Trog
+  4914 | D:6      | Gained mutation: Your flesh is heat resistant. [potion of mutation]
+  4914 | D:6      | Gained mutation: Your muscles are strong. (Str +2) [potion of mutation]
+  4914 | D:6      | Lost mutation: Your muscles are strong. (Str +2) [potion of mutation]
+  4915 | D:6      | Gained mutation: You are partially covered in icy blue scales (AC +1). [potion of mutation]
+  4915 | D:6      | Gained mutation: Your flesh is very heat resistant. [potion of mutation]
+  4915 | D:6      | Gained mutation: Your system is resistant to poisons. [potion of mutation]
+  4916 | D:6      | Gained mutation: You are partially covered in molten scales (AC +1). [potion of beneficial mutation]
+  5005 | D:7      | Noticed Blork the orc
+  5013 | D:7      | Killed Blork the orc
+  5088 | D:7      | Noticed Menkaure
+  5096 | D:7      | Killed Menkaure
+  5096 | D:7      | Reached skill level 10 in Maces & Flails
+  5162 | D:7      | Noticed Sigmund
+  5182 | D:7      | Reached XP level 9. HP: 74/79 MP: 4/4
+  5183 | D:7      | Killed Sigmund
+  5257 | D:7      | Reached skill level 11 in Maces & Flails
+  5639 | D:8      | Noticed Asterion's ghost (experienced MiBe)
+  5652 | D:8      | Killed Asterion's ghost
+  5667 | D:8      | Reached skill level 12 in Maces & Flails
+  5770 | D:8      | Found an iron altar of Okawaru.
+  6321 | D:9      | Reached XP level 10. HP: 62/91 MP: 4/4
+  6350 | D:9      | Found a staircase to the Lair.
+  6438 | D:9      | Noticed Edmund
+  6445 | D:9      | Killed Edmund
+  6533 | D:9      | Noticed Asterion's ghost (experienced MiBe)
+  6551 | D:9      | Killed Asterion's ghost
+  6788 | D:9      | Reached skill level 10 in Fighting
+  6822 | D:9      | Reached skill level 13 in Maces & Flails
+  7144 | D:10     | Entered Level 10 of the Dungeon
+  7520 | D:10     | Reached skill level 10 in Armour
+  7666 | D:10     | Noticed Asterion's ghost (experienced MiBe)
+  7682 | D:10     | Killed Asterion's ghost
+  7682 | D:10     | Reached skill level 14 in Maces & Flails
+  7694 | D:10     | Found Wiow's Weapon Shop.
+  7838 | D:10     | Found a staircase to the Orcish Mines.
+  7897 | D:10     | Reached XP level 11. HP: 101/101 MP: 4/4
+  7996 | D:10     | Noticed a hill giant
+  8006 | D:10     | Killed a hill giant
+  8344 | Lair:1   | Entered Level 1 of the Lair of Beasts
+  8385 | Lair:1   | Received a gift from Trog
+  9902 | Lair:2   | Reached skill level 15 in Maces & Flails
+ 10338 | Lair:2   | Noticed Fannar
+ 10371 | Lair:2   | Noticed Gastronok
+ 10371 | Lair:2   | Killed Fannar
+ 10940 | D:11     | Noticed a hill giant
+ 10948 | D:11     | Killed a hill giant
+ 11077 | D:11     | Received a gift from Trog
+ 11459 | D:11     | Noticed a hill giant
+ 11461 | D:11     | Killed a hill giant
+ 11669 | D:11     | Reached XP level 12. HP: 112/112 MP: 1/5
+ 12043 | D:12     | Reached skill level 16 in Maces & Flails
+ 12924 | D:12     | Noticed a five-headed hydra
+ 12931 | D:12     | Killed a five-headed hydra
+ 13122 | Orc:1    | Entered Level 1 of the Orcish Mines
+ 13210 | Orc:1    | Noticed Joseph
+ 13213 | Orc:1    | Received a gift from Trog
+ 13225 | Orc:1    | Killed Joseph
+ 13406 | Orc:2    | Noticed an orc warlord
+ 13420 | Orc:2    | Mangled by an orc warlord
+
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Mace              |    77 |    22 |       |       ||    99
+       Flail             |       |    99 |   295 |   262 ||   656
+       Unarmed           |       |       |       |   263 ||   263
+       Great mace        |       |       |       |   202 ||   202
+Invok: Berserk           |       |     1 |     4 |    13 ||    18
+       Burn Spellbooks   |       |       |       |     1 ||     1
+       Trog's Hand       |       |       |       |     1 ||     1
+       Brothers in Arms  |       |       |       |     1 ||     1
+Evoke: Wand              |       |       |     2 |    10 ||    12
+       Sack of spiders   |       |       |       |     2 ||     2
+  Use: Scroll            |       |     1 |    14 |    12 ||    27
+       Potion            |       |       |    12 |     1 ||    13
+  Eat: Chunk             |       |     6 |    16 |    34 ||    56
+       Fruit             |       |       |     1 |     3 ||     4
+

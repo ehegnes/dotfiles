@@ -1,0 +1,559 @@
+ERROR in 'libutil.cc' at line 668: screen write out of bounds: (-1,-1) into (50,30)
+
+Version: Dungeon Crawl Stone Soup 0.15.2
+Platform: unix
+Bits: 64
+Game mode: normal
+Tiles: no
+
+Command line: crawl
+
+RC options:
+restart_after_game = false
+
+
+Crash caused by signal #6: Aborted
+
+Obtained 23 stack frames.
+crawl() [0x524633]
+crawl() [0x52c95e]
+crawl() [0x5248c9]
+/lib64/libc.so.6(+0x38830) [0x7fc840a33830]: 
+/lib64/libpthread.so.0(raise+0x2b) [0x7fc840db30fb]: 
+crawl() [0x52c089]
+crawl() [0x52c495]
+crawl() [0x6f104a]
+crawl() [0x9f333e]
+crawl() [0x9b1ac6]
+crawl() [0x864859]
+/lib64/libc.so.6(+0x38830) [0x7fc840a33830]: 
+/lib64/libpthread.so.0(read+0x2b) [0x7fc840db23db]: 
+/lib64/libncursesw.so.5(_nc_wgetch+0x5e5) [0x7fc8417fa145]: 
+/lib64/libncursesw.so.5(wget_wch+0x42) [0x7fc84180eba2]: 
+crawl() [0x9f25ad]
+crawl() [0x9f25ed]
+crawl() [0x6fc8c7]
+crawl() [0x6fd68c]
+crawl() [0x70d20b]
+crawl() [0x41eaa5]
+/lib64/libc.so.6(__libc_start_main+0xf5) [0x7fc840a1fdb5]: 
+crawl() [0x4880fd]
+
+Trying to run gdb.
+GNU gdb (Gentoo 7.8.1 vanilla) 7.8.1
+Copyright (C) 2014 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.  Type "show copying"
+and "show warranty" for details.
+This GDB was configured as "x86_64-pc-linux-gnu".
+Type "show configuration" for configuration details.
+For bug reporting instructions, please see:
+<http://bugs.gentoo.org/>.
+Find the GDB manual and other documentation resources online at:
+<http://www.gnu.org/software/gdb/documentation/>.
+For help, type "help".
+Type "apropos word" to search for commands related to "word".
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library "/lib64/libthread_db.so.1".
+0x00007fc840db2e17 in waitpid () from /lib64/libpthread.so.0
+#0  0x00007fc840db2e17 in waitpid () from /lib64/libpthread.so.0
+No symbol table info available.
+#1  0x0000000000524d1b in call_gdb(_IO_FILE*) ()
+No symbol table info available.
+#2  0x000000000052c973 in do_crash_dump() ()
+No symbol table info available.
+#3  0x00000000005248c9 in crash_signal_handler(int) ()
+No symbol table info available.
+#4  <signal handler called>
+No symbol table info available.
+#5  0x00007fc840db30fb in raise () from /lib64/libpthread.so.0
+No symbol table info available.
+#6  0x000000000052c089 in _BreakStrToDebugger(char const*, bool) [clone .isra.3] ()
+No symbol table info available.
+#7  0x000000000052c495 in die(char const*, int, char const*, ...) ()
+No symbol table info available.
+#8  0x00000000006f104a in cgotoxy(int, int, GotoRegion) ()
+No symbol table info available.
+#9  0x00000000009f333e in puttext(int, int, crawl_view_buffer const&) ()
+No symbol table info available.
+#10 0x00000000009b1ac6 in viewwindow(bool, bool) ()
+No symbol table info available.
+#11 0x0000000000864859 in redraw_screen() ()
+No symbol table info available.
+#12 <signal handler called>
+No symbol table info available.
+#13 0x00007fc840db23db in read () from /lib64/libpthread.so.0
+No symbol table info available.
+#14 0x00007fc8417fa145 in _nc_wgetch () from /lib64/libncursesw.so.5
+No symbol table info available.
+#15 0x00007fc84180eba2 in wget_wch () from /lib64/libncursesw.so.5
+No symbol table info available.
+#16 0x00000000009f25ad in getchk() ()
+No symbol table info available.
+#17 0x00000000009f25ed in m_getch() ()
+No symbol table info available.
+#18 0x00000000006fc8c7 in _getch_mul(int (*)()) ()
+No symbol table info available.
+#19 0x00000000006fd68c in getch_with_command_macros() ()
+No symbol table info available.
+#20 0x000000000070d20b in _input() ()
+No symbol table info available.
+#21 0x000000000041eaa5 in main ()
+No symbol table info available.
+
+Compilation info:
+<<<<<<<<<<<
+Compiled with GCC 4.8.3 on Nov  1 2014 at 12:14:55
+Build platform: x86_64-pc-linux-gnu
+Platform: x86_64-pc-linux-gnu
+CFLAGS: -march=native -O2 -pipe -Wall -Wformat-security -Wmissing-declarations -Wredundant-decls -Wundef -Wno-array-bounds -Wno-format-zero-length -Wno-parentheses -Wno-unused-parameter -Wwrite-strings -Wshadow -Wuninitialized -Iutil -I. -Irltiles -isystem contrib/install/x86_64-pc-linux-gnu/include -DWIZARD -DASSERTS -DCLUA_BINDINGS -DSAVE_DIR_PATH="~/.crawl" -DDATA_DIR_PATH="/usr/share/games/stone-soup/" -I/usr/include/ncursesw
+LDFLAGS: -Wl,-O1 -Wl,--as-needed
+>>>>>>>>>>>
+
+Place info:
+branch = 0, depth = 1
+
+Level id: D:1
+Level build method = random_map_for_place, level layout type  = corridors, absdepth0 = 0
+Level vaults:
+    dpeg_arrival_simpleton_b
+    layout_loops_ring
+
+Markers:
+<<<<<<<<<<<<<<<<<<<<<<
+Marker 0 at (41, 37): feature (stone_stairs_up_i)
+>>>>>>>>>>>>>>>>>>>>>>
+
+Messages:
+<<<<<<<<<<<<<<<<<<<<<<
+Welcome, Asterion the Minotaur Berserker.
+Will you be the one to retrieve the fabulous Orb of Zot from the depths?
+Trog says: Kill them all!
+Press ? for a list of commands and other information.
+Found a staircase leading out of the dungeon.
+You open the large door.
+Found a stone staircase leading down.
+There is a large open door here.
+There is a large open door here.
+You open the door.
+Found 4 needles of sleeping.
+No target in view!
+There is an open door here.
+You now have 9 gold pieces.
+There is an open door here.
+There is a stone staircase leading down here.
+You now have 15 gold pieces (gained 6).
+A bat and an ooze come into view.
+The ooze quivers.
+Found a leather armour.
+There are monsters nearby!
+You hit the ooze.
+The ooze is lightly wounded.
+The bat hits you. The ooze barely misses you.
+You hit the ooze.
+The ooze is moderately wounded.
+The bat hits you. The ooze hits you but does no damage.
+You barely miss the ooze.
+The ooze is moderately wounded.
+The bat hits you but does no damage. x2
+The bat misses you. The ooze barely misses you.
+You sock the ooze!
+The ooze is severely wounded.
+The bat misses you. The ooze hits you.
+You hit the ooze.
+The ooze is almost dead.
+The bat hits you but does no damage. The ooze hits you.
+You sock the ooze!
+You kill the ooze!
+Trog accepts your kill.
+The bat hits you but does no damage.
+You completely miss the bat. You headbutt the bat.
+You kill the bat!
+Trog accepts your kill.
+A goblin comes into view. It is wielding a club.
+The goblin shouts!
+Found a pink potion.
+A goblin is nearby!
+You start resting.
+You closely miss the goblin. The goblin barely misses you. You furiously retaliate! You headbutt the goblin!
+You kill the goblin!
+Trog accepts your kill.
+Your Maces & Flails skill increases to level 4!
+No target in view!
+d - a pink potion
+You see here a ring mail.
+e - a ring mail
+Wear which item? (? for menu, Esc to quit)
+You start removing your armour.
+You continue taking off your +0 animal skin. x4
+You finish taking off your +0 animal skin.
+You start putting on your armour. You continue putting on your ring mail.
+You continue putting on your ring mail. x4
+You finish putting on your +0 ring mail.
+Drop what? (_ for help) (? for menu, Esc to quit)
+You drop a +0 animal skin.
+Drink which item? (? for menu, Esc to quit)
+You feel yourself speed up. It was a potion of haste.
+You are very lightly contaminated with residual magic.
+You see here a +0 animal skin.
+A hobgoblin comes into view.
+The hobgoblin shouts!
+Found a gluggy pink potion.
+You see here a gluggy pink potion.
+You hit the hobgoblin.
+You kill the hobgoblin!
+Trog accepts your kill.
+No target in view!
+b - a gluggy pink potion
+You see here a hobgoblin corpse.
+You offer a prayer to Trog.
+The hobgoblin corpse is slowly consumed by flames.
+Trog is aware of your devotion.
+Your extra speed is starting to run out.
+A goblin comes into view.
+The goblin shouts!
+A goblin is nearby!
+The goblin hits you.
+You hit the goblin.
+You kill the goblin!
+Trog accepts your kill.
+No target in view!
+You see here a goblin corpse.
+You offer a prayer to Trog.
+The goblin corpse is slowly consumed by flames.
+Trog is aware of your devotion.
+You feel yourself slow down.
+Found a whip.
+You see here a whip.
+A rat, a goblin and a hobgoblin come into view.
+The goblin hits you but does no damage.
+You hit the goblin but do no damage. Your headbutt misses the goblin. The goblin hits you but does no damage.
+You barely miss the goblin. You headbutt the goblin.
+You kill the goblin!
+Trog accepts your kill.
+You have reached level 2!
+The rat completely misses you.
+You closely miss the rat. The rat completely misses you. You furiously retaliate! You headbutt the rat!
+You kill the rat!
+Trog accepts your kill.
+You sock the hobgoblin!
+You kill the hobgoblin!
+Trog accepts your kill.
+No target in view!
+No target in view!
+No target in view!
+You see here a rat corpse.
+You offer a prayer to Trog.
+The rat corpse is consumed in a column of flame.
+Trog is aware of your devotion.
+Things that are here:
+a club; a goblin corpse
+You offer a prayer to Trog.
+The goblin corpse is consumed in a column of flame.
+Trog is aware of your devotion.
+d - a scroll labeled BLOUXK ANEO
+Your magical contamination has completely faded away.
+A goblin comes into view.
+The goblin shouts!
+The goblin closely misses you.
+You closely miss the goblin. The goblin closely misses you. The goblin hits you but does no damage.
+You thump the goblin!
+You kill the goblin!
+Trog accepts your kill.
+No target in view!
+A rat comes into view.
+A rat is nearby!
+You hit the rat but do no damage. Your headbutt misses the rat. The rat barely misses you.
+You barely miss the rat. You headbutt the rat.
+You kill the rat!
+Trog accepts your kill.
+No target in view!
+Found a mace.
+You see here a mace.
+HP restored.
+f - a meat ration
+A bat comes into view.
+Found a buckler.
+You completely miss the bat. You headbutt the bat.
+You kill the bat!
+Trog accepts your kill.
+No target in view!
+No target in view!
+You see here a bat corpse.
+You offer a prayer to Trog.
+The bat corpse is consumed in a column of flame.
+Trog is aware of your devotion.
+You now have 19 gold pieces (gained 4).
+You see here a buckler.
+g - a buckler
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+Okay, then.
+Wear which item? (? for menu, Esc to quit)
+You start putting on your armour. You continue putting on your buckler.
+You continue putting on your buckler. x3
+You finish putting on your +0 buckler.
+A giant newt comes into view.
+You see here a scroll labeled NYUSOX ORAROTE.
+You hit the giant newt but do no damage.
+The giant newt bites you.
+You miss the giant newt. Your headbutt misses the giant newt.
+The giant newt bites you but does no damage.
+You miss the giant newt.
+The giant newt bites you but does no damage.
+You block the giant newt's attack.
+You hit the giant newt.
+You kill the giant newt!
+Trog accepts your kill.
+No target in view!
+h - a scroll labeled NYUSOX ORAROTE
+You see here a giant newt corpse.
+You offer a prayer to Trog.
+The giant newt corpse is consumed in a column of flame.
+Trog is aware of your devotion.
+Unknown command.
+Found a scale mail.
+A goblin comes into view.
+The goblin shouts!
+A hobgoblin comes into view.
+The goblin hits you but does no damage.
+You sock the hobgoblin!
+You kill the hobgoblin!
+Trog accepts your kill.
+You block the goblin's attack.
+You hit the goblin. You headbutt the goblin.
+The goblin is severely wounded.
+The goblin completely misses you. The goblin barely misses you. You furiously retaliate!
+You headbutt the goblin.
+You kill the goblin!
+Trog accepts your kill.
+No target in view!
+You see here a hobgoblin corpse.
+You offer a prayer to Trog.
+The hobgoblin corpse is consumed in a column of flame.
+Trog is aware of your devotion.
+Things that are here:
+a scale mail; a goblin corpse
+You offer a prayer to Trog.
+The goblin corpse is slowly consumed by flames.
+Trog is aware of your devotion.
+Press: ? - help, v - describe, . - travel, g - get item
+A scale mail.
+The floor.
+Press: ? - help, v - describe, . - travel, g - get item
+A scale mail.
+The floor.
+You see here a scale mail.
+A giant cockroach comes into view.
+You closely miss the giant cockroach.
+The giant cockroach bites you but does no damage. x2
+You hit the giant cockroach.
+The giant cockroach is heavily wounded.
+The giant cockroach bites you but does no damage.
+You barely miss the giant cockroach.
+The giant cockroach is heavily wounded.
+The giant cockroach barely misses you.
+You closely miss the giant cockroach.
+The giant cockroach is heavily wounded.
+The giant cockroach bites you but does no damage. x2
+You barely miss the giant cockroach.
+The giant cockroach is heavily wounded.
+The giant cockroach closely misses you. You furiously retaliate! You headbutt the giant cockroach.
+You barely miss the giant cockroach.
+The giant cockroach is almost dead.
+The giant cockroach completely misses you.
+The giant cockroach bites you.
+You hit the giant cockroach but do no damage.
+You headbutt the giant cockroach.
+You kill the giant cockroach!
+Trog accepts your kill.
+You see here a scale mail.
+HP restored.
+You see here a +0 animal skin.
+Found an escape hatch in the floor.
+No target in view!
+There is an escape hatch in the floor here.
+A goblin comes into view. It is wielding a club.
+The goblin shouts!
+You sock the goblin!
+You kill the goblin!
+Trog accepts your kill.
+You see here a club.
+You now have 31 gold pieces (gained 12).
+An ooze comes into view.
+The ooze quivers.
+An ooze is nearby!
+You see here 6 gold pieces.
+You now have 37 gold pieces (gained 6).
+A bat and a kobold come into view.
+The kobold shouts!
+The ooze hits you. The kobold moves out of view.
+You hit the ooze. You headbutt the ooze!
+The ooze is heavily wounded.
+You hit the ooze. You headbutt the ooze.
+The ooze is almost dead.
+The ooze hits you.
+A giant newt comes into view.
+You completely miss the ooze.
+The ooze is almost dead.
+The ooze hits you.
+You hit the ooze.
+You kill the ooze!
+Trog accepts your kill.
+The bat hits you but does no damage.
+The bat closely misses you. The bat hits you but does no damage.
+You closely miss the bat. The bat closely misses you.
+You barely miss the kobold. Your headbutt misses the kobold. The kobold hits you with a whip.
+You sock the kobold!
+You kill the kobold!
+Trog accepts your kill.
+You can now regenerate and be protected from hostile enchantments.
+You block the bat's attack.
+You hit the giant newt. Your headbutt misses the giant newt.
+The giant newt is heavily wounded.
+The giant newt closely misses you. x2
+You hit the giant newt.
+You kill the giant newt!
+Trog accepts your kill.
+The bat barely misses you.
+The bat hits you but does no damage. The bat hits you.
+Things that are here:
+a whip; a giant newt corpse; a kobold corpse
+You closely miss the bat. The bat closely misses you. The bat hits you but does no damage.
+The bat barely misses you.
+You hit the bat.
+You kill the bat!
+Trog accepts your kill.
+No target in view!
+You offer a prayer to Trog.
+The giant newt corpse is consumed in a column of flame.
+The kobold corpse is consumed in a column of flame.
+Trog is pleased with you.
+You see here a bat corpse.
+You offer a prayer to Trog.
+The bat corpse is consumed in a column of flame.
+Trog is pleased with you.
+You see here a whip.
+Welcome back, Asterion the Minotaur Berserker.
+Trog says: Kill them all!
+Press ? for a list of commands and other information.
+Found 6 gold pieces.
+A bat, an ooze and a kobold come into view.
+The ooze quivers.
+The kobold shouts!
+You barely miss the ooze. You headbutt the ooze!
+The ooze is heavily wounded.
+
+>>>>>>>>>>>>>>>>>>>>>>
+
+Game state:
+
+mouse_enabled: 0, waiting_for_command: 1, terminal_resized: 0
+io_inited: 1, need_save: 1, saving_game: 0, updating_scores: 0:
+seen_hups: 0, map_stat_gen: 0, type: 1, arena_suspended: 0
+Last resize was 1 seconds ago.
+
+prev_cmd = CMD_DISPLAY_SKILLS
+repeat_cmd = CMD_NO_CMD
+
+Player:
+{{{{{{{{{{{
+Name:       [Asterion]
+Species:    Minotaur
+Job:        Berserker
+
+class_name: Berserker
+
+HP: 20/26; mods: 0/0
+MP: 1/1; mod: 0
+Stats: 21 (21) 4 (4) 9 (9)
+Position: (10, 19), god: Trog (10), turn_is_over: 0, banished: 0
+Standing on/in/over feature: floor
+
+Skills (mode: manual)
+Name            | can_train | train | training | level | points | progress
+Fighting        |     X     |   0   |     0    |    3  |    301 | 89/141
+Short Blades    |           |   0   |     0    |    0  |      0 | 0/42
+Long Blades     |           |   0   |     0    |    0  |      0 | 0/35
+Axes            |           |   0   |     0    |    0  |      0 | 0/35
+Maces & Flails  |     X     |   1   |   100    |    4  |    521 | 168/177
+Polearms        |           |   0   |     0    |    0  |      0 | 0/35
+Staves          |           |   0   |     0    |    0  |      0 | 0/35
+Slings          |           |   0   |     0    |    0  |      0 | 0/42
+Bows            |           |   0   |     0    |    0  |      0 | 0/42
+Crossbows       |           |   0   |     0    |    0  |      0 | 0/42
+Throwing        |     X     |   0   |     0    |    0  |      0 | 0/50
+Armour          |     X     |   0   |     0    |    2  |    151 | 45/106
+Dodging         |     X     |   0   |     0    |    2  |    151 | 25/126
+Stealth         |     X     |   0   |     0    |    0  |      0 | 0/59
+Stabbing        |           |   0   |     0    |    0  |      0 | 0/1410790144
+Shields         |     X     |   0   |     0    |    0  |      0 | 0/35
+Traps           |           |   0   |     0    |    0  |      0 | 0/1410790144
+Unarmed Combat  |     X     |   0   |     0    |    0  |      0 | 0/42
+Spellcasting    |     X     |   0   |     0    |    0  |      0 | 0/100
+Conjurations    |           |   0   |     0    |    0  |      0 | 0/84
+Hexes           |           |   0   |     0    |    0  |      0 | 0/100
+Charms          |           |   0   |     0    |    0  |      0 | 0/100
+Summonings      |           |   0   |     0    |    0  |      0 | 0/84
+Necromancy      |           |   0   |     0    |    0  |      0 | 0/84
+Translocations  |           |   0   |     0    |    0  |      0 | 0/84
+Transmutations  |           |   0   |     0    |    0  |      0 | 0/70
+Fire Magic      |           |   0   |     0    |    0  |      0 | 0/84
+Ice Magic       |           |   0   |     0    |    0  |      0 | 0/84
+Air Magic       |           |   0   |     0    |    0  |      0 | 0/84
+Earth Magic     |           |   0   |     0    |    0  |      0 | 0/70
+Poison Magic    |           |   0   |     0    |    0  |      0 | 0/84
+Invocations     |           |   0   |     0    |    0  |      0 | 0/50
+Evocations      |           |   0   |     0    |    0  |      0 | 0/50
+
+Spell bugs:
+
+Durations:
+
+Attributes:
+    #12: 37
+    #27: 34
+    #49: 37
+
+Mutations:
+    horns: 2 (innate)
+
+Inventory bugs:
+
+Equipment:
+    eq slot #0, inv slot #0: +0 mace
+    eq slot #5, inv slot #6: +0 buckler
+    eq slot #6, inv slot #4: +0 ring mail
+
+}}}}}}}}}}}
+
+
+Screenshot:
+ #.
+ #.
+##.#
+#...##
+#K...##  #
+#.....##.#
+ #.bJ....#
+ #..@.#
+ #.#.##
+ # #.#
+   #.#
+   #.#
+   #.#
+   .$.
+
+clua stack:
+
+
+dlua stack:
+
+
+Lua persistent data:
+<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>
+
+Lua marker contents:
+<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>

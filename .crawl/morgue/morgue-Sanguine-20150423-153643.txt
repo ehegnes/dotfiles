@@ -1,0 +1,166 @@
+ Dungeon Crawl Stone Soup version 0.16-a0-4088-g7c8221e (console) character file.
+
+23 Sanguine the Skirmisher (level 2, -3/24 HPs)
+             Began as a Demonspawn Abyssal Knight on Apr 23, 2015.
+             Was a Follower of Lugonu.
+             Killed from afar by Sigmund (12 damage)
+             ... with a puff of flame
+             ... on level 2 of the Dungeon.
+             The game lasted 00:01:59 (1019 turns).
+
+Sanguine the Skirmisher (Demonspawn Abyssal Knight) Turns: 1019, Time: 00:01:59
+
+Health: -3/24      AC:  8    Str: 12    XL:     2   Next: 72%
+Magic:  2/2        EV: 11    Int: 13    God:    Lugonu [*.....]
+Gold:   30         SH:  0    Dex: 11    Spells: 0 memorised, 1 level left
+
+rFire  . . .     SeeInvis .     a - +1 falchion
+rCold  . . .     Clarity  .     b - +0 leather armour
+rNeg   . . .     SustAb   .     (no shield)
+rPois  .         Gourm    .     (no helmet)
+rElec  .         Spirit   .     (no cloak)
+rCorr  .         Warding  .     (no gloves)
+rMut   .         Stasis   .     d - +0 pair of boots
+MR     .....                    (no amulet)
+Stlth  +.........               (no ring)
+                                (no ring)
+
+@: not resistant to hostile enchantments, very unstealthy
+A: rough black scales 1
+a: Depart the Abyss, Renounce Religion
+
+
+You were on level 2 of the Dungeon.
+You worshipped Lugonu.
+Lugonu was aware of your devotion.
+You were hungry.
+
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+You visited the Abyss 1 time.
+
+You collected 30 gold pieces.
+
+Inventory:
+
+Hand weapons
+ a - a +1 falchion (weapon)
+Armour
+ b - a +0 leather armour (worn)
+ d - a +0 pair of boots (worn)
+Scrolls
+ e - a scroll of identify {unknown}
+ j - a scroll of random uselessness {unknown}
+ l - a scroll of teleportation {unknown}
+Comestibles
+ c - a bread ration
+ f - 2 fruits
+ g - 2 slices of pizza
+ h - a beef jerky
+ i - a meat ration
+
+
+   Skills:
+ - Level 3.0 Fighting
+ + Level 3.0 Long Blades
+ - Level 1.7 Armour
+ - Level 0.8 Dodging
+ - Level 2.4 Invocations
+
+
+You had one spell level left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+Nemelex Xobeh
+
+Annotations:
+D:2 Sigmund
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are partially covered in rough black scales (AC +4, Dex -1).
+
+
+Message History
+
+Sigmund is severely wounded.
+The giant cockroach bites you but does no damage.
+Sigmund barely misses you. The giant cockroach bites you.
+You hit Sigmund but do no damage.
+Sigmund is severely wounded.
+The giant cockroach barely misses you.
+You barely miss Sigmund.
+Sigmund is severely wounded.
+Sigmund points at you and mumbles some strange words.
+The magic dart hits you!
+The giant cockroach bites you but does no damage.
+You hit Sigmund.
+Sigmund is severely wounded.
+The giant cockroach barely misses you. Sigmund hits you with a scythe! The giant cockroach barely misses you.
+You barely miss Sigmund.
+Sigmund is severely wounded.
+Sigmund points at you and mumbles some strange words.
+The puff of flame hits you!
+Ouch! That really hurt!
+You die...
+
+       .   .
+    ....   .##.[.
+   #..$.   ).#....
+  ......   #.......
+ .......####?.......
+ .........##........
+ ...................
+!..........).#.......
+.......)<((s@@r......
+........#....##......
+ ......>..##........
+ #.........#####.. .
+ ..........#
+  .........#
+   ........#
+    .......#
+       ....
+
+
+You could see Sigmund, a giant cockroach and a rat.
+
+Vanquished Creatures
+  2 giant geckos (D:1)
+  A giant cockroach (D:1)
+  4 hobgoblins (D:1)
+  4 bats (D:1)
+  2 goblins
+  5 kobolds
+  3 rats (D:1)
+21 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | Abyss:1  | Sanguine, the Demonspawn Abyssal Knight, began the quest for the Orb.
+     0 | Abyss:1  | Reached XP level 1. HP: 18/18 MP: 1/1
+    61 | Abyss:1  | Noticed a hippogriff
+    61 | Abyss:1  | a shapeshifter changed into a hippogriff
+    61 | Abyss:1  | Noticed a cacodemon
+    63 | D:1      | Escaped the Abyss
+    71 | D:1      | Acquired Lugonu's first power
+   389 | D:1      | Gained mutation: You are partially covered in rough black scales (AC +4, Dex -1). [demonic ancestry]
+   389 | D:1      | Reached XP level 2. HP: 21/24 MP: 2/2
+   439 | D:1      | Found a sparkling altar of Nemelex Xobeh.
+   994 | D:2      | Noticed Sigmund
+  1019 | D:2      | Killed from afar by Sigmund
+
+
+Action                   || total
+-------------------------++-------
+Melee: Falchion          ||    74
+Invok: Depart the Abyss  ||     1
+  Use: Potion            ||     3
+

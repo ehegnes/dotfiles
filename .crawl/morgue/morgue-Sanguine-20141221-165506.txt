@@ -1,0 +1,112 @@
+ Dungeon Crawl Stone Soup version 0.15.2 (console) character file.
+
+0 Sanguine the Insei (level 1, 15/15 HPs)
+             Began as a Demonspawn Transmuter on Dec 21, 2014.
+             Quit the game on Level 1 of the Dungeon.
+             The game lasted 00:00:12 (0 turns).
+
+Sanguine the Insei (Demonspawn Transmuter)             Turns: 0, Time: 00:00:12
+
+HP  15/15        AC  2     Str 10      XL: 1   Next:  0%
+MP   3/3         EV 12     Int 14      God: 
+Gold 0           SH  0     Dex 13      Spells:  1 memorised,  3 levels left
+
+rFire  . . .     SeeInvis .       - Unarmed
+rCold  . . .     Clarity  .     c - +0 robe
+rNeg   . . .     rCorr    .     (no shield)
+rPois  .         rRot     .     (no helmet)
+rElec  .         Spirit   .     (no cloak)
+SustAb .         Warding  .     (no gloves)
+rMut   .         Stasis   .     (no boots)
+Gourm  .                        (no amulet)
+MR     .....                    (no ring)
+                                (no ring)
+
+@: not resistant to hostile enchantments, very unstealthy
+A: no striking features
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Missiles
+ b - 12 arrows
+Armour
+ c - a +0 robe (worn)
+Comestibles
+ a - a bread ration
+Books
+ d - a book of Changes   
+   
+   Spells                             Type                      Level
+   *Beastly Appendage                 Transmutation                1
+   Sticks to Snakes                   Transmutation                2
+   Spider Form                        Transmutation/Poison         3
+   Ice Form                           Ice/Transmutation            4
+   Blade Hands                        Transmutation                5
+
+
+   Skills:
+ - Level 1.0 Fighting
+ - Level 1.7 Dodging
+ + Level 2.6 Unarmed Combat
+ - Level 2.0 Spellcasting
+ - Level 1.7 Transmutations
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Beastly Appendage     Trmt           #.....       14%         1    ##.....
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+Spell assigned to 'a'.
+Welcome, Sanguine the Demonspawn Transmuter.
+They say that the Orb of Zot exists deep within this dungeon, but nobody has ever found it.
+Press ? for a list of commands and other information.
+Found a staircase leading out of the dungeon.
+Unknown command.
+Okay, then.
+Unknown command.
+Unknown command.
+Unknown command.
+Are you sure you want to abandon this character and quit the game? (Confirm with "yes".) 
+Okay, then.
+Are you sure you want to abandon this character and quit the game? (Confirm with "yes".) 
+
+  ##+##
+  #...#
+###.8.###
+#.......#
+#.8.@.8.#
+#.......#
+###.8.###
+  #...#
+  ##+##
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | D:1      | Sanguine, the Demonspawn Transmuter, began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 15/15 MP: 3/3
+     0 | D:1      | Quit the game
+

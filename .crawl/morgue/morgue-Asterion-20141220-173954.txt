@@ -1,0 +1,141 @@
+ Dungeon Crawl Stone Soup version 0.15.2 (console) character file.
+
+5 Asterion the Cudgeler (level 1, 0/19 HPs)
+             Began as a Minotaur Berserker on Dec 20, 2014.
+             Was a Follower of Trog.
+             Slain by a jackal (1 damage)
+             ... on Level 1 of the Dungeon.
+             The game lasted 00:00:20 (157 turns).
+
+Asterion the Cudgeler (Minotaur Berserker)           Turns: 157, Time: 00:00:20
+
+HP   0/19        AC  2     Str 21      XL: 1   Next: 66%
+MP   1/1         EV 12     Int  4      God: Trog [*.....]
+Gold 0           SH  0     Dex  9      Spells:  0 memorised,  0 levels left
+
+rFire  . . .     SeeInvis .     a - +0 mace
+rCold  . . .     Clarity  .     b - +0 animal skin
+rNeg   . . .     rCorr    .     (no shield)
+rPois  .         rRot     .     (helmet restricted)
+rElec  .         Spirit   .     (no cloak)
+SustAb .         Warding  .     (no gloves)
+rMut   .         Stasis   .     (no boots)
+Gourm  .                        (no amulet)
+MR     .....                    (no ring)
+                                (no ring)
+
+@: not resistant to hostile enchantments, very unstealthy
+A: retaliatory headbutt, horns 2
+a: Burn Spellbooks, Berserk, Renounce Religion
+
+
+You were on level 1 of the Dungeon.
+You worshipped Trog.
+Trog was aware of your devotion.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand weapons
+ a - a +0 mace (weapon)
+Armour
+ b - a +0 animal skin (worn)
+Comestibles
+ c - a bread ration
+ f - 2 chunks of goblin flesh
+Potions
+ d - a potion of restore abilities {unknown}
+
+
+   Skills:
+ - Level 3.6 Fighting
+ + Level 4.1 Maces & Flails
+ - Level 2.4 Armour
+ - Level 2.1 Dodging
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+
+
+Message History
+
+You hit the jackal.
+You kill the jackal!
+Trog accepts your kill.
+The jackal barely misses you.
+You completely miss the rat. Your headbutt misses the rat. The jackal bites you.
+The rat bites you but does no damage. The jackal misses you.
+You hit the rat but do no damage. Your headbutt misses the rat. The jackal bites you. The rat bites you.
+* * * LOW HITPOINT WARNING * * *
+The jackal closely misses you.
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You closely miss the jackal. Your headbutt misses the jackal. The rat bites you.
+* * * LOW HITPOINT WARNING * * *
+The jackal barely misses you. The rat bites you.
+* * * LOW HITPOINT WARNING * * *
+The jackal barely misses you.
+The jackal bites you.
+You die...
+
+        ...
+     .....#
+    ......#
+   .......#
+  ........#
+  ........#
+  ........#              #########
+ .........#  ########    #.......#
+ .........####......#    #.#####.#
+ #.#######r.h@...##.######.#  ##.##
+         #.###.#.##........# ##...##
+ ..   ####.##..#.#############.#.#.##
+ ...###....##.##.########## #.......#
+ ..........##.##.##.......# #......##
+#...#............##.......# #......#
+....(...).....#...#.......# #.#....#
+..............#......)....# #......#
+ .................#.......# ####.###
+ ...........##.#.##.......#    #.#
+ ...##.....###.#.##.......#    #.#
+  .  ##..........###############.#
+
+
+You could see a jackal and a rat.
+
+Vanquished Creatures
+  2 goblins (D:1)
+  2 jackals (D:1)
+4 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | D:1      | Asterion, the Minotaur Berserker, began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
+   145 | D:1      | Reached skill level 4 in Maces & Flails
+   157 | D:1      | Slain by a jackal
+
+
+Action                   || total
+-------------------------++-------
+Melee: Mace              ||    15
+

@@ -45,7 +45,8 @@ fi
 
 # Iterate through sinks/sources and modify volume
 for i in $SS; do
-    pactl set-"$S"-volume $i -- "$CMD";
+    echo "pactl set-"$S"-volume $i "$CMD";"
+    pactl set-"$S"-volume $i "$CMD";
 done
 
 exit 0;

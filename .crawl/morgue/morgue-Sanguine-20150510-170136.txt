@@ -1,0 +1,300 @@
+ Dungeon Crawl Stone Soup version 0.16-a0-4088-g7c8221e (console) character file.
+
+830 Sanguine the Covered (level 7, -6/55 HPs)
+             Began as a Demonspawn Abyssal Knight on May 10, 2015.
+             Was an Elder of Lugonu.
+             Mangled by a gnoll
+             ... wielding a +0 halberd
+              (11 damage)
+             ... on level 6 of the Dungeon.
+             The game lasted 00:19:00 (6072 turns).
+
+Sanguine the Covered (Demonspawn Abyssal Knight)    Turns: 6072, Time: 00:19:00
+
+Health: -6/55      AC:  7    Str: 19    XL:     7   Next: 65%
+Magic:  13/13      EV: 10    Int: 13    God:    Lugonu [****..]
+Gold:   301        SH:  0    Dex: 13    Spells: 0 memorised, 6 levels left
+
+rFire  x . .     SeeInvis .     a - +1 falchion
+rCold  + . .     Clarity  .     k - +0 scale mail
+rNeg   . . .     SustAb   .     (no shield)
+rPois  +         Gourm    .     (helmet restricted)
+rElec  .         Spirit   .     (no cloak)
+rCorr  .         Warding  .     (no gloves)
+rMut   .         Stasis   .     (no boots)
+MR     .....                    h - amulet of rage
+Stlth  ++........               w - ring of flight
+                                u - ring of ice
+
+@: mighty, not resistant to hostile enchantments, unstealthy
+A: hooves 2, horns 1, breathe flames 1, demonic guardian 1, nightstalker 2,
+poison resistance, spit poison 1
+a: Spit Poison, Depart the Abyss, Bend Space, Banish, Corrupt, Renounce
+Religion, Breathe Fire, Evoke Berserk Rage, Evoke Flight
+
+
+You were on level 6 of the Dungeon.
+You worshipped Lugonu.
+Lugonu was greatly pleased with you.
+You were very hungry.
+
+You visited 1 branch of the dungeon, and saw 6 of its levels.
+You visited the Abyss 1 time.
+
+You collected 301 gold pieces.
+
+Inventory:
+
+Hand weapons
+ a - a +1 falchion (weapon)
+Armour
+ k - a +0 scale mail (worn)
+Jewellery
+ d - an uncursed amulet of resist mutation
+ h - an amulet of rage (around neck)
+ n - an uncursed ring of teleportation
+ u - a ring of ice (left hand)
+ w - a ring of flight (right hand)
+Magical devices
+ j - a wand of draining (9)
+ t - a wand of slowing (11)
+ D - a wand of confusion (20)
+ E - a wand of random effects (31)
+Scrolls
+ b - 6 scrolls of remove curse
+ e - a scroll of magic mapping {unknown}
+ f - 7 scrolls of identify
+ g - a scroll of blinking {unknown}
+ l - 3 scrolls of random uselessness {unknown}
+ m - 2 scrolls of recharging {unknown}
+ o - 2 scrolls of fear {unknown}
+ r - a scroll of fog {unknown}
+ s - a scroll of amnesia
+ x - a scroll of vulnerability {unknown}
+ y - a scroll of teleportation
+ B - 2 scrolls of enchant armour {unknown}
+ I - a scroll of immolation {unknown}
+Potions
+ v - a potion of cure mutation {unknown}
+ z - a potion of poison {unknown}
+ A - a potion of haste {unknown}
+ F - a potion of resistance
+ H - a potion of brilliance {unknown}
+Books
+ G - a book of Frost   
+   
+    Spells                             Type                      Level
+    a - Freeze                       Ice                           1
+    b - Throw Frost                  Conjuration/Ice               2
+    c - Ozocubu's Armour             Charms/Ice                    3
+    d - Throw Icicle                 Conjuration/Ice               4
+    e - Summon Ice Beast             Ice/Summoning                 4
+    f - Condensation Shield          Ice                           4
+Comestibles
+ c - 3 bread rations
+ i - a beef jerky
+ p - a slice of pizza
+ q - a meat ration
+
+
+   Skills:
+ - Level 4.4 Fighting
+ + Level 4.3 Long Blades
+ - Level 5.2 Armour
+ - Level 0.8 Dodging
+ - Level 5.2 Invocations
+
+
+You had 6 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (6/15)            
+Temple: D:4-7       
+
+Altars:
+Elyvilon
+Makhleb
+Okawaru
+Xom
+
+Annotations:
+D:4 digging for horrifying monsters
+Abyss:1 Menkaure, Terence
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have hoof-like feet.
+You have a pair of small horns on your head.
+A weak demonic guardian rushes to your aid.
+You are significantly more attuned to the shadows.
+You can breathe flames.
+Your system is resistant to poisons.
+You can spit poison.
+
+
+Message History
+
+You swap places. Your quasit barely misses the gnoll.
+Your quasit claws the gnoll but does no damage. x2
+The gnoll hits you from afar with a halberd.
+* * * LOW HITPOINT WARNING * * *
+The gnoll hits you with a halberd!
+* * * LOW HITPOINT WARNING * * *
+Your quasit bites the gnoll. Your quasit closely misses the gnoll. Your quasit claws the gnoll.
+The scorpion stings your quasit!
+You see here a spear.
+Your quasit bites the gnoll but does no damage.
+Your quasit closely misses the gnoll. Your quasit barely misses the gnoll. The scorpion misses your quasit.
+You swap places. The gnoll closely misses your quasit. Your quasit barely misses the gnoll.
+Your quasit barely misses the gnoll. x2
+Your crimson imp blinks!
+The scorpion closely misses your quasit.
+Your quasit barely misses the gnoll.
+Your quasit claws the gnoll but does no damage.
+Your quasit claws the gnoll.
+The gnoll hits you from afar with a halberd!
+You die...
+
+.######.###########.###....###<.###.###.#
+      #.#    ######...#...........<.#  ...
+      #.#    #......#.............#.#   ##
+      #.######.####...###.####....#...
+      #...........#..##      ##.#.#.#.#
+      #..#####.##....#        #...#.#.#
+      #..#   #.####.##        ..###..
+      #..#   #.#  #.#        ####  .
+      ...#   #.#  #.#
+     ≈≈...   #.####.########.
+      §≈..   ................
+              ....#...........
+              ###.####.5.###
+                #    ###@#
+                       #.#   .
+                       #g##....
+                       #5......
+                    #...gs.....
+                    ####.##...
+                       #.# ...
+                       #.#
+                       #.#
+                       #..
+
+
+You could see a scorpion, 2 gnolls, a friendly quasit and a friendly crimson
+imp.
+
+Vanquished Creatures
+  Edmund (D:4)
+  A water moccasin (D:6)
+  A black bear (D:5)
+  A phantom (D:4)
+  An ogre (D:5)
+  A crimson imp (D:5)
+  A gnoll shaman (D:6)
+  A hound (D:4)
+  An iguana (D:4)
+  An orc priest (D:5)
+  A worker ant (D:5)
+  A gnoll (D:6)
+  Natasha (D:4)
+  7 adders
+  2 giant mites
+  2 worms (D:2)
+  3 giant geckos
+  9 orcs
+  A bat skeleton (D:4)
+  4 giant cockroaches
+  10 goblins
+  7 hobgoblins
+  5 jackals
+  6 kobolds
+  4 quokkas
+  A ball python (D:2)
+  12 bats
+  3 giant newts
+  10 rats
+99 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  Natasha (D:4)
+1 creature vanquished.
+
+Vanquished Creatures (others)
+  A crimson imp (D:4)
+  2 iron imps (D:4)
+  3 quasits
+  2 white imps (D:4)
+  2 ufetubi
+10 creatures vanquished.
+
+Grand Total: 110 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | Abyss:1  | Sanguine, the Demonspawn Abyssal Knight, began the quest for the Orb.
+     0 | Abyss:1  | Reached XP level 1. HP: 18/18 MP: 1/1
+     8 | D:1      | Escaped the Abyss
+   154 | D:1      | Gained mutation: You have large cloven feet. [demonic ancestry]
+   154 | D:1      | Reached XP level 2. HP: 18/24 MP: 2/2
+   441 | D:1      | Acquired Lugonu's second power
+   843 | D:2      | Gained mutation: A weak demonic guardian rushes to your aid. [demonic ancestry]
+   843 | D:2      | Reached XP level 3. HP: 29/29 MP: 4/4
+  1094 | D:2      | Noticed Terence
+  1241 | D:2      | You fall through a shaft!
+  1269 | D:3      | Reached skill level 4 in Fighting
+  1368 | D:3      | Found a shimmering altar of Xom.
+  1368 | D:3      | Found a shimmering altar of Xom.
+  1369 | D:3      | Found a shimmering altar of Xom.
+  1420 | D:3      | Gained mutation: You are slightly more attuned to the shadows. [demonic ancestry]
+  1420 | D:3      | Reached XP level 4. HP: 29/37 MP: 5/5
+  1568 | D:3      | Acquired Lugonu's third power
+  1655 | D:3      | Found a burning altar of Makhleb.
+  1910 | D:4      | Noticed Natasha
+  1915 | D:4      | Killed Natasha
+  2140 | D:4      | Noticed Edmund
+  2191 | D:4      | Killed Edmund
+  2191 | D:4      | Gained mutation: You have hoof-like feet. [demonic ancestry]
+  2191 | D:4      | Reached XP level 5. HP: 26/43 MP: 6/6
+  2255 | D:4      | Noticed a phantom
+  2343 | D:4      | Killed a phantom
+  2345 | D:4      | Gained mutation: You can spit poison. [potion of mutation]
+  2345 | D:4      | Gained mutation: Your system is resistant to poisons. [potion of mutation]
+  2345 | D:4      | Gained mutation: You can breathe flames. [potion of mutation]
+  2349 | D:4      | Noticed Menkaure
+  2679 | D:2      | Found an iron altar of Okawaru.
+  2703 | D:2      | Gained mutation: You are significantly more attuned to the shadows. [demonic ancestry]
+  2703 | D:2      | Reached XP level 6. HP: 44/49 MP: 8/8
+  2771 | D:2      | Banished Terence
+  3513 | D:4      | Found a burning altar of Makhleb.
+  3513 | D:4      | Noticed a green death
+  3516 | D:4      | Noticed a smoke demon
+  3516 | D:4      | Noticed an orange demon
+  3717 | D:4      | Banished Menkaure
+  3717 | D:4      | Reached skill level 5 in Armour
+  3830 | D:4      | Noticed Natasha
+  3833 | D:4      | Killed Natasha
+  4605 | D:5      | Entered Level 5 of the Dungeon
+  4671 | D:5      | Found a white marble altar of Elyvilon.
+  5124 | D:5      | Gained mutation: You have a pair of small horns on your head. [demonic ancestry]
+  5124 | D:5      | Reached XP level 7. HP: 53/55 MP: 12/12
+  5466 | D:5      | Acquired Lugonu's fourth power
+  5579 | D:5      | Reached skill level 5 in Invocations
+  6072 | D:6      | Mangled by a gnoll
+
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Falchion          |   123 |   214 |    46 ||   383
+Invok: Banish            |       |     2 |       ||     2
+Evoke: Wand              |       |     6 |       ||     6
+  Use: Scroll            |     4 |     3 |       ||     7
+       Potion            |       |     4 |     1 ||     5
+ Stab: Sleeping          |       |     3 |     1 ||     4
+  Eat: Chunk             |     1 |     8 |     2 ||    11
+       Meat ration       |       |     1 |       ||     1
+

@@ -1,0 +1,152 @@
+ Dungeon Crawl Stone Soup version 0.15.2 (console) character file.
+
+7 Dracula the Sneak (level 1, 0/16 HPs)
+             Began as a Vampire Assassin on Dec 18, 2014.
+             Slain by a goblin
+             ... wielding a +0 dagger
+              (2 damage)
+             ... on Level 1 of the Dungeon.
+             The game lasted 00:00:30 (91 turns).
+
+Dracula the Sneak (Vampire Assassin)                  Turns: 91, Time: 00:00:30
+
+HP   0/16        AC  3     Str 10      XL: 1   Next: 83%
+MP   1/1         EV 12     Int 13      God: 
+Gold 12          SH  0     Dex 15      Spells:  0 memorised,  0 levels left
+
+rFire  . . .     SeeInvis +     a - +2 dagger
+rCold  . . .     Clarity  .     c - +0 robe
+rNeg   + . .     rCorr    .     (no shield)
+rPois  .         rRot     .     (no helmet)
+rElec  .         Spirit   .     d - +0 cloak
+SustAb .         Warding  .     (no gloves)
+rMut   .         Stasis   .     (no boots)
+Gourm  .                        (no amulet)
+MR     .....                    (no ring)
+                                (no ring)
+
+@: not resistant to hostile enchantments, stealthy
+A: fangs 3, see invisible, unbreathing
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not thirsty.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+You collected 12 gold pieces.
+
+Inventory:
+
+Hand weapons
+ a - a +2 dagger (weapon)
+ b - a +0 blowgun
+Missiles
+ e - 8 poisoned needles
+ f - 2 curare-tipped needles
+ h - 5 needles of slowing
+Armour
+ c - a +0 robe (worn)
+ d - a +0 cloak (worn)
+Potions
+ g - a potion of blood
+
+
+   Skills:
+ - Level 1.7 Fighting
+ * Level 2.6 Short Blades
+ - Level 1.5 Throwing
+ - Level 1.1 Dodging
+ + Level 6.1 Stealth
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have razor-sharp teeth.
+You have supernaturally acute eyesight.
+You can survive without breathing.
+
+
+Message History
+
+The jackal is almost dead.
+The jackal closely misses you.
+You barely miss the jackal.
+The jackal is almost dead.
+The jackal bites you but does no damage.
+The goblin hits you with a dagger.
+You hit the jackal.
+You kill the jackal!
+The jackal barely misses you. The goblin hits you but does no damage.
+The jackal bites you but does no damage.
+You hit the jackal.
+The jackal is severely wounded.
+The jackal bites you. The goblin hits you with a dagger. The jackal misses you. The jackal bites you.
+* * * LOW HITPOINT WARNING * * *
+You closely miss the jackal. You bite the jackal.
+You kill the jackal!
+The jackal bites you.
+* * * LOW HITPOINT WARNING * * *
+The goblin hits you with a dagger.
+You die...
+
+       ...
+    ........#
+   ........[##
+  .........(...
+ .............
+ .$.........#
+ ...........##..
+...........>.....
+       #g#
+       #g#
+    ####@##
+    #..h%h#
+    #.....#
+    #.....#
+    #.....##
+    #......#
+    #......###########
+    #................#
+    #................#
+    #................#
+    #...............#
+    #...............#  #####
+    #...............# ##≈≈≈♣##
+
+
+You could see 2 jackals, a hobgoblin and a goblin.
+
+Vanquished Creatures
+  2 goblins (D:1)
+  2 jackals (D:1)
+  A bat (D:1)
+  A giant newt (D:1)
+  A rat (D:1)
+7 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | D:1      | Dracula, the Vampire Assassin, began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 16/16 MP: 1/1
+    46 | D:1      | Reached skill level 6 in Stealth
+    91 | D:1      | Slain by a goblin
+
+
+Action                   || total
+-------------------------++-------
+Melee: Dagger            ||    19
+

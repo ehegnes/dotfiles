@@ -1,0 +1,218 @@
+ Dungeon Crawl Stone Soup version 0.15.2 (console) character file.
+
+814 Arya the Covert (level 7, -5/32 HPs)
+             Began as a Spriggan Enchanter on Jan 3, 2015.
+             Slain by Sanguine's ghost (7 damage)
+             ... on Level 5 of the Dungeon.
+             The game lasted 00:13:34 (4882 turns).
+
+Arya the Covert (Spriggan Enchanter)                Turns: 4882, Time: 00:13:34
+
+HP  -5/32        AC  4     Str  4      XL: 7   Next: 62%
+MP  28/28        EV 18     Int 17      God: 
+Gold 224         SH  0     Dex 18      Spells:  1 memorised,  9 levels left
+
+rFire  . . .     SeeInvis +     g - +3 dagger (drain)
+rCold  . . .     Clarity  .     b - +2 robe
+rNeg   . . .     rCorr    .     (shield restricted)
+rPois  .         rRot     .     (helmet restricted)
+rElec  .         Spirit   .     (no cloak)
+SustAb .         Warding  .     (gloves unavailable)
+rMut   .         Stasis   .     (boots unavailable)
+Gourm  .                        (no amulet)
+MR     +....                    (no ring)
+                                f - ring of magical power
+
+@: very quick, somewhat resistant to hostile enchantments, quite stealthy
+A: unfitting armour, see invisible, herbivore 3, speed 3, slow metabolism 2
+a: no special abilities
+
+
+You were on level 5 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 5 of its levels.
+
+You collected 224 gold pieces.
+
+Inventory:
+
+Hand weapons
+ g - a +3 dagger of draining (weapon)
+Armour
+ b - a +2 robe (worn)
+Comestibles
+ j - a bread ration
+Scrolls
+ a - 4 scrolls of remove curse
+ i - a scroll of enchant armour
+ l - 7 scrolls of identify
+ o - a scroll of magic mapping
+Jewellery
+ f - a ring of magical power (left hand)
+Potions
+ d - a potion of porridge
+ e - a potion of resistance
+ p - 2 potions of brilliance
+ q - a potion of curing
+Books
+ c - a book of Maledictions   
+   
+   Spells                             Type                      Level
+   Corona                             Hexes                        1
+   Sure Blade                         Hexes/Charms                 2
+   *Ensorcelled Hibernation           Hexes/Ice                    2
+   Confuse                            Hexes                        3
+   Dazzling Spray                     Conjuration/Hexes            3
+   Enslavement                        Hexes                        4
+
+
+   Skills:
+ * Level 7.3 Short Blades
+ - Level 3.0 Dodging
+ + Level 9.4 Stealth
+ - Level 2.6 Spellcasting
+ - Level 3.6 Hexes
+
+
+You had 9 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+b - Ensorcelled Hibernat  Hex/Ice        #.....       17%         2    ##.....
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (5/15)            
+Temple: D:4-7       
+
+Altars:
+The Shining One
+
+Annotations:
+D:5 Sanguine's ghost, experienced DsAK
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are tiny and cannot use many weapons and most armour.
+You have supernaturally acute eyesight.
+You are a herbivore.
+You cover ground extremely quickly.
+You need consume almost no food.
+
+
+Message History
+
+You are too injured to fight recklessly!
+You hit Sanguine's ghost but do no damage.
+Sanguine's ghost misses you.
+You hit Sanguine's ghost but do no damage.
+You barely miss Sanguine's ghost. Sanguine's ghost hits you.
+* * * LOW HITPOINT WARNING * * *
+You hit Sanguine's ghost.
+Sanguine's ghost is lightly damaged.
+Sanguine's ghost closely misses you.
+You barely miss Sanguine's ghost.
+Sanguine's ghost is lightly damaged.
+You hit Sanguine's ghost but do no damage.
+Sanguine's ghost is lightly damaged.
+Sanguine's ghost barely misses you.
+You hit Sanguine's ghost.
+Sanguine's ghost is lightly damaged.
+You hit Sanguine's ghost but do no damage.
+Sanguine's ghost is lightly damaged.
+Sanguine's ghost hits you!
+You die...
+
+       ######
+      ......##
+      .........
+      .........
+       ........
+      ##W..#
+    ###@...#
+   ##......##
+   #........#
+  #....##...######
+ #...#####.......###
+ #..#    #.........##
+...#    ##..........##
+ ..     #............##            ...
+        #.............#            ....
+       ##.............##   .#     #...   #
+      ##...............#  ...#  ##...   ..
+     ##................#  #...###...    ..
+
+
+You could see Sanguine's ghost.
+
+Vanquished Creatures
+  An ogre (D:4)
+  A phantom (D:4)
+  A sky beast (D:5)
+  A big kobold (D:4)
+  A centaur (D:5)
+  A scorpion (D:5)
+  A hound (D:4)
+  3 worker ants
+  An iguana (D:4)
+  2 orc wizards (D:3)
+  An ogre skeleton (D:5)
+  5 adders
+  2 giant mites (D:3)
+  A worm (D:2)
+  An ooze (D:3)
+  7 orcs
+  A ball python (D:2)
+  6 giant cockroaches
+  11 hobgoblins
+  10 bats
+  4 giant geckos
+  2 giant newts
+  9 goblins
+  15 kobolds
+  An orc skeleton (D:5)
+  8 rats
+97 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | D:1      | Arya, the Spriggan Enchanter, began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 9/9 MP: 4/4
+   477 | D:1      | Reached XP level 2. HP: 13/13 MP: 7/7
+   503 | D:1      | Reached skill level 5 in Stealth
+   821 | D:1      | Reached XP level 3. HP: 12/16 MP: 9/9
+  1053 | D:1      | Learned a level 2 spell: Ensorcelled Hibernation
+  1621 | D:2      | Reached skill level 6 in Stealth
+  1793 | D:2      | Reached XP level 4. HP: 21/21 MP: 12/12
+  2338 | D:3      | Reached skill level 7 in Stealth
+  2338 | D:3      | Reached XP level 5. HP: 24/24 MP: 14/14
+  2962 | D:4      | Noticed an ogre
+  2969 | D:4      | Killed an ogre
+  2969 | D:4      | Reached skill level 5 in Short Blades
+  2969 | D:4      | Reached XP level 6. HP: 26/28 MP: 9/17
+  3038 | D:4      | Reached skill level 8 in Stealth
+  3239 | D:4      | Noticed a phantom
+  3827 | D:4      | Noticed a phantom
+  3869 | D:4      | Killed a phantom
+  3869 | D:4      | Reached XP level 7. HP: 29/32 MP: 19/19
+  4585 | D:5      | Entered Level 5 of the Dungeon
+  4591 | D:5      | Reached skill level 9 in Stealth
+  4740 | D:5      | Found a glowing golden altar of the Shining One.
+  4844 | D:5      | Noticed Sanguine's ghost (experienced DsAK)
+  4882 | D:5      | Slain by Sanguine's ghost
+
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Dagger            |   130 |   106 |    69 ||   305
+ Cast: Ensorcelled Hiber |     7 |    36 |     4 ||    47
+  Use: Potion            |     2 |     4 |     3 ||     9
+       Scroll            |     2 |     8 |     2 ||    12
+ Stab: Sleeping          |    19 |    36 |     5 ||    60
+  Eat: Bread ration      |       |     1 |       ||     1
+

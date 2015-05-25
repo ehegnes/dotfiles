@@ -1,0 +1,120 @@
+ Dungeon Crawl Stone Soup version 0.13.1 (console) character file.
+
+20 Sanguine the Skirmisher (level 1, -5/16 HPs)
+             Began as a Demonspawn Abyssal Knight on July 17, 2014.
+             Was a Follower of Lugonu.
+             Killed from afar by an eidolon (21 damage)
+             ... with a bolt of negative energy
+             
+             ... on Level 1 of the Abyss.
+             The game lasted 00:00:47 (81 turns).
+
+Sanguine the Skirmisher (Demonspawn Abyssal Knight)   Turns: 81, Time: 00:00:47
+
+HP  -5/16        AC  3     Str 12      XL: 1   Next:  0%
+MP   1/1         EV 10     Int 13      God: Lugonu [*.....]
+Gold 20          SH  0     Dex 12      Spells:  0 memorised,  0 levels left
+
+Res.Fire  : . . .   See Invis. : .   a - +2 mace
+Res.Cold  : . . .   Warding    : .   b - +0 leather armour
+Life Prot.: . . .   Conserve   : .   (no shield)
+Res.Poison: .       Res.Corr.  : .   (no helmet)
+Res.Elec. : .       Clarity    : .   (no cloak)
+Sust.Abil.: . .     Spirit.Shd : .   (no gloves)
+Res.Mut.  : .       Stasis     : .   (no boots)
+Res.Rott. : .       Flight     : .   (no amulet)
+Saprovore : . . .                    (no ring)
+                                     (no ring)
+
+@: drained, not resistant to hostile enchantments, very unstealthy
+A: no striking features
+a: Depart the Abyss, Renounce Religion
+
+
+You were on level 1 of the Abyss.
+You worshipped Lugonu.
+Lugonu was aware of your devotion.
+You were not hungry.
+
+You visited 0 branches of the dungeon, and saw 0 of its levels.
+You visited the Abyss 1 time.
+
+Inventory:
+
+Hand weapons
+ a - a +2,+2 mace (weapon)
+Armour
+ b - a +0 leather armour (worn)
+ d - a +0 leather armour
+Comestibles
+ c - a bread ration
+
+
+   Skills:
+ + Level 3.0(2.4) Fighting
+ + Level 1.7(1.1) Maces & Flails
+ + Level 1.7(1.1) Armour
+ + Level 0.8(0.2) Dodging
+ + Level 2.4(1.8) Invocations
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (0/27)            
+
+Altars:
+
+Message History
+
+Welcome, Sanguine the Demonspawn Abyssal Knight.
+Will you prevail where others failed? Will you get the Orb of Zot?
+Lugonu says: Take this gate or call upon me to unleash you onto the world, my servant!
+Press ? for a list of commands and other information.
+Found a corrupted altar of Lugonu.
+There is a corrupted altar of Lugonu here.
+You prostrate yourself in front of the altar and pray.
+You offer a prayer to Lugonu.
+Lugonu is aware of your devotion.
+Found a leather armour.
+You see here a leather armour.
+d - a leather armour
+An eidolon comes into view.
+The eidolon gives a chilling moan.
+The eidolon stares piercingly at you.
+The bolt of negative energy hits you! You feel drained.
+Ouch! That really hurt!
+You die...
+
+   #       .###
+   .#      ...
+   #.### ##.#
+   #.#..##.#
+   ##...# ##  #
+   #..##. #  #..
+#    #..#..##..
+#.#  #.####...  ##
+..# ###..##.### .#.
+##..#..#.#..## # .  §
+...#.#.#W.## .##§ ..
+.#....#..##.#§ . .
+..#..##@#.#   #.  #
+##. .####### .##.#. #
+   .
+   #
+
+
+You could see an eidolon.
+
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | Abyss:1  | Sanguine, the Demonspawn Abyssal Knight, began the quest for the Orb.
+     0 | Abyss:1  | Reached XP level 1. HP: 16/16 MP: 1/1
+    70 | Abyss:1  | Noticed an eidolon
+    81 | Abyss:1  | Killed from afar by an eidolon
+

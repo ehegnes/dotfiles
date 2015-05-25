@@ -1,0 +1,326 @@
+ Dungeon Crawl Stone Soup version 0.15.2 (console) character file.
+
+6635 Asterion the Basher (level 10, 0/91 (93) HPs)
+             Began as a Minotaur Berserker on Jan 1, 2015.
+             Was a High Priest of Trog.
+             Slain by a gargoyle
+             ... wielding a +0 flail
+              (3 damage)
+             ... on Level 9 of the Dungeon.
+             The game lasted 00:26:14 (8843 turns).
+
+Asterion the Basher (Minotaur Berserker)            Turns: 8843, Time: 00:26:14
+
+HP   0/91 (93)   AC 22     Str 21 (22) XL: 10   Next: 72%
+MP   4/4         EV  6     Int  4      God: Trog [*****.]
+Gold 478         SH  0     Dex 11 (15) Spells:  0 memorised,  9 levels left
+
+rFire  . . .     SeeInvis .     f - +2 whip (flame)
+rCold  . . .     Clarity  .     u - +1 plate armour
+rNeg   . . .     rCorr    .     (no shield)
+rPois  +         rRot     .     (helmet restricted)
+rElec  +         Spirit   .     k - +2 cloak
+SustAb .         Warding  .     (no gloves)
+rMut   .         Stasis   .     r - +2 pair of boots
+Gourm  .                        (no amulet)
+MR     .....                    (no ring)
+                                l - +2 ring of dexterity
+
+@: about to teleport, not resistant to hostile enchantments, extremely
+unstealthy
+A: retaliatory headbutt, hooves 1, horns 2, blink 1, deterioration 2, poison
+resistance, electricity resistance
+a: Blink, Burn Spellbooks, Berserk, Trog's Hand, Brothers in Arms, Renounce
+Religion
+
+
+You were on level 9 of the Dungeon.
+You worshipped Trog.
+Trog was extremely pleased with you.
+You were not hungry.
+
+You visited 2 branches of the dungeon, and saw 10 of its levels.
+
+You collected 478 gold pieces.
+
+Inventory:
+
+Hand weapons
+ a - a +4 dire flail of crushing
+ f - a +2 whip of flaming (weapon)
+ t - a +0 morningstar
+Armour
+ k - a +2 cloak (worn)
+ r - a +2 pair of boots (worn)
+ u - a +1 plate armour (worn)
+Magical devices
+ b - a wand of draining (7) {unknown}
+ s - a wand of flame (10)
+Comestibles
+ c - 7 bread rations
+ d - 2 beef jerkies
+ g - 8 fruits
+ q - a slice of pizza
+ D - a meat ration
+Scrolls
+ e - 6 scrolls of remove curse
+ h - 10 scrolls of identify
+ i - 2 scrolls of teleportation
+Jewellery
+ l - a +2 ring of dexterity (left hand)
+ v - an uncursed amulet of stasis
+Potions
+ m - 2 potions of haste
+ o - 2 potions of curing
+
+
+   Skills:
+ + Level 9.8 Fighting
+ - Level 12.0 Maces & Flails
+ + Level 9.5 Armour
+ + Level 8.6 Dodging
+
+
+You had 9 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (9/15)             Temple (1/1) D:7             Orc (0/4) D:9
+   Lair (0/8) D:9         
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Sif Muna
+Trog
+Vehumet
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:4 (
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+You have large cloven feet.
+You can translocate small distances at will.
+Your body is deteriorating.
+Your system is resistant to poisons.
+You are resistant to electric shocks.
+
+
+Message History
+
+The gargoyle hurls a stone arrow at you.
+The stone arrow hits you!
+* * * LOW HITPOINT WARNING * * *
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+Drink which item? (? for menu, Esc to quit)
+Okay, then.
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+Okay, then.
+The gargoyle hurls a stone arrow at you.
+The stone arrow hits you!
+* * * LOW HITPOINT WARNING * * *
+Read which item? (? for menu, Esc to quit)
+As you read the scroll of teleportation, it crumbles to dust.
+You feel strangely unstable.
+Read which item? (? for menu, Esc to quit)
+As you read the scroll of fear, it crumbles to dust.
+You assume a fearsome visage. The gargoyle is unaffected. The gargoyle hits you with a flail.
+You die...
+
+ ####
+#....
+#....
+#....                         .
+#....                       ##.
+#....#####           ###    #..
+#........#     ..+   ..#  ###.#  #..
+#.....##.#   ##...####.#  #...#  #..
+#......#.## ....8....#.#  #...#  #..
+#>../.9...+#.........#.#  #...####..
+#.....@#.###.........#.####...+.##..
+#.##.......#.........#..............
+#'######.##...............%.........
+..........................%.........
+ ..#######..8...>...8........<..#%).
+         #....................###<..
+         #..............###..<#..[[.
+         #.#.........#..# #..##.....
+       ###.#.........#..# #.........
+       #...#.........#..# ##.##.....
+       #...#....8....#..#  #.#......
+
+
+You could see a gargoyle.
+
+Vanquished Creatures
+  The ghost of Sanguine the Carver, an experienced DsAK of Lugonu (D:8)
+  Pikel (D:5)
+  A fire drake (D:9)
+  A troll (D:9)
+  3 yaks
+  A hungry ghost (D:8)
+  A wyvern (D:9)
+  A wraith (D:9)
+  A hippogriff (D:8)
+  Edmund (D:8)
+  2 necrophages
+  3 sky beasts
+  4 slaves (D:5)
+  3 black bears
+  An orc warrior (D:9)
+  A centaur (D:8)
+  4 phantoms
+  5 ogres
+  Duvessa (D:8)
+  6 giant frogs
+  Blork the orc (D:8)
+  A komodo dragon skeleton (D:8)
+  3 scorpions
+  3 killer bees (D:9)
+  A troll zombie (D:9)
+  A cyclops skeleton (D:9)
+  A yak skeleton (D:9)
+  Dowan (D:8)
+  5 crimson imps
+  A centaur zombie (D:7)
+  A giant frog zombie (D:5)
+  3 hounds
+  An orc priest (D:3)
+  4 jellies
+  5 worker ants
+  4 orc wizards
+  2 iguanas
+  6 ogre zombies (D:9)
+  2 hound skeletons (D:7)
+  7 gnolls
+  16 adders
+  3 shadow imps
+  A giant mite (D:4)
+  6 giant geckos
+  An ooze (D:6)
+  26 orcs
+  11 bats
+  5 giant cockroaches
+  21 hobgoblins
+  19 jackals
+  5 quokkas
+  7 ball pythons
+  A giant gecko skeleton (D:4)
+  2 giant newts
+  2 giant spores
+  12 goblins
+  2 goblin zombies (D:9)
+  2 hobgoblin skeletons (D:9)
+  6 hobgoblin zombies
+  11 kobolds
+  3 orc skeletons (D:9)
+  13 orc zombies (D:9)
+  5 rats
+  7 ballistomycetes
+282 creatures vanquished.
+
+Vanquished Creatures (others)
+  3 giant spores
+  A ballistomycete (D:7)
+4 creatures vanquished.
+
+Grand Total: 286 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | D:1      | Asterion, the Minotaur Berserker, began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
+   237 | D:1      | Reached skill level 4 in Maces & Flails
+   433 | D:1      | Reached XP level 2. HP: 23/26 MP: 1/1
+   778 | D:1      | Acquired Trog's second power
+   898 | D:2      | Reached skill level 5 in Maces & Flails
+   898 | D:2      | Reached XP level 3. HP: 21/31 MP: 2/2
+  1270 | D:2      | Reached skill level 6 in Maces & Flails
+  1270 | D:2      | Reached XP level 4. HP: 39/39 MP: 2/2
+  2191 | D:3      | Reached XP level 5. HP: 45/45 MP: 2/2
+  2342 | D:3      | Reached skill level 7 in Maces & Flails
+  2835 | D:4      | Reached skill level 8 in Maces & Flails
+  2847 | D:4      | Reached XP level 6. HP: 51/51 MP: 3/3
+  2851 | D:4      | Acquired Trog's third power
+  3295 | D:4      | Found Zaurch's Weapon Boutique.
+  3333 | D:4      | Reached skill level 9 in Maces & Flails
+  3565 | D:5      | Entered Level 5 of the Dungeon
+  3834 | D:5      | Gained mutation: You have large cloven feet. [potion of mutation]
+  3834 | D:5      | Gained mutation: Your body is slowly deteriorating. [potion of mutation]
+  3834 | D:5      | Gained mutation: Your system is resistant to poisons. [potion of mutation]
+  3838 | D:5      | Gained mutation: You are resistant to electric shocks. [potion of beneficial mutation]
+  3913 | D:5      | Found a glowing silver altar of Zin.
+  3914 | D:5      | Noticed Pikel
+  3925 | D:5      | Killed Pikel
+  3925 | D:5      | Reached skill level 11 in Maces & Flails
+  3925 | D:5      | Reached XP level 7. HP: 57/57 MP: 3/3
+  4090 | D:5      | Reached XP level 8. HP: 61/64 MP: 3/3
+  4556 | D:6      | Reached skill level 12 in Maces & Flails
+  4859 | D:6      | Found a white marble altar of Elyvilon.
+  5412 | D:7      | Gained mutation: You can translocate small distances at will. [potion of mutation]
+  5412 | D:7      | Gained mutation: Your body is deteriorating. [potion of mutation]
+  5500 | D:7      | Received a gift from Trog
+  5500 | D:7      | Reached skill level 5 in Fighting
+  5501 | D:7      | Got a smoking shortbow {god gift}
+  5505 | D:7      | Identified the +4 shortbow of Paesim {freeze, rPois rC+ Str+4 SInv} (Trog gifted it to you on level 7 of the Dungeon)
+  5729 | D:7      | Reached skill level 5 in Armour
+  5731 | D:7      | Reached XP level 9. HP: 72/72 MP: 4/4
+  5921 | D:7      | Reached skill level 5 in Dodging
+  5959 | D:7      | Found a staircase to the Ecumenical Temple.
+  6279 | Temple   | Entered the Ecumenical Temple
+  6558 | D:8      | Noticed Edmund
+  6568 | D:8      | Killed Edmund
+  6573 | D:8      | Noticed Sanguine's ghost (experienced DsAK)
+  6629 | D:8      | Killed Sanguine's ghost
+  6941 | D:8      | Noticed Duvessa
+  6941 | D:8      | Noticed Dowan
+  6950 | D:8      | Killed Duvessa
+  6952 | D:8      | Reached XP level 10. HP: 50/86 MP: 4/4
+  7209 | D:8      | Killed Dowan
+  7404 | D:8      | Got a bloodstained leather armour
+  7415 | D:8      | Identified the +3 leather armour of Curagros {Str+2 Int-2} (You found it on level 8 of the Dungeon)
+  7759 | D:8      | Noticed Blork the orc
+  7781 | D:8      | Killed Blork the orc
+  7910 | D:9      | Received a gift from Trog
+  8556 | D:9      | Found a staircase to the Orcish Mines.
+  8642 | D:9      | Found a staircase to the Lair.
+  8841 | D:9      | HP: 3/91 [gargoyle/stone arrow (22)]
+  8843 | D:9      | Slain by a gargoyle
+
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Mace              |    59 |    54 |       |       ||   113
+       Morningstar       |       |   100 |     7 |       ||   107
+       Whip              |       |       |   415 |   206 ||   621
+       Dire flail        |       |       |       |    36 ||    36
+Invok: Berserk           |     1 |     1 |     6 |     4 ||    12
+  Use: Potion            |       |    12 |     4 |     4 ||    20
+       Scroll            |       |     8 |     1 |     5 ||    14
+  Eat: Chunk             |     1 |     9 |    13 |     3 ||    26
+       Pizza             |       |       |     1 |       ||     1
+       Meat ration       |       |       |     1 |       ||     1
+       Bread ration      |       |       |       |     1 ||     1
+       Royal jelly       |       |       |       |     1 ||     1
+

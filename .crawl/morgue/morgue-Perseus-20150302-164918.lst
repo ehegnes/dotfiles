@@ -1,0 +1,227 @@
+Perseus
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 spear
+(38, 3, D:1)
+  10 poisoned needles
+(-3, 6, D:1)
+  a +0 dagger
+(34, 9, D:1)
+  a +0 robe
+(6, 13, D:1)
+  4 javelins of returning
+(15, 20, D:1)
+  a +0 short sword
+(26, 22, D:1)
+  a +0 short sword
+  a +0 dagger
+(25, 23, D:1)
+  a +0 club
+(26, 23, D:1)
+  a stone
+(4, 26, D:1)
+  a stone
+(6, 26, D:1)
+  a stone
+(18, 26, D:1)
+  a +0 club
+(4, 27, D:1)
+  2 stones
+(5, 27, D:1)
+  a stone
+(18, 27, D:1)
+  a +0 whip
+  a +0 animal skin
+(4, 28, D:1)
+  a stone
+(5, 28, D:1)
+  a stone
+(6, 28, D:1)
+  3 stones
+(7, 28, D:1)
+  a stone
+(4, 29, D:1)
+  2 stones
+(6, 29, D:1)
+  4 stones
+(7, 29, D:1)
+  3 stones
+(6, 30, D:1)
+  2 stones
+(9, 30, D:1)
+  a stone
+(5, 31, D:1)
+  4 stones
+(6, 31, D:1)
+  4 stones
+(7, 31, D:1)
+  3 stones
+(3, 32, D:1)
+  3 stones
+(4, 32, D:1)
+  3 stones
+(6, 32, D:1)
+  a stone
+(7, 32, D:1)
+  a stone
+(4, 33, D:1)
+  2 stones
+(6, 33, D:1)
+  a stone
+(4, 34, D:1)
+  a stone
+(5, 34, D:1)
+  a stone
+(6, 34, D:1)
+  a stone
+(20, 34, D:1)
+  a +0 club
+(20, 41, D:1)
+  a cursed -2 spear
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  3 stones
+(-59, 2, D:2)
+  a +0 hunting sling
+(-18, 3, D:2)
+  17 arrows
+(-19, 4, D:2)
+  a +0 club
+(-62, 5, D:2)
+  a +0 dagger
+(-15, 5, D:2)
+  14 stones
+(-21, 9, D:2)
+  19 stones
+(-17, 9, D:2)
+  a +1 scythe of freezing
+  a +0 robe
+(-62, 13, D:2)
+  a +0 club
+  a +0 club
+(-24, 17, D:2)
+  a cursed +0 hunting sling
+(-56, 28, D:2)
+  a +0 leather armour
+(-43, 29, D:2)
+  a +0 club
+(-43, 33, D:2)
+  a +0 club
+(-14, 33, D:2)
+  a +2 hand axe of freezing
+(-48, 36, D:2)
+  a +0 leather armour
+(-48, 37, D:2)
+  20 arrows
+(-34, 38, D:2)
+  a cursed +0 dagger
+  a +0 hunting sling
+  20 stones
+  a +0 club
+  a +0 short sword
+(-52, 39, D:2)
+  a +0 dagger
+(-35, 39, D:2)
+  a +0 club
+(-34, 39, D:2)
+  a +0 club
+(-33, 44, D:2)
+  a +0 robe
+(-37, 45, D:2)
+  a +0 scale mail
+(-23, 52, D:2)
+  a +0 robe
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +0 whip
+(-16, 6, D:3)
+  6 tomahawks
+(-44, 12, D:3)
+  a cursed +0 short sword
+(-46, 24, D:3)
+  a +0 mace
+(-16, 28, D:3)
+  a +0 ring mail
+(-19, 29, D:3)
+  a +0 hand axe
+  a +0 leather armour
+(-52, 38, D:3)
+  24 arrows
+(-45, 39, D:3)
+  a stone
+(-44, 39, D:3)
+  a stone
+(-2, 41, D:3)
+  19 stones
+(-32, 51, D:3)
+  a +0 dagger
+(-12, 53, D:3)
+  a potion of poison
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  14 sling bullets
+(2, 4, D:4)
+  a scroll of noise
+(25, 7, D:4)
+  a +0 scale mail
+(2, 8, D:4)
+  26 arrows
+(19, 10, D:4)
+  a +0 morningstar
+(43, 19, D:4)
+  a book of Control
+(-1, 23, D:4)
+  20 stones
+(26, 25, D:4)
+  a +1 rapier of draining
+(32, 27, D:4)
+  a cursed -1 quarterstaff
+(22, 32, D:4)
+  12 arrows
+(-8, 33, D:4)
+  a +0 leather armour
+(11, 33, D:4)
+  a +0 short sword
+(-5, 37, D:4)
+  a +0 robe
+(27, 40, D:4)
+  a +0 rapier
+(3, 52, D:4)
+  a stone
+(8, 52, D:4)
+  a +0 short sword
+
+Level 5 of the Dungeon
+(0, 0, D:5)
+  a stone
+(-8, 1, D:5)
+  a +0 leather armour
+(-2, 3, D:5)
+  a +0 hunting sling
+  15 stones
+(-11, 12, D:5)
+  a +0 buckler
+(12, 17, D:5)
+  a scroll of noise
+(-8, 30, D:5)
+  a +3 dagger
+(-12, 34, D:5)
+  a +0 flail
+(-19, 38, D:5)
+  the ring "Maaxuf" {+/*Tele rElec Str-3 Int+4 Stlth+}
+    [ring of teleportation]
+    
+    It causes random teleportation, and can be evoked to teleport at will.
+    It affects your strength (-3).
+    It affects your intelligence (+4).
+    It insulates you from electricity.
+    It makes you more stealthy.
+(5, 38, D:5)
+  25 arrows
+(-25, 39, D:5)
+  a potion of brilliance
+

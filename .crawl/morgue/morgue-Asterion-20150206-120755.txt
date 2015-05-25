@@ -1,0 +1,223 @@
+ Dungeon Crawl Stone Soup version 0.15.2 (console) character file.
+
+340 Asterion the Basher (level 6, -1/76 HPs)
+             Began as a Minotaur Berserker on Feb 6, 2015.
+             Was a Priest of Trog.
+             Slain by Asterion's ghost (3 damage)
+             ... on Level 4 of the Dungeon.
+             The game lasted 00:08:38 (2692 turns).
+
+Asterion the Basher (Minotaur Berserker)            Turns: 2692, Time: 00:08:38
+
+HP  -1/76        AC 10     Str 27      XL: 6   Next: 30%
+MP   3/3         EV  9     Int -1 (1)  God: Trog [***...]
+Gold 119         SH  0     Dex 14      Spells:  0 memorised,  5 levels left
+
+rFire  . . .     SeeInvis .     a - +0 mace
+rCold  . . .     Clarity  .     p - +0 scale mail
+rNeg   . . .     rCorr    .     (no shield)
+rPois  +         rRot     .     (helmet restricted)
+rElec  .         Spirit   .     u - +0 cloak
+SustAb .         Warding  .     v - +2 pair of gloves {Dex+3}
+rMut   .         Stasis   .     (no boots)
+Gourm  .                        (no amulet)
+MR     .....                    s - ring of poison resistance
+                                r - cursed -3 ring of intelligence
+
+@: berserking, lost intelligence, very slow, not resistant to hostile
+enchantments, extremely unstealthy
+A: retaliatory headbutt, horns 2
+a: Burn Spellbooks, Berserk, Trog's Hand, Renounce Religion
+
+
+You were on level 4 of the Dungeon.
+You worshipped Trog.
+Trog was most pleased with you.
+You were hungry.
+
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+You also visited: Sewer.
+
+You collected 119 gold pieces.
+
+Inventory:
+
+Hand weapons
+ a - a +0 mace (weapon)
+Armour
+ p - a +0 scale mail (worn)
+ u - a +0 cloak (worn)
+ v - a +2 pair of gloves of dexterity (worn)
+Magical devices
+ q - a wand of disintegration (13) {unknown}
+Comestibles
+ b - a meat ration
+ c - 4 bread rations
+ t - a beef jerky
+Scrolls
+ e - a scroll of magic mapping
+ f - 5 scrolls of identify {unknown}
+ i - a scroll of teleportation {unknown}
+ j - 3 scrolls of remove curse {unknown}
+ k - 2 scrolls of enchant weapon {unknown}
+Jewellery
+ r - a cursed -3 ring of intelligence (left hand)
+ s - a ring of poison resistance (right hand)
+Potions
+ d - a potion of restore abilities
+ g - a potion of heal wounds {unknown}
+ h - 6 potions of curing
+ l - a potion of magic
+ m - a potion of degeneration
+ n - a potion of lignification
+ w - a potion of berserk rage
+
+
+   Skills:
+ - Level 3.6 Fighting
+ + Level 8.6 Maces & Flails
+ - Level 2.4 Armour
+ - Level 2.1 Dodging
+
+
+You had 5 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)            
+Temple: D:4-7       
+
+Altars:
+Makhleb
+The Shining One
+
+Annotations:
+D:4 Asterion's ghost, experienced MiBe
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+
+
+Message History
+
+Asterion's ghost hits you but does no damage.
+You sock Asterion's ghost!
+Asterion's ghost is heavily damaged.
+The rat barely misses you. Asterion's ghost barely misses you. The rat barely misses you.
+You thump Asterion's ghost! Your headbutt misses Asterion's ghost.
+Asterion's ghost is severely damaged.
+Asterion's ghost screams, "Don't try to defend! You have no chance!"
+Asterion's ghost hits you!
+* * * LOW HITPOINT WARNING * * *
+The rat bites you but does no damage.
+You thump Asterion's ghost!
+Asterion's ghost is almost destroyed.
+Asterion's ghost hits you.
+* * * LOW HITPOINT WARNING * * *
+The rat barely misses you. You furiously retaliate! You headbutt the rat!
+You kill the rat!
+Trog accepts your kill.
+Asterion's ghost says, "Crushing you to a pulp will hurt a lot. After that? Painless! I promise!"
+Asterion's ghost hits you.
+You die...
+
+        ...
+      .....##.
+    . #........
+   ..##.#.......
+  ........(......
+  .........._....
+  ...(.<.........
+ ........W..#....
+ ........@..#.....
+ ......=..........
+............#.....
+.........[.#####.#
+....#.....##<....#
+  # ###......#####
+     #..######
+   ....#
+   ####
+
+
+You could see Asterion's ghost.
+
+Vanquished Creatures
+  A big kobold (Sewer)
+  A hound (D:4)
+  Crazy Yiuf (D:3)
+  Jessica (D:3)
+  Terence (D:3)
+  3 gnolls (D:3)
+  An orc zombie (D:3)
+  4 adders (D:3)
+  2 green rats (D:3)
+  2 giant mites
+  An ooze (D:3)
+  6 bats
+  A giant cockroach (D:3)
+  3 hobgoblins
+  4 jackals (D:3)
+  12 kobolds
+  3 quokkas
+  4 giant geckos
+  2 giant newts
+  11 goblins
+  17 rats
+  2 ballistomycetes (D:3)
+83 creatures vanquished.
+
+Vanquished Creatures (others)
+  A giant spore (D:3)
+1 creature vanquished.
+
+Grand Total: 84 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | D:1      | Asterion, the Minotaur Berserker, began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
+   169 | D:1      | Reached skill level 4 in Maces & Flails
+   360 | D:1      | Reached XP level 2. HP: 26/26 MP: 1/1
+   660 | D:1      | Found a glowing golden altar of the Shining One.
+   921 | D:2      | Reached skill level 5 in Maces & Flails
+   972 | D:2      | Acquired Trog's second power
+  1018 | D:2      | Reached XP level 3. HP: 22/31 MP: 2/2
+  1501 | D:3      | Noticed Jessica
+  1506 | D:3      | Killed Jessica
+  1539 | D:3      | Reached skill level 6 in Maces & Flails
+  1539 | D:3      | Reached XP level 4. HP: 35/39 MP: 2/2
+  1739 | D:3      | Found a glowing drain.
+  1743 | Sewer    | Entered a sewer
+  1812 | Sewer    | Noticed a big kobold
+  1840 | Sewer    | Killed a big kobold
+  1840 | Sewer    | Reached skill level 7 in Maces & Flails
+  1840 | Sewer    | Reached XP level 5. HP: 25/45 MP: 2/2
+  1915 | Sewer    | Found a white marble altar of Elyvilon.
+  1955 | Sewer    | Lost intelligence.
+  2149 | D:3      | Noticed Terence
+  2153 | D:3      | Killed Terence
+  2253 | D:3      | Noticed Crazy Yiuf
+  2257 | D:3      | Killed Crazy Yiuf
+  2370 | D:3      | Reached skill level 8 in Maces & Flails
+  2427 | D:3      | Reached XP level 6. HP: 29/51 MP: 3/3
+  2659 | D:4      | Found a burning altar of Makhleb.
+  2683 | D:4      | Noticed Asterion's ghost (experienced MiBe)
+  2692 | D:4      | HP: 2/76 [Asterion's ghost (2)]
+  2692 | D:4      | Slain by Asterion's ghost
+
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Mace              |    64 |   139 ||   203
+Invok: Berserk           |     1 |     2 ||     3
+  Use: Scroll            |       |     6 ||     6
+       Potion            |       |     7 ||     7
+  Eat: Bread ration      |     1 |     1 ||     2
+
