@@ -10,6 +10,10 @@ ZSH_THEME="gentoo"
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
 
+# Uncomment the following line to use hyphen-insensitive completion. Case
+# sensitive completion must be off. _ and - will be interchangeable.
+# HYPHEN_INSENSITIVE="true"
+
 # Uncomment the following line to disable bi-weekly auto-update checks.
 # DISABLE_AUTO_UPDATE="true"
 
@@ -23,7 +27,7 @@ ZSH_THEME="gentoo"
 # DISABLE_AUTO_TITLE="true"
 
 # Uncomment the following line to enable command auto-correction.
-#ENABLE_CORRECTION="true"
+# ENABLE_CORRECTION="true"
 
 # Uncomment the following line to display red dots whilst waiting for completion.
 # COMPLETION_WAITING_DOTS="true"
@@ -45,55 +49,54 @@ ZSH_THEME="gentoo"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git vi-mode sudo catimg)
-
-source $ZSH/oh-my-zsh.sh
+plugins=(git sudo vi-mode)
 
 # User configuration
-export PATH="/usr/lib64/ccache/bin:~/bin:/usr/local/bin:/usr/bin:/bin:/opt/bin:/usr/x86_64-pc-linux-gnu/gcc-bin/4.7.3:/usr/games/bin"
+
+export PATH=$HOME/bin:/opt/bin:/usr/local/bin:/usr/games/bin:$PATH
 # export MANPATH="/usr/local/man:$MANPATH"
-export PATH="$HOME/.cabal/bin:$PATH"
-export PATH="/usr/local/games:$PATH"
-# export nix stuffs
-export NCB="$HOME/.nix-profile/bin"
-export NIX_PATH="/nix/var/nix/profiles/per-user/eric/channels"
-export PATH="$PATH:$NCB"
+
+source $ZSH/oh-my-zsh.sh
 
 # You may need to manually set your language environment
 # export LANG=en_US.UTF-8
 
 # Preferred editor for local and remote sessions
-#if [[ -n $SSH_CONNECTION ]]; then
-    #export EDITOR='vim'
-#else
-    #export EDITOR='vim'
-#fi
-export EDITOR='vim'
+# if [[ -n $SSH_CONNECTION ]]; then
+#   export EDITOR='vim'
+# else
+#   export EDITOR='mvim'
+# fi
 
 # Compilation flags
 # export ARCHFLAGS="-arch x86_64"
 
 # ssh
-export SSH_KEY_PATH="~/.ssh/rsa_id"
+# export SSH_KEY_PATH="~/.ssh/dsa_id"
 
-# fixes node.js not finding modules
-export NODE_PATH=/usr/lib/node_modules/
+# Advanced Tab-completion
+autoload -U compinit
+compinit
+
+# Change prompt
+autoload -U promptinit
+promptinit
+
+# Prettier completion prompts
+zstyle ':completion:*:descriptions' format '%U%B%d%b%u'
+zstyle ':completion:*:warnings' format '%BNo matches for: %d%b'
+zstyle ':completion:*' list-colors ${(s.:.)LS_COLORS}
+
+setopt auto_cd
 
 # Set personal aliases, overriding those provided by oh-my-zsh libs,
 # plugins, and themes. Aliases can be placed here, though oh-my-zsh
 # users are encouraged to define aliases within the ZSH_CUSTOM folder.
 # For a full list of active aliases, run `alias`.
-
-source ~/.ls_colors
-export LS_COLORS
-zstyle ':completion:*' list-colors ${(s.:.)LS_COLORS}
-
+#
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-
-# cd without cd
-setopt auto_cd
 alias tree="tree -C"
 alias v=vim
 alias s="sudo "
@@ -115,6 +118,7 @@ alias dmesg="dmesg --color=always"
 alias gcheat="less ~/.gcheat"
 alias espk="espeak -v mb-us2 -p 50 -s 100"
 alias e="exit"
+alias dc="dispatch-conf"
 
 # stop fucking correcting these
 alias eix="nocorrect eix"
@@ -131,16 +135,8 @@ alias cbs="cabal sandbox --init"
 
 mkcd() { mkdir -p -- "$1" && cd -P -- "$1" }
 
-# fbterm bullshit (works, like, half the time)
-if [ $FBTERM ]; then
-    export TERM=fbterm
-fi
-
 # hehehe
 #/usr/bin/fortune
-
-# Use `The Fuck` from https://github.com/nvbn/thefuck
-alias fuck='$(thefuck $(fc -ln -1))'
 
 # Try neovim for now...
 alias vim=nvim

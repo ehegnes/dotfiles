@@ -1,5 +1,4 @@
 #!/bin/bash
-export LOCK_EXEC='USER=eric /usr/local/bin/slock'
 
 # Check if we're running an X session.
 if [[ -z "$DISPLAY" ]]; then

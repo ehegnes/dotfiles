@@ -1,5 +1,5 @@
 ! Xft Settings --------------------------------------------------------
-Xft.dpi:        96
+Xft.dpi:        144
 Xft.lcdfilter:  lcddefault
 Xft.antialias:  true
 Xft.rgba:       rgba
@@ -29,7 +29,7 @@ URxvt.keysym.C-A-V:   perl:clipboard:paste_escaped
 ! Tango Colorscheme
 !*background: #2e3436
 !URxvt*background: [80]#1c2022
-URxvt*background: [70]#000000
+URxvt*background: [75]#000000
 !*foreground: #e6e6e6
 *foreground: #eeeeec
 ! black
@@ -65,7 +65,7 @@ URxvt*background: [70]#000000
 ! URxvt*loginShell:                     boolean
 ! URxvt*jumpScroll:                     boolean
 ! URxvt*skipScroll:                     boolean
-! URxvt*pastableTabs:                   boolean
+g URxvt*pastableTabs:                   boolean
 ! URxvt*scrollstyle:                    mode
 URxvt*scrollBar:                      false
 ! URxvt*scrollBar_right:                boolean

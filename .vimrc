@@ -41,6 +41,7 @@ cnoreabbrev <expr> W ((getcmdtype() is# ':' && getcmdline() is# 'W')?('w'):('W')
 "let g:solarized_termtrans = 1
 let g:solarized_termcolors = 256
 "colorscheme hegnes
+syntax on
 set bg=dark
 set t_Co=256
 colorscheme solarized
@@ -69,7 +70,7 @@ set showmatch
 set softtabstop=4
 set tabstop=4
 set ttyfast
-set undodir=~/.vimundo
+set undodir=~/.vim/undo
 set undofile
 "set backupdir=~/.vimswp
 

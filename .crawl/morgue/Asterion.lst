@@ -2,2102 +2,909 @@ Asterion
 
 Level 1 of the Dungeon
 (0, 0, D:1)
+  25 arrows
+(34, 3, D:1)
+  19 stones
+(8, 4, D:1)
+  20 stones
+(-24, 5, D:1)
   a club
-(0, 1, D:1)
-  a club
-(0, 4, D:1)
-  a hunting sling
-(22, 5, D:1)
-  a stone
-(34, 7, D:1)
-  a club
-(-19, 8, D:1)
-  a club
-(21, 15, D:1)
-  a stone
-(21, 17, D:1)
-  a short sword
-(-14, 19, D:1)
-  5 stones
-(-7, 20, D:1)
-  a hunting sling
-(23, 28, D:1)
-  a dagger
-(23, 31, D:1)
-  a club
-(25, 39, D:1)
-  3 stones
+(-8, 11, D:1)
+  25 stones
+(-20, 15, D:1)
+  an uncursed ring of fire
+(39, 18, D:1)
+  a buckler
+(-10, 24, D:1)
+  a robe
+(-14, 34, D:1)
+  a helmet
+(8, 37, D:1)
+  a throwing net
+(4, 44, D:1)
+  a hand axe
+(14, 47, D:1)
+  13 stones
 
 Level 2 of the Dungeon
 (0, 0, D:2)
-  a short sword
-(4, 0, D:2)
-  a stone
-(5, 1, D:2)
-  a stone
-(8, 4, D:2)
-  a spear
-(10, 5, D:2)
-  a leather armour
-(31, 6, D:2)
-  16 stones
-(31, 8, D:2)
-  a stone
-(31, 9, D:2)
-  a stone
-(31, 10, D:2)
-  a stone
-(17, 11, D:2)
-  14 bolts
-(31, 11, D:2)
-  a stone
-(31, 12, D:2)
-  a stone
-(24, 16, D:2)
-  a club
-(22, 24, D:2)
-  2 tomahawks
-(15, 35, D:2)
-  a mace
-(18, 36, D:2)
-  23 arrows
-(29, 36, D:2)
-  14 stones
-(-13, 41, D:2)
-  a stone
-(-13, 42, D:2)
-  a stone
-(-13, 43, D:2)
-  a stone
-(-13, 47, D:2)
-  a short sword
-(36, 47, D:2)
-  a runed robe
-(21, 51, D:2)
-  a +0 animal skin
+  a ring of fire
+  a falchion
+(2, 19, D:2)
+  a robe
+(12, 19, D:2)
+  8 javelins
+(4, 21, D:2)
+  a glowing trident
+(-7, 30, D:2)
+  a dagger
 
 Level 3 of the Dungeon
 (0, 0, D:3)
-  a hunting sling
-(-26, 1, D:3)
+  a dagger
+  a leather armour
+  a short sword
+(-1, 2, D:3)
+  a club
+  a hand axe
+  a ring mail
   a falchion
-  a mace
-(-24, 1, D:3)
-  a leather armour
+(9, 2, D:3)
+  25 stones
+(6, 12, D:3)
   a club
-(-26, 2, D:3)
-  a leather armour
+(14, 17, D:3)
+  21 stones
+(-5, 19, D:3)
+  a ring of protection from magic
+(-29, 20, D:3)
+  a +0 animal skin
+(18, 23, D:3)
+  a stone
+(18, 26, D:3)
+  a stone
+(18, 28, D:3)
+  a whip
+  3 stones
+(-19, 37, D:3)
+  10 poisoned needles
+(-18, 37, D:3)
   a flail
-(-11, 2, D:3)
-  18 arrows
-(2, 6, D:3)
-  a dagger
-(2, 7, D:3)
-  a club
-(-11, 10, D:3)
-  7 stones
-(1, 23, D:3)
-  a dagger
-(24, 25, D:3)
-  19 bolts
-(29, 35, D:3)
-  21 bolts
-(25, 40, D:3)
-  6 needles of frenzy
+  a robe
+(-9, 37, D:3)
+  a +0 ring mail
+(-19, 38, D:3)
+  a trident
+  2 tomahawks
+(-20, 40, D:3)
+  a flail
+  a mace
 
 Level 4 of the Dungeon
-(1, 0, D:4)
-  a dagger
-  a robe
-(0, 6, D:4)
-  a blackened book
-(17, 7, D:4)
+(0, 0, D:4)
   a giant club
-(44, 7, D:4)
-  a club
-(51, 7, D:4)
-  a dagger
-(1, 8, D:4)
-  an amulet of stasis
-(7, 12, D:4)
-  a dagger
-  a leather armour
-(35, 17, D:4)
-  a leather armour
-(38, 17, D:4)
-  a club
-(5, 19, D:4)
-  a dagger
-  2 tomahawks
-  a ring mail
-(7, 21, D:4)
-  a hand axe of chopping
-  a hand axe
-  a leather armour
-(9, 21, D:4)
-  2 tomahawks
-(31, 22, D:4)
-  a ring mail
-(35, 23, D:4)
-  a leather armour
-(5, 24, D:4)
-  22 stones
-(10, 24, D:4)
-  a hand axe
-  a dagger
-  a robe
-(26, 25, D:4)
-  a leather armour
-(31, 25, D:4)
-  a short sword
-(13, 26, D:4)
-  a whip
-(13, 30, D:4)
-  a tomahawk
-(14, 30, D:4)
-  a tomahawk
-(25, 33, D:4)
-  15 sling bullets
-(24, 36, D:4)
-  a falchion
-(23, 39, D:4)
-  a war axe
-(24, 39, D:4)
-  a short sword
-  a dagger
-  a robe
-(27, 41, D:4)
-  a shortbow
-(50, 42, D:4)
-  15 stones
-(44, 47, D:4)
-  a ring mail
+(34, 9, D:4)
+  an uncursed ring of protection from fire
+  an uncursed ring of loudness
+(4, 10, D:4)
+  13 stones
+(-1, 15, D:4)
+  19 stones
+(-8, 22, D:4)
+  11 poisoned needles
+(47, 22, D:4)
+  a +0 chain mail
+(18, 43, D:4)
+  26 arrows
 
 Level 5 of the Dungeon
+[Shop] Deeckos's Assorted Antiques
+  a scythe (69 gold)
+  a broad axe (92 gold)
+  a plate armour (529 gold)
+  a scroll of identify (46 gold)
+  a scroll of identify (46 gold)
+  a scroll of fog (23 gold)
+  a scroll of enchant armour (23 gold)
+  a ring mail (92 gold)
+  a glowing plate armour (529 gold)
 (0, 0, D:5)
-  an uncursed shortbow
-  14 arrows of dispersal
-(6, 0, D:5)
-  19 stones
-(2, 4, D:5)
-  17 stones
-(3, 7, D:5)
-  a halberd of chopping
-(5, 7, D:5)
-  a dagger
-(-1, 8, D:5)
-  17 poisoned needles
-(-26, 10, D:5)
-  a rapier
-(29, 12, D:5)
-  an animal skin
-  a whip of freezing
-  a glowing robe
-(27, 13, D:5)
-  an animal skin
-(28, 13, D:5)
-  an animal skin
-(1, 15, D:5)
-  a whip
-(0, 16, D:5)
-  a club
-(2, 16, D:5)
-  a whip
-(21, 16, D:5)
-  a book of Fire
-(1, 17, D:5)
-  a spear of pain
-  a scale mail
-(2, 17, D:5)
+  a spear
+(10, 1, D:5)
+  21 stones
+(8, 14, D:5)
+  15 arrows
+(27, 28, D:5)
+  8 bolts
+(28, 28, D:5)
   a flail
-  a halberd
-(7, 17, D:5)
-  a stone
-(8, 19, D:5)
-  a bolt
-(9, 20, D:5)
-  a bolt
-(10, 20, D:5)
-  a bolt
-(12, 20, D:5)
-  an uncursed hand crossbow
-  10 bolts
-(-13, 21, D:5)
-  a dagger
-  a robe
-(10, 21, D:5)
-  an uncursed dagger
-  an uncursed hunting sling
-  12 stones
-(-13, 23, D:5)
-  a rapier
-  a chain mail
-(-31, 26, D:5)
-  a scale mail
-(18, 28, D:5)
-  a club
-(8, 39, D:5)
-  a chain mail
+  a leather armour
+  a flail
+  a leather armour
+(27, 29, D:5)
+  a trident
+(23, 33, D:5)
+  5 bolts of frost
+(16, 39, D:5)
+  a great sword
 
 Level 6 of the Dungeon
-(44, 10, D:6)
-  a stone
-(44, 12, D:6)
+(0, 0, D:6)
+  a trident
+  2 tomahawks
+(0, 1, D:6)
+  a flail
+  a falchion
   a dagger
-(2, 14, D:6)
-  a chain mail
-(19, 14, D:6)
-  a whip
-(24, 15, D:6)
-  3 tomahawks
-(6, 18, D:6)
-  21 arrows
-(31, 18, D:6)
-  20 stones
-(38, 31, D:6)
-  a long sword
-(33, 32, D:6)
-  18 stones
-(42, 38, D:6)
-  a club
-(7, 49, D:6)
-  a stone
-(0, 50, D:6)
-  an uncursed hunting sling
-  13 stones
-(2, 50, D:6)
-  a stone
-(8, 50, D:6)
-  2 stones
-(22, 50, D:6)
-  9 stones
+  a robe
+(2, 3, D:6)
+  an enchanted hand axe
+  a leather armour
+  a dagger
+  a robe
+(-16, 4, D:6)
+  a shortbow
+(6, 6, D:6)
+  a dagger
+(-27, 15, D:6)
+  a giant club
+(-41, 26, D:6)
+  31 bolts
+(-19, 26, D:6)
+  16 arrows
+  an uncursed shortbow
+(-21, 28, D:6)
+  a mace
+(-19, 28, D:6)
+  an arrow
+(-34, 33, D:6)
+  a glowing war axe
+(-32, 33, D:6)
+  a hunting sling
+(-30, 33, D:6)
+  a quarterstaff
+(-28, 34, D:6)
+  a crude short sword
+(-29, 44, D:6)
+  a +0 mace
 
 Level 7 of the Dungeon
-[Shop] Toty's General Store
-  a potion of ambrosia (112 gold)
-  a +0 broad axe (56 gold)
-  a scroll of noise (14 gold)
-  a phantom mirror (420 gold)
-  5 fruits (105 gold)
-  a wand of confusion (32) (357 gold)
-  17 stones (23 gold)
-  a scroll of identify (28 gold)
+[Shop] Pularud Jank's Gadget Boutique
+  a sack of spiders (260 gold)
+  a wand of digging (7) (unknown) (286 gold)
+  a box of beasts (260 gold)
+  a +0 iron rod (12/12) (1105 gold)
+  a +0 rod of ignition (13/13) (1170 gold)
+  a phantom mirror (390 gold)
+  a plain deck of changes (182 gold)
+  a sack of spiders (260 gold)
+  a wand of invisibility (6) (unknown) (130 gold)
+  a stone of tremors (520 gold)
+  a +4 rod of inaccuracy (9/9) (1170 gold)
+  a wand of paralysis (6) (104 gold)
 (0, 0, D:7)
+  a trident
+(-58, 1, D:7)
+  a +0 cloak
+(-28, 11, D:7)
+  a sling bullet
+(-27, 11, D:7)
+  a sling bullet
+(-48, 12, D:7)
+  14 sling bullets
+(-47, 12, D:7)
+  13 arrows
+(-28, 12, D:7)
+  a scroll of noise
+(-26, 12, D:7)
+  2 sling bullets
+(-9, 12, D:7)
+  a chain mail
+(-23, 13, D:7)
+  a sling bullet
+(-21, 14, D:7)
+  a leather armour
+  7 sling bullets
+  an uncursed antimagic quarterstaff
+  an uncursed hunting sling
+(-46, 16, D:7)
+  a throwing net
+  a short sword
+  a tomahawk
+(-45, 16, D:7)
   a dagger
-(-37, 6, D:7)
-  a dire flail
-  a ring mail
-(-36, 6, D:7)
-  a club
-(-11, 8, D:7)
+  a dagger
+  12 stones
+(-45, 17, D:7)
+  a tomahawk
+(-45, 18, D:7)
   a giant club
-(6, 13, D:7)
-  a club
-  a ring mail
-(8, 14, D:7)
-  a flail
+(-43, 18, D:7)
+  an enchanted war axe
   a leather armour
-(8, 15, D:7)
-  a ring mail
-(9, 16, D:7)
-  a flail of crushing
-(10, 17, D:7)
-  a flail
+(-39, 20, D:7)
+  a stone
+(-1, 21, D:7)
+  a short sword of protection
+(2, 29, D:7)
+  an uncursed short sword
+  an uncursed blowgun
+  11 poisoned needles
+(3, 29, D:7)
+  a short sword
+  an uncursed short sword
+  an uncursed blowgun
+  a curare-tipped needle
+(4, 29, D:7)
+  a short sword
+  16 stones
   a scale mail
-(-4, 18, D:7)
-  20 sling bullets
-(-23, 21, D:7)
-  a shortbow
-(-19, 22, D:7)
-  11 stones
-(12, 22, D:7)
+(5, 29, D:7)
+  4 stones
+  a short sword of venom
+(4, 30, D:7)
+  a dagger of venom
+  5 stones
+  a blowgun
+  a dagger
+  a blowgun
+  a dagger
+  a blowgun
+  29 poisoned needles
   a club
-(-10, 23, D:7)
-  a scythe
+  a club
+  a dagger
+(5, 30, D:7)
+  a poisoned needle
+(5, 31, D:7)
+  a glowing dagger {god gift}
+  a curare-tipped needle
+  a stone
+  a short sword
+  a dagger
+(-8, 37, D:7)
+  15 stones
+(4, 46, D:7)
+  a dagger
   a robe
-(-12, 24, D:7)
-  28 bolts
-(-14, 25, D:7)
-  a leather armour
-(-5, 27, D:7)
-  an uncursed shortbow
-  10 arrows
-(-9, 28, D:7)
-  an arrow
-(-8, 28, D:7)
-  2 arrows
-(-7, 28, D:7)
-  an arrow
-(-2, 29, D:7)
-  a falchion
-(-12, 30, D:7)
-  an arrow
-(-11, 30, D:7)
-  an arrow
-(-15, 34, D:7)
-  14 bolts of frost
-(1, 34, D:7)
-  a club
-(-29, 35, D:7)
-  a club
+  a short sword
 
 Level 8 of the Dungeon
 (0, 0, D:8)
-  an enchanted dagger
-(7, 1, D:8)
-  18 stones
-(4, 7, D:8)
-  a club
-(8, 7, D:8)
-  a +3 antimagic morningstar
-  a +0 falchion
-(-26, 9, D:8)
-  a short sword
-(-25, 9, D:8)
-  a short sword of venom
-(-27, 10, D:8)
-  a whip
-  a leather armour
-(-26, 10, D:8)
-  a dagger
-  a robe
-(-25, 10, D:8)
-  a dagger of venom
-  a robe
-(22, 17, D:8)
-  a glowing flail
-(-14, 20, D:8)
-  a long sword
-(9, 20, D:8)
   a giant club
-(-19, 25, D:8)
-  7 tomahawks
-(13, 28, D:8)
-  26 stones
-(-17, 31, D:8)
-  an antimagic giant spiked club
-(-17, 33, D:8)
-  an antimagic war axe
-(6, 33, D:8)
-  a tomahawk
-(5, 34, D:8)
-  a tomahawk
-(-18, 35, D:8)
-  18 stones
-(0, 35, D:8)
-  a hand axe
+  a giant spiked club
+(1, 7, D:8)
+  17 poisoned needles
+(-6, 9, D:8)
+  an enchanted mace
+  a scale mail
+(-6, 10, D:8)
+  a runed rapier {god gift}
+(-4, 14, D:8)
   a dagger
-  a +0 scale mail
-(1, 35, D:8)
-  3 tomahawks
-  a short sword
-(0, 36, D:8)
-  a leather armour
-  2 tomahawks
-  a club
-(18, 36, D:8)
+  a flail
+(6, 14, D:8)
+  a plate armour
+(-4, 15, D:8)
   a dagger
   a robe
-(30, 46, D:8)
-  23 stones
+(1, 17, D:8)
+  a mace
+  a leather armour
+  a dagger
+  a robe
+(11, 17, D:8)
+  a robe
+(1, 18, D:8)
+  a mace
+(3, 18, D:8)
+  a club
+(8, 23, D:8)
+  a mace
+(-6, 24, D:8)
+  a giant club
+(10, 24, D:8)
+  a scroll of noise
+(10, 34, D:8)
+  20 bolts
+(18, 40, D:8)
+  a chain mail
+(6, 41, D:8)
+  a giant spiked club
 
 Level 9 of the Dungeon
-[Shop] Kovu's Antique Armour Shoppe
-  a scale mail (96 gold)
-  a wizard robe (136 gold)
-  a plate armour (552 gold)
-  a glowing leather armour (48 gold)
-  a chain mail (108 gold)
-  a scale mail (96 gold)
-  a chain mail (108 gold)
-  a scale mail (96 gold)
-  a glowing plate armour (552 gold)
-  a ring mail (96 gold)
+[Shop] Hunir's Jewellery Shop
+  an uncursed ring of protection from fire (375 gold)
+  an uncursed ring of wizardry (unknown) (450 gold)
+  an uncursed ring of positive energy (unknown) (300 gold)
+  a cursed ring of loudness (67 gold)
+  a cursed ring of teleportation (unknown) (217 gold)
+  an uncursed ring of protection from cold (375 gold)
+  a cursed ring of teleportation (unknown) (217 gold)
+  an uncursed amulet of regeneration (unknown) (450 gold)
+  an uncursed amulet of clarity (unknown) (300 gold)
+  an uncursed amulet of regeneration (unknown) (450 gold)
+  an uncursed ring of see invisible (unknown) (225 gold)
+  a cursed -6 ring of protection (unknown) (30 gold)
+  an uncursed ring of protection from magic (375 gold)
 (0, 0, D:9)
-  5 arrows
-  an uncursed shortbow
-(-25, 1, D:9)
-  a +0 pair of gloves
-(-5, 1, D:9)
-  a robe
+  17 bolts
+(-2, 2, D:9)
+  a cloak
+  a dagger of draining
+(19, 11, D:9)
+  a club
   a dagger
-(-4, 1, D:9)
-  a whip
-(-2, 1, D:9)
-  a robe
-  a dagger
-(-1, 1, D:9)
-  a short sword
-(-7, 2, D:9)
+(20, 11, D:9)
+  a potion of degeneration
+  a -5 ring of dexterity
+  a dire flail
   a plate armour
-  a war axe
-(-1, 2, D:9)
+  a hand axe
+  a leather armour
+(25, 15, D:9)
+  a giant club
+(40, 18, D:9)
+  a tomahawk
+(39, 19, D:9)
+  a hand axe
+(39, 20, D:9)
+  a chain mail
+(40, 20, D:9)
+  a scroll of random uselessness
+  a dire flail of holy wrath
+  5 tomahawks
+  a plate armour
+(8, 22, D:9)
+  a quarterstaff
+(38, 22, D:9)
+  17 sling bullets of frost
+(48, 31, D:9)
+  a scale mail
+(16, 33, D:9)
+  an arrow
+(17, 33, D:9)
+  an arrow
+(12, 34, D:9)
+  a giant club
+(15, 34, D:9)
   2 arrows
-(-1, 3, D:9)
-  an arrow
-(-24, 4, D:9)
-  a whip
-(-1, 4, D:9)
-  an arrow
-(-1, 5, D:9)
-  an arrow
-(-18, 6, D:9)
-  a quarterstaff
-(-2, 6, D:9)
-  an arrow
-(21, 17, D:9)
-  a flail
+(24, 34, D:9)
   a leather armour
-(-4, 21, D:9)
-  22 stones
-(-9, 24, D:9)
-  a +2 pair of boots
-  a +2 pair of gloves
-(-13, 25, D:9)
-  2 potions of brilliance
-(-12, 25, D:9)
-  a wand of slowing {zapped: 3}
-  an uncursed amulet of rage
-  an uncursed ring of positive energy
-  an uncursed amulet of stasis
-(-11, 25, D:9)
-  a +1 plate armour
-(-27, 29, D:9)
+(13, 35, D:9)
+  an arrow
+(12, 36, D:9)
+  an uncursed shortbow
+  10 arrows
+(52, 36, D:9)
+  a battleaxe
+(20, 38, D:9)
+  8 stones
+(43, 42, D:9)
+  a giant spiked club
+(45, 42, D:9)
+  a giant club
+  a giant club
+  a dagger of chaos
   a robe
-(3, 30, D:9)
-  a glowing leather armour
-(-11, 36, D:9)
-  a ring mail
-(-28, 41, D:9)
-  a +0 plate armour
-(-15, 41, D:9)
-  14 stones
-(-33, 43, D:9)
-  a quarterstaff
-  a hunting sling
-  28 sling bullets
-  a leather armour
-(-19, 46, D:9)
-  a leather armour
+(35, 44, D:9)
+  a dagger
+  a club
+  a short sword
+  2 stones
+  a dagger
+(36, 44, D:9)
+  an uncursed blowgun
+  6 poisoned needles
+(33, 45, D:9)
+  2 stones
+(34, 45, D:9)
+  5 poisoned needles
+(35, 45, D:9)
+  a dagger
+  a stone
 
 Level 10 of the Dungeon
 (0, 0, D:10)
-  a short sword
-(2, 2, D:10)
-  a whip
-(1, 4, D:10)
-  a glowing robe
-  a dagger
-(-4, 5, D:10)
-  a tomahawk
-(-4, 6, D:10)
   a scale mail
-(-7, 9, D:10)
-  a tomahawk
-(-1, 10, D:10)
-  a chain mail
-  a mace
-(-2, 11, D:10)
-  a mace
-  a -3 short sword
-(-11, 14, D:10)
-  a war axe
+(-19, 2, D:10)
   a flail
-(-3, 14, D:10)
-  a plate armour
-  a long sword
-  a flail
-  a club
-  a chain mail
-(-2, 14, D:10)
+(-9, 2, D:10)
+  a -1 great mace
+(-19, 3, D:10)
   a mace
-(-14, 15, D:10)
-  a chain mail
-  a trident of freezing
-(-11, 15, D:10)
-  a club
-(-10, 15, D:10)
+  a scale mail
+(-17, 3, D:10)
+  a flail
   a leather armour
+(-19, 7, D:10)
   a dagger of venom
-(-6, 15, D:10)
-  a ring mail
-  a mace
-  a leather armour
-  a club
-(-22, 16, D:10)
-  a poisoned arrow
-(-19, 16, D:10)
-  a poisoned arrow
-(-17, 16, D:10)
-  a poisoned arrow
-  a chain mail
-  a scimitar
-(-16, 16, D:10)
-  a poisoned arrow
-(-14, 16, D:10)
-  9 poisoned arrows
-  an uncursed shortbow
-(-11, 16, D:10)
-  a dagger
-(-27, 17, D:10)
-  a leather armour
-  (unseen)
-(-22, 17, D:10)
   a robe
-  a dagger
-(-20, 22, D:10)
-  a short sword
-(-18, 23, D:10)
-  6 tomahawks
-(-24, 25, D:10)
-  a short sword
-(6, 25, D:10)
-  a scroll of immolation
-(-24, 26, D:10)
-  a club
-  a leather armour
-(-6, 29, D:10)
-  14 bolts
-(7, 32, D:10)
-  a scale mail
-  a short sword
-(18, 34, D:10)
-  a scimitar
-(6, 37, D:10)
-  a quarterstaff
-(-1, 42, D:10)
-  22 stones
-(4, 47, D:10)
-  a scale mail
-(1, 51, D:10)
+(-5, 7, D:10)
   a giant spiked club
-(0, 56, D:10)
-  an arrow
-(-5, 57, D:10)
+(-2, 8, D:10)
+  a short sword of speed
+(-9, 9, D:10)
+  5 tomahawks
+(17, 12, D:10)
+  a chain mail
+(9, 18, D:10)
+  a glowing chain mail
+(-13, 20, D:10)
+  a scroll of immolation
+(19, 25, D:10)
+  a stone
+(19, 26, D:10)
+  a dagger
+  a club
+(-22, 27, D:10)
+  a potion of brilliance
+  3 potions of poison
+(19, 27, D:10)
+  2 stones
+  a short sword
+(19, 28, D:10)
+  a stone
+(-22, 29, D:10)
+  a trident
+(19, 29, D:10)
+  a stone
+(18, 31, D:10)
+  a club
+(21, 31, D:10)
+  a scale mail
+(-24, 32, D:10)
+  a trident
+(-18, 32, D:10)
+  14 stones
+(-22, 33, D:10)
+  a trident
+(-12, 35, D:10)
+  a trident
+(-18, 37, D:10)
+  a plate armour
+
+Level 11 of the Dungeon
+(0, 0, D:11)
+  an enchanted flail
+  a leather armour
+  a morningstar
+  a ring mail
+(19, 3, D:11)
+  a giant club
+(-12, 8, D:11)
+  a pair of embroidered boots
+(-21, 11, D:11)
+  22 stones
+(17, 14, D:11)
+  a scale mail
+(-42, 16, D:11)
+  a hand axe
+(-43, 17, D:11)
+  a runed great mace {god gift}
+(-42, 17, D:11)
+  a war axe
+  a leather armour
+(-39, 17, D:11)
+  a mace
+  a chain mail
+(-43, 18, D:11)
+  a long sword
+  a plate armour
+(12, 19, D:11)
+  a leather armour
+(-44, 27, D:11)
+  an enchanted short sword
+(-34, 29, D:11)
+  a quarterstaff
+(18, 36, D:11)
+  a scale mail
+  a war axe
+  a dire flail
+  a chain mail
+(-46, 37, D:11)
+  a whip
+(-34, 39, D:11)
+  a large rock
+(-33, 41, D:11)
+  a short sword
+  a ring mail
+(-31, 41, D:11)
+  a large rock
+(-28, 42, D:11)
+  3 large rocks
+(15, 42, D:11)
+  a large rock
+(15, 43, D:11)
+  a large rock
+(16, 45, D:11)
+  a large rock
+(23, 45, D:11)
+  16 sling bullets
+(-4, 47, D:11)
+  18 stones
+(11, 52, D:11)
+  a scroll of noise
+
+Level 12 of the Dungeon
+(0, 0, D:12)
+  a helmet
+(-15, 2, D:12)
+  a chain mail
+  a dire flail
+(-8, 10, D:12)
+  a scroll of noise
+(-6, 10, D:12)
+  a quarterstaff
+(10, 10, D:12)
+  a hand axe
+(-30, 11, D:12)
+  a club
+(-29, 11, D:12)
+  a halberd
+(-28, 11, D:12)
+  a spear
+  a giant club
+(9, 11, D:12)
+  a pitted hand axe
+(11, 11, D:12)
+  a hand axe
+(12, 11, D:12)
+  a dagger
+  a giant spiked club
+(10, 12, D:12)
+  a hand axe
+(-16, 13, D:12)
+  a scimitar
+  a plate armour
+(-18, 14, D:12)
+  a giant spiked club
+(-1, 14, D:12)
+  a scroll of noise
+(-18, 15, D:12)
+  a short sword of protection
+  a stone
+(8, 18, D:12)
   an uncursed shortbow
-  13 arrows
-(-3, 57, D:10)
+  7 arrows of dispersal
+(-29, 19, D:12)
+  3 large rocks
+(-24, 21, D:12)
+  7 curare-tipped needles
+(-9, 21, D:12)
+  a whip
+(-26, 22, D:12)
+  a dagger of venom
+  a ring mail
+(-9, 22, D:12)
+  a shortbow
+(-42, 23, D:12)
+  an uncursed ring of protection from cold
+(-29, 23, D:12)
+  a large rock
+(-29, 25, D:12)
+  a large rock
+(-29, 26, D:12)
+  a large rock
+(-37, 27, D:12)
+  a giant club
+(6, 28, D:12)
+  a whip
+(-1, 30, D:12)
+  a halberd
+  a chain mail
+(-13, 31, D:12)
+  an uncursed enchanted shortbow
+  15 arrows
+(-11, 31, D:12)
   an arrow
-(0, 57, D:10)
-  2 arrows
+(-10, 31, D:12)
+  an arrow
+(18, 31, D:12)
+  a giant club
+(-31, 36, D:12)
+  a mace
+(13, 39, D:12)
+  a dagger
+  a robe
+(13, 40, D:12)
+  a leather armour
+(14, 41, D:12)
+  a potion of ambrosia
+(1, 43, D:12)
+  a leather armour
+(-29, 44, D:12)
+  a giant club
+(-46, 46, D:12)
+  a great sword
+
+the Ecumenical Temple
 
 Level 1 of the Orcish Mines
 (0, 0, Orc:1)
-  a dagger
-(6, 2, Orc:1)
+  a short sword
+(5, 1, Orc:1)
   a leather armour
-  a dagger
-(-1, 4, Orc:1)
-  a flail
-(2, 7, Orc:1)
-  a ring mail
-  an enchanted flail
-(0, 8, Orc:1)
-  a giant club
-(17, 11, Orc:1)
-  a chain mail
-  a whip
-(16, 12, Orc:1)
-  a leather armour
-(18, 13, Orc:1)
   a mace
-(17, 14, Orc:1)
-  a falchion
-(18, 14, Orc:1)
-  a +3 great sword of holy wrath
   a hand axe
-  a scale mail
-  a club
-(18, 15, Orc:1)
-  a plate armour
-  a halberd
-  a scale mail
-(17, 16, Orc:1)
-  a trident
-(18, 16, Orc:1)
-  a chain mail
-  5 tomahawks
-  a glaive
-  a scale mail
-  a flail
-  a leather armour
-  a whip
-  a plate armour
-  a long sword
-(19, 17, Orc:1)
-  a chain mail
-  a war axe
-(16, 18, Orc:1)
-  a tomahawk
-(13, 43, Orc:1)
-  a mace
-  a war axe
-(14, 43, Orc:1)
   a hand axe
-(12, 44, Orc:1)
-  a leather armour
-  a flail
-  a ring mail
-  a dagger
-  a leather armour
-  a club
-  a dagger
-(13, 44, Orc:1)
-  4 tomahawks of returning
-(14, 44, Orc:1)
-  a dagger
-(15, 44, Orc:1)
-  a whip
-  a leather armour
-  a trident
-(12, 45, Orc:1)
-  a scale mail
-  a short sword
-  a leather armour
-  a mace
-  a short sword
-(14, 45, Orc:1)
-  a ring mail
-  a short sword
-  a dagger of holy wrath
+(6, 1, Orc:1)
   a robe
-(14, 46, Orc:1)
+  a dagger
+  a mace
+(7, 1, Orc:1)
+  a club
+(5, 2, Orc:1)
+  a ring mail
+  a war axe
+(7, 2, Orc:1)
+  a ring mail
+  a club
+  a club
+  a club
   a leather armour
+  a mace
+(5, 3, Orc:1)
   a flail
+(6, 3, Orc:1)
+  a flail
+  a dagger
+(7, 3, Orc:1)
+  a giant club
+  a short sword
+(6, 7, Orc:1)
+  a giant club
+(12, 11, Orc:1)
+  a hand axe
+  a leather armour
+  a hand axe
+  a leather armour
+(10, 12, Orc:1)
+  a dagger
+(11, 12, Orc:1)
+  a leather armour
+  an enchanted hand axe
+  a dagger
+(12, 12, Orc:1)
+  a robe
+  a dagger of speed
+  a hand axe
+  a ring mail
+(16, 12, Orc:1)
+  14 bolts
+(13, 13, Orc:1)
+  a trident
+(17, 13, Orc:1)
+  a robe
+(20, 14, Orc:1)
+  a scale mail
+  a hand axe
+(20, 15, Orc:1)
+  a ring mail
+  a mace
+(16, 17, Orc:1)
+  a flail
+(-1, 24, Orc:1)
+  a mace
+(10, 28, Orc:1)
+  a dagger
+  a leather armour
+  a mace
+(9, 29, Orc:1)
+  a chain mail
+  a mace
+(11, 29, Orc:1)
+  a ring mail
+  a club
+  a battleaxe
+  a plate armour
 
 Level 2 of the Orcish Mines
 (0, 0, Orc:2)
-  a scale mail
-  a trident
-(-2, 1, Orc:2)
-  a club
-  a glaive
-  a plate armour
-(-1, 1, Orc:2)
-  a chain mail
-  a hand axe
-(0, 1, Orc:2)
-  a dagger
-(1, 1, Orc:2)
-  a mace of distortion
-(-14, 2, Orc:2)
-  a short sword
-(-2, 2, Orc:2)
-  a club
-  a ring mail
-(-1, 2, Orc:2)
-  an antimagic flail
-  a ring mail
-  a club
-  a shiny scale mail
   a flail
-  a chain mail
+  a ring mail
+  a mace
+(-12, 8, Orc:2)
+  a dagger
+(-13, 9, Orc:2)
   a battleaxe
-(0, 2, Orc:2)
-  a club
-(1, 2, Orc:2)
-  a club
-(-4, 3, Orc:2)
-  a leather armour
-  a club
-(-2, 3, Orc:2)
-  a leather armour
-  a mace
+  a chain mail
+(-12, 9, Orc:2)
   a flail
-(-1, 3, Orc:2)
-  a ring mail
-  5 tomahawks
-  a hand axe
-(-15, 4, Orc:2)
-  a short sword
-  a plate armour
-  a long sword
-(-4, 4, Orc:2)
-  2 tomahawks
-(-3, 4, Orc:2)
-  a robe
-  a dagger
-  a robe
-  a dagger
-  a leather armour
-  a mace
-  a club
-  a runed leather armour
+(25, 28, Orc:2)
+  a war axe
+(29, 29, Orc:2)
   a whip
-  a plate armour
-  a battleaxe
-(-2, 4, Orc:2)
-  a whip
-  a club
-  a glowing leather armour
-(-4, 5, Orc:2)
-  a tomahawk
-(-3, 5, Orc:2)
-  a ring mail
-  a falchion
-(-5, 6, Orc:2)
-  a scale mail
-  a flail
-(-8, 7, Orc:2)
-  a robe
-  an enchanted dagger
-(-7, 7, Orc:2)
-  a tomahawk
-  a robe
+(30, 29, Orc:2)
   a dagger
-  a dagger
-(-5, 7, Orc:2)
-  a leather armour
-  3 tomahawks
-  a whip
-  a whip
-(6, 9, Orc:2)
-  a flail
-(10, 9, Orc:2)
-  a +3 falchion of holy wrath
-(12, 9, Orc:2)
-  a hand axe
-  a scale mail
-  a dagger
-(6, 10, Orc:2)
-  a dagger
-(12, 10, Orc:2)
-  a robe
-  a dagger of protection
-(-11, 12, Orc:2)
-  a shiny ring mail
-  a flail
-(12, 15, Orc:2)
-  3 potions of poison
-(6, 17, Orc:2)
-  a flail
-(27, 29, Orc:2)
-  a dagger
-(28, 30, Orc:2)
-  a mace
-  a falchion
-(29, 30, Orc:2)
-  a dagger
-  a robe
-(-4, 34, Orc:2)
-  a trident
-(-3, 34, Orc:2)
-  2 tomahawks
-(-3, 35, Orc:2)
-  a robe
-  a dagger
-(-2, 35, Orc:2)
-  a leather armour
-  a short sword
-(-3, 36, Orc:2)
-  a flail
-(22, 42, Orc:2)
-  a giant spiked club
+(0, 30, Orc:2)
   a giant club
+(2, 30, Orc:2)
+  a leather armour
+  a hand axe
+(33, 30, Orc:2)
+  a short sword
+  a dagger
+  a robe
+(1, 31, Orc:2)
+  a hand axe
+(2, 31, Orc:2)
+  a scale mail
+  a robe
+  a short sword
+  a ring mail
+  a club
+  a dagger
+  a dagger
+  a robe
+(34, 31, Orc:2)
+  a leather armour
+(37, 31, Orc:2)
+  a hand axe
+  a scale mail
+(1, 32, Orc:2)
+  a leather armour
+  a hand axe
+  an enchanted mace
+  2 tomahawks
+  a trident
+(2, 32, Orc:2)
+  a +0 antimagic mace
+  a club
+  a scale mail
+(18, 32, Orc:2)
+  a flail
+(3, 33, Orc:2)
+  a trident
+(18, 33, Orc:2)
+  a mace
+(37, 33, Orc:2)
+  a dagger
+  a robe
+(20, 36, Orc:2)
+  a mace of holy wrath
+  a scale mail
+(19, 38, Orc:2)
+  a hand axe
+  a leather armour
+(22, 44, Orc:2)
+  3 tomahawks
+(21, 45, Orc:2)
+  a tomahawk
+(22, 45, Orc:2)
+  a tomahawk
+  a hand axe
+(23, 45, Orc:2)
+  a dagger
+  a leather armour
+  a club
+  a falchion
+  a hand axe
+  a leather armour
+  a hand axe
+(24, 45, Orc:2)
+  a whip
+  2 tomahawks
+  a ring mail
+(23, 46, Orc:2)
+  a club
+  a ring mail
+  a flail
+  3 tomahawks
+  a leather armour
+(24, 46, Orc:2)
+  a dagger
+  a scale mail
 
 Level 3 of the Orcish Mines
+[Shop] Dyfiuczaxti's Antique Weapon Boutique
+  a runed falchion (84 gold)
+  a flail (98 gold)
+  a club (28 gold)
+  a translucent broad axe (252 gold)
+  a shortbow (84 gold)
+  a war axe (98 gold)
+  a runed giant spiked club (53 gold)
+  a flail (98 gold)
+[Shop] Uteekil's Jewellery Shoppe
+  an uncursed ring of stealth (unknown) (297 gold)
+  an uncursed ring of protection from magic (425 gold)
+  an uncursed amulet of warding (unknown) (255 gold)
+  the ring of Rikiurghua {+Fly rN+ Dex+3 Slay+3} (809 gold)
+    [ring of flight]
+    
+    It affects your dexterity (+3).
+    It affects your accuracy and damage with ranged weapons and melee attacks
+    (+3).
+    It protects you from negative energy.
+    It lets you fly.
+  the amulet of Wonder {Inacc +Blink} (178 gold)
+    [amulet of inaccuracy]
+    
+    It reduces the accuracy of all your attacks.
+    It lets you blink.
+  an uncursed ring of sustain attributes (297 gold)
+  an uncursed ring of stealth (unknown) (297 gold)
+  an uncursed ring of stealth (unknown) (297 gold)
+  an uncursed ring of flight (unknown) (297 gold)
+  an uncursed ring of fire (425 gold)
+  the ring of Sloth {rC+ MP+9 Dex+6 Slay+5} (2213 gold)
+    [ring of slaying]
+    
+    It affects your dexterity (+6).
+    It affects your accuracy and damage with ranged weapons and melee attacks
+    (+5).
+    It protects you from cold.
+    It affects your magic capacity (+9).
 (0, 0, Orc:3)
+  a dagger of venom
   a club
+  a dagger
+  a robe
 (1, 0, Orc:3)
-  a mace
+  a war axe
   a chain mail
   a dagger
   a robe
+  a tomahawk
+  a dagger
+  a robe
+  an enchanted hand axe
+  a flail
+  a plate armour
 (2, 0, Orc:3)
   a hand axe
-(0, 1, Orc:3)
+  a leather armour
+(1, 1, Orc:3)
+  4 tomahawks
+(-17, 9, Orc:3)
+  a war axe of chopping
+(-16, 11, Orc:3)
+  a dagger
+  a robe
   a club
   a ring mail
-  a dagger
-(2, 1, Orc:3)
-  a mace
-  a dagger
-  a robe
-(0, 2, Orc:3)
-  a club
-  a mace
-  a chain mail
-  a war axe
-  a plate armour
-(1, 2, Orc:3)
-  a mace
-  a mace
-  a mace
-  a chain mail
-(2, 2, Orc:3)
-  a club
-  a giant club
-(-35, 31, Orc:3)
-  a club
-  a chain mail
-(-34, 31, Orc:3)
-  a club
-  a leather armour
-(-35, 32, Orc:3)
-  2 potions of mutation
-  a mace
-(-45, 33, Orc:3)
-  a mace
-  a leather armour
-  a dagger
-  a dagger
-  a robe
-  a flail of protection
-  a mace
-(-46, 34, Orc:3)
-  a dagger
-(-45, 34, Orc:3)
-  an enchanted war axe
-  a leather armour
-  a flail
-  a mace
-  a flail
-(-44, 34, Orc:3)
-  a +3 vampiric scimitar
-(-11, 34, Orc:3)
-  a mace
-  a club
+  an orc corpse
+(0, 15, Orc:3)
+  a hand axe
   a scale mail
-  a flail
-  a ring mail
-(-47, 35, Orc:3)
+(-1, 17, Orc:3)
   2 tomahawks
-(-45, 35, Orc:3)
+  a leather armour
+(-3, 18, Orc:3)
+  a chain mail
+  an orc corpse
+(-2, 18, Orc:3)
   a hand axe
-  a club
-(-10, 35, Orc:3)
-  a trident
-  a scale mail
-(-49, 36, Orc:3)
-  a dagger
-  a robe
-  a mace
-  3 tomahawks
-  a ring mail
-(-48, 36, Orc:3)
-  a hand axe
-  a scale mail
-  a short sword
-  a ring mail
-  a ring mail
-  a hand axe
-  a leather armour
-(-47, 36, Orc:3)
-  a morningstar
-  a leather armour
-(-49, 37, Orc:3)
-  a falchion
-  a dagger
-  a leather armour
-(-48, 37, Orc:3)
-  a whip
-  a ring mail
-  a whip
-  a leather armour
-(-5, 37, Orc:3)
-  a flail
-(-3, 37, Orc:3)
-  a club
-(-19, 38, Orc:3)
-  a war axe
-  a leather armour
-(-3, 38, Orc:3)
-  a dagger
-(-49, 39, Orc:3)
-  a flail
-(-12, 43, Orc:3)
-  a hand axe
-(-12, 44, Orc:3)
-  a dagger
-(-12, 48, Orc:3)
-  a falchion
-  a dagger
-  a robe
-  a ring mail
-(-31, 49, Orc:3)
-  a war axe
-(-33, 50, Orc:3)
-  a club
-(-31, 50, Orc:3)
-  a flail
-  a ring mail
-  a war axe
-(-36, 54, Orc:3)
-  a chain mail
-  a halberd
-(-37, 55, Orc:3)
-  a robe
-  a dagger
-(-36, 55, Orc:3)
-  a hand axe
-(-38, 56, Orc:3)
-  a ring mail
-  a short sword
-(-36, 56, Orc:3)
-  a short sword of venom
-  a dagger
-  a robe
-
-Level 4 of the Orcish Mines
-[Shop] Themes' Antique Weapon Shoppe
-  a morningstar (96 gold)
-  a runed great sword (156 gold)
-  a runed morningstar (96 gold)
-  a scimitar (96 gold)
-  a hand axe (72 gold)
-  a bloodstained shortbow (192 gold)
-[Shop] Kaawaaj's Weapon Emporium
-  a +0 falchion (42 gold)
-  a +0 hand axe (42 gold)
-  a +0 flail (49 gold)
-  a +0 quarterstaff (56 gold)
-  12 sling bullets (84 gold)
-  a +0 morningstar of protection (95 gold)
-  a +0 short sword (42 gold)
-  20 sling bullets (140 gold)
-[Shop] Beutib's Armour Shoppe
-  a +0 plate armour (414 gold)
-  a +0 robe (12 gold)
-  a +2 robe of fire resistance (318 gold)
-  a +0 pair of gloves (81 gold)
-  a +0 helmet (81 gold)
-  a +0 chain mail (81 gold)
-  a +0 chain mail (81 gold)
-  a cursed +0 pair of boots (27 gold)
-[Shop] Hazxyan's Armour Shoppe
-  a +0 plate armour (391 gold)
-  a +0 scale mail (68 gold)
-  a +2 pair of gloves (280 gold)
-  a +0 troll leather armour (255 gold)
-  a +0 leather armour (34 gold)
-  a +2 chain mail of magic resistance (365 gold)
-  a +2 buckler (280 gold)
-  a cursed +0 robe (1 gold)
-  a +0 chain mail (76 gold)
-  a cursed +0 leather armour (1 gold)
-  a +0 robe (11 gold)
-  a +2 pair of gloves of dexterity (365 gold)
-  a cursed +0 leather armour (17 gold)
-(-36, 2, Orc:4)
-  a whip
-  a club
-(-18, 3, Orc:4)
-  a trident
-  a ring mail
-(-17, 3, Orc:4)
-  a long sword
-  a plate armour
-(-16, 3, Orc:4)
-  a trident of venom
-  6 tomahawks
-  a chain mail
-(-14, 3, Orc:4)
-  a hand axe
-  a chain mail
-(-16, 4, Orc:4)
-  an enchanted dagger
-  a leather armour
-  a flail
-  a short sword
-  a plate armour
-  a club
-  a club
-  a leather armour
-(-14, 4, Orc:4)
-  a battleaxe
-  a flail
-  a chain mail
-(-16, 5, Orc:4)
-  a war axe
-  a chain mail
-  a dire flail
-  7 tomahawks
-  a plate armour
-  a great mace
-  a plate armour
-  a battleaxe
-  a chain mail
-(-15, 5, Orc:4)
-  a trident
-  a leather armour
-  a mace
-  a chain mail
-  a halberd
-  a chain mail
-  a ring mail
-  a dagger
-  a whip
-(-14, 5, Orc:4)
-  a battleaxe
-  a plate armour
-  a war axe
-  8 tomahawks
-  a chain mail
-(-15, 6, Orc:4)
-  a hand axe
-  a plate armour
-(-14, 6, Orc:4)
-  a short sword
-(-39, 10, Orc:4)
-  a battleaxe
-  an arbalest
-  17 bolts
-  a chain mail
-(-38, 10, Orc:4)
-  a hand axe
-  4 tomahawks
-(-40, 11, Orc:4)
-  a runed great sword {god gift}
-(-39, 12, Orc:4)
-  a short sword
-(-39, 13, Orc:4)
-  a battleaxe
-  a chain mail
-  a mace
-  a ring mail
-(-39, 14, Orc:4)
-  a long sword
-  a chain mail
-  a battleaxe
-  a chain mail
-  a halberd
-  7 tomahawks
-  a plate armour
-(-38, 15, Orc:4)
-  a dagger
-  a leather armour
-  a short sword
-  a leather armour
-(-37, 15, Orc:4)
-  a glaive
-  3 tomahawks
-  a chain mail
-(-34, 17, Orc:4)
+  an orc corpse
+(-3, 19, Orc:3)
   a tomahawk
-(-12, 20, Orc:4)
-  a morningstar
-(-30, 21, Orc:4)
-  a leather armour
-  a falchion
-  a chain mail
-  a battleaxe
+(-2, 19, Orc:3)
+  a mace of crushing
   a dagger
-  a plate armour
-  a dire flail
   a ring mail
-  a hand axe
-  a ring mail
-  a club
-  a club
-(-28, 21, Orc:4)
-  a +2 plate armour of cold resistance
-  a halberd of venom
-(-14, 21, Orc:4)
-  a club
-(-13, 21, Orc:4)
-  a plate armour
-  a battleaxe
-  a club
-  a leather armour
-  a falchion
-(-12, 21, Orc:4)
-  a leather armour
-  a short sword
-  a club
-  a ring mail
-  a chain mail
-  a great sword
-  a leather armour
-  a leather armour
-  a flail
-  a chain mail
-  a mace
-(-11, 21, Orc:4)
-  a robe
-  a ring mail
-  a dagger
-  a mace
-(-13, 22, Orc:4)
-  a chain mail
-  a glaive
-(-5, 22, Orc:4)
-  a chain mail
-(-30, 23, Orc:4)
-  a falchion
-  a ring mail
-  a hand axe of electrocution
-(-29, 23, Orc:4)
-  a mace
-(-5, 23, Orc:4)
   a war axe
-(7, 23, Orc:4)
-  a leather armour
-(-12, 24, Orc:4)
-  a club
-(-11, 24, Orc:4)
-  a leather armour
-  an enchanted whip
-  a plate armour
-  a mace
-  a chain mail
+  an orc corpse
+  an orc corpse
+  an orc corpse
+(-5, 20, Orc:3)
+  2 tomahawks
+(-11, 25, Orc:3)
   a flail
-(-10, 24, Orc:4)
-  a plate armour
-  a trident
-(-8, 24, Orc:4)
-  a falchion
-  a club
-  an enchanted whip
-  a leather armour
-(-7, 24, Orc:4)
-  a runed hunting sling {god gift}
-  a club
-  a whip
-(-6, 24, Orc:4)
-  a long sword
-  a plate armour
-(-5, 24, Orc:4)
-  a scimitar
-  a chain mail
-(-3, 24, Orc:4)
-  a tomahawk
-(-2, 24, Orc:4)
-  a tomahawk
-(-1, 24, Orc:4)
-  a tomahawk
-(0, 24, Orc:4)
-  a tomahawk
-(7, 24, Orc:4)
-  a whip
-  a leather armour
-(-10, 25, Orc:4)
-  a hand axe
-(-5, 25, Orc:4)
-  a hand axe
-(7, 25, Orc:4)
-  a ring mail
-(-21, 26, Orc:4)
-  a short sword
-(-18, 26, Orc:4)
-  a flail
-(-11, 26, Orc:4)
-  a trident
-  a plate armour
-(-10, 26, Orc:4)
-  a ring mail
-  a robe
-  a dagger
-(-8, 26, Orc:4)
-  a flail
-  a leather armour
-  a hand axe
-(-46, 27, Orc:4)
-  a leather armour
-  a trident
-(-21, 27, Orc:4)
-  a dagger
-  a chain mail
-(-19, 27, Orc:4)
-  an uncursed war axe
-  an uncursed arbalest
-  13 bolts
-  a plate armour
-(-18, 27, Orc:4)
-  a long sword
-  a chain mail
-(-15, 27, Orc:4)
-  a plate armour
-  a great mace
-(-52, 29, Orc:4)
-  a club
-(-50, 30, Orc:4)
-  a leather armour
-  a hand axe
-  a club
-  a chain mail
-(-26, 30, Orc:4)
-  a dagger
-  a robe
-(-50, 31, Orc:4)
-  a leather armour
-  a flail
-(-49, 32, Orc:4)
-  a robe
-  a dagger
-(-32, 34, Orc:4)
-  3 tomahawks
-  a club
-(-23, 34, Orc:4)
-  a leather armour
-  a trident
-(-31, 35, Orc:4)
-  a flail
-(-26, 35, Orc:4)
-  a club
-(-30, 36, Orc:4)
-  a tomahawk
-(-29, 36, Orc:4)
-  a club
-
-Level 1 of the Elven Halls
-(0, 0, Elf:1)
-  a long sword of electrocution
-(-14, 1, Elf:1)
-  a scroll of random uselessness
-(1, 2, Elf:1)
-  a leather armour
-  (unseen)
-(-12, 3, Elf:1)
-  an arrow
-(-2, 3, Elf:1)
-  a wand of cold
-(-12, 5, Elf:1)
-  a longbow
-  an uncursed long sword
-  12 arrows
-(2, 6, Elf:1)
-  a long sword
-(-13, 7, Elf:1)
-  a short sword
-(2, 7, Elf:1)
-  an arrow of frost
-(-12, 8, Elf:1)
-  a long sword
-  a long sword
-  a ring mail
-(3, 8, Elf:1)
-  an arrow of frost
-(-12, 9, Elf:1)
-  2 arrows
-  a short sword
-  a longbow
-  23 poisoned arrows
-(10, 9, Elf:1)
-  a short sword
-  a leather armour
-  a buckler
-(-12, 10, Elf:1)
-  a scimitar of electrocution
-  2 arrows
-(-11, 10, Elf:1)
-  a dagger
-  a ring mail
-(10, 10, Elf:1)
-  a scimitar
-(-13, 11, Elf:1)
-  an uncursed long sword of slicing
-  an uncursed shortbow
-  5 arrows
-(-10, 11, Elf:1)
-  an arrow
-(4, 11, Elf:1)
-  a long sword
-  a scimitar
-(-12, 12, Elf:1)
-  an arrow
-  a short sword
-  a buckler
-(10, 12, Elf:1)
-  a shortbow
-  an uncursed long sword
-  10 arrows of frost
-  a short sword
   a scale mail
-(-10, 13, Elf:1)
-  3 arrows
-(-9, 13, Elf:1)
-  a long sword
-(-8, 13, Elf:1)
-  a spear
-  a longbow
-  21 arrows of frost
-(13, 13, Elf:1)
-  a short sword of venom
-(14, 13, Elf:1)
-  a short sword
-(-10, 14, Elf:1)
-  a polished scimitar {god gift}
-(-9, 14, Elf:1)
-  a short sword
-  a leather armour
-(1, 14, Elf:1)
-  a short sword of venom
-(2, 14, Elf:1)
-  28 sling bullets
-(4, 14, Elf:1)
-  an arrow of frost
-(6, 14, Elf:1)
-  an arrow of frost
-(7, 14, Elf:1)
-  an arrow of frost
-(-11, 15, Elf:1)
-  a vampiric demon blade
-  a ring mail
-  a shield
-  an uncursed short sword
-  an uncursed shortbow
-  12 arrows
-  a leather armour
-(-7, 15, Elf:1)
-  a long sword
-  a chain mail
-(2, 15, Elf:1)
-  2 arrows of frost
-(3, 15, Elf:1)
-  a glaive
-  a chain mail
-(5, 15, Elf:1)
-  an arrow of frost
-(-5, 16, Elf:1)
-  a short sword
-  a chain mail
-  a short sword of holy wrath
-  a ring mail
-(14, 16, Elf:1)
-  a short sword
-  a leather armour
-(-2, 17, Elf:1)
-  a short sword
-(1, 17, Elf:1)
-  a long sword
-  (unseen)
-(14, 17, Elf:1)
-  a scimitar
-(13, 18, Elf:1)
-  a long sword
-(13, 19, Elf:1)
-  a short sword
-(12, 20, Elf:1)
-  a long sword
-  a chain mail
-(-7, 23, Elf:1)
-  a rapier
-  a ring mail
-(-28, 25, Elf:1)
-  a scroll of random uselessness
-(17, 28, Elf:1)
-  a scimitar
-  a leather armour
-(10, 31, Elf:1)
-  a book of Ice
-(11, 36, Elf:1)
-  25 stones
-(-29, 37, Elf:1)
-  a book of Frost
-(-25, 44, Elf:1)
-  a war axe
-(-28, 45, Elf:1)
-  a glaive
-(-29, 46, Elf:1)
-  a falchion
-
-Level 2 of the Elven Halls
-[Shop] Bezel's Weapon Shop
-  a +0 spear of piercing (104 gold)
-  a +0 hand axe (48 gold)
-  a +0 rapier (64 gold)
-  31 stones (49 gold)
-  a +0 battleaxe (104 gold)
-  a +0 short sword (48 gold)
-  a +0 executioner's axe (160 gold)
-  a +0 hand axe (48 gold)
-  a +0 short sword of protection (89 gold)
-  a +0 mace (48 gold)
-[Shop] Jymuheys's Weapon Shoppe
-  a +1 glaive of venom (207 gold)
-  13 poisoned bolts (72 gold)
-  a +0 hand axe (42 gold)
-  24 stones (33 gold)
-  a +0 shortbow (42 gold)
-  18 stones (25 gold)
-  a +0 scythe (42 gold)
-  a +0 whip (35 gold)
-  the +2 blowgun of Governance {evade, rF+} (378 gold)
-    It affects your evasion (+5 to EV).
-    
-    It protects you from fire.
-  a +0 rapier of venom (95 gold)
-  a +1 dire flail of protection (165 gold)
-  a +0 quarterstaff (56 gold)
-  11 stones (15 gold)
-  a +2 dagger of electrocution (238 gold)
-(0, 0, Elf:2)
-  a leather armour
-(-8, 4, Elf:2)
-  a scimitar
-  a leather armour
-(6, 12, Elf:2)
-  an arrow
-(9, 12, Elf:2)
-  an uncursed short sword
-  an uncursed shortbow
-  26 arrows
-(5, 14, Elf:2)
-  a short sword
-(7, 15, Elf:2)
-  an arrow
-  a scimitar
-  a ring mail
-(8, 16, Elf:2)
+(-10, 25, Orc:3)
   a scale mail
-  a short sword
-(1, 17, Elf:2)
-  a long sword
-  a ring mail
-(3, 17, Elf:2)
-  an uncursed broad axe
-  a leather armour
-  6 arrows
-  a shortbow
-  a short sword
-(5, 17, Elf:2)
-  an arrow
-  a short sword
-(6, 17, Elf:2)
-  an arrow
-  an enchanted short sword
-  a long sword
-  a leather armour
-(7, 17, Elf:2)
-  a flail
-(4, 18, Elf:2)
-  a leather armour
-  a long sword
-(8, 19, Elf:2)
-  12 arrows of dispersal
-  a shortbow
-(8, 24, Elf:2)
-  a mace of protection
-(35, 24, Elf:2)
-  a battleaxe
-(6, 25, Elf:2)
-  a leather armour
-  a short sword
-(8, 25, Elf:2)
-  5 arrows
-  a dire flail
-(10, 25, Elf:2)
-  a chain mail
-  a long sword
-(14, 25, Elf:2)
-  a rapier
-(35, 25, Elf:2)
-  a runed mace
-(7, 26, Elf:2)
-  7 arrows
-  an uncursed long sword
-  a shortbow
-  a leather armour
-  15 arrows of frost
-  a long sword
-  a shortbow
-  a long sword
-  a rapier
-  a short sword
-  a buckler
-  a leather armour
-  a short sword
-(9, 26, Elf:2)
-  a dire flail
-(34, 26, Elf:2)
-  a mace
-(36, 26, Elf:2)
-  a glowing mace
-(37, 27, Elf:2)
-  a morningstar
-(41, 27, Elf:2)
-  a long sword (still there?)
-  a halberd of chopping (still there?)
-(36, 28, Elf:2)
-  a mace
-(40, 28, Elf:2)
-  a flail of protection
-(41, 28, Elf:2)
-  a long sword of holy wrath (still there?)
-  a scale mail (still there?)
-  a long sword of protection (still there?)
-(30, 29, Elf:2)
-  a war axe
-(33, 29, Elf:2)
-  a runed scimitar
-(37, 29, Elf:2)
-  a short sword
-(39, 29, Elf:2)
-  a flail of holy wrath
-(41, 29, Elf:2)
-  6 arrows
-(20, 30, Elf:2)
-  a leather armour
-(37, 30, Elf:2)
-  a mace
-(41, 30, Elf:2)
-  an arrow (still there?)
-  a halberd of flaming (still there?)
-(24, 31, Elf:2)
-  a scale mail
-  a battleaxe
-(34, 31, Elf:2)
-  a runed long sword
-(36, 31, Elf:2)
+  a hand axe
+(-11, 26, Orc:3)
   a dagger
-(38, 31, Elf:2)
-  a war axe
-(-21, 32, Elf:2)
-  a great mace
-(23, 32, Elf:2)
-  an enchanted dagger
-(23, 33, Elf:2)
-  a falchion
-(26, 33, Elf:2)
-  a hunting sling
-(21, 34, Elf:2)
-  a halberd of protection
-(22, 34, Elf:2)
-  a short sword
-(21, 35, Elf:2)
-  a scimitar
-  a war axe of distortion
-  an elf corpse
-(21, 36, Elf:2)
-  a leather armour
-  a rapier
-(21, 37, Elf:2)
-  an eveningstar of freezing
-  a trident of venom
-(-2, 38, Elf:2)
-  a runed copper wand
-(21, 38, Elf:2)
-  a trident of venom
-(21, 39, Elf:2)
-  a vampiric trident
-(19, 43, Elf:2)
-  20 bolts
-(-13, 44, Elf:2)
-  a potion of berserk rage
-  a potion of brilliance
-
-Level 1 of the Lair of Beasts
-(0, 0, Lair:1)
-  a scroll of immolation
-(-15, 1, Lair:1)
-  10 poisoned bolts
-(12, 6, Lair:1)
-  a +1 scimitar of holy wrath
-(-14, 9, Lair:1)
-  a wand of cold
-(-15, 15, Lair:1)
-  an arbalest
-(20, 17, Lair:1)
-  a wand of confusion
-(1, 23, Lair:1)
-  a ring mail
-(-7, 27, Lair:1)
-  a morningstar
-(36, 28, Lair:1)
-  a plain deck of cards
-(19, 32, Lair:1)
-  a chain mail
-(2, 44, Lair:1)
-  a glowing falchion
-(-10, 45, Lair:1)
-  17 stones
-(-8, 49, Lair:1)
   a robe
-
-Level 2 of the Lair of Beasts
-(0, 0, Lair:2)
-  a wand of frost
-(-9, 22, Lair:2)
-  a broad axe
-(29, 42, Lair:2)
-  16 stones
-(28, 43, Lair:2)
-  an uncursed ring of loudness
-(3, 52, Lair:2)
-  a robe
-(37, 53, Lair:2)
-  a scale mail
-
-Level 3 of the Lair of Beasts
-(0, 0, Lair:3)
-  a +2 antimagic long sword
-(19, 3, Lair:3)
-  a wand of slowing
-  a wand of cold
-(43, 3, Lair:3)
-  a leather armour
-(17, 5, Lair:3)
-  a scroll of torment
-(30, 11, Lair:3)
-  25 stones
-(15, 12, Lair:3)
-  a +2 antimagic great sword
-(-4, 14, Lair:3)
-  17 poisoned needles
-(19, 19, Lair:3)
-  a robe
-(5, 27, Lair:3)
-  a robe
-(42, 29, Lair:3)
-  an uncursed ring of protection from cold
-  an uncursed ring of wizardry
-(38, 37, Lair:3)
-  5 bolts
-(11, 47, Lair:3)
-  19 sling bullets
-(7, 50, Lair:3)
-  a runed arbalest
-
-Level 4 of the Lair of Beasts
-(0, 0, Lair:4)
-  21 stones
-(-44, 13, Lair:4)
-  26 stones
-(-20, 20, Lair:4)
-  a ring mail
-(-6, 28, Lair:4)
-  2 needles of sleeping
-(-38, 29, Lair:4)
-  17 stones
-(-26, 31, Lair:4)
-  13 sling bullets
-(-59, 36, Lair:4)
-  21 stones
-
-Level 5 of the Lair of Beasts
-(0, 0, Lair:5)
-  a shortbow
-(-5, 3, Lair:5)
+(-10, 26, Orc:3)
+  a mace
+  a glowing leather armour
+(-19, 27, Orc:3)
   a giant spiked club
-(32, 4, Lair:5)
-  a robe
-(-16, 15, Lair:5)
-  22 stones
-(42, 15, Lair:5)
-  a +2 antimagic great sword
-(34, 21, Lair:5)
-  a leather armour
-(-9, 22, Lair:5)
-  19 sling bullets
-(4, 23, Lair:5)
-  a hand crossbow
-(35, 23, Lair:5)
-  a twisted runed staff
-(40, 25, Lair:5)
-  17 stones
-(14, 32, Lair:5)
-  a potion of poison
-(-12, 35, Lair:5)
-  a long sword
-(5, 35, Lair:5)
-  20 stones
-(24, 35, Lair:5)
-  8 needles of frenzy
-(16, 40, Lair:5)
-  a ring of protection from cold
-(15, 46, Lair:5)
-  a robe
-
-Level 6 of the Lair of Beasts
-(0, 0, Lair:6)
-  a chain mail
-(42, 1, Lair:6)
-  a robe
-(23, 7, Lair:6)
-  13 arrows
-(20, 13, Lair:6)
-  5 javelins
-(-5, 14, Lair:6)
-  a short sword
-(0, 18, Lair:6)
-  a short sword
-(16, 19, Lair:6)
-  a spear
-(0, 20, Lair:6)
-  25 sling bullets
-(20, 33, Lair:6)
-  a robe
-(7, 38, Lair:6)
-  15 arrows
-(-10, 39, Lair:6)
-  25 stones
-
-Level 7 of the Lair of Beasts
-(0, 0, Lair:7)
-  a glowing long sword
-(-12, 2, Lair:7)
-  11 sling bullets
-(15, 12, Lair:7)
-  a runed mace
-(35, 18, Lair:7)
-  a scroll of torment
-(22, 20, Lair:7)
-  the +2 quarterstaff of the Seven Deaths {crush, *Noise rF+ Str+3}
-    It inflicts extra damage upon your enemies.
-    
-    It affects your strength (+3).
-    It protects you from fire.
-    It may make noises in combat.
-(5, 22, Lair:7)
-  a throwing net
-(29, 25, Lair:7)
-  a club
-(51, 28, Lair:7)
-  13 stones
-(44, 29, Lair:7)
-  a runed hand axe
-(46, 38, Lair:7)
-  a scale mail
-(-12, 48, Lair:7)
-  a flail
-
-Level 8 of the Lair of Beasts
-(0, 0, Lair:8)
-  a ring mail
-(2, 0, Lair:8)
-  a ring of loudness
-  a leather armour
-(1, 1, Lair:8)
-  a scroll of vulnerability
-  19 silver bolts
-(31, 1, Lair:8)
-  a spear
-  27 stones
-(34, 2, Lair:8)
-  a stone
-(35, 2, Lair:8)
-  a stone
-(39, 2, Lair:8)
-  a quarterstaff
-  a robe
-  a dagger
-  a robe
-(30, 3, Lair:8)
-  a dagger
-  a robe
-  a buckler
-(50, 7, Lair:8)
-  a book of Frost
-(-3, 8, Lair:8)
-  a +6 antimagic great sword
-  a crooked glowing rod
-  5 potions of berserk rage
-  a +3 ring of strength
-  11 poisoned arrows
-(39, 8, Lair:8)
-  a rapier
-  a robe
-(37, 10, Lair:8)
-  a quarterstaff
-  a robe
-(49, 11, Lair:8)
-  a chain mail
-(35, 13, Lair:8)
-  a dagger
-  a robe
-(34, 14, Lair:8)
-  the +10 scimitar of Skirmishing {slice, rC+ Str+4}
-    It inflicts extra damage upon your enemies.
-    
-    It affects your strength (+4).
-    It protects you from cold.
-(35, 14, Lair:8)
-  a glowing rapier {god gift}
-(34, 16, Lair:8)
-  an uncursed ring of protection from fire
-(47, 18, Lair:8)
-  a chain mail
-(-1, 21, Lair:8)
-  25 sling bullets
-(52, 25, Lair:8)
-  2 potions of degeneration
-(34, 26, Lair:8)
-  a robe
-  a rapier
-(36, 26, Lair:8)
-  a robe
-  a rapier
-(36, 27, Lair:8)
-  a stone
-(33, 28, Lair:8)
-  22 stones
-  a spear of venom
-  a buckler
-(35, 28, Lair:8)
-  a ring of see invisible
-  a robe
-  a short sword
-(13, 33, Lair:8)
-  a wand of paralysis
-(4, 34, Lair:8)
-  a swamp dragon hide
-(57, 40, Lair:8)
-  a book of Power
-(11, 41, Lair:8)
-  a dagger
-(59, 42, Lair:8)
-  a dagger of venom
-  a robe
-(17, 43, Lair:8)
-  a scimitar
-(29, 46, Lair:8)
-  a scroll of amnesia
-(30, 50, Lair:8)
-  a dagger
-(-1, 51, Lair:8)
-  a scale mail
-(23, 51, Lair:8)
-  17 stones
-
-Level 1 of the Swamp
-(0, 0, Swamp:1)
-  9 arrows
-(3, 1, Swamp:1)
-  a spear
-(2, 2, Swamp:1)
-  a spear
-(15, 4, Swamp:1)
-  22 stones
-(47, 9, Swamp:1)
-  a shortbow
-(48, 13, Swamp:1)
-  12 bolts
-(45, 19, Swamp:1)
-  a leather armour
-(14, 20, Swamp:1)
-  a buckler
-  a spear
-(23, 22, Swamp:1)
-  5 tomahawks
-(14, 23, Swamp:1)
-  a spear
-(14, 25, Swamp:1)
-  a buckler
-  an uncursed enchanted blowgun
-  an uncursed spear
-  a spear
-(29, 26, Swamp:1)
-  26 stones
-
-Level 2 of the Swamp
-(0, 0, Swamp:2)
-  19 sling bullets
-(31, 1, Swamp:2)
-  3 potions of magic
-  a scroll of noise
-  a potion of brilliance
-(28, 5, Swamp:2)
-  24 stones
-(4, 8, Swamp:2)
-  19 poisoned sling bullets
-(32, 14, Swamp:2)
-  2 curare-tipped needles
-(8, 18, Swamp:2)
-  12 stones
-(9, 26, Swamp:2)
-  18 sling bullets
-(32, 30, Swamp:2)
-  16 poisoned needles
-
-Level 3 of the Swamp
-(0, 0, Swamp:3)
-  a book of Fire
-(1, 13, Swamp:3)
-  16 arrows
-(24, 14, Swamp:3)
-  17 stones
-(19, 22, Swamp:3)
-  a blowgun
-(9, 25, Swamp:3)
-  a robe
-  a quarterstaff
-(9, 27, Swamp:3)
-  a spear
-(-4, 32, Swamp:3)
-  20 arrows
-(12, 44, Swamp:3)
-  a scroll of noise
-
-Level 4 of the Swamp
-(0, 0, Swamp:4)
-  a quarterstaff
-(-35, 1, Swamp:4)
-  a longbow
-(-14, 2, Swamp:4)
-  3 large rocks
-(-8, 2, Swamp:4)
-  a book of Unlife
-(-15, 5, Swamp:4)
-  a morningstar
-(-15, 6, Swamp:4)
-  10 arrows
-(-10, 10, Swamp:4)
-  4 tomahawks
-(6, 17, Swamp:4)
-  9 stones
-(3, 20, Swamp:4)
-  22 poisoned needles
-(1, 27, Swamp:4)
-  a +0 short sword
-
-Level 5 of the Swamp
-(0, 0, Swamp:5)
-  a war axe
-(-47, 5, Swamp:5)
-  8 silver javelins
-(1, 8, Swamp:5)
-  2 curare-tipped needles
-  a spear
-  a blowgun
-(5, 11, Swamp:5)
-  a glowing robe
-(-39, 16, Swamp:5)
-  a curved glowing staff
-(-19, 17, Swamp:5)
-  a spear
-  a buckler
-(-18, 18, Swamp:5)
-  a spear
-(-15, 20, Swamp:5)
-  22 stones
-(2, 20, Swamp:5)
-  a +2 ring of slaying
-  5 tomahawks of dispersal
-(-28, 25, Swamp:5)
-  a chain mail
-(-13, 32, Swamp:5)
-  20 stones
-(-42, 38, Swamp:5)
-  a plain deck of cards
-(3, 44, Swamp:5)
-  2 needles of sleeping
-(-40, 48, Swamp:5)
-  a long sword
-(-44, 51, Swamp:5)
-  a blowgun
-
-Level 1 of the Spider Nest
-(0, 0, Spider:1)
-  21 stones
-(28, 12, Spider:1)
-  a book of Spatial Translocations
-  a manual of Slings
-(56, 26, Spider:1)
-  a great sword
-(30, 28, Spider:1)
-  a scroll of noise
-(54, 38, Spider:1)
-  an uncursed ring of see invisible
-  an uncursed ring of sustain attributes
-(5, 43, Spider:1)
-  a book of the Tempests
-(56, 48, Spider:1)
-  24 stones
-(2, 51, Spider:1)
-  a robe
-  a staff of earth
-(3, 51, Spider:1)
-  a +2 falchion of protection
-
-Level 2 of the Spider Nest
-(0, 0, Spider:2)
-  an amulet of rage
-(5, 3, Spider:2)
-  a scroll of vulnerability
-  a scroll of amnesia
-(-25, 6, Spider:2)
-  a leather armour
-(-6, 8, Spider:2)
-  19 stones
-(16, 8, Spider:2)
-  2 potions of brilliance
-(-32, 11, Spider:2)
-  11 stones
-(-8, 12, Spider:2)
-  a scroll of random uselessness
-(28, 17, Spider:2)
-  7 stones
-(-32, 19, Spider:2)
-  24 stones
-(-23, 24, Spider:2)
-  the +3 plate armour of Muad {rF+}
-    It protects you from fire.
-(-22, 24, Spider:2)
-  a wand of fireball
-(26, 25, Spider:2)
-  a steaming falchion {god gift}
-(23, 28, Spider:2)
-  a large shield
-(26, 36, Spider:2)
-  17 poisoned needles
-(20, 48, Spider:2)
-  a pair of gloves
-(21, 52, Spider:2)
-  10 bolts
-
-Level 3 of the Spider Nest
-(0, 0, Spider:3)
-  the +0 plate armour of the Vestibule of Hell {rF- rC+ Dex-3 SInv}
-    It affects your dexterity (-3).
-    It makes you vulnerable to fire.
-    It protects you from cold.
-    It lets you see invisible.
-(7, 2, Spider:3)
-  20 stones
-(26, 7, Spider:3)
-  21 sling bullets
-(27, 9, Spider:3)
-  a lantern of shadows
-(16, 24, Spider:3)
-  a robe
-(5, 35, Spider:3)
-  19 stones
-(33, 48, Spider:3)
-  a twisted runed staff
-(12, 55, Spider:3)
-  a wand of confusion
-
-Level 4 of the Spider Nest
-(0, 0, Spider:4)
-  a robe
-(-12, 1, Spider:4)
-  a mace
-(-41, 20, Spider:4)
-  a wand of slowing
-(-51, 22, Spider:4)
-  a +2 falchion of holy wrath
-(-18, 43, Spider:4)
-  15 arrows
-(-19, 45, Spider:4)
-  a scroll of amnesia
-
-Level 5 of the Spider Nest
-(0, 0, Spider:5)
-  a book of Cantrips
-(-4, 16, Spider:5)
-  8 needles of slowing
-(-38, 19, Spider:5)
-  a quarterstaff
-(-38, 20, Spider:5)
-  8 tomahawks
-(-21, 21, Spider:5)
-  a dagger
-(32, 24, Spider:5)
-  17 stones
-(-33, 27, Spider:5)
-  a scroll of noise
-(1, 29, Spider:5)
-  18 stones
-(-19, 30, Spider:5)
-  18 arrows
-(-1, 30, Spider:5)
-  22 stones
-(-13, 35, Spider:5)
-  17 stones
-(-3, 47, Spider:5)
-  a mace
-
-Level 1 of the Pits of Slime
-(0, 0, Slime:1)
-  a glowing dagger {god gift}
+  an ogre corpse
+(-11, 27, Orc:3)
+  a glaive
+  a plate armour
 

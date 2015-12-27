@@ -1,289 +1,113 @@
-# required by chrome-binary-plugins (argument)
-www-plugins/chrome-binary-plugins ~amd64
-games-roguelike/stone-soup ~amd64
-sys-power/powertop ~amd64
-# move app-shells/zsh-completion app-shells/gentoo-zsh-completions
-app-shells/gentoo-zsh-completions ~amd64
-# required by dev-python/flask-0.10.1-r1
-# required by flask (argument)
-=dev-python/blinker-1.3 ~amd64
-# required by dev-python/flask-0.10.1-r1
-# required by flask (argument)
-=dev-python/itsdangerous-0.24 ~amd64
-# required by flask (argument)
-=dev-python/flask-0.10.1-r1 ~amd64
-media-video/guvcview ~amd64
->=sys-devel/gcc-4.8.3 ~amd64
-# required by xombrero (argument)
-www-client/xombrero ~amd64
-# required by www-plugins/pipelight-0.2.7.3
-# required by pipelight (argument)
-=app-emulation/wine-1.7.21 ~amd64
-# required by pipelight (argument)
-=www-plugins/pipelight-0.2.7.3 ~amd64
-www-client/firefox-bin ~amd64
-# required by app-misc/byobu-5.86
-# required by byobu (argument)
-=dev-libs/newt-0.52.15 ~amd64
-# required by byobu (argument)
-=app-misc/byobu-5.86 ~amd64
-# required by fbterm (argument)
-=app-i18n/fbterm-1.7-r1 ~amd64
-www-client/chromium ~amd64
-www-client/dwb **
-app-misc/screenfetch ~amd64
-x11-misc/redshift ~amd64
-sys-devel/gdb ~amd64
-www-client/google-chrome-unstable ~amd64
-# required by cabal-install (argument)
-=dev-haskell/cabal-install-1.18.0.3 ~amd64
-# required by x11-misc/xmobar-0.21[inotify]
-# required by xmobar (argument)
-=dev-haskell/hinotify-0.3.7 ~amd64
-# required by x11-misc/xmobar-0.21[alsa]
-# required by xmobar (argument)
-=dev-haskell/alsa-mixer-0.2.0.2 ~amd64
-# required by dev-haskell/alsa-mixer-0.2.0.2
-# required by x11-misc/xmobar-0.21[alsa]
-# required by xmobar (argument)
-=dev-haskell/alsa-core-0.5.0.1-r2 ~amd64
-# required by xmobar (argument)
-=x11-misc/xmobar-0.21 ~amd64
-x11-drivers/xf86-video-intel ~amd64
-# required by dunst (argument)
-=x11-misc/dunst-1.0.0-r1 ~amd64
-sys-kernel/linux-firmware **
-dev-lang/rust **
-# required by dev-lang/rust-9999-r3
-# required by dev-lang/rust-9999-r3[system-llvm]
-# required by rust (argument)
-=sys-devel/llvm-3.5.0 ~amd64
-# required by gforth (argument)
-=dev-lang/gforth-0.7.3 ~amd64
-# required by =sys-fs/simple-mtpfs-0.2 (argument)
-=sys-fs/simple-mtpfs-0.2 ~amd64
-sys-fs/mtpfs ~amd64
-media-libs/libmtp ~amd64
-# required by gmtp (argument)
-=media-sound/gmtp-1.3.5 ~amd64
-# required by =media-libs/libmtp-9999 (argument)
-=media-libs/libmtp-9999 **
-# required by dev-lang/rust-9999-r3
+# required by sys-firmware/iwl7260-ucode-0.12.16.25::gentoo[bluetooth]
+# required by iwl7260-ucode (argument)
+=sys-firmware/iwl3160-7260-bt-ucode-37.8.10_p1 ~amd64
+# required by iwl7260-ucode (argument)
+=sys-firmware/iwl7260-ucode-0.12.16.25 ~amd64
+# required by google-chrome-unstable (argument)
+=www-client/google-chrome-unstable-48.0.2552.0_p1 ~amd64
+# required by =app-shells/gentoo-zsh-completions-99999999 (argument)
+=app-shells/gentoo-zsh-completions-99999999 **
+# required by =app-shells/zsh-completions-9999 (argument)
+=app-shells/zsh-completions-9999 **
+# required by =media-sound/pavucontrol-3.0 (argument)
+=media-sound/pavucontrol-3.0 ~amd64
+# required by =app-shells/zsh-5.1.1 (argument)
+=app-shells/zsh-5.1.1 ~amd64
+# required by =sys-power/powertop-9999 (argument)
+=sys-power/powertop-9999 **
+# required by =x11-misc/compton-9999 (argument)
+=x11-misc/compton-9999 **
+# required by =app-portage/gentoolkit-9999 (argument)
+=app-portage/gentoolkit-9999 **
+# required by =games-fps/xonotic-0.8.1 (argument)
+=games-fps/xonotic-0.8.1 ~amd64
+# required by =sys-kernel/linux-firmware-99999999 (argument)
+=sys-kernel/linux-firmware-99999999 **
+# required by =app-portage/layman-2.3.0 (argument)
+<=app-portage/layman-2.3.0-r1 ~amd64
+# required by games-util/steam-meta-0-r20131107::steam-overlay
+# required by steam-meta (argument)
+=games-util/steam-launcher-1.0.0.50 ~amd64
+# required by steam-meta (argument)
+=games-util/steam-meta-0-r20131107 ~amd64
+# required by games-util/steam-meta-0-r20131107::steam-overlay
+# required by steam-meta (argument)
+=games-util/steam-games-meta-0-r20141109 ~amd64
+# required by games-util/steam-meta-0-r20131107::steam-overlay
+# required by steam-meta (argument)
+=games-util/steam-client-meta-0-r20150828 ~amd64
+# required by games-util/steam-client-meta-0-r20150828::steam-overlay[steamfonts]
+# required by games-util/steam-meta-0-r20131107::steam-overlay
+# required by steam-meta (argument)
+=media-fonts/steamfonts-1 ~amd64
+# required by gtk2fontsel (argument)
+=x11-misc/gtk2fontsel-0.1 ~amd64
+# required by =x11-apps/intel-gpu-tools-1.12 (argument)
+=x11-apps/intel-gpu-tools-1.12 ~amd64
+# required by =media-video/guvcview-2.0.1 (argument)
+=media-video/guvcview-2.0.1 ~amd64
+# required by =app-emulation/virtualbox-bin-5.0.10.104061 (argument)
+=app-emulation/virtualbox-bin-5.0.10.104061 ~amd64
+# required by app-emulation/virtualbox-bin-5.0.10.104061::gentoo
+# required by =app-emulation/virtualbox-bin-5.0.10.104061 (argument)
+=app-emulation/virtualbox-modules-5.0.10 ~amd64
+x11-libs/libva-intel-driver ~amd64
+# required by x11-libs/libva-intel-driver-1.6.1::gentoo
+=x11-libs/libva-1.6.1 ~amd64
+# required by =net-wireless/aircrack-ng-9999 (argument)
+=net-wireless/aircrack-ng-9999 **
+# required by =dev-util/android-tools-5.1.1_p13 (argument)
+=dev-util/android-tools-5.1.1_p13 ~amd64
+# required by games-emulation/dolphin-9999::gentoo
+# required by =games-emulation/dolphin-9999 (argument)
+=net-libs/enet-1.3.13 ~amd64
+# required by =games-emulation/dolphin-9999 (argument)
+=games-emulation/dolphin-9999 **
+app-arch/p7zip ~amd64
+# required by reaver (argument)
+=net-wireless/reaver-1.4-r3 ~amd64
+# required by =net-analyzer/tcpdump-9999 (argument)
+=net-analyzer/tcpdump-9999 **
+# required by =media-video/mpv-9999 (argument)
+=media-video/mpv-9999 **
+# required by gtkguitune (argument)
+=media-sound/gtkguitune-0.8 ~amd64
+# required by lingot (argument)
+=media-sound/lingot-0.9.1 ~amd64
+# required by games-emulation/pcsx2-9999::gentoo
+# required by =games-emulation/pcsx2-9999 (argument)
+=x11-libs/wxGTK-3.0.2.0-r2 ~amd64
+# required by games-emulation/pcsx2-9999::gentoo
+# required by =games-emulation/pcsx2-9999 (argument)
+=dev-cpp/pngpp-0.2.5 ~amd64
+# required by =games-emulation/pcsx2-9999 (argument)
+=games-emulation/pcsx2-9999 **
+# required by games-emulation/pcsx2-9999::gentoo
+# required by =games-emulation/pcsx2-9999 (argument)
+=app-eselect/eselect-opengl-1.3.1-r4 ~amd64
+# required by =x11-drivers/xf86-input-synaptics-1.8.3 (argument)
+=x11-drivers/xf86-input-synaptics-1.8.3 ~amd64
+# required by =media-libs/mesa-9999 (argument)
+=media-libs/mesa-9999 **
+# required by =x11-base/xorg-server-1.17.4 (argument)
+=x11-base/xorg-server-1.17.4 ~amd64
+# required by media-libs/mesa-9999::gentoo[-video_cards_ilo,video_cards_i965,-video_cards_i915,video_cards_intel]
+# required by x11-base/xorg-server-1.17.4::gentoo[glamor]
+# required by x11-drivers/xf86-input-synaptics-1.8.3::gentoo
+# required by x11-base/xorg-drivers-1.17::gentoo[input_devices_synaptics]
 # required by @selected
 # required by @world (argument)
-# force unstable Gentoo sources
-sys-kernel/gentoo-sources ~amd64
-media-video/mpv **
-# required by media-video/mpv-9999
-# required by mpv (argument)
-=media-video/libav-9999 **
-sys-fs/eudev ~amd64
-# required by dev-ruby/activerecord-3.2.21[ruby_targets_ruby20]
-# required by net-analyzer/metasploit-9999[ruby_targets_ruby19]
-# required by metasploit (argument)
-=dev-ruby/activemodel-3.2.21 ~amd64
-# required by net-analyzer/metasploit-9999[ruby_targets_ruby19]
-# required by metasploit (argument)
-=dev-ruby/activerecord-3.2.21 ~amd64
-# required by dev-ruby/activemodel-3.2.21[ruby_targets_ruby19]
-# required by dev-ruby/activerecord-3.2.21[ruby_targets_ruby20]
-# required by net-analyzer/metasploit-9999[ruby_targets_ruby19]
-# required by metasploit (argument)
-=dev-ruby/activesupport-3.2.21 ~amd64
-# required by net-analyzer/metasploit-9999
-# required by metasploit (argument)
-# move app-admin/eselect-metasploit app-eselect/eselect-metasploit
-=app-eselect/eselect-metasploit-0.16 ~amd64
-net-libs/webkit-gtk ~amd64
-net-wireless/bluez ~amd64
-# required by skype (argument)
-=net-im/skype-4.3.0.37-r5 ~amd64
-x11-libs/wxGTK ~amd64
-# required by glee (argument)
-=media-libs/glee-5.40 ~amd64
-# required by android-tools (argument)
-=dev-util/android-tools-0_p20130218 ~amd64
-dev-python/pip ~amd64
-# required by sdl2-image (argument)
-=media-libs/sdl2-image-2.0.0-r1 ~amd64
-# required by =www-client/google-chrome-unstable-9999 (argument)
-#=www-client/google-chrome-unstable-9999 **
-# required by teamviewer (argument)
-=net-misc/teamviewer-9.0.32150 ~amd64
-# required by dev-haskell/cipher-des (argument)
-=dev-haskell/cipher-des-0.0.6 ~amd64
-# required by dev-haskell/x509-1.5.0.1
-# required by dev-haskell/x509-store-1.5.0
-# required by x509-store (argument)
-=dev-haskell/asn1-types-0.3.0 ~amd64
-# required by dev-haskell/asn1-encoding-0.9.0
-# required by dev-haskell/asn1-parse-0.9.0
-# required by dev-haskell/x509-1.5.0.1
-# required by dev-haskell/x509-store-1.5.0
-# required by x509-store (argument)
-=dev-haskell/hourglass-0.2.6 ~amd64
-# required by streaming-commons (argument)
-=dev-haskell/streaming-commons-0.1.8 ~amd64
-# required by x509-store (argument)
-=dev-haskell/x509-store-1.5.0 ~amd64
-# required by dev-haskell/x509-store-1.5.0
-# required by x509-store (argument)
-=dev-haskell/crypto-pubkey-types-0.4.2.3 ~amd64
-# required by dev-haskell/x509-store-1.5.0
-# required by x509-store (argument)
-=dev-haskell/x509-1.5.0.1 ~amd64
-# required by dev-haskell/x509-store-1.5.0
-# required by x509-store (argument)
-=dev-haskell/asn1-encoding-0.9.0 ~amd64
-# required by dev-haskell/x509-1.5.0.1
-# required by dev-haskell/x509-store-1.5.0
-# required by x509-store (argument)
-=dev-haskell/asn1-parse-0.9.0 ~amd64
-# required by dev-haskell/vector-0.10.12.2
-# required by dev-haskell/haskell-platform-2014.2.0.0
-# required by haskell-platform (argument)
-=dev-haskell/primitive-0.5.4.0 ~amd64
-# required by dev-haskell/haskell-platform-2014.2.0.0[X]
-# required by haskell-platform (argument)
-=dev-haskell/gluraw-1.4.0.1 ~amd64
-# required by dev-haskell/haskell-platform-2014.2.0.0[X]
-# required by haskell-platform (argument)
-=dev-haskell/opengl-2.9.2.0 ~amd64
-# required by haskell-platform (argument)
-=dev-haskell/haskell-platform-2014.2.0.0 ~amd64
-# required by dev-haskell/haskell-platform-2014.2.0.0
-# required by haskell-platform (argument)
-=dev-haskell/text-1.2.0.3 ~amd64
-# required by dev-haskell/haskell-platform-2014.2.0.0
-# required by haskell-platform (argument)
-=dev-haskell/unordered-containers-0.2.5.1 ~amd64
-# required by dev-haskell/mtl-2.2.1
-# required by dev-haskell/parsec-3.1.7
-# required by dev-haskell/network-uri-2.6.0.1
-# required by dev-haskell/cabal-install-1.20.0.3-r2
-# required by dev-haskell/haskell-platform-2014.2.0.0
-# required by haskell-platform (argument)
-=dev-haskell/transformers-0.4.2.0 ~amd64
-# required by dev-haskell/haskell-platform-2014.2.0.0
-# required by haskell-platform (argument)
-=dev-haskell/hpc-0.6.0.1 ~amd64
-# required by dev-haskell/haskell-platform-2014.2.0.0
-# required by haskell-platform (argument)
-=dev-haskell/parsec-3.1.7 ~amd64
-# required by dev-haskell/haskell-platform-2014.2.0.0
-# required by haskell-platform (argument)
-=dev-haskell/async-2.0.2 ~amd64
-# required by dev-haskell/haskell-platform-2014.2.0.0
-# required by haskell-platform (argument)
-=dev-haskell/vector-0.10.12.2 ~amd64
-# required by dev-haskell/http-4000.2.19
-# required by dev-haskell/cabal-install-1.20.0.3-r2
-# required by dev-haskell/haskell-platform-2014.2.0.0
-# required by haskell-platform (argument)
-=dev-haskell/mtl-2.2.1 ~amd64
-# required by dev-haskell/http-4000.2.19[network-uri]
-# required by dev-haskell/cabal-install-1.20.0.3-r2
-# required by dev-haskell/haskell-platform-2014.2.0.0
-# required by haskell-platform (argument)
-=dev-haskell/network-2.6.0.2 ~amd64
-# required by dev-haskell/cabal-install-1.20.0.3-r2
-# required by dev-haskell/haskell-platform-2014.2.0.0
-# required by haskell-platform (argument)
-=dev-haskell/cabal-1.20.0.2 ~amd64
-# required by dev-haskell/haskell-platform-2014.2.0.0
-# required by haskell-platform (argument)
-=dev-lang/ghc-7.8.4 ~amd64
-# required by dev-haskell/haskell-platform-2014.2.0.0[X]
-# required by haskell-platform (argument)
-=dev-haskell/glut-2.5.1.1 ~amd64
-# required by dev-haskell/haskell-platform-2014.2.0.0
-# required by haskell-platform (argument)
-=dev-haskell/http-4000.2.19 ~amd64
-# required by dev-haskell/haskell-platform-2014.2.0.0
-# required by haskell-platform (argument)
-=dev-haskell/cabal-install-1.20.0.3-r2 ~amd64
-# required by dev-haskell/haskell-platform-2014.2.0.0[X]
-# required by haskell-platform (argument)
-=dev-haskell/openglraw-1.5.0.0 ~amd64
-# required by dev-haskell/http-4000.2.19[network-uri]
-# required by dev-haskell/cabal-install-1.20.0.3-r2
-# required by dev-haskell/haskell-platform-2014.2.0.0
-# required by haskell-platform (argument)
-=dev-haskell/network-uri-2.6.0.1 ~amd64
-# required by dev-haskell/haskell-platform-2014.2.0.0
-# required by haskell-platform (argument)
-=dev-haskell/parallel-3.2.0.6 ~amd64
-# required by dev-haskell/haskell-platform-2014.2.0.0
-# required by haskell-platform (argument)
-=dev-haskell/haskell-src-1.0.1.6 ~amd64
-# required by dev-haskell/haskell-platform-2014.2.0.0[doc]
-# required by haskell-platform (argument)
-=dev-haskell/haddock-2.14.3.0.7.8.3 ~amd64
-# required by dev-haskell/haskell-platform-2014.2.0.0
-# required by haskell-platform (argument)
-=dev-haskell/happy-1.19.4 ~amd64
-# required by dev-haskell/haskell-platform-2014.2.0.0
-# required by haskell-platform (argument)
-=dev-haskell/case-insensitive-1.2.0.4 ~amd64
-# required by dev-haskell/haskell-platform-2014.2.0.0
-# required by haskell-platform (argument)
-=dev-haskell/hashable-1.2.3.1 ~amd64
-# required by x11-misc/xmobar-0.21[-mpris,dbus]
+=x11-libs/libdrm-2.4.65 ~amd64
+# required by media-libs/mesa-9999::gentoo
+# required by x11-base/xorg-server-1.17.4::gentoo[glamor]
+# required by x11-drivers/xf86-input-synaptics-1.8.3::gentoo
+# required by x11-base/xorg-drivers-1.17::gentoo[input_devices_synaptics]
 # required by @selected
 # required by @world (argument)
-=dev-haskell/dbus-0.10.9.2 ~amd64
-# required by media-video/mpv-9999[libass]
-# required by @selected
-# required by @world (argument)
-=media-libs/libass-0.12.1 ~amd64
-dev-util/cmake ~amd64
-# required by hello (argument)
-=app-misc/hello-2.9 ~amd64
-# required by dev-util/cmake-3.2.1[-internal-jsoncpp]
-# required by @selected
-# required by @world (argument)
-=dev-libs/jsoncpp-0.10.1 ~amd64
-# required by media-video/mpv-9999::gentoo[-libav]
-# required by @selected
-# required by @world (argument)
-=media-video/ffmpeg-2.6.2 ~amd64
-# required by gimp-gmic (argument)
-=media-plugins/gimp-gmic-1.6.0.4 ~amd64
-# required by gtkperf (argument)
-=app-benchmarks/gtkperf-0.40-r1 ~amd64
-# required by =www-client/elinks-9999 (argument)
-=www-client/elinks-9999 **
-# required by fbv (argument)
-=media-gfx/fbv-1.0b ~amd64
-x11-misc/compton **
-# required by =net-misc/mosh-9999 (argument)
-=net-misc/mosh-9999 **
-# required by google-chrome (argument)
-=www-client/google-chrome-42.0.2311.152_p1 ~amd64
-# required by app-editors/neovim-0.0.0_pre20150505::gentoo
-# required by neovim (argument)
-=dev-libs/unibilium-1.1.4 ~amd64
-# required by app-editors/neovim-0.0.0_pre20150505::gentoo[python]
-# required by neovim (argument)
-=dev-python/neovim-python-client-0.0.34 ~amd64
-# required by app-editors/neovim-0.0.0_pre20150505::gentoo
-# required by neovim (argument)
-=dev-libs/libvterm-neovim-0.0_pre20150309 ~amd64
-# required by app-editors/neovim-0.0.0_pre20150505::gentoo
-# required by neovim (argument)
-=dev-libs/libtermkey-0.17 ~amd64
-# required by app-editors/neovim-0.0.0_pre20150505::gentoo
-# required by neovim (argument)
-=dev-lua/messagepack-0.3.2 ~amd64
-# required by dev-python/neovim-python-client-0.0.34::gentoo[python_targets_python3_3,python_targets_python2_7]
-# required by app-editors/neovim-0.0.0_pre20150505::gentoo[python]
-# required by neovim (argument)
-=dev-python/trollius-1.0.4 ~amd64
-# required by app-editors/neovim-0.0.0_pre20150505::gentoo
-# required by neovim (argument)
-=dev-libs/libuv-1.5.0 ~amd64
-# required by app-editors/neovim-0.0.0_pre20150505::gentoo
-# required by neovim (argument)
-=dev-libs/msgpack-1.1.0 ~amd64
-# required by neovim (argument)
-=app-editors/neovim-0.0.0_pre20150505 ~amd64
+=x11-proto/glproto-1.4.17-r1 ~amd64
+# required by x11-base/xorg-server-1.17.4::gentoo[xorg]
+# required by x11-drivers/xf86-input-synaptics-1.8.3::gentoo
+# required by =x11-drivers/xf86-input-synaptics-1.8.3 (argument)
+=x11-base/xorg-drivers-1.17 ~amd64
+# required by =sys-fs/simple-mtpfs-9999 (argument)
+=sys-fs/simple-mtpfs-9999 **

@@ -4,7 +4,7 @@ LOCK_EXEC='USER=eric /usr/local/bin/slock'
 case "$2" in
     i3)
         start-pulseaudio-x11 &
-        sh ~/.fehbg &
+        feh --bg-scale ~/.background.png
         urxvtd -q -f -o &
         xbacklight -set 30 &
         xautolock -time 10 -locker $LOCK_EXEC &
@@ -14,7 +14,7 @@ case "$2" in
         ;;
     dwm)
         start-pulseaudio-x11 &
-        sh ~/.fehbg &
+        feh --bg-scale ~/.background.png
         urxvtd -q -f -o &
         redshift &
         xbacklight -set 35 &
@@ -36,6 +36,6 @@ case "$2" in
         exec dbus-launch --sh-syntax --exit-with-session xmonad
         ;;
     *)
-        echo "$2 is not a valid WM"
+        exec dwm
         ;;
 esac

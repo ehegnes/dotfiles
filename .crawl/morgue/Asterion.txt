@@ -1,691 +1,395 @@
- Dungeon Crawl Stone Soup version 0.17-a0-1769-g54adf96 (console) character file.
+ Dungeon Crawl Stone Soup version 0.18-a0-76-g3fe7f8b (console) character file.
 
-Asterion the Slayer (Minotaur Berserker)           Turns: 40332, Time: 03:21:09
+Asterion the Protected (Minotaur Berserker)        Turns: 15902, Time: 00:41:21
 
-Health: 191/203    AC: 44    Str: 31    XL:     18   Next: 45%
-Magic:  21/21      EV:  5    Int:  4    God:    Trog [******]
-Gold:   2984       SH: 32    Dex:  9    Spells: 0 memorised, 17 levels left
+Health: 98/118     AC: 21    Str: 27    XL:     12   Next: 72%
+Magic:  11/11      EV:  9    Int:  4    God:    Trog [******]
+Gold:   1625       SH:  0    Dex: 10    Spells: 0 memorised, 11 levels left
 
-rFire  + . .     SeeInvis +     a - +9 demon blade (slice)
-rCold  x . .     Clarity  .     o - +9 chain mail "Suffeypo" {rC- Regen+ rCorr}
-rNeg   + . .     SustAt   .     U - +18 shield of the gong {rElec rN+ MR+ EV-5}
-rPois  +         Gourm    .     t - +2 hat {SInv}
-rElec  +         Spirit   .     s - +2 cloak
-rCorr  +         Warding  .     h - +2 pair of gloves
-rMut   .         Stasis   .     f - +2 pair of boots {run}
-MR     ++...                    L - amulet of resist corrosion
-Stlth  ..........               x - ring of poison resistance
-                                Q - +3 ring of slaying
+rFire  . . .     SeeInvis .     b - +5 great mace (elec)
+rCold  . . .     Clarity  .     z - +0 plate armour
+rNeg   . . .     SustAt   .     (shield currently unavailable)
+rPois  .         Gourm    .     (helmet restricted)
+rElec  .         Spirit   .     F - +1 cloak
+rCorr  .         Warding  .     d - +0 pair of gloves
+rMut   .         Stasis   .     (no boots)
+MR     ++...                    e - amulet of faith
+Stlth  ..........               s - ring of protection from magic
+                                g - ring of protection from magic
 
-@: quick, very resistant to hostile enchantments, extremely unstealthy
-A: retaliatory headbutt, horns 2, iridescent scales 2, fire resistance 1, robust
-1
-a: Burn Spellbooks, Berserk, Trog's Hand, Brothers in Arms, Renounce Religion
-}: 2/15 runes: decaying, gossamer
+@: mildly poisoned (98 -> 98), very resistant to hostile enchantments, extremely
+unstealthy
+A: retaliatory headbutt, horns 2
+a: Berserk, Trog's Hand, Brothers in Arms, Burn Spellbooks, Renounce Religion
 
 
-You are on level 2 of the Elven Halls.
+You are on level 3 of the Orcish Mines.
 You worship Trog.
 Trog is exalted by your worship.
-You are not hungry.
+You are hungry.
 
-You have visited 7 branches of the dungeon, and seen 36 of its levels.
-You have visited the Abyss 1 time.
+You have visited 3 branches of the dungeon, and seen 16 of its levels.
 You have also visited: Bailey.
 
-You have collected 3872 gold pieces.
-You have spent 888 gold pieces at shops.
+You have collected 1625 gold pieces.
 
 Inventory:
 
-Hand weapons
- a - a +9 demon blade of slicing (weapon)
- b - a +3 scimitar of flaming
- j - the +1 long sword "Nyju" {holy, +Rage rC++ rN+}
-   (You found it on level 2 of the Elven Halls)   
-   
-   It has been blessed by the Shining One to cause great damage to the undead
-   and demons.
-   
-   It greatly protects you from cold.
-   It protects you from negative energy.
-   It lets you go berserk.
- R - a +3 antimagic double sword
- X - a +8 triple sword of freezing
+Hand Weapons
+ b - a +5 great mace of electrocution (weapon)
+ E - a +3 dire flail of holy wrath
 Armour
- f - a +2 pair of boots of running (worn)
- h - a +2 pair of gloves (worn)
- o - the +9 chain mail "Suffeypo" (worn) {rC- Regen+ rCorr}
-   (You found it on level 4 of the Swamp)   
-   
-   It makes you vulnerable to cold.
-   It increases your rate of regeneration.
-   It protects you from acid and corrosion.
- s - a +2 cloak (worn)
- t - a +2 hat of see invisible (worn)
- U - the +18 shield of the gong (worn) {rElec rN+ MR+ EV-5}
-   (You found it on level 10 of the Dungeon)   
-   
-   It affects your evasion (-5).
-   It insulates you from electricity.
-   It protects you from negative energy.
-   It affects your resistance to hostile enchantments.
+ d - a +0 pair of gloves (worn)
+ z - a +0 plate armour (worn)
+ F - a +1 cloak (worn)
 Jewellery
- x - a ring of poison resistance (right hand)
- L - an amulet of resist corrosion (around neck)
- Q - a +3 ring of slaying (left hand)
-Magical devices
- g - a wand of teleportation (1)
- l - a wand of disintegration {recharged}
- n - a wand of teleportation
- q - a wand of polymorph {zapped: 2}
- v - a wand of lightning (3)
- z - a wand of paralysis
- B - a wand of invisibility (3)
- D - a wand of heal wounds {recharged}
- H - a wand of draining
- N - a wand of digging
+ e - an amulet of faith (around neck)
+ f - an uncursed ring of sustain attributes
+ g - a ring of protection from magic (left hand)
+ p - an uncursed ring of invisibility
+ s - a ring of protection from magic (right hand)
+Wands
+ j - a wand of lightning {recharged}
+ k - a wand of paralysis {zapped: 2}
+ o - a wand of enslavement {zapped: 7}
+ r - a wand of polymorph
 Scrolls
- e - 18 scrolls of identify
- i - 8 scrolls of teleportation
- r - 16 scrolls of remove curse
- y - a scroll of holy word
- C - 6 scrolls of fog
- E - 3 scrolls of summoning
- F - 4 scrolls of recharging
- K - 2 scrolls of blinking
+ i - 2 scrolls of identify
+ n - 5 scrolls of remove curse
+ q - 2 scrolls of blinking
+ x - 2 scrolls of enchant armour
+ y - a scroll labeled VEINAS IRAWN
 Potions
- d - a potion of restore abilities
- k - a potion of cancellation
- m - 2 potions of lignification
- p - 2 potions of flight
- w - 17 potions of curing
- A - a potion of cure mutation
- G - 3 potions of ambrosia
- I - 7 potions of might
- J - 2 potions of agility
- M - 2 potions of haste
- T - 2 potions of invisibility
+ h - a potion of might
+ u - 3 potions of curing
+ w - a potion of brilliance
+ A - 2 potions of heal wounds
+ B - a fizzy brown potion
+ D - a lumpy amethyst potion
 Miscellaneous
- O - an ornate deck of cards
+ m - a stone of tremors
+ t - a plain deck of cards
 Comestibles
- c - 12 bread rations
- u - 6 meat rations
- P - a chunk of flesh
+ a - 3 fruits
+ c - 8 bread rations
+ l - 3 meat rations
+ v - 7 beef jerkies
+ C - 9 chunks of flesh
 
 
    Skills:
- + Level 22.5 Fighting
- - Level 15.8 Long Blades
- + Level 21.9 Armour
+ + Level 14.8 Fighting
+ - Level 14.0 Maces & Flails
+ + Level 14.9 Armour
  - Level 2.1 Dodging
- - Level 13.0 Shields
- - Level 6.0 Evocations
 
 
-You have 17 spell levels left.
+You have 11 spell levels left.
 You don't know any spells.
 
 Dungeon Overview and Level Annotations
 
 Branches:
-Dungeon (10/15)            Temple (0/1) D:4            Lair (8/8) D:10
-  Swamp (5/5) Lair:3       Spider (5/5) Lair:5        Slime (2/6) Lair:8
-    Orc (4/4) D:10            Elf (2/3) Orc:4       
+Dungeon (12/15)            Temple (1/1) D:4            Lair (0/8) D:8
+    Orc (3/4) D:12            Elf (0/3) Orc:3       
 
 Altars:
 Ashenzari
 Cheibriados
+Dithmenos
 Elyvilon
 Fedhas
+Gozag
 Kikubaaqudgha
+Makhleb
 Nemelex Xobeh
 Okawaru
 Qazlal
+Ru
 Sif Muna
 Trog
+Vehumet
 Xom
 Yredelemnul
-Beogh
-Jiyva
+Zin
+The Shining One
 
 Shops:
-D:7 *   D:9 [   Orc:4 [(([   Elf:2 ((
+D:5 *   D:7 }   D:9 =   Orc:3 =(
 
 Annotations:
-D:4 ranging for orcs
-Lair:4 Flying for adventure
-Swamp:3 flying for adventure
+D:6 digging for angry moths
 
 
 Innate Abilities, Weirdness & Mutations
 
 You reflexively headbutt those who attack you in melee.
 You have a pair of horns on your head.
-You are mostly covered in iridescent scales (AC +6).
-Your flesh is heat resistant.
-You are robust (+10% HP).
 
 
 Message History
 
-a rapier; a leather armour
-You offer a prayer to Trog.
-Trog is exalted by your worship.
+You feel a bit more experienced. You feel sick.
+You closely miss the orc warrior. Your headbutt misses the orc warrior.
+The orc warrior hits you with a war axe!
+You hammer the orc warrior like a gong!!!
+You kill the orc warrior!
+Trog accepts your kill.
+You feel sick.
+Items here: ( ))))) [[[[ †††
+Butcher an orc corpse? [(y)es/(c)hop/(n)o/(a)ll/(q)uit/?]
+You butcher the orc corpse. You feel sick.
+You butcher the orc corpse. x2
+You feel sick.
+C - 5 chunks of flesh (gained 3); C - 8 chunks of flesh (gained 3); C - 9 chunks of flesh (gained 1)
+Items here: ( ))))) [[[[
 Things that are here:
-an eveningstar of freezing; a trident of venom
-You offer a prayer to Trog.
-Trog is exalted by your worship.
-You see here a trident of venom.
-You offer a prayer to Trog.
-Trog is exalted by your worship.
-You see here a vampiric trident.
-Saving game... please wait.
-Welcome back, Asterion the Minotaur Berserker.
-Trog says: Kill them all!
-Press ? for a list of commands and other information.
-Drink which item? (? for menu, Esc to quit)
-It has a very clean taste.
-You feel clumsy. You feel less heat resistant. Your talons dull and shrink into feet. Your vision sharpens.
-Unknown command.
-Saving game... please wait.
+a hand axe; a leather armour
+You feel sick.
+Items here: ( ))))) [[[[
+Items here: ))) [
+a dagger of venom; a club; a dagger; a robe
 
-  #.'####  #....#.≈≈88≈≈..#.#  #.....[.........).).)..#.(...##
-  #..#######...#.§≈≈≈≈≈≈.#..#  ##...).................#.....#
-###.............#.≈≈≈≈§§..#.#   ##..)..).#.....#.....##......#
-.......######..#..§§.≈...#..#    #)).....##...#.#...####......#
-.##.#..######...#.#.#.#.#.#.#    #)##################   #.....#
-###.#..........#.#.#.#.#.#..#    #[#                     ....#
-###.##'#####..######..+.....##   #)#                     ...##
-#.......#../..#    #.##...<..##  #)#
-#.......+.....#   ##.##.......## #)#
-#.......#.##..#####...+........###.#
-+.......#.##.....>..............##.#
-#.......#'###.#####..#####'.######@#
-.....#.....##.#####..#####......(..#
-!..................................#
-.........>.'...#####.####.###.####.#
-...........###.#####'####'###.#  #.#
-...........# #.##...∩.#....##.#  #.#
-...........# #.##...........#.####.#
-......#....# #.##...........'......#
-###'#.....####.##.....∩....####....#
-###.#......'....+.........##  ######
-....+......###.##........##
-#...#......# #.##.........##
+                    ...............
+                    ..............##
+                    ...............#
+                    ..............##
+                    #..............#
+                    ...........##.#
+                    #............##
+       #..          #...  #@))....#
+       #..          #......#(##..##
+    ## #..  ######  ##..#.###....#
+   ##.##..###....#  ##...###....##
+   #............## ##.....###.#..##
+    #...........####........##....#
+      #..........##..........##..##
+     ##......##.##.#....#.#....#.##
+ ## ##.....♣####.........#........#
+##.##.....)..##..........##.##.#.##
+#.......#.♣∩♣.##.#...#.......#####
+  ......#.#)...##............#.##
+  .........♣..####..............##
+#. .#.#.#.....##.#.#.............#
+#...#....#..........##..........∩##
 
 
 There are no monsters in sight!
 
 Vanquished Creatures
-  A bone dragon (Swamp:5)
-  Jorgrun (Spider:1)
-  A tentacled monstrosity (Swamp:1)
-  Asterion (Elf:1)
-  A lich (Abyss:1)
-  The ghost of Asterion the Tortoise, a mighty MiBe of Trog (Swamp:5)
-  7 acid blobs
-  A tentacled starspawn (Abyss:1)
-  Kirke (Elf:1)
-  3 thorn hunters
-  Roxanne (Swamp:2)
-  4 azure jellies (Slime:1)
-  2 orc warlords
-  Louise (Elf:1)
-  3 ghost moths (Spider:5)
-  2 emperor scorpions (Spider:5)
-  A very ugly thing (Swamp:4)
-  The ghost of Arya the Imperceptible, a powerful SpEn of Okawaru (Slime:1)
-  Josephine (Orc:2)
-  6 entropy weavers
-  6 ghost crabs
-  11 hydras
-  13 dancing weapons (Elf:2)
-  A catoblepas (Lair:7)
-  A queen ant (Spider:4)
-  5 orc high priests
-  13 alligators
-  The ghost of Asterion the Basher, an experienced MiBe of Trog (D:7)
-  An ice devil (Orc:4)
-  A death drake (Swamp:5)
-  3 spectral hydras
-  5 deep elf knights
-  3 spriggan druids
-  2 swamp dragons (Swamp:1)
-  6 starcursed masses (Abyss:1)
-  5 deep elf summoners
-  Pikel (D:5)
-  A phantasmal warrior (Swamp:5)
-  A shambling mangrove (Swamp:3)
-  An orc sorcerer (Orc:4)
-  8 deep elf conjurers
-  7 orc knights
-  10 hornets
-  A faun (shapeshifter) (Elf:2)
-  11 orb spiders
-  An eye of devastation (Slime:1)
-  6 black mambas
-  4 elephants (Lair:7)
-  20 wolf spiders
-  2 shining eyes (Slime:1)
-  2 moths of wrath
-  Joseph (D:9)
-  4 molten gargoyles (Elf:2)
-  The ghost of Sanguine the Slasher, an experienced DsAK of Lugonu (D:4)
-  26 spiny frogs
-  2 torpor snails (Spider:2)
-  3 fire drakes
-  7 demonic crawlers
-  9 komodo dragons
-  2 swamp worm zombies (Swamp:5)
-  3 deep elf priests
-  25 jumping spiders
-  A two-headed ogre (Orc:2)
-  3 hydra zombies (Swamp:5)
-  5 polar bears
-  A queen bee (Spider:2)
-  A spectral swamp dragon (Swamp:5)
-  Grinder (D:6)
-  8 giant leeches
-  29 blink frogs
-  3 trolls
-  9 bog bodies
-  5 alligator zombies (Swamp:5)
-  14 trapdoor spiders
-  32 slime creatures
-  2 wyverns (D:9)
-  25 yaks
-  A shadow (Swamp:3)
-  48 redbacks
-  21 spriggans
-  13 deep elf magi
-  4 basilisks
-  A basilisk (shapeshifter) (Elf:2)
-  5 wraiths (Orc:2)
-  5 hippogriffs
-  2 hungry ghosts
-  12 tarantellas
-  A neqoxec (Abyss:1)
-  2 hogs (Orc:4)
-  26 deep elf fighters
-  A steam dragon (D:7)
-  15 soldier ants (Spider:4)
-  21 wolves
-  3 wargs
-  Edmund (D:7)
-  4 vampire mosquitoes
-  23 water moccasins
-  18 insubstantial wisps
-  28 swamp worms
-  2 sky beasts
-  3 slaves (D:5)
-  10 swamp drakes
-  A necrophage (D:5)
-  12 porcupines
-  An ice beast (D:7)
-  8 black bears
-  7 ogres
-  30 spiders
-  46 orc warriors
-  3 eyes of draining
-  5 phantoms
-  4 swamp dragon zombies (Swamp:5)
-  21 crocodiles
-  18 wasps
-  5 centaurs
-  Sigmund (D:7)
-  Duvessa (D:5)
-  2 big kobolds
-  A gnoll sergeant (D:5)
-  13 giant frogs
-  2 scorpions
-  The ghost of Asterion the Cudgeler, a weakling MiBe of Trog (D:3)
-  15 killer bees
-  8 jellies
-  8 electric eels
-  Dowan (D:5)
+  An orc warlord (Bailey)
+  Nergalle (D:10)
+  2 unseen horrors
+  2 hill giants
+  An obsidian statue (D:10)
+  3 cyclopes
+  A manticore (D:12)
+  An ugly thing (D:11)
+  Maurice (D:9)
+  3 orange demons
+  Joseph (D:7)
+  Psyche (D:9)
+  4 red devils (D:10)
+  5 trolls
+  A fire drake (D:8)
+  A two-headed ogre (D:8)
+  A wraith (D:11)
+  A trapdoor spider (D:12)
+  2 hippogriffs
+  3 deep elf magi
+  A wyvern (D:11)
+  A steam dragon (D:12)
+  12 yaks
+  A hungry ghost (D:11)
+  A mottled dragon (D:11)
+  A vampire mosquito (D:11)
+  Duvessa (D:7)
+  2 ice beasts
+  15 orc warriors
+  A wasp (D:7)
+  A phantom (D:5)
+  The ghost of Chiron the Shooter, an amateur CeHu (D:3)
+  A sky beast (D:11)
+  A black bear (D:6)
+  7 big kobolds
+  20 ogres
+  2 crocodiles
+  4 centaurs
+  A wyvern zombie (D:11)
+  Dowan (D:7)
+  7 giant frogs
+  3 scorpions
+  12 killer bees
+  2 centaur zombies
+  2 electric eels (D:7)
   6 crimson imps
-  3 beetles
-  A centaur zombie (D:6)
-  3 giant frog zombies (D:6)
-  8 hounds
-  3 giant frog skeletons
-  43 orc priests
-  26 orc wizards
-  26 worker ants
-  8 iguanas
-  4 spectral swamp drakes (Swamp:5)
-  A killer bee zombie (D:6)
-  21 sheep
-  Jessica (D:2)
-  A mummy (D:10)
-  3 worker ant zombies
-  20 gnolls
-  66 river rats
-  18 adders
-  A removed MONS_GIANT_MITE (D:6)
-  An adder zombie (D:6)
-  2 worms (Swamp:4)
-  6 giant geckos
-  5 oozes
-  205 orcs
-  A bat skeleton (D:6)
-  6 bat zombies
-  19 goblins
-  30 hobgoblins
-  15 jackals
-  33 kobolds
-  11 quokkas
-  2 ball pythons
-  28 bats
-  A giant cockroach (D:1)
-  A giant gecko skeleton (D:6)
+  A giant frog skeleton (D:5)
+  5 jellies
+  2 quasits
+  16 orc priests
+  3 giant frog zombies
+  4 centaur skeletons
+  5 hounds
+  4 iguanas
+  15 orc wizards
+  12 worker ants
+  A hound zombie (D:11)
+  A hound skeleton (D:11)
+  2 worker ant zombies
+  7 gnolls
+  14 adders
+  7 shadow imps
+  An ooze (D:3)
+  2 adder skeletons (D:8)
+  2 adder zombies
+  6 worms
+  7 giant geckos
+  126 orcs
+  3 ball pythons
+  5 giant cockroaches
+  11 hobgoblins
+  11 jackals
+  8 quokkas
+  2 ball python skeletons
+  7 bats
+  A giant cockroach zombie (D:4)
   5 giant newts
-  An orc skeleton (Orc:4)
-  An orc zombie (Orc:4)
-  A quokka skeleton (D:5)
-  26 rats
-  A bush (Lair:3)
-  A crawling corpse (Elf:1)
-  2 fungi
-  4 plants
-1570 creatures vanquished.
+  5 goblins
+  A jackal skeleton (D:5)
+  46 kobolds
+  2 quokka skeletons
+  A quokka zombie (D:5)
+  6 rats
+  10 plants (D:7)
+510 creatures vanquished.
 
 Vanquished Creatures (collateral kills)
-  An emperor scorpion (Spider:5)
-  A hydra (Swamp:3)
-  A deep elf conjurer (Elf:1)
-  2 slime creatures (Lair:8)
-  A hornet (Spider:5)
-  2 elephants (Lair:7)
-  A deep elf priest (Elf:1)
-  A bog body (Swamp:1)
-  2 deep elf magi (Elf:1)
-  A swamp worm (Swamp:3)
-  A crawling corpse (Elf:1)
-14 creatures vanquished.
+  2 orange demons (D:9)
+2 creatures vanquished.
 
 Vanquished Creatures (others)
-  2 hydras (Swamp:5)
-  A deep elf knight (Elf:1)
-  A shambling mangrove (Swamp:5)
-  A spriggan (Swamp:5)
-  2 humans (Elf:1)
-  A deep elf mage (Elf:1)
-  7 insubstantial wisps (Swamp:5)
-  A wasp (Swamp:5)
-  A worker ant (Spider:4)
-  A hobgoblin (D:5)
-  A giant spore (D:10)
-  8 fungi
-  15 plants
-  6 starspawn tentacles (Abyss:1)
-  34 starspawn tentacle segments (Abyss:1)
-82 creatures vanquished.
+  A big kobold (D:12)
+  An orc wizard (Orc:3)
+  2 plants (D:7)
+4 creatures vanquished.
 
-Grand Total: 1666 creatures vanquished
+Grand Total: 516 creatures vanquished
 
 Notes
 Turn   | Place    | Note
 --------------------------------------------------------------
-     0 | D:1      | Asterion, the Minotaur Berserker, began the quest for the Orb.
-     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
-   175 | D:1      | Reached skill level 4 in Long Blades
-   228 | D:1      | Reached XP level 2. HP: 26/26 MP: 1/1
-   302 | D:1      | Acquired Trog's second power
-   509 | D:1      | Reached skill level 5 in Long Blades
-   702 | D:2      | Reached XP level 3. HP: 27/31 MP: 2/2
-  1002 | D:2      | Found an iron altar of Okawaru.
-  1006 | D:2      | Noticed Jessica
-  1014 | D:2      | Killed Jessica
-  1276 | D:2      | Reached XP level 4. HP: 40/40 MP: 2/2
-  1508 | D:3      | Noticed Asterion's ghost (weakling MiBe)
-  1520 | D:3      | Killed Asterion's ghost
-  1520 | D:3      | Reached XP level 5. HP: 47/47 MP: 2/2
-  1794 | D:3      | Found a sparkling altar of Nemelex Xobeh.
-  1834 | D:3      | Found a white marble altar of Elyvilon.
-  2248 | D:4      | Found a staircase to the Ecumenical Temple.
-  2253 | D:4      | Reached skill level 5 in Fighting
-  2396 | D:4      | Noticed an ogre
-  2401 | D:4      | Killed an ogre
-  2401 | D:4      | Reached skill level 5 in Armour
-  2401 | D:4      | Reached XP level 6. HP: 57/57 MP: 3/3
-  2442 | D:4      | Noticed Sanguine's ghost (experienced DsAK)
-  2451 | D:4      | Killed Sanguine's ghost
-  2451 | D:4      | Reached skill level 7 in Long Blades
-  2451 | D:4      | Reached XP level 7. HP: 62/62 MP: 3/3
-  2460 | D:4      | Acquired Trog's third power
-  2736 | D:4      | Found a deep blue altar of Sif Muna.
-  3149 | D:5      | Entered Level 5 of the Dungeon
-  3207 | D:5      | Noticed Duvessa
-  3207 | D:5      | Noticed Dowan
-  3220 | D:5      | Killed Duvessa
-  3225 | D:5      | Killed Dowan
-  3490 | D:5      | Reached XP level 8. HP: 59/73 MP: 3/3
-  3579 | D:5      | Found a snail-covered altar of Cheibriados.
-  3829 | D:5      | Noticed Pikel
-  3836 | D:5      | Killed Pikel
-  3836 | D:5      | Reached skill level 8 in Fighting
-  3912 | D:5      | Reached skill level 9 in Fighting
-  4062 | D:6      | Found a shattered altar of Ashenzari.
-  4116 | D:6      | Found an iron altar of Okawaru.
-  4237 | D:6      | Reached XP level 9. HP: 83/83 MP: 4/4
-  4257 | D:6      | Noticed Grinder
-  4269 | D:6      | Paralysed by Grinder for 4 turns
-  4277 | D:6      | Killed Grinder
-  4773 | D:6      | Found a shimmering altar of Xom.
-  4977 | D:7      | Reached skill level 10 in Fighting
-  4977 | D:7      | Reached skill level 10 in Armour
-  5079 | D:7      | Received a gift from Trog
-  5100 | D:7      | Noticed Sigmund
-  5112 | D:7      | Killed Sigmund
-  5141 | D:7      | Noticed Asterion's ghost (experienced MiBe)
-  5152 | D:7      | Killed Asterion's ghost
-  5152 | D:7      | Reached skill level 11 in Fighting
-  5227 | D:7      | Noticed Edmund
-  5242 | D:7      | Killed Edmund
-  5259 | D:7      | Found Toty's General Store.
-  5284 | D:7      | Found a blossoming altar of Fedhas.
-  5474 | D:8      | Found a flagged portal.
-  5479 | Bailey   | Entered a bailey
-  5633 | Bailey   | Reached XP level 10. HP: 67/96 MP: 4/4
-  6205 | D:8      | You fall through a shaft for 2 floors!
-  6205 | D:10     | Entered Level 10 of the Dungeon
-  6632 | D:8      | Received a gift from Trog
-  6632 | D:8      | Reached skill level 10 in Long Blades
-  7041 | D:8      | Found a stormy altar of Qazlal.
-  7041 | D:8      | Found an ancient bone altar of Kikubaaqudgha.
-  7041 | D:8      | Found a basalt altar of Yredelemnul.
-  7079 | D:8      | Found a bloodstained altar of Trog.
-  7761 | D:9      | Found Kovu's Antique Armour Shoppe.
-  7827 | D:9      | Noticed Joseph
-  7838 | D:9      | Killed Joseph
-  7838 | D:9      | Reached skill level 12 in Long Blades
-  8178 | D:9      | Reached XP level 11. HP: 83/103 MP: 1/4
-  8349 | D:10     | Received a gift from Trog
-  8484 | D:10     | Found a staircase to the Lair.
-  8720 | D:10     | Received a gift from Trog
-  8793 | D:10     | Found a staircase to the Orcish Mines.
-  9190 | Orc:1    | Entered Level 1 of the Orcish Mines
-  9508 | D:9      | Bought a heavily runed plate armour for 672 gold pieces
-  9541 | D:9      | Identified the +3 plate armour of Muad {rF+} (You bought it in a shop on level 9 of the Dungeon)
-  9695 | Orc:2    | Noticed Josephine
-  9705 | Orc:2    | Killed Josephine
-  9724 | Orc:2    | Received a gift from Trog
-  9905 | Orc:2    | Found a roughly hewn altar of Beogh.
-  9963 | Orc:2    | Reached skill level 5 in Evocations
- 10428 | Orc:1    | Received a gift from Trog
- 11123 | Orc:3    | Received a gift from Trog
- 11182 | Orc:3    | Reached skill level 1 in Shields
- 11417 | Orc:3    | Noticed an orc warlord
- 11425 | Orc:3    | Killed an orc warlord
- 11429 | Orc:3    | Reached skill level 5 in Shields
- 11435 | Orc:3    | Reached XP level 12. HP: 113/113 MP: 18/18
- 11609 | Orc:4    | Entered Level 4 of the Orcish Mines
- 11672 | Orc:4    | Received a gift from Trog
- 11674 | Orc:4    | Noticed an orc warlord
- 11690 | Orc:4    | Killed an orc warlord
- 12047 | Orc:4    | Found a staircase to the Elven Halls.
- 12059 | Orc:4    | Found a roughly hewn altar of Beogh.
- 12541 | Orc:4    | Gained mutation: You are frail (-10% HP). [a neqoxec]
- 12542 | Orc:4    | Lost intelligence.
- 12542 | Orc:4    | Gained mutation: You are dopey. (Int -2) [a neqoxec]
- 12545 | Orc:4    | Gained mutation: Your magical capacity is low (-10% MP). [a neqoxec]
- 12749 | Orc:4    | Found a roughly hewn altar of Beogh.
- 12825 | Orc:4    | Reached skill level 13 in Fighting
- 12945 | Orc:4    | Received a gift from Trog
- 13021 | Orc:4    | Reached skill level 14 in Fighting
- 13109 | Orc:4    | Found Themes' Antique Weapon Shoppe.
- 13111 | Orc:4    | Found Kaawaaj's Weapon Emporium.
- 13112 | Orc:4    | Found Beutib's Armour Shoppe.
- 13113 | Orc:4    | Found Hazxyan's Armour Shoppe.
- 13467 | Lair:1   | Entered Level 1 of the Lair of Beasts
- 14007 | Lair:1   | Received a gift from Trog
- 14153 | Lair:1   | Reached XP level 13. HP: 111/111 MP: 16/16
- 15687 | Lair:3   | Received a gift from Trog
- 15913 | Lair:3   | Found a staircase to the Swamp.
- 16166 | Lair:3   | Received a gift from Trog
- 16542 | Lair:3   | HP: 5/112 [poisoned by a spiny frog]
- 17319 | Lair:4   | Reached skill level 15 in Long Blades
- 18203 | Lair:5   | Found a hole to the Spider Nest.
- 18587 | Lair:5   | Received a gift from Trog
- 18941 | Swamp:1  | Entered Level 1 of the Swamp
- 18952 | Swamp:1  | Reached skill level 15 in Fighting
- 18960 | Swamp:1  | Reached XP level 14. HP: 98/121 MP: 17/17
- 19114 | Swamp:1  | Reached skill level 15 in Armour
- 19992 | Swamp:1  | Upgraded the game from 0.16-a0-4088-g7c8221e to 0.17-a0-1769-g54adf96
- 21686 | Lair:7   | Identified a scroll of acquirement
- 21919 | Lair:7   | Reached skill level 16 in Fighting
- 22018 | Lair:7   | Received a gift from Trog
- 22038 | Lair:7   | Got an ichor-stained quarterstaff {god gift}
- 22044 | Lair:7   | Identified the +2 quarterstaff of the Seven Deaths {crush, *Noise rF+ Str+3} (Trog gifted it to you on level 7 of the Lair of Beasts)
- 22604 | Swamp:2  | Noticed Roxanne
- 22632 | Swamp:2  | Noticed a thorn hunter
- 22655 | Swamp:1  | Killed a thorn hunter
- 23174 | Swamp:2  | Noticed a tentacled monstrosity
- 23345 | Swamp:1  | Killed a tentacled monstrosity
- 24050 | Swamp:2  | Reached skill level 17 in Fighting
- 24212 | Swamp:2  | Noticed a thorn hunter
- 24221 | Swamp:2  | Killed a thorn hunter
- 24323 | Swamp:2  | Killed Roxanne
- 24325 | Swamp:2  | Identified Roxanne's Grimoire of Mutagenic Earth (You took it off Roxanne on level 2 of the Swamp)
- 24590 | Swamp:3  | Noticed a thorn hunter
- 24600 | Swamp:2  | Killed a thorn hunter
- 24600 | Swamp:2  | Reached XP level 15. HP: 82/132 MP: 16/16
- 26167 | Swamp:4  | Got a warped chain mail
- 26179 | Swamp:4  | Identified the +9 chain mail "Suffeypo" {rC- Regen+ rCorr} (You found it on level 4 of the Swamp)
- 26460 | Swamp:4  | Reached skill level 18 in Fighting
- 26658 | Swamp:4  | Received a gift from Trog
- 26757 | Swamp:5  | Entered Level 5 of the Swamp
- 26865 | Swamp:4  | Lost mutation: You are frail (-10% HP). [mutagenic meat]
- 27588 | Swamp:5  | Noticed Asterion's ghost (mighty MiBe)
- 27634 | Swamp:5  | Killed Asterion's ghost
- 27634 | Swamp:5  | Reached skill level 10 in Shields
- 27931 | Spider:1 | Entered Level 1 of the Spider Nest
- 29056 | Spider:1 | Received a gift from Trog
- 29085 | Spider:2 | Noticed Jorgrun
- 29107 | Spider:1 | Killed Jorgrun
- 29107 | Spider:1 | Reached XP level 16. HP: 159/159 MP: 17/17
- 29241 | Spider:2 | q
- 29766 | Spider:2 | Received a gift from Trog
- 31173 | Swamp:5  | Noticed a bone dragon
- 31194 | Swamp:5  | Killed a bone dragon
- 31194 | Swamp:5  | Reached skill level 19 in Fighting
- 31409 | Swamp:5  | Got a decaying rune of Zot
- 31838 | D:9      | Bought a pair of embroidered boots for 108 gold pieces
- 31838 | D:9      | Bought a pair of glowing gloves for 108 gold pieces
- 31848 | D:9      | Identified a +0 pair of boots of running (You bought it in a shop on level 9 of the Dungeon)
- 32296 | Spider:3 | Got an ancient plate armour
- 32307 | Spider:3 | Identified the +0 plate armour of the Vestibule of Hell {rF- rC+ Dex-3 SInv} (You found it on level 3 of the Spider Nest)
- 32973 | Spider:4 | Received a gift from Trog
- 33756 | Spider:5 | Entered Level 5 of the Spider Nest
- 34391 | Spider:5 | Reached skill level 20 in Fighting
- 34414 | Spider:5 | Received a gift from Trog
- 34430 | Spider:5 | Reached XP level 17. HP: 165/168 MP: 18/18
- 34433 | Spider:5 | Got a shimmering scimitar {god gift}
- 34456 | Spider:5 | Identified the +10 scimitar of Skirmishing {slice, rC+ Str+4} (Trog gifted it to you on level 5 of the Spider Nest)
- 34615 | Spider:5 | Lost mutation: You are dopey. (Int -2) [mutagenic meat]
- 34616 | Spider:5 | Gained mutation: Your flesh is heat resistant. [mutagenic meat]
- 34617 | Spider:5 | Gained mutation: You are robust (+10% HP). [mutagenic meat]
- 34618 | Spider:5 | Gained mutation: You are partially covered in iridescent scales (AC +4). [mutagenic meat]
- 34620 | Spider:5 | Gained mutation: Your flesh is very heat resistant. [mutagenic meat]
- 34714 | Spider:5 | Gained mutation: You are mostly covered in iridescent scales (AC +6). [mutagenic meat]
- 34745 | Spider:5 | Got a gossamer rune of Zot
- 35113 | Lair:8   | Entered Level 8 of the Lair of Beasts
- 35350 | Lair:8   | Received a gift from Trog
- 35711 | Lair:8   | Found a runed door.
- 35711 | Lair:8   | Found a viscous altar of Jiyva.
- 35714 | Lair:8   | Found a staircase to the Slime Pits.
- 36168 | Slime:1  | Entered Level 1 of the Pits of Slime
- 36497 | Slime:1  | Reached skill level 21 in Fighting
- 36509 | Slime:1  | Noticed Arya's ghost (powerful SpEn)
- 36585 | Slime:1  | Killed Arya's ghost
- 36641 | Slime:1  | Gained mutation: You are dopey. (Int -2) [a shining eye]
- 36685 | Slime:1  | Gained mutation: Potions and wands are less effective at restoring your health. [a shining eye]
- 36698 | Slime:1  | Gained mutation: You are weak. (Str -2) [a shining eye]
- 37131 | Slime:1  | Lost mutation: You are dopey. (Int -2) [potion of cure mutation]
- 37131 | Slime:1  | Lost mutation: You are weak. (Str -2) [potion of cure mutation]
- 37131 | Slime:1  | Lost mutation: You are robust (+10% HP). [potion of cure mutation]
- 37131 | Slime:1  | Lost mutation: Potions and wands are less effective at restoring your health. [potion of cure mutation]
- 37548 | Slime:1  | Received a gift from Trog
- 37760 | Lair:6   | Lost mutation: Your magical capacity is low (-10% MP). [potion of mutation]
- 37760 | Lair:6   | Gained mutation: You are agile. (Dex +2) [potion of mutation]
- 38147 | Elf:1    | Entered Level 1 of the Elven Halls
- 38200 | Elf:1    | Noticed Kirke
- 38219 | Elf:1    | Killed Kirke
- 38226 | Elf:1    | Noticed Louise
- 38390 | Elf:1    | Noticed Asterion
- 38401 | Elf:1    | Received a gift from Trog
- 38401 | Elf:1    | Reached XP level 18. HP: 175/182 MP: 21/21
- 38411 | Elf:1    | Killed Asterion
- 38483 | Elf:1    | Killed Louise
- 39130 | Elf:1    | Reached skill level 22 in Fighting
- 39204 | Elf:2    | Received a gift from Trog
- 39284 | Elf:2    | Gained mutation: You are robust (+10% HP). [mutagenic meat]
- 39286 | Elf:2    | Gained mutation: You have sharp toenails. [mutagenic meat]
- 39580 | Elf:2    | Found Bezel's Weapon Shop.
- 39649 | Elf:2    | Found Jymuheys's Weapon Shoppe.
- 39824 | Elf:2    | Found a huge runed gate.
- 39824 | Elf:2    | Found a huge runed gate.
- 39824 | Elf:2    | Found a huge runed gate.
- 39824 | Elf:2    | Found a huge runed gate.
- 39824 | Elf:2    | Found a huge runed gate.
- 39863 | Elf:2    | Got a polished long sword
- 39864 | Elf:2    | Identified the +1 long sword "Nyju" {holy, +Rage rC++ rN+} (You found it on level 2 of the Elven Halls)
- 39983 | Elf:2    | Cast into the Abyss (war axe of distortion)
- 40059 | Abyss:1  | Gained mutation: Scrolls take you a little longer to read. [a neqoxec]
- 40174 | Elf:2    | Escaped the Abyss
- 40331 | Elf:2    | Lost mutation: You are agile. (Dex +2) [potion of cure mutation]
- 40331 | Elf:2    | Lost mutation: Your flesh is very heat resistant. [potion of cure mutation]
- 40331 | Elf:2    | Lost mutation: You have sharp toenails. [potion of cure mutation]
- 40331 | Elf:2    | Lost mutation: Scrolls take you a little longer to read. [potion of cure mutation]
+     0 | D:1      | Asterion the Minotaur Berserker began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+   184 | D:1      | Reached skill level 4 in Maces & Flails
+   367 | D:1      | Reached XP level 2. HP: 24/26 MP: 1/1
+   899 | D:2      | Reached skill level 5 in Maces & Flails
+   899 | D:2      | Reached XP level 3. HP: 27/31 MP: 2/2
+   911 | D:2      | Reached ** piety under Trog
+  1028 | D:2      | Found a sacrificial altar of Ru.
+  1031 | D:2      | Found a glowing golden altar of the Shining One.
+  1035 | D:2      | Found a stormy altar of Qazlal.
+  1199 | D:2      | Found a radiant altar of Vehumet.
+  1199 | D:2      | Found an iron altar of Okawaru.
+  1200 | D:2      | Found a basalt altar of Yredelemnul.
+  1502 | D:2      | Reached XP level 4. HP: 35/39 MP: 3/3
+  1544 | D:2      | Reached skill level 6 in Maces & Flails
+  1635 | D:3      | Reached *** piety under Trog
+  1749 | D:3      | Noticed Chiron's ghost (amateur CeHu)
+  1756 | D:3      | Killed Chiron's ghost
+  1756 | D:3      | Reached skill level 7 in Maces & Flails
+  1756 | D:3      | Reached XP level 5. HP: 45/45 MP: 4/4
+  1884 | D:3      | Found a bloodstained altar of Trog.
+  2462 | D:4      | Found a glowing silver altar of Zin.
+  2552 | D:4      | Found a sacrificial altar of Ru.
+  2592 | D:4      | Reached XP level 6. HP: 43/53 MP: 5/5
+  2714 | D:4      | Reached skill level 5 in Fighting
+  3363 | D:4      | Found a staircase to the Ecumenical Temple.
+  3377 | Temple   | Entered the Ecumenical Temple
+  3542 | D:5      | Entered Level 5 of the Dungeon
+  3584 | D:5      | Found Deeckos's Assorted Antiques.
+  3590 | D:5      | Reached XP level 7. HP: 46/61 MP: 6/6
+  3699 | D:5      | Reached skill level 5 in Armour
+  3791 | D:5      | Found a shadowy altar of Dithmenos.
+  3794 | D:5      | Found a white marble altar of Elyvilon.
+  3860 | D:5      | Reached **** piety under Trog
+  4050 | D:5      | Found a basalt altar of Yredelemnul.
+  4535 | D:6      | Reached XP level 8. HP: 55/71 MP: 7/7
+  4598 | D:6      | Reached skill level 8 in Armour
+  5331 | D:6      | Noticed a moth of wrath
+  5333 | D:6      | Found a bloodstained altar of Trog.
+  5446 | D:6      | Reached skill level 9 in Armour
+  5455 | D:7      | Noticed Joseph
+  5508 | D:7      | Killed Joseph
+  5508 | D:7      | Reached skill level 10 in Armour
+  5824 | D:7      | Found Pularud Jank's Gadget Boutique.
+  5852 | D:7      | Reached XP level 9. HP: 74/82 MP: 8/8
+  6184 | D:7      | Reached ***** piety under Trog
+  6238 | D:7      | Noticed Dowan
+  6240 | D:7      | Noticed Duvessa
+  6247 | D:7      | Killed Duvessa
+  6250 | D:7      | Killed Dowan
+  6297 | D:7      | Received a gift from Trog
+  7353 | D:8      | Reached skill level 10 in Maces & Flails
+  7678 | D:8      | Found a staircase to the Lair.
+  7678 | D:8      | Noticed a fire drake
+  7697 | D:8      | Killed a fire drake
+  7697 | D:8      | Reached skill level 11 in Maces & Flails
+  7856 | D:8      | Received a gift from Trog
+  7991 | D:8      | Reached skill level 12 in Maces & Flails
+  8329 | D:9      | Reached XP level 10. HP: 51/89 MP: 9/9
+  8751 | D:9      | Found Hunir's Jewellery Shop.
+  8825 | D:9      | Reached skill level 13 in Maces & Flails
+  9084 | D:9      | Noticed Psyche
+  9094 | D:9      | Killed Psyche
+  9432 | D:10     | Entered Level 10 of the Dungeon
+  9652 | D:10     | Noticed Maurice
+  9913 | D:9      | Killed Maurice
+  9924 | D:9      | Reached skill level 10 in Fighting
+  9958 | D:9      | Killed an unseen horror
+ 10240 | D:10     | Received a gift from Trog
+ 10250 | D:10     | Reached XP level 11. HP: 42/101 MP: 10/10
+ 10665 | D:10     | Noticed Nergalle
+ 10675 | D:10     | Killed Nergalle
+ 10740 | D:10     | Reached skill level 14 in Maces & Flails
+ 10907 | D:10     | Noticed an obsidian statue
+ 10925 | D:10     | Noticed an ice devil
+ 10992 | D:10     | Killed an obsidian statue
+ 11428 | D:11     | Found a sparkling altar of Nemelex Xobeh.
+ 12091 | D:11     | Killed an unseen horror
+ 12121 | D:11     | Noticed a hill giant
+ 12127 | D:11     | Killed a hill giant
+ 12540 | D:11     | Received a gift from Trog
+ 12676 | D:11     | Reached XP level 12. HP: 95/115 MP: 3/11
+ 12873 | D:12     | Found a staircase to the Orcish Mines.
+ 13099 | D:12     | Found a flagged portal.
+ 13106 | Bailey   | Entered a bailey
+ 13137 | Bailey   | Noticed an orc warlord
+ 13285 | Bailey   | Found a runed gate.
+ 13286 | Bailey   | Found a runed gate.
+ 13385 | Bailey   | Found a runed gate.
+ 13428 | Bailey   | Killed an orc warlord
+ 13533 | D:12     | Reached ****** piety under Trog
+ 14039 | D:12     | Received a gift from Trog
+ 14534 | Orc:1    | Entered Level 1 of the Orcish Mines
+ 14805 | Orc:1    | Received a gift from Trog
+ 15363 | Orc:2    | Received a gift from Trog
+ 15725 | Orc:3    | Found a staircase to the Elven Halls.
+ 15733 | Orc:3    | Found Dyfiuczaxti's Antique Weapon Boutique.
+ 15766 | Orc:3    | Found Uteekil's Jewellery Shoppe.
 
 
-Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 || total
--------------------------+-------+-------+-------+-------+-------+-------++-------
-Melee: Falchion          |    78 |   107 |   333 |   276 |       |       ||   794
-       Great sword       |       |       |       |   164 |       |       ||   164
-       Triple sword      |       |       |       |    68 |   417 |    61 ||   546
-       Scimitar          |       |       |       |    64 |    16 |    99 ||   179
-       Demon blade       |       |       |       |   405 |   706 |  1129 ||  2240
-       Short sword       |       |       |       |       |   340 |       ||   340
-       Long sword        |       |       |       |       |       |   102 ||   102
-       Double sword      |       |       |       |       |       |    68 ||    68
-Throw: Tomahawk          |       |       |       |     1 |       |       ||     1
-Invok: Berserk           |       |     3 |     4 |    11 |    10 |    10 ||    38
-       Burn Spellbooks   |       |       |       |     1 |     4 |       ||     5
-       Trog's Hand       |       |       |       |     2 |     6 |     6 ||    14
-       Brothers in Arms  |       |       |       |       |     3 |     7 ||    10
-Evoke: Wand              |       |       |       |     4 |     2 |     2 ||     8
-  Use: Scroll            |       |       |     4 |    21 |    24 |     8 ||    57
-       Potion            |       |       |       |    12 |     6 |     7 ||    25
- Stab: Distracted        |       |       |     1 |     1 |       |     2 ||     4
-       Invisible         |       |       |       |     1 |       |       ||     1
-  Eat: Chunk             |     1 |     6 |    15 |    18 |    34 |    22 ||    96
-       Fruit             |       |       |     1 |     4 |     3 |     5 ||    13
-       Bread ration      |       |       |       |     3 |     2 |     1 ||     6
-       Meat ration       |       |       |       |     1 |     2 |     6 ||     9
-       Beef jerky        |       |       |       |     1 |     2 |     1 ||     4
-       Royal jelly       |       |       |       |     1 |     2 |       ||     3
-       Pizza             |       |       |       |       |       |     1 ||     1
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Mace              |    83 |   157 |   178 |       ||   418
+       Great mace        |       |       |   232 |   683 ||   915
+Invok: Berserk           |       |     1 |     6 |     6 ||    13
+       Trog's Hand       |       |       |     2 |     2 ||     4
+       Brothers in Arms  |       |       |       |     1 ||     1
+Evoke: Wand              |       |       |       |     4 ||     4
+  Use: Scroll            |     1 |     1 |     4 |    14 ||    20
+       Potion            |       |       |     4 |    11 ||    15
+ Stab: Sleeping          |       |     1 |       |       ||     1
+  Eat: Chunk             |     2 |     8 |    20 |    31 ||    61
+       Fruit             |       |       |     2 |       ||     2
+       Beef jerky        |       |       |       |     1 ||     1
 

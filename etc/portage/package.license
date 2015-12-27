@@ -1,16 +1,10 @@
-# required by chrome-binary-plugins (argument)
->=www-plugins/chrome-binary-plugins-36.0.1985.103_beta1:beta google-chrome
-# required by games-util/steam-client-meta-0-r20140616::steam-overlay[flash]
-# required by games-util/steam-meta-0-r20131107::steam-overlay
-# required by steam-meta (argument)
->=www-plugins/adobe-flash-11.2.202.394 AdobeFlash-11.x
-# required by skype (argument)
->=net-im/skype-4.3.0.37 skype-4.0.0.7-copyright
-# required by google-talkplugin (argument)
-=www-plugins/google-talkplugin-5.4.2.0 Google-TOS
 # required by google-chrome-unstable (argument)
->=www-client/google-chrome-unstable-39.0.2166.2_p1 google-chrome
-# required by google-chrome (argument)
->=www-client/google-chrome-40.0.2214.111_p1 google-chrome
-# required by teamviewer (argument)
->=net-misc/teamviewer-9.0.32150 TeamViewer
+>=www-client/google-chrome-unstable-48.0.2552.0_p1 google-chrome
+# required by urbanterror (argument)
+>=games-fps/urbanterror-4.2.023 Q3AEULA-20000111
+# required by virtualbox-bin (argument)
+=app-emulation/virtualbox-bin-4.3.32.103443 PUEL
+# required by =app-emulation/virtualbox-bin-5.0.10.104061 (argument)
+>=app-emulation/virtualbox-bin-5.0.10.104061 PUEL
+# required by adobe-flash (argument)
+>=www-plugins/adobe-flash-11.2.202.548 AdobeFlash-11.x
