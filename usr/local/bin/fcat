@@ -1,5 +1,6 @@
 #!/bin/bash
-
 for file in $@; do
-    echo -e "$file\t$(cat $file)";
+    if [[ -d $file ]]; then continue; fi
+    S="$S$file: $(cat $file)\n"
 done;
+echo -e $S | column -t
