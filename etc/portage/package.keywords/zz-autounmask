@@ -1,0 +1,24 @@
+# required by google-chrome (argument)
+=www-client/google-chrome-56.0.2924.87 ~amd64
+# required by paxtest (argument)
+=app-admin/paxtest-0.9.15-r1 ~amd64
+# required by arc-theme (argument)
+=x11-themes/arc-theme-20161119 ~amd64
+# required by cool-retro-term (argument)
+=x11-terms/cool-retro-term-9999 ~amd64
+# required by xf86-input-cmt (argument)
+=x11-drivers/xf86-input-cmt-9999 **
+# required by x11-drivers/xf86-input-cmt-9999::local
+# required by xf86-input-cmt (argument)
+=x11-libs/libgestures-9999 **
+# required by =app-shells/gentoo-zsh-completions-99999999 (argument)
+=app-shells/gentoo-zsh-completions-99999999 **
+# required by thefuck (argument)
+=app-shells/thefuck-3.14 ~amd64
+# required by app-shells/thefuck-3.14::gentoo[python_targets_python2_7]
+# required by thefuck (argument)
+=dev-python/pathlib2-2.1.0 ~amd64
+# required by =sys-devel/binutils-2.27 (argument)
+=sys-devel/binutils-2.27 ~amd64
+# required by winetricks (argument)
+=app-emulation/winetricks-20160724 ~amd64

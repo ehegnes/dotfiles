@@ -1,41 +1,32 @@
-xrdb -merge ~/.Xresources
-xmodmap ~/.Xmodmap
-LOCK_EXEC='USER=eric /usr/local/bin/slock'
+#!/bin/bash
+#xrdb -merge ~/.Xresources
+xmodmap ~/.Xmodmap &
+enable-audio
+enable-speakers
+enable-mic
+xrandr --dpi 144 &
+
 case "$2" in
-    i3)
-        start-pulseaudio-x11 &
-        feh --bg-scale ~/.background.png
-        urxvtd -q -f -o &
-        xbacklight -set 30 &
-        xautolock -time 10 -locker $LOCK_EXEC &
-        compton -fbczC --shadow-blue 0.314 --shadow-green 0.224 --backend glx --vsync opengl-swc
-        export TERMINAL=/usr/bin/urxvtc
-        exec dbus-launch --exit-with-session i3
-        ;;
     dwm)
-        start-pulseaudio-x11 &
-        feh --bg-scale ~/.background.png
-        urxvtd -q -f -o &
-        redshift &
-        xbacklight -set 35 &
-        compton -fbczC --shadow-blue 0.314 --shadow-green 0.224 --backend glx --vsync opengl-swc
+        feh --bg-scale ~/.background.jpg &
         dwmstatus &
-        xautolock -time 10 -locker $LOCK_EXEC &
         dunst &
-        exec dbus-launch --sh-syntax --exit-with-session /usr/local/bin/dwm
-        ;;
-    chromeos)
-        exec chromeos
-        ;;
-    xmonad)
+        #urxvtd -q -f -o &
+        compton -fbczC &
         start-pulseaudio-x11 &
+        #redshift &
+        xrandr --dpi 144 &
+        exec dwm
+        exec dunst
+        ;;
+    xfce)
         urxvtd -q -f -o &
-        xbacklight -set 30 &
-        sh ~/.fehbg &
-        xautolock -time 10 -locker $LOCK_EXEC &
-        exec dbus-launch --sh-syntax --exit-with-session xmonad
+        compton -fbczC &
+        start-pulseaudio-x11 &
+        redshift &
+        exec dbus-launch --auto-syntax --exit-with-session startxfce4
         ;;
     *)
-        exec dwm
+        echo "No WM or DE initialized."
         ;;
 esac

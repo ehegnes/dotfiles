@@ -1,0 +1,11 @@
+# package.keywords# required by x11-base/xorg-server-1.19.1::gentoo
+# required by x11-base/xorg-drivers-1.19::gentoo[video_cards_i965]
+# required by xorg-drivers (argument)
+=x11-proto/xproto-7.0.31 ~amd64
+# required by x11-base/xorg-drivers-1.19::gentoo[video_cards_i965]
+# required by xorg-drivers (argument)
+=x11-base/xorg-server-1.19.1 ~amd64
+# required by x11-base/xorg-server-1.19.1::gentoo
+# required by x11-base/xorg-drivers-1.19::gentoo[video_cards_i965]
+# required by xorg-drivers (argument)
+=x11-libs/libXfont2-2.0.1 ~amd64

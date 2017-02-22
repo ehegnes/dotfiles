@@ -1,144 +1,45 @@
-# Path to your oh-my-zsh installation.
-export ZSH=$HOME/.oh-my-zsh
+# Source Antigen
+source ~/git/antigen/antigen.zsh
 
-# Set name of the theme to load.
-# Look in ~/.oh-my-zsh/themes/
-# Optionally, if you set this to "random", it'll load a random theme each
-# time that oh-my-zsh is loaded.
-ZSH_THEME="gentoo"
+# Load the oh-my-zsh's library
+antigen use oh-my-zsh
 
-# Uncomment the following line to use case-sensitive completion.
-# CASE_SENSITIVE="true"
+# Bundles from the default repo (robbyrussell's oh-my-zsh)
+antigen bundle git
+antigen bundle pip
+antigen bundle python
+antigen bundle node
+antigen bundle npm
+antigen bundle rupa/z
+antigen bundle aws
+antigen bundle catimg
+antigen bundle zsh-users/zsh-syntax-highlighting
+antigen bundle vi-mode
+antigen bundle olivierverdier/zsh-git-prompt
 
-# Uncomment the following line to use hyphen-insensitive completion. Case
-# sensitive completion must be off. _ and - will be interchangeable.
-# HYPHEN_INSENSITIVE="true"
+# Tell antigen that you're done.
+antigen apply
 
-# Uncomment the following line to disable bi-weekly auto-update checks.
-# DISABLE_AUTO_UPDATE="true"
-
-# Uncomment the following line to change how often to auto-update (in days).
-# export UPDATE_ZSH_DAYS=13
-
-# Uncomment the following line to disable colors in ls.
-# DISABLE_LS_COLORS="true"
-
-# Uncomment the following line to disable auto-setting terminal title.
-# DISABLE_AUTO_TITLE="true"
-
-# Uncomment the following line to enable command auto-correction.
-# ENABLE_CORRECTION="true"
-
-# Uncomment the following line to display red dots whilst waiting for completion.
-# COMPLETION_WAITING_DOTS="true"
-
-# Uncomment the following line if you want to disable marking untracked files
-# under VCS as dirty. This makes repository status check for large repositories
-# much, much faster.
-# DISABLE_UNTRACKED_FILES_DIRTY="true"
-
-# Uncomment the following line if you want to change the command execution time
-# stamp shown in the history command output.
-# The optional three formats: "mm/dd/yyyy"|"dd.mm.yyyy"|"yyyy-mm-dd"
-# HIST_STAMPS="mm/dd/yyyy"
-
-# Would you like to use another custom folder than $ZSH/custom?
-# ZSH_CUSTOM=/path/to/new-custom-folder
-
-# Which plugins would you like to load? (plugins can be found in ~/.oh-my-zsh/plugins/*)
-# Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
-# Example format: plugins=(rails git textmate ruby lighthouse)
-# Add wisely, as too many plugins slow down shell startup.
-plugins=(git sudo vi-mode)
-
-# User configuration
-
-export PATH=$HOME/bin:/opt/bin:/usr/local/bin:/usr/games/bin:$PATH
-# export MANPATH="/usr/local/man:$MANPATH"
-
-source $ZSH/oh-my-zsh.sh
-
-# You may need to manually set your language environment
-# export LANG=en_US.UTF-8
-
-# Preferred editor for local and remote sessions
-# if [[ -n $SSH_CONNECTION ]]; then
-#   export EDITOR='vim'
-# else
-#   export EDITOR='mvim'
-# fi
-
-# Compilation flags
-# export ARCHFLAGS="-arch x86_64"
-
-# ssh
-# export SSH_KEY_PATH="~/.ssh/dsa_id"
-
-# Advanced Tab-completion
-autoload -U compinit
+# Load the Gentoo theme from app-shells/gentoo-zsh-completions
+autoload -U compinit promptinit
 compinit
+promptinit; prompt gentoo
+zstyle ':completion::complete:*' use-cache 1
 
-# Change prompt
-autoload -U promptinit
-promptinit
+# Extend PATH
+export PATH=~/.local/bin:~/bin:$PATH
 
-# Prettier completion prompts
-zstyle ':completion:*:descriptions' format '%U%B%d%b%u'
-zstyle ':completion:*:warnings' format '%BNo matches for: %d%b'
-zstyle ':completion:*' list-colors ${(s.:.)LS_COLORS}
+# https://github.com/nvbn/thefuck
+eval "$(thefuck --alias)"
 
-setopt auto_cd
+# aliases
+alias s='sudo '
+alias e='emerge'
+alias l='ls -Fh'
+alias ll='l -l'
+alias la='ll -a'
+alias emerge='TERM=xterm emerge' # changes titlebar on non-standard terms
+alias e='emerge'
 
-# Set personal aliases, overriding those provided by oh-my-zsh libs,
-# plugins, and themes. Aliases can be placed here, though oh-my-zsh
-# users are encouraged to define aliases within the ZSH_CUSTOM folder.
-# For a full list of active aliases, run `alias`.
-#
-# Example aliases
-# alias zshconfig="mate ~/.zshrc"
-# alias ohmyzsh="mate ~/.oh-my-zsh"
-alias tree="tree -C"
-alias v=vim
-alias s="sudo "
-alias h=history
-alias diff=colordiff
-alias wpae="sudo vim /etc/wpa_supplicant/wpa_supplicant.conf"
-alias wpar="sudo rc-service wpa_supplicant restart"
-alias vbm=VBoxManage
-alias fbt="FBTERM=1 fbterm"
-alias tux='ssh edh45@tux.cs.drexel.edu'
-alias asdf='setxkbmap dvorak; xmodmap ~/.Xmodmap'
-alias aoeu='setxkbmap us; xmodmap ~/.Xmodmap'
-alias lnx="cd /usr/src/linux"
-alias l="ls"
-alias la="ls -a"
-alias ll="ls -l"
-alias lla="ls -la"
-alias dmesg="dmesg --color=always"
-alias gcheat="less ~/.gcheat"
-alias espk="espeak -v mb-us2 -p 50 -s 100"
-alias e="exit"
-alias dc="dispatch-conf"
-
-# stop fucking correcting these
-alias eix="nocorrect eix"
-
-# cargo aliases
-alias cr="cargo run"
-alias cb="cargo build"
-
-# cabal aliases
-alias cbr="cabal run"
-alias cbi="cabal install"
-alias cbc="cabal configure"
-alias cbs="cabal sandbox --init"
-
-mkcd() { mkdir -p -- "$1" && cd -P -- "$1" }
-
-# hehehe
-#/usr/bin/fortune
-
-# Try neovim for now...
-alias vim=nvim
-
-HISTSIZE=10000000
+export RPROMPT='$(vi_mode_prompt_info) $(git_super_status)$?'
+export ZSH_THEME_GIT_PROMPT_SUFFIX=") "

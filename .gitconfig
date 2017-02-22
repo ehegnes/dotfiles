@@ -1,9 +1,0 @@
-[user]
-    email = eric.hegnes@gmail.com
-    name = Eric Hegnes
-[alias]
-    unstage = reset HEAD --
-    last = log -1 HEAD --stat
-    sync = "!f() { git pull --rebase ${1:-upstream} master; }; f"
-[credential]
-    helper = cache

@@ -1,0 +1,2 @@
+#!/bin/bash
+echo bfq > /sys/block/sda/queue/scheduler

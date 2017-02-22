@@ -1,10 +1,4 @@
-# required by google-chrome-unstable (argument)
->=www-client/google-chrome-unstable-48.0.2552.0_p1 google-chrome
-# required by urbanterror (argument)
->=games-fps/urbanterror-4.2.023 Q3AEULA-20000111
-# required by virtualbox-bin (argument)
-=app-emulation/virtualbox-bin-4.3.32.103443 PUEL
-# required by =app-emulation/virtualbox-bin-5.0.10.104061 (argument)
->=app-emulation/virtualbox-bin-5.0.10.104061 PUEL
-# required by adobe-flash (argument)
->=www-plugins/adobe-flash-11.2.202.548 AdobeFlash-11.x
+# required by google-chrome (argument)
+>=www-client/google-chrome-56.0.2924.87 google-chrome
+# required by oracle-jre-bin (argument)
+>=dev-java/oracle-jre-bin-1.8.0.121 Oracle-BCLA-JavaSE
