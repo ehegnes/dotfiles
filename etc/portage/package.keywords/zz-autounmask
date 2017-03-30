@@ -1,11 +1,5 @@
-# required by google-chrome (argument)
-=www-client/google-chrome-56.0.2924.87 ~amd64
-# required by paxtest (argument)
-=app-admin/paxtest-0.9.15-r1 ~amd64
 # required by arc-theme (argument)
-=x11-themes/arc-theme-20161119 ~amd64
-# required by cool-retro-term (argument)
-=x11-terms/cool-retro-term-9999 ~amd64
+x11-themes/arc-theme ~amd64
 # required by xf86-input-cmt (argument)
 =x11-drivers/xf86-input-cmt-9999 **
 # required by x11-drivers/xf86-input-cmt-9999::local
@@ -21,4 +15,246 @@
 # required by =sys-devel/binutils-2.27 (argument)
 =sys-devel/binutils-2.27 ~amd64
 # required by winetricks (argument)
-=app-emulation/winetricks-20160724 ~amd64
+=app-emulation/winetricks-99999999 **
+# required by @selected
+# required by @world (argument)
+=www-client/google-chrome-56.0.2924.87 ~amd64
+# required by x11-drivers/xf86-input-cmt-9999::local
+# required by @selected
+# required by @world (argument)
+=x11-libs/libevdevc-9999 **
+# required by =app-shells/zsh-completions-9999 (argument)
+=app-shells/zsh-completions-9999 **
+# required by games-util/steam-meta (argument)
+=games-util/steam-meta-0-r20160817 ~amd64
+# required by games-util/steam-meta-0-r20160817::steam-overlay
+# required by games-util/steam-meta (argument)
+=games-util/steam-client-meta-0-r20160828 ~amd64
+# required by games-util/steam-meta-0-r20160817::steam-overlay[steamruntime]
+# required by games-util/steam-meta (argument)
+=games-util/steam-games-meta-0-r20160812 ~amd64
+# required by games-util/steam-meta-0-r20160817::steam-overlay
+# required by games-util/steam-meta (argument)
+=games-util/steam-launcher-1.0.0.54-r1 ~amd64
+# required by =sys-power/powertop-9999 (argument)
+=sys-power/powertop-9999 **
+# required by discord-bin (argument)
+=net-im/discord-bin-0.0.1 ~amd64
+# required by =dev-lang/ghc-8.0.2 (argument)
+=dev-lang/ghc-8.0.2 ~amd64
+# required by =dev-haskell/cabal-1.24.2.0 (argument)
+=dev-haskell/cabal-1.24.2.0 ~amd64
+# required by dev-haskell/cabal-install-1.24.0.2::gentoo
+# required by =dev-haskell/cabal-install-1.24.0.2 (argument)
+=dev-haskell/tar-0.5.0.3 ~amd64
+# required by dev-haskell/hackage-security-0.5.2.2::gentoo
+# required by dev-haskell/cabal-install-1.24.0.2::gentoo
+# required by =dev-haskell/cabal-install-1.24.0.2 (argument)
+=dev-haskell/ed25519-0.0.5.0 ~amd64
+# required by =dev-haskell/cabal-install-1.24.0.2 (argument)
+=dev-haskell/cabal-install-1.24.0.2 ~amd64
+# required by dev-haskell/cabal-install-1.24.0.2::gentoo
+# required by =dev-haskell/cabal-install-1.24.0.2 (argument)
+=dev-haskell/cryptohash-sha256-0.11.100.1 ~amd64
+# required by dev-haskell/cabal-install-1.24.0.2::gentoo
+# required by =dev-haskell/cabal-install-1.24.0.2 (argument)
+=dev-haskell/hackage-security-0.5.2.2 ~amd64
+# required by hoogle (argument)
+=dev-haskell/hoogle-5.0.1 ~amd64
+# required by dev-haskell/hoogle-5.0.1::haskell
+# required by hoogle (argument)
+=dev-haskell/js-flot-0.8.3 ~amd64
+# required by dev-haskell/hoogle-5.0.1::haskell
+# required by hoogle (argument)
+=dev-haskell/js-jquery-3.1.1 ~amd64
+# required by dev-haskell/monad-control-1.0.1.0::haskell
+# required by dev-haskell/resourcet-1.1.7.4::gentoo
+# required by dev-haskell/http-conduit-2.1.7.2::gentoo
+# required by dev-haskell/hoogle-5.0.1::haskell
+# required by hoogle (argument)
+=dev-haskell/transformers-compat-0.5.1.4 ~amd64
+# required by dev-haskell/case-insensitive-1.2.0.7::gentoo
+# required by dev-haskell/http-types-0.8.6::haskell
+# required by dev-haskell/http-client-0.4.18.1::gentoo
+# required by dev-haskell/http-client-tls-0.2.2::gentoo
+# required by dev-haskell/http-conduit-2.1.7.2::gentoo
+# required by dev-haskell/hoogle-5.0.1::haskell
+# required by hoogle (argument)
+=dev-haskell/semigroups-0.18.2 ~amd64
+# required by @__auto_slot_operator_replace_installed__ (argument)
+=dev-haskell/tagged-0.8.5 ~amd64
+# required by dev-haskell/aeson-0.11.2.0-r1::haskell
+# required by dev-haskell/hoogle-5.0.1::haskell
+# required by hoogle (argument)
+=dev-haskell/fail-4.9.0.0 ~amd64
+# required by app-editors/neovim-0.1.7::gentoo[tui]
+# required by dev-python/neovim-python-client-0.1.12::gentoo
+=dev-libs/libtermkey-0.19 ~amd64
+# required by app-editors/neovim-0.1.7::gentoo[python]
+# required by neovim (argument)
+=dev-python/neovim-python-client-0.1.12 ~amd64
+# required by app-editors/neovim-0.1.7::gentoo
+# required by dev-python/neovim-python-client-0.1.12::gentoo
+=dev-libs/msgpack-1.1.0 ~amd64
+# required by app-editors/neovim-0.1.7::gentoo[tui]
+# required by dev-python/neovim-python-client-0.1.12::gentoo
+=dev-libs/unibilium-1.1.4 ~amd64
+# required by app-editors/neovim-0.1.7::gentoo
+# required by dev-python/neovim-python-client-0.1.12::gentoo
+=dev-lua/mpack-1.0.4 ~amd64
+# required by app-editors/neovim-0.1.7::gentoo
+# required by dev-python/neovim-python-client-0.1.12::gentoo
+=dev-libs/libvterm-0.0_pre20160305 ~amd64
+# required by app-editors/neovim-0.1.7::gentoo
+# required by dev-python/neovim-python-client-0.1.12::gentoo
+=dev-lua/lpeg-1.0.1 ~amd64
+# required by dev-haskell/hlint-1.9.35::haskell
+# required by app-emacs/ghc-mod-5.7.0.0::haskell
+# required by ghc-mod (argument)
+=dev-haskell/cpphs-1.20.3 ~amd64
+# required by app-emacs/ghc-mod-5.7.0.0::haskell
+# required by ghc-mod (argument)
+=dev-haskell/cabal-helper-0.7.3.0 ~amd64
+# required by app-emacs/ghc-mod-5.7.0.0::haskell
+# required by ghc-mod (argument)
+=dev-haskell/hlint-1.9.35 ~amd64
+# required by dev-haskell/hlint-1.9.35::haskell
+# required by app-emacs/ghc-mod-5.7.0.0::haskell
+# required by ghc-mod (argument)
+=dev-haskell/extra-1.5.1 ~amd64
+# required by app-emacs/ghc-mod-5.7.0.0::haskell
+# required by ghc-mod (argument)
+=dev-haskell/ghc-syb-utils-0.2.3 ~amd64
+# required by dev-haskell/cabal-helper-0.7.3.0::haskell
+# required by app-emacs/ghc-mod-5.7.0.0::haskell
+# required by ghc-mod (argument)
+=dev-haskell/utf8-string-1.0.1.1 ~amd64
+# required by dev-haskell/djinn-ghc-0.0.2.3::haskell
+# required by app-emacs/ghc-mod-5.7.0.0::haskell
+# required by ghc-mod (argument)
+=dev-haskell/djinn-lib-0.0.1.2 ~amd64
+# required by dev-haskell/extra-1.5.1::haskell
+# required by dev-haskell/hlint-1.9.35::haskell
+# required by app-emacs/ghc-mod-5.7.0.0::haskell
+# required by ghc-mod (argument)
+=dev-haskell/clock-0.7.2 ~amd64
+# required by dev-haskell/monad-journal-0.7.2::haskell
+# required by app-emacs/ghc-mod-5.7.0.0::haskell
+# required by ghc-mod (argument)
+=dev-haskell/either-4.4.1.1 ~amd64
+# required by app-emacs/ghc-mod-5.7.0.0::haskell
+# required by ghc-mod (argument)
+=dev-haskell/djinn-ghc-0.0.2.3 ~amd64
+# required by ghc-mod (argument)
+=app-emacs/ghc-mod-5.7.0.0 ~amd64
+# required by dev-haskell/hlint-1.9.35::haskell
+# required by app-emacs/ghc-mod-5.7.0.0::haskell
+# required by ghc-mod (argument)
+=dev-haskell/refact-0.3.0.2 ~amd64
+# required by app-emacs/ghc-mod-5.7.0.0::haskell
+# required by ghc-mod (argument)
+=dev-haskell/monad-journal-0.7.2 ~amd64
+# required by app-emacs/ghc-mod-5.7.0.0::haskell
+# required by ghc-mod (argument)
+=dev-haskell/syb-0.5.1 ~amd64
+# required by app-emacs/ghc-mod-5.7.0.0::haskell
+# required by ghc-mod (argument)
+=dev-haskell/pipes-4.1.9 ~amd64
+# required by dev-haskell/hoogle-5.0.1::haskell
+# required by @selected
+# required by @world (argument)
+=dev-haskell/haskell-src-exts-1.17.1 ~amd64
+# required by app-emacs/ghc-mod-5.7.0.0::haskell
+# required by ghc-mod (argument)
+=dev-haskell/fclabels-2.0.3.2 ~amd64
+# required by dev-haskell/either-4.4.1.1::haskell
+# required by dev-haskell/monad-journal-0.7.2::haskell
+# required by app-emacs/ghc-mod-5.7.0.0::haskell
+# required by ghc-mod (argument)
+=dev-haskell/monadrandom-0.4.2.3 ~amd64
+# required by dev-haskell/distributive-0.5.2::haskell
+# required by dev-haskell/free-4.12.4::haskell
+# required by dev-haskell/either-4.4.1.1::haskell
+# required by dev-haskell/monad-journal-0.7.2::haskell
+# required by app-emacs/ghc-mod-5.7.0.0::haskell
+# required by ghc-mod (argument)
+=dev-haskell/cabal-doctest-1 ~amd64
+# required by dev-haskell/profunctors-5.2::haskell
+# required by dev-haskell/free-4.12.4::haskell
+# required by dev-haskell/either-4.4.1.1::haskell
+# required by dev-haskell/monad-journal-0.7.2::haskell
+# required by app-emacs/ghc-mod-5.7.0.0::haskell
+# required by ghc-mod (argument)
+=dev-haskell/contravariant-1.4 ~amd64
+# required by dev-haskell/either-4.4.1.1::haskell
+# required by dev-haskell/monad-journal-0.7.2::haskell
+# required by app-emacs/ghc-mod-5.7.0.0::haskell
+# required by ghc-mod (argument)
+=dev-haskell/bifunctors-5.4.1 ~amd64
+# required by dev-haskell/either-4.4.1.1::haskell
+# required by dev-haskell/monad-journal-0.7.2::haskell
+# required by app-emacs/ghc-mod-5.7.0.0::haskell
+# required by ghc-mod (argument)
+=dev-haskell/profunctors-5.2 ~amd64
+# required by dev-haskell/either-4.4.1.1::haskell
+# required by dev-haskell/monad-journal-0.7.2::haskell
+# required by app-emacs/ghc-mod-5.7.0.0::haskell
+# required by ghc-mod (argument)
+=dev-haskell/semigroupoids-5.1 ~amd64
+# required by dev-haskell/semigroupoids-5.1::haskell[comonad]
+# required by dev-haskell/free-4.12.4::haskell
+# required by dev-haskell/either-4.4.1.1::haskell
+# required by dev-haskell/monad-journal-0.7.2::haskell
+# required by app-emacs/ghc-mod-5.7.0.0::haskell
+# required by ghc-mod (argument)
+=dev-haskell/comonad-5 ~amd64
+# required by app-emacs/ghc-mod-5.7.0.0::haskell
+# required by ghc-mod (argument)
+=dev-haskell/optparse-applicative-0.13.1.0 ~amd64
+# required by dev-haskell/profunctors-5.2::haskell
+# required by dev-haskell/free-4.12.4::haskell
+# required by dev-haskell/either-4.4.1.1::haskell
+# required by dev-haskell/monad-journal-0.7.2::haskell
+# required by app-emacs/ghc-mod-5.7.0.0::haskell
+# required by ghc-mod (argument)
+=dev-haskell/distributive-0.5.2 ~amd64
+# required by dev-haskell/profunctors-5.2::haskell
+# required by dev-haskell/free-4.12.4::haskell
+# required by dev-haskell/either-4.4.1.1::haskell
+# required by dev-haskell/monad-journal-0.7.2::haskell
+# required by app-emacs/ghc-mod-5.7.0.0::haskell
+# required by ghc-mod (argument)
+=dev-haskell/base-orphans-0.5.4 ~amd64
+# required by =games-roguelike/cataclysm-dda-9999-r6 (argument)
+=games-roguelike/cataclysm-dda-9999-r6 **
+# required by =x11-terms/rxvt-unicode-9999 (argument)
+=x11-terms/rxvt-unicode-9999 **
+# required by gforth (argument)
+=dev-lang/gforth-0.7.3 ~amd64
+# required by dev-python/awscli-1.11.0::gentoo
+# required by awscli (argument)
+=dev-python/s3transfer-0.1.10 ~amd64
+# required by awscli (argument)
+=dev-python/awscli-1.11.0 ~amd64
+# required by dev-python/s3transfer-0.1.10::gentoo
+# required by dev-python/awscli-1.11.0::gentoo
+# required by awscli (argument)
+=dev-python/botocore-1.4.65 ~amd64
+# required by steam-runtime-openssl (argument)
+=dev-libs/steam-runtime-openssl-1.0.1p ~amd64
+# required by steamfonts (argument)
+=media-fonts/steamfonts-1 ~amd64
+# required by dev-util/cmake-3.7.2::gentoo
+# required by media-libs/openal-1.15.1-r2::gentoo
+# required by app-emulation/wine-9999::gentoo[openal]
+# required by @selected
+# required by @world (argument)
+=dev-libs/libuv-1.11.0 ~amd64
+# required by media-gfx/xdot (argument)
+=media-gfx/xdot-0.7 ~amd64
+# required by @enlightenment-core-9999 (argument)
+=dev-libs/efl-9999 **
+# required by @enlightenment-core-9999 (argument)
+=x11-wm/enlightenment-9999 **
+# required by crunch (argument)
+=app-misc/crunch-3.6 ~amd64

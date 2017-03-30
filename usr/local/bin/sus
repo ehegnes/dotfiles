@@ -6,10 +6,10 @@ sleep 2
 # Check if we're running an X session.
 if [[ -z "$DISPLAY" ]]; then
     # no X session: run vlock
-    vlock -a & sudo s2ram
+    vlock -a & sudo /usr/sbin/s2ram
 else
     # X session: run slock
-    slock & sudo s2ram
+    slock & sudo /usr/sbin/s2ram
 fi
 
 exit 0;

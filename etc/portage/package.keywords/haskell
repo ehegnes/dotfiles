@@ -1,0 +1,9 @@
+<=dev-haskell/aeson-0.11.2.0-r1
+<=dev-haskell/case-insensitive-1.2.0.7
+<=dev-haskell/http-4000.3.5
+<=dev-haskell/optparse-applicative-0.13.0.0
+<=dev-haskell/quickcheck-2.8.2
+<=dev-haskell/scientific-0.3.4.6
+<=dev-haskell/transformers-0.5.2.0
+<=dev-haskell/cpphs-1.20.4
+
